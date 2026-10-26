@@ -1,0 +1,47 @@
+{
+  "requestId": "8726dd18-098b-4c51-a83e-2a6992708357",
+  "runId": "465918f5-8ada-4f63-97e2-777cd6da0ba8",
+  "boxes": [
+    {
+      "id": "title",
+      "text": "Name it exactly"
+    },
+    {
+      "id": "tagline",
+      "text": "Find the exact word, and the fizz feels heard."
+    },
+    {
+      "id": "tiny",
+      "title": "ONE TINY TRY FOR TODAY",
+      "text": "say one exact feeling word out loud, or write it on the poster's line."
+    },
+    {
+      "id": "science",
+      "title": "WHAT SCIENCE SAYS",
+      "text": "Teens’ clearer feeling names were linked with less later low mood; teaching this move is a BEST GUESS."
+    },
+    {
+      "id": "keyword",
+      "text": "EXACT"
+    },
+    {
+      "id": "move",
+      "title": "WHAT I CAN DO",
+      "text": "When I notice ______, I ______.\nBackup: Long breath out"
+    },
+    {
+      "id": "remember",
+      "title": "HOW TO REMEMBER IT",
+      "text": "Find the exact word, and the fizz feels heard.\nTwo quick breaths in through the nose, one long breath out"
+    },
+    {
+      "id": "source",
+      "title": "WHERE IT CAME FROM",
+      "text": "Feeling-name research: Nook, Harvard, 2018. Search: emotion differentiation teens Nook Somerville"
+    },
+    {
+      "id": "footer",
+      "text": ""
+    }
+  ]
+}

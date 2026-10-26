@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "id": "source-row-audit-2026-10-16-r2",
+  "checkedOn": "2026-10-16",
+  "scope": "This source note was corrected on October 16. The practice stayed the same. This does not approve new uses of the study.",
+  "review": {
+    "writer": "gpt-6.1-sol",
+    "judge": "claude-fable-5-1",
+    "basis": "subscription-session-recorded",
+    "sessionId": "e7d5cbf5-22eb-49b3-a924-bc1badb5786c",
+    "status": "checked",
+    "ownerApproved": false,
+    "inputHash": "390b46ac06994b5a884853e24f02e671c9aaf91118c35c75df7f06a7d3a74513",
+    "reviewArtifactHash": "63e3f947e8398930f2453c1a2617221de095842e9ab9c213d3dee53ee8b13f2e"
+  },
+  "rows": [
+    {
+      "moveId": "cool-off-break",
+      "pubmed": "19356688",
+      "originalRowHash": "c3ff1853e312de7e875a4ebae0c60b9d96870c83e675b76ae2b8adda6c4f32a9",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "The same 20 children, average age about nine and a half, took tests after rest and after moderate treadmill walking. This tested attention and school skills, not anger, a calm break, or returning to an argument."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/19356688/",
+        "https://doi.org/10.1016/j.neuroscience.2009.01.057"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:43:24.805Z",
+          "abstractContentHash": "f38357218c5da064fbede2859ca172c6a16282e33cbc244feab91ac45870ef2d",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note described a review's age mix, not this study. Root's fix is right; it read as two groups, but the same children did both sessions. DIRECT becomes ADJACENT because walking before tests is not the move.",
+      "notices": []
+    },
+    {
+      "moveId": "bring-in-my-person",
+      "pubmed": "30707442",
+      "originalRowHash": "4ff7797445c05b398b54c23e8fe22643322aa8faad67d792ba7070dd310a55a5",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "This survey followed 1,266 bullied students in grades 4 to 6 and 8 to 9. It asked who told adults. It did not test whether asking for help made things better."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/30707442/",
+        "https://doi.org/10.1111/sjop.12521"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:43:27.645Z",
+          "abstractContentHash": "a86c82703eabe99015041fa073e569cb060b725c482c2a9ca19a4c0e2fd2e8f4",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note carried the Hostinar cortisol result and an age instruction. Root's fix is right; it dropped that every student was being bullied.",
+      "notices": []
+    },
+    {
+      "moveId": "worry-parking-spot",
+      "pubmed": "21233387",
+      "originalRowHash": "3666299d51ea4fc043cbc57cd99dd112b7dfbe316cfc833e860ea00c72f1e5ce",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "Experiments tested writing about worries just before an exam, not putting worries off or using a worry box. The abstract gives no ages. A 2014 correction fixed calculations; the authors said their conclusions stayed the same."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/21233387/",
+        "https://doi.org/10.1126/science.1199427"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:44:48.030Z",
+          "abstractContentHash": "94aa9965dfe192cdba97f71c0afb3c24385cc5319010890a83b666d0b405455f",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note described the Leiden postponement study. Root's fix is right; adds that the abstract has no ages. Correction wording relies on root's reading of the Science notice, bound below.",
+      "notices": [
+        {
+          "type": "ErratumIn",
+          "url": "https://www.sciencemagazinedigital.org/sciencemagazine/11_april_2014?pg=35",
+          "title": "A 2014 correction fixed calculations. The authors said their conclusions stayed the same.",
+          "evidenceHash": "aa6a97e08bcf031bd3c8319fcdeba995b6bac1081b4b13fcb8e4c3cfb6a561b2",
+          "disposition": "reviewed-no-impact",
+          "reviewScope": "This source note only. Future uses still need their own check."
+        }
+      ]
+    },
+    {
+      "moveId": "good-enough-is-done",
+      "pubmed": "41805454",
+      "originalRowHash": "76e506e15dad8f3d3731f580070dce477025992d54926618902e766bcac44728",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "This review combined 20 studies of whole programs for children and teens. Their average improvement does not show that this single check once and hand it in step works."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41805454/",
+        "https://doi.org/10.1080/16506073.2026.2631149"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:43:33.910Z",
+          "abstractContentHash": "8ed1eed89eb00318a554a157928054831d9054aca9e7bc0fc94555e368265c90",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note carried the Osenk classroom trial result from the row above.",
+      "notices": []
+    },
+    {
+      "moveId": "check-my-battery",
+      "pubmed": "41283315",
+      "originalRowHash": "7782c68373e5197b867c3569069d61e120635a2c2d185fe22d61361c0fa23eec",
+      "correctedFields": {
+        "fitLabel": "MECHANISM",
+        "limitation": "This review of 20 studies of children aged 6 to 12 mostly used single check-ins and people's reports. Better sleep was linked with better thinking and feelings. This cannot show cause. The battery check was not tested."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/41283315/",
+        "https://doi.org/10.3390/clockssleep7040066"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:44:48.290Z",
+          "abstractContentHash": "cf893e4d63ffbe9b85000a4efb2687d313fd0c87adc9bf28c58cc4bf5a2da799",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note was copied from the Vriend experiment and claimed cause. This review reports links only.",
+      "notices": [
+        {
+          "type": "ErratumIn",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13024814/",
+          "title": "A 2026 correction added funding and thanks. The authors said their conclusions stayed the same.",
+          "evidenceHash": "270555a256f7c628af73384b677e8224f99593ff59cf84efbb549f16b81f7115",
+          "disposition": "reviewed-no-impact",
+          "reviewScope": "This source note only. Future uses still need their own check.",
+          "pubmed": "41892392"
+        }
+      ]
+    },
+    {
+      "moveId": "butterflies-mean-ready",
+      "pubmed": "30642965",
+      "originalRowHash": "a249a712f859b97a333fa8339300f4157fa93a4515b8c5d02f69293e7977c33f",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "This experiment used test exercises with 1,175 ninth graders. Benefits were reported for students from lower income families. The abstract gives grade, not exact ages, and this exact move was not tested."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/30642965/",
+        "https://doi.org/10.1073/pnas.1808589116"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:43:37.052Z",
+          "abstractContentHash": "67ba4f30add4aaabe147be71e387006b4e68d11af2766bf290fb55c97bc9c4c1",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note was a search summary, not this study. Ninth grade is stated; exact ages are not.",
+      "notices": []
+    },
+    {
+      "moveId": "make-it-right",
+      "pubmed": "30071381",
+      "originalRowHash": "344912051d9daa96fea160698c81add42c2dd0f7f6a81fe2a356fed7851c0a72",
+      "correctedFields": {
+        "fitLabel": "ADJACENT",
+        "limitation": "180 children aged 9 and 11 showed more trust after an apology in a token game. The game did not test saying sorry after harming a friend. The abstract does not establish a stranger or pretend wrongdoing."
+      },
+      "primaryURLs": [
+        "https://pubmed.ncbi.nlm.nih.gov/30071381/",
+        "https://doi.org/10.1016/j.jecp.2018.05.008"
+      ],
+      "sourceCheckedSections": [
+        {
+          "kind": "PubMed abstract via NCBI EFetch, not a full-paper review",
+          "fetchedAt": "2026-10-16T14:43:30.996Z",
+          "abstractContentHash": "996771213c58b01b80010fb3ac33b943b6c284b404f33c02edc05838f1d9c8dc",
+          "abstractContentHashScope": "SHA256 of fetched abstract text"
+        }
+      ],
+      "rationale": "Old note was a fragment that said stranger and pretend, which the abstract does not state.",
+      "notices": []
+    }
+  ]
+}

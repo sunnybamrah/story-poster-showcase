@@ -1,0 +1,120 @@
+{
+  "note": "Shared clause, negation, speaker and recipient checks in route.js apply to every rule. Danger also checks reported or past self-directed intent, directed physical harm with repetition or injury and retaliation about telling. Explicit fictional-character speech is separated from a child's disclosure. This is a conservative local matcher, not a complete safety classifier. Order is deliberate. No diagnosis word alone blocks a kit.",
+  "rules": [
+    {
+      "route": "stop",
+      "reason": "danger",
+      "patterns": [
+        "suicid\\w*",
+        "self[- ]harm",
+        "kill (myself|himself|herself|themselves)",
+        "gun",
+        "weapon",
+        "knife",
+        "abus(?:e|ed|ing|ive)",
+        "molest(?:ed|ing|ation)?",
+        "sexual assault",
+        "nude pictures",
+        "overdose",
+        "poison",
+        "cannot breathe",
+        "can('t|not) breathe",
+        "breathing trouble",
+        "unconscious",
+        "medical emergency",
+        "scary event that really happened",
+        "witnessed (a )?(crash|shooting|attack)",
+        "threat(en|ens|ened)?",
+        "hurting someone",
+        "threat(?:s|ening)",
+        "(?:shov\\w*|push\\w*|slam\\w*|hit|beaten).{0,35}(?:into|against).{0,15}(?:locker|wall)",
+        "(?:every day|daily|keeps|again and again).{0,60}(?:hitting|hits|shoving|shoves|pushing|pushes|hurting|hurts)",
+        "(?:hitting|hits|shoving|shoves|pushing|pushes|hurting|hurts).{0,60}(?:every day|daily|keeps|again and again)"
+      ]
+    },
+    {
+      "route": "listen",
+      "reason": "body-and-food",
+      "patterns": [
+        "body|bodies",
+        "weight",
+        "food",
+        "eating",
+        "diet",
+        "calories",
+        "hunger",
+        "hungry",
+        "fat",
+        "skinny",
+        "doctor said",
+        "blood test",
+        "lab results",
+        "bmi"
+      ]
+    },
+    {
+      "route": "stop",
+      "reason": "treatment-request",
+      "patterns": [
+        "(treat(?:ing)?|cur(?:e|ing)|diagnos(?:e|ing)|therapy for|treatment for).{0,35}(adhd|autism|depression|anxiety disorder|ocd|ptsd)",
+        "(adhd|autism|depression|anxiety disorder|ocd|ptsd).{0,35}(treatment|therapy|cure)"
+      ]
+    },
+    {
+      "route": "listen",
+      "reason": "persistent-low-mood",
+      "patterns": []
+    },
+    {
+      "route": "grief",
+      "reason": "loss",
+      "patterns": [
+        "died",
+        "death",
+        "dead pet",
+        "pass(?:ed|ing) away",
+        "funeral",
+        "dying",
+        "grief",
+        "grieving"
+      ]
+    },
+    {
+      "route": "grown-up job",
+      "reason": "adult-responsibility",
+      "patterns": [
+        "left (?:him |her |them |my child )?out on purpose",
+        "rumou?rs?",
+        "touching",
+        "taking (their|her|his) things",
+        "(picked on|picking on|bullied|bullying|keeps picking on)",
+        "(target|mock|teas).{0,30}(name|skin|religion|family|disability)",
+        "keeps going online",
+        "(mean|group) chat is about (him|her|them|my child)",
+        "picked on again for telling"
+      ]
+    },
+    {
+      "route": "repair",
+      "reason": "parent-repair",
+      "patterns": [
+        "i yelled",
+        "i lost it",
+        "i shouted",
+        "i snapped",
+        "this one is for me"
+      ]
+    },
+    {
+      "route": "listen",
+      "reason": "listening-request",
+      "patterns": [
+        "just listen",
+        "only wants me to listen",
+        "no advice",
+        "does(n't| not) want advice"
+      ]
+    }
+  ],
+  "default": "move"
+}

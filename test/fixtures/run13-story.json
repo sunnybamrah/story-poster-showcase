@@ -1,0 +1,52 @@
+{
+  "moveId": "name-it-exactly",
+  "chapterTitle": "the fox names a feeling",
+  "tagline": "Name what you feel, say what is real.",
+  "story": "MADE UP\nThe door shuts with a thump.\nPip holds a sketchbook tight.\nThe next comic square stays empty.\n\nThis Pip is a made up fox, ten years old, with orange fur and round glasses. Their green hoodie has a yellow lightning patch. Their red high top sneakers rest beside a table in a room full of warm peach and golden colours.\n\nOutside the window, the afternoon keeps going. Inside, Pip does not want questions about school. They do not have an answer ready, and having to explain everything sounds like another difficult thing.\n\nDee sits nearby without opening the sketchbook or reaching for it.\n\n“You don't have to tell the whole story,” Dee says.\n\nPip looks at the empty square. They want to draw a face, but which face? Their pencil hovers above the paper. Happy would be wrong. Sad might be wrong too.\n\n“I need a feeling word.”\n\nThat much comes out clearly. The rest does not.\n\nPip draws a circle. It leans sideways. They add two small eyes and a mouth, then stop. The mouth looks much too cheerful for the feeling they mean.\n\n“Bad is not quite it.”\n\n“Bad covers lots of things,” Dee says. “You can look for a more precise word. Precise means close to exactly what you mean.”\n\nPip presses one sneaker against the table leg. Choosing a word sounds easy until there are several to choose from. What if they pick one and it is wrong? What if naming it means explaining the whole afternoon?\n\n“A feeling word isn't a report about everything that happened,” Dee says. “You can name just what you notice now.”\n\nDee whispers, “In adult studies, naming feelings sometimes helped people feel less upset. We need stronger tests with children aged eight to thirteen.”\n\nPip looks up. “So it might not make this stop?”\n\n“Right. We can find out what you notice.”\n\nDee offers the practice words:\n\n“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”\n\nPip listens without giving Dee the story in their head. The example words belong to the practice. Pip does not have to borrow them if they do not fit.\n\nThey look at the comic face again. They wanted to draw something that matched. Instead, the face looks ready for a birthday party.\n\nDisappointed might fit that part. Disappointed means feeling let down when something is not how you hoped.\n\nPip touches their chest with one paw. Dee does the same beside them.\n\n“I feel disappointed.”\n\nThe word sounds a little formal in Pip's mouth, but it fits better than bad. They say the number six. They are not sure whether it should be five or seven. Six is their best guess right now.\n\nDee asks, “What did you notice when you named it?”\n\n“I meant the drawing,” Pip says. “Not everything.”\n\n“That tells me which part you named.”\n\nPip adds a tiny bow tie beneath the comic face. The cheerful face now looks dressed for a very important meeting about feeling disappointed. Pip gives one small snort. The bow tie is much too large for its little neck.\n\nThen their mouth tightens again.\n\n“The feeling is still here.”\n\nDee nods. “You named it. It doesn't have to disappear.”\n\nPip leaves the next square empty. School is still something they do not want to explain. Their shoulders still feel tight, and the drawing still does not look quite right. But this one part has a name that fits better. For now, that is what they have actually practised.",
+  "panelLines": [
+    {
+      "scene": "In a warm peach and gold comic strip scene, the fox holds an open blue sketchbook beside a table. The fox has orange fur, round glasses, a green hoodie with a yellow patch, and red sneakers. The page has an empty square without lettering.",
+      "line": "I need a feeling word."
+    },
+    {
+      "scene": "A closer comic strip view shows the fox studying a tilted circle face on the sketchbook page, pencil hovering beside its cheerful mouth. Use warm peach and gold colours. No lettering appears on the page.",
+      "line": "Bad is not quite it."
+    },
+    {
+      "scene": "The fox touches their chest with one paw while speaking. Beside the fox, a grown-up mirrors the chest touch. The open sketchbook rests on the table in the warm peach and gold room.",
+      "line": "I feel disappointed."
+    },
+    {
+      "scene": "The fox sits with a slightly tight mouth beside the open sketchbook. On the page, a small cheerful face wears an oversized bow tie beneath its tiny neck. A grown-up sits nearby. Keep the warm comic strip scene free of lettering.",
+      "line": "The feeling is still here."
+    }
+  ],
+  "jokeIdea": "In the fox's open sketchbook, a tiny drawn face wears a bow tie much wider than its neck, looking comically formal while the fox names a feeling. No lettering.",
+  "feelFirst": [
+    "Something feels rough right now, and questions might feel like too much.",
+    "You do not have to explain the whole afternoon before your feeling matters."
+  ],
+  "tinyTryOptions": [
+    {
+      "text": "Away from the screen, touch your chest and say one feeling word that fits right now. If two fit, name both. Give the feeling a number from one to ten.",
+      "seconds": 30,
+      "offScreen": true
+    },
+    {
+      "text": "Think of one small bother. Say your first feeling word, then check whether a more exact word fits. Say your choice aloud and give it a number from one to ten.",
+      "seconds": 45,
+      "offScreen": true
+    },
+    {
+      "text": "Rehearse naming a feeling with a grown-up. Each person chooses their own word and number from one to ten. Notice whether your word fits, without needing the feeling to change.",
+      "seconds": 60,
+      "offScreen": true
+    }
+  ],
+  "whereElse": {
+    "line": "Would you like to try naming one feeling here another time?",
+    "place": "At the kitchen table."
+  },
+  "noticedFeeling": "disappointed",
+  "replayCue": "First signal: you have only a broad word like bad. Try naming the feeling more exactly. Owner review: thirty nine visible words across the title, rhyme printed twice, and four bubbles; bubble counts are five, five, three, five."
+}

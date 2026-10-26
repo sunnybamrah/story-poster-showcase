@@ -1,0 +1,178 @@
+{
+  "source": "test/fixtures/offline-kit.pdf",
+  "sha256": "c248d4bc871b92e5466e7c3383bb1ae230cd8642c42c4ff4398a70815b907774",
+  "method": "Rasterise saved body lines at 288 dpi; measure rows containing at least two dark pixels (all RGB channels below 120). Compare with font size stored in the same PDF. This calibrates ink, not legibility of new handwriting.",
+  "samples": [
+    {
+      "page": 2,
+      "text": "Panel one. Pip the Fox, with orange fur, round glasses, a green hoodie with a yellow lightning patch,",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        118.318359375,
+        573.557861328125,
+        132.650390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "and red high-top sneakers, shuts the bedroom door with a BANG. The blue sketchbook stays",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        137.068359375,
+        539.5377197265625,
+        151.400390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "tucked under one arm. Pip drops onto the bed. Everyone is annoying, Pip thinks, and that is all Pip",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        155.818359375,
+        565.5075073242188,
+        170.150390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Panel two. A warm orange caption box floats over Pip's head. The word in it is EXACT. Pip squints",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        207.568359375,
+        561.8385009765625,
+        221.900390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "through the round glasses and reads the box slowly, one line at a time.",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        226.318359375,
+        416.966064453125,
+        240.650390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "\"Think of one small thing that bugged you this week. Say the first word that comes. Probably bad,",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        260.068359375,
+        565.120361328125,
+        274.400390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous?",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.0,
+      "inkToFontRatio": 0.9166666666666666,
+      "bbox": [
+        36.0,
+        278.818359375,
+        569.4642944335938,
+        293.150390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        296.818359375,
+        558.8053588867188,
+        311.150390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "number from 1 to 10. That's it. The word is a tool, not a grade.\"",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        315.568359375,
+        373.6107177734375,
+        329.900390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Panel three. Pip sighs. The first word that comes is not very exact. Pip draws it as a giant hat in the",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        349.318359375,
+        569.1176147460938,
+        363.650390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "margin of the sketchbook. It is labelled BAD, and it is a hat that fits every head and no head. Pip",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        368.068359375,
+        552.5700073242188,
+        382.400390625
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Pip tries again and looks for a sharper word. Pip picks one that fits, or two if two fit, and says it out",
+      "fontSize": 12.0,
+      "font": "Unnamed-T3",
+      "inkHeightPoints": 11.25,
+      "inkToFontRatio": 0.9375,
+      "bbox": [
+        36.0,
+        419.818359375,
+        566.8325805664062,
+        434.150390625
+      ]
+    }
+  ],
+  "minimumObservedInkHeight": 11.0,
+  "medianInkToFontRatio": 0.9375,
+  "use": "Review reference only. Unreadable readback and measured clipping remain stops. No font size inferred from tight drawn ink boxes."
+}

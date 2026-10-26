@@ -1,0 +1,134 @@
+{
+  "checkedOn": "2026-10-15",
+  "currency": "USD",
+  "unit": "per million tokens, standard first-party API processing",
+  "selected": {
+    "story": "gpt-6.1-sol",
+    "storyCheck": "gpt-6-astra",
+    "hero": "gpt-image-2.5-sunburst",
+    "poster": "gpt-image-2.5-flare",
+    "pictureCheck": "gpt-6.1-sol"
+  },
+  "sources": [
+    "https://developers.openai.com/api/docs/pricing",
+    "https://developers.openai.com/api/docs/models/gpt-6-luna",
+    "https://developers.openai.com/api/docs/deprecations",
+    "https://platform.claude.com/docs/en/about-claude/pricing",
+    "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "https://developers.openai.com/api/docs/models/gpt-6-astra",
+    "https://developers.openai.com/api/docs/guides/tools-web-search",
+    "https://developers.openai.com/api/docs/guides/prompt-caching"
+  ],
+  "visionChoice": "GPT-6.1 Sol replaced GPT-6 Luna after the October 15 paid run measured underline ink as handwriting space and reported sub-point edge overlaps. Picture and cast checks now use the stronger vision model. Actual account availability and current rates were checked; precise physical geometry still needs source-pixel evidence.",
+  "models": {
+    "claude-sonnet-5-5": {
+      "provider": "anthropic",
+      "input": 2,
+      "output": 10,
+      "cachedInput": 0.1,
+      "cacheWrite5m": 2.5,
+      "cacheWrite1h": 4
+    },
+    "claude-opus-5-5": {
+      "provider": "anthropic",
+      "input": 4,
+      "output": 20,
+      "cachedInput": 0.2,
+      "cacheWrite5m": 5,
+      "cacheWrite1h": 8
+    },
+    "claude-haiku-4-5": {
+      "provider": "anthropic",
+      "input": 1,
+      "output": 5,
+      "cachedInput": 0.1,
+      "cacheWrite5m": 1.25,
+      "cacheWrite1h": 2
+    },
+    "gpt-image-2.5-sunburst": {
+      "provider": "openai",
+      "input": 5,
+      "imageInput": 8,
+      "cachedInput": 1.25,
+      "cachedImageInput": 2,
+      "imageOutput": 30
+    },
+    "gpt-image-2.5-flare": {
+      "provider": "openai",
+      "input": 5,
+      "imageInput": 8,
+      "cachedInput": 1.25,
+      "cachedImageInput": 2,
+      "imageOutput": 30
+    },
+    "gpt-6-luna": {
+      "provider": "openai",
+      "input": 0.1,
+      "cachedInput": 0.01,
+      "output": 0.5,
+      "checkedOn": "2026-10-15",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6-luna",
+      "contextWindow": 1050000,
+      "maxOutputTokens": 128000,
+      "longContext": {
+        "aboveInputTokens": 272000,
+        "input": 0.2,
+        "cachedInput": 0.02,
+        "output": 0.75,
+        "cacheWriteInput": 0.25
+      },
+      "priceScope": "Standard global first-party processing. Long-context rates apply to the whole request above 272000 input tokens. Batch/Flex and premium tiers are not used.",
+      "cacheWriteInput": 0.125,
+      "cacheMinimumTokens": 1024
+    },
+    "gpt-6-astra": {
+      "provider": "openai",
+      "input": 10,
+      "output": 50,
+      "cachedInput": 1,
+      "checkedOn": "2026-10-15",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+      "priceScope": "Standard global first-party processing. Long-context rates apply to the whole request above 272000 input tokens. Batch/Flex and premium tiers are not used.",
+      "contextWindow": 1050000,
+      "maxOutputTokens": 128000,
+      "longContext": {
+        "aboveInputTokens": 272000,
+        "input": 20,
+        "cachedInput": 2,
+        "output": 75.0,
+        "cacheWriteInput": 25.0
+      },
+      "cacheWriteInput": 12.5,
+      "cacheMinimumTokens": 1024
+    },
+    "gpt-6.1-sol": {
+      "provider": "openai",
+      "input": 2,
+      "output": 10,
+      "cachedInput": 0.1,
+      "checkedOn": "2026-10-15",
+      "source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+      "priceScope": "Standard global first-party processing. Long-context rates apply to the whole request above 272000 input tokens. Batch/Flex and premium tiers are not used.",
+      "contextWindow": 1050000,
+      "maxOutputTokens": 128000,
+      "longContext": {
+        "aboveInputTokens": 272000,
+        "input": 4,
+        "cachedInput": 0.2,
+        "output": 15.0,
+        "cacheWriteInput": 5.0
+      },
+      "cacheWriteInput": 2.5,
+      "cacheMinimumTokens": 1024
+    }
+  },
+  "oneAiDecision": "DECISIONS 44, 2026-10-14: OpenAI writes the story (gpt-6-astra), judges it (gpt-6.1-sol), draws and checks pictures; no Anthropic model.",
+  "openAiPricingPageReadOn": "2026-10-15",
+  "openAiPricingPageDate": "Read 2026-10-15; no publication or revision date is shown.",
+  "writerJudgeNote": "2026-10-14 5:52 PM CT: run 11 with gpt-6-astra as writer took 257 s and 129 s and 0.61 and 0.38 USD per draft and failed twice on a 2 word scene overrun; swapped: writer gpt-6.1-sol (5x cheaper), judge gpt-6-astra (strong checker, small output).",
+  "toolPrices": {
+    "webSearchPerCall": 0.01,
+    "source": "https://developers.openai.com/api/docs/pricing",
+    "searchContent": "Retrieved content is charged through reported model input usage, not a fixed 8000-token block for these models."
+  }
+}

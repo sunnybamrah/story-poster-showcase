@@ -1,0 +1,52 @@
+{
+  "moveId": "name-it-exactly",
+  "chapterTitle": "The Case of the Slammed Door",
+  "tagline": "Find the word that fits, not the fuzzy bad that sits.",
+  "story": "MADE UP\nPip the Fox shoves the bedroom door shut. Bang!\nThe whole comic strip page seems to shake.\nPip's round glasses slide down an orange nose.\n\nPip drops onto the rug in the green hoodie with the yellow lightning patch. The blue sketchbook slides out from under one arm. Biscuit the dog pads over and sits down with a soft thump.\n\nPip tells the ceiling, \"Everything is annoying.\" Biscuit tilts his head. He does not argue.\n\nPip tries to draw one comic panel. The pencil digs in and snaps. \"Okay, that was loud,\" Pip mutters. \"But I do not even know what I am. Bad. I just feel bad.\"\n\nThe word sits in the room like a lumpy gray blanket. It covers everything and fits nothing.\n\nPip flips to the first page of the sketchbook. There is Inspector Pip, a detective fox with a magnifying glass. Pip sighs, \"Okay, let's investigate.\" To investigate means to look closely for clues instead of guessing.\n\nPip whispers a fact, just once. Scientists noticed that teens who name feelings exactly handle hard days a bit better. Nobody has tested teaching it, so this is only a best guess. Pip is the experiment.\n\nPip props the sketchbook on one knee and reads the detective's steps in a low case file voice.\n\n\"Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\"\n\nPip thinks of one small thing. The art club moved to a different room today. Pip yelled in the hallway, \"This is so dumb!\" and a lot of heads turned.\n\n\"First word,\" Pip says. \"Mad.\"\n\nBiscuit thumps his tail.\n\n\"Sharper,\" Pip says. \"Annoyed? Yes, about the room change. Left out? No. Nervous? No. Let down?\" Pip taps the pencil on the page. \"A little. That means I hoped for something and it did not happen.\"\n\nPip's ears go warm. \"Embarrassed? Oh. Yes, that one fits.\"\n\nEmbarrassed is that hot, wish I could rewind feeling, when you think people saw you at your loudest.\n\nPip says it out loud. \"I felt embarrassed, and a bit annoyed.\"\n\nPip waits. The room is still the same room. \"Number,\" Pip says. \"Six.\" Nothing explodes. Biscuit sneezes.\n\n\"Calling it bad is like calling every sock just a sock,\" Pip says. \"Exact is the striped left one with a hole in the toe.\" Biscuit sniffs Pip's red high top sneakers as if checking.\n\nPip checks the number again. \"Five,\" Pip says. \"Still a five, but clearer.\"\n\nThe hallway still replays in Pip's head. Pip's face is still warm, and talking about it all still feels like too much. The sharper word did not fix the day. It gave Pip something clearer to hold.\n\nPip draws a tiny fox peeking out from behind a door, ears pink. Biscuit rests his chin on the page, and Pip lets him.",
+  "panelLines": [
+    {
+      "scene": "A fox with round glasses stands by a shut bedroom door while a small dog watches from the rug, comic strip style.",
+      "line": "Everything is annoying."
+    },
+    {
+      "scene": "The fox sits on the rug with an open sketchbook showing a drawn detective fox holding a magnifying glass.",
+      "line": "Okay, let's investigate."
+    },
+    {
+      "scene": "The fox rests a paw on one warm cheek, ears glowing pink, with the dog sitting close.",
+      "line": "Yes, that one fits."
+    },
+    {
+      "scene": "The fox draws a tiny fox peeking from behind a door while the dog rests its chin on the page.",
+      "line": "Still a five, but clearer."
+    }
+  ],
+  "jokeIdea": "The dog sniffs the fox's red sneaker very seriously, as if checking it for a striped sock with a hole in the toe.",
+  "feelFirst": [
+    "Slamming a door after a long day makes sense when everything feels like too much.",
+    "You do not have to explain it all right now. Your feelings are allowed to be here."
+  ],
+  "tinyTryOptions": [
+    {
+      "text": "Think of one small thing that bugged you this week. Say the first word that comes, then try one sharper word out loud.",
+      "seconds": 45,
+      "offScreen": true
+    },
+    {
+      "text": "Look at a sock or shoe and say one exact thing about it, like striped or scuffed. Then say one exact word for a small thing that bugged you.",
+      "seconds": 60,
+      "offScreen": true
+    },
+    {
+      "text": "Draw a tiny comic face on paper with one exact feeling word under it, then give that feeling a number from 1 to 10.",
+      "seconds": 90,
+      "offScreen": true
+    }
+  ],
+  "whereElse": {
+    "line": "Where could you try finding the exact word when a day feels like one big bad?",
+    "place": "on the walk or ride home from school"
+  },
+  "noticedFeeling": "Annoyed",
+  "replayCue": "When everything feels like one big bad, that is the signal to look for the exact word."
+}

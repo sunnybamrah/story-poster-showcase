@@ -1,0 +1,597 @@
+[
+  {
+    "kind": "source-limit",
+    "sourceId": "29878880",
+    "originalLimitation": "A lab task with 143 people aged 5 to 25 compared how clearly they separated feelings. It did not teach naming or test whether naming helped.",
+    "originalSHA256": "68620591c326f68f6d4c02857671bb0e1ca5ee2d1e582f9f552d0d8f7e5240a2",
+    "plainLimitation": "A lab task with 143 people aged 5 to 25 compared how clearly they told feelings apart. It did not teach them to name feelings or test whether naming helped."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31246045",
+    "originalLimitation": "233 teenagers aged 14 to 17 were followed over time. The link between clearer feelings and less depression under stress does not prove that teaching naming helps.",
+    "originalSHA256": "8dfbea084f1590f776fbba61b749289cce40bef0a9a01e0476a2dc96fa94efa5",
+    "plainLimitation": "Researchers followed 233 teenagers aged 14 to 17 over time. Telling feelings apart more clearly was linked to less depression under stress. Depression is a health condition that affects mood. This link does not prove that teaching feeling names helps."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "17576282",
+    "originalLimitation": "Adults labeled emotional images during brain scans. Lower amygdala activity does not prove less upset or better everyday choices in children.",
+    "originalSHA256": "dabb99f3374045c99220f61b1f7a1236254c543ab4d8ae9a3ac5a230ff48ab19",
+    "plainLimitation": "Adults named feelings in pictures during brain scans. The amygdala, a brain area involved in feelings, was less active. That does not prove children feel less upset or make better everyday choices."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "10.1177/1754073917742706",
+    "originalLimitation": "The relevant benefit evidence comes from adult studies. Results vary across feelings, body responses, brain activity and behavior; immediate relief and benefits for children aged 8 to 13 are not established.",
+    "originalSHA256": "07bb9731deedc586835770d6735e5fca998c6ab74813cc3cd7afd10664bb6d0f",
+    "plainLimitation": "The studies of these benefits involved adults. Results differed for feelings, body responses, brain activity and actions. We do not yet know if naming brings quick relief or helps children aged 8 to 13."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "27666392",
+    "originalLimitation": "122 Primary 5 students took a timed math test. Deep breathing helped test anxiety and scores; this does not establish the exact two-in, one-out breath or benefits in daily life.",
+    "originalSHA256": "1cdf87f1c51faa21d7885cce3162f3a31fd25796212600cb9ba80f615b02debd",
+    "plainLimitation": "122 Primary 5 students took a timed math test. Deep breathing helped test worry and scores. This does not show that the exact two-in, one-out breath works or helps in daily life."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "35704507",
+    "originalLimitation": "171 children aged 9 to 13 tried video-guided slow breathing across 15 days. There was no average immediate benefit; on more worried days, relaxation improved only against no exercise, not against the other video.",
+    "originalSHA256": "587245709627cef5168c78146a4a3ccce8397f80dee63319b2e2eea1240ebfb6",
+    "plainLimitation": "171 children aged 9 to 13 tried slow breathing with a video across 15 days. On average, it did not help right away. On more worried days, children relaxed more than with no exercise, but not more than with the other video."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "21728415",
+    "originalLimitation": "Fifth graders recalled an angry event from an outside view during one session. This tests stepping back, not a kind coach line or speaking their own name.",
+    "originalSHA256": "5857388d669eaae96bed694ddd7420eaffec11c6d952fa178acfa65dc1d1eb49",
+    "plainLimitation": "Fifth graders thought back to an angry event from an outside view in one session. This tests stepping back from the event. It does not test kind coach words or saying their own name."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "27982409",
+    "originalLimitation": "Children aged 4 and 6 worked on a boring task with a tempting video game nearby. Pretending to be a hero and using an outside view are not tests of kind coach wording or feeling less upset.",
+    "originalSHA256": "ebf2293866585d2f3422314188a7cf1052c130d28e1adb003f6ad9e6951a7244",
+    "plainLimitation": "Children aged 4 and 6 did a boring task with a tempting video game nearby. Pretending to be a hero and taking an outside view do not test kind coach words or feeling less upset."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "24467424",
+    "originalLimitation": "Adults used their own names and non-first-person pronouns while thinking about stress. They showed less distress during social tasks; this does not test kind wording alone or this home practice with children.",
+    "originalSHA256": "2f1efa5aca95903898242bf67e6ad7aea8bbb4c057982962e1874035f093aa50",
+    "plainLimitation": "Adults used their own names and pronouns other than I or me while thinking about stress. Pronouns are words used in place of names. They showed less distress, or upset, during tasks with other people. This does not test kind words alone or this home practice with children."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "25068007",
+    "originalLimitation": "77 fifth graders at one US school learned a combined wish, obstacle and if-then plan. Better grades do not prove that an if-then plan alone helps with feelings.",
+    "originalSHA256": "bc21823b89dd3432358fb22b7f534fe7a0a7fe5f3a1d1f3ec4777a74340ec0ae",
+    "plainLimitation": "77 fifth graders at one US school learned three steps together: a wish, what might get in the way, and an if-then plan. Better grades do not prove that the if-then plan alone helps with feelings."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "38518585",
+    "originalLimitation": "The review combined 154 studies of activities that raise or lower arousal, across different ages. It did not isolate this timed break and return for children aged 8 to 13.",
+    "originalSHA256": "61c6e400f1ef440725e31c9bd56cdb0e94630a3504d10369402592922d7aa0c2",
+    "plainLimitation": "This review brought together 154 studies across different ages. The activities calmed or stirred up the body. It did not test this timed break and return on its own for children aged 8 to 13."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "19356688",
+    "originalLimitation": "The same 20 children, average age about nine and a half, took tests after rest and after moderate treadmill walking. This tested attention and school skills, not anger, a calm break, or returning to an argument.",
+    "originalSHA256": "26c0f9302b3d2300a79ada6ac3facd4261b98d289226e3b3ed0acc72d35a9df2",
+    "plainLimitation": "The same 20 children, average age about nine and a half, took tests after rest and after treadmill walking with medium effort. The tests checked attention and school skills. They did not test anger, a calm break, or coming back to an argument."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "24942038",
+    "originalLimitation": "Parent help before a lab speech reduced cortisol, a stress hormone, in 9 and 10 year olds but not in 15 and 16 year olds. This does not show that asking any adult for help reduces felt worry.",
+    "originalSHA256": "9e9ff15b3f0856658be7ceebe6a771902aa8d590258d34d15a2c3bf977a98583",
+    "plainLimitation": "Parent help before a lab speech lowered cortisol, a stress hormone, in 9 and 10 year olds but not in 15 and 16 year olds. This does not show that asking any adult for help makes worry feel smaller."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "30707442",
+    "originalLimitation": "This survey followed 1,266 bullied students in grades 4 to 6 and 8 to 9. It asked who told adults. It did not test whether asking for help made things better.",
+    "originalSHA256": "4abaefa3f56c3e4bb777d9bb3dacd372ece9fe3597956b8d98546e2d823d1b90",
+    "plainLimitation": "This survey followed 1,266 bullied students in grades 4 to 6 and 8 to 9. It asked who told adults. It did not test whether asking for help made things better."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31628568",
+    "originalLimitation": "Across 75 studies of treatment for child anxiety disorders, more facing-fears practice was linked with better symptom results. This does not isolate cause or test a single step at home for everyday nerves.",
+    "originalSHA256": "997efb43401f762957158678431c82337ea779199ba97bddcce9613da346be0f",
+    "plainLimitation": "75 studies looked at treatment for children's anxiety disorders, conditions involving fear or worry. More practice facing fears was linked to better results for symptoms, or signs of the condition. This does not show what caused the change. It did not test one step at home for everyday nerves."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31944812",
+    "originalLimitation": "583 children aged 8 to 16 compared themselves in one session. Pride and goals were self-reported immediately; the study does not establish lasting effects.",
+    "originalSHA256": "b3b57c7d1d2e9bcfd7f6ad9e4498c598a79e241e4681612d096ef265b4fb997d",
+    "plainLimitation": "583 children aged 8 to 16 compared themselves in one session. Right away, they reported how proud they felt and what their goals were. The study does not show whether the effects last."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31343231",
+    "originalLimitation": "97 children aged 6 to 10 believed they had upset an unfamiliar peer in a staged lab task. Giving stickers and writing a note reduced reported guilt; effects after real harm to a friend or lasting effects were not tested.",
+    "originalSHA256": "56155482ebc795ad2e0bb54e1a3ec13bc1abdc76a9b3c665c11967f3d1686259",
+    "plainLimitation": "97 children aged 6 to 10 thought they had upset a child they did not know in a staged lab task. After giving stickers and writing a note, they reported less guilt, or feeling bad about what they had done. The study did not test real harm to a friend or lasting effects."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "30071381",
+    "originalLimitation": "180 children aged 9 and 11 showed more trust after an apology in a token game. The game did not test saying sorry after harming a friend. The abstract does not establish a stranger or pretend wrongdoing.",
+    "originalSHA256": "f35ea306cbb8ad56689b3657776024d4d7bd3a751f6a4c88b067d22b6b1acf79",
+    "plainLimitation": "180 children aged 9 and 11 showed more trust after an apology in a game with tokens. The game did not test saying sorry after hurting a friend. The short study summary does not say the other child was a stranger or the wrongdoing was pretend."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "36092281",
+    "originalLimitation": "636 young teens received five classroom lessons or usual classes. There was no immediate group difference; three months later worry rose in the comparison group but not the lesson group. Checking work once was not tested alone.",
+    "originalSHA256": "9e553c07d0c1e1b12ea6b560ac3288cf1066beb835ef8876c18de904ed624f3f",
+    "plainLimitation": "636 young teens had five classroom lessons or their usual classes. Right afterward, there was no difference between the groups. Three months later, worry rose in the usual-class group but not the lesson group. Checking work once was not tested on its own."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "41805454",
+    "originalLimitation": "This review combined 20 studies of whole programs for children and teens. Their average improvement does not show that this single check once and hand it in step works.",
+    "originalSHA256": "2f51d7d4e568e79b1edbc1943f587455c58fd8e3793314216884d75e55f09642",
+    "plainLimitation": "This review brought together 20 studies of whole programs for children and teens. People improved on average. That does not show that the single step of checking once and handing work in helps."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "29899715",
+    "originalLimitation": "Students aged 10 to 17 considered a target's feelings and chose whether to report or forward a mean message in a pretend chat. The study did not test sending a private kind message or benefits for its recipient.",
+    "originalSHA256": "a0e2166d4ba99b56d89d8fbcfca0e4cb4067341d9e93f5d416382566140b655e",
+    "plainLimitation": "Students aged 10 to 17 thought about the feelings of someone receiving a mean message in a pretend chat. They chose whether to report the message or send it on. The study did not test a private kind message or whether it helped the person receiving it."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "40175833",
+    "originalLimitation": "The review concerns links between defending others and the defenders' own outcomes. It does not test whether one private kind message helps a bullied child.",
+    "originalSHA256": "d5a41980617357233064406a1955f2cc140f667a4f9228e83061cab24a78dc0f",
+    "plainLimitation": "This review looks at links between standing up for others and what happens to the people who stand up for them. It does not test whether one private kind message helps a bullied child."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "30642965",
+    "originalLimitation": "This experiment used test exercises with 1,175 ninth graders. Benefits were reported for students from lower income families. The abstract gives grade, not exact ages, and this exact move was not tested.",
+    "originalSHA256": "102ea168fb37cdd351c8119ec3f01c3ae4ce31cd5a4da2c747ffe522bf02ce2b",
+    "plainLimitation": "This experiment used test exercises with 1,175 ninth graders. Benefits were reported for students from lower income families. The short study summary gives their grade, not exact ages. This exact move was not tested."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "20161454",
+    "originalLimitation": "Adults preparing for a graduate entrance exam were told that arousal could help performance. Math scores improved; this does not establish benefits for children aged 8 to 13 or for every kind of task.",
+    "originalSHA256": "09d61c57ffa07a0a897cbc1ff78b841a3080664f1d023dbc04f2895b61f236c8",
+    "plainLimitation": "Adults getting ready for an exam for study after college were told that a worked-up body could help them do well. Math scores improved. This does not show that it helps children aged 8 to 13 or helps with every kind of task."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "19520470",
+    "originalLimitation": "227 children aged 9 to 13 recorded worries for one week; 138 received postponement instructions. The abstract does not establish random assignment; no worry box or lasting benefit was tested.",
+    "originalSHA256": "8fb9834c3a74d3e2fc00b7d650bb83b6453111c41dea056eb832fbba3cde8b50",
+    "plainLimitation": "227 children aged 9 to 13 recorded worries for one week. 138 were told how to save worries for later. The short study summary does not say whether groups were chosen by chance. No worry box or lasting benefit was tested."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "21233387",
+    "originalLimitation": "Experiments tested writing about worries just before an exam, not putting worries off or using a worry box. The abstract gives no ages. A 2014 correction fixed calculations; the authors said their conclusions stayed the same.",
+    "originalSHA256": "b8faa47282f06c923515fcbe0bca51085ae09c02451d5730983b3d0e2787cf74",
+    "plainLimitation": "The experiments tested writing about worries just before an exam. They did not test saving worries for later or a worry box. The short study summary gives no ages. A 2014 correction fixed calculations. The authors said their conclusions stayed the same."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "23720415",
+    "originalLimitation": "no study tested \"check your battery first\"; it only shows tired children handle feelings worse.",
+    "originalSHA256": "9afa245f38f1ff72ea2c384dbdd90fb94a374af66258b6ebe212136bf5d7e574",
+    "plainLimitation": "No study tested \"check your battery first\". This study only shows that tired children have more trouble handling feelings."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "41283315",
+    "originalLimitation": "This review of 20 studies of children aged 6 to 12 mostly used single check-ins and people's reports. Better sleep was linked with better thinking and feelings. This cannot show cause. The battery check was not tested.",
+    "originalSHA256": "57beb938065bc240f9f794b789454b7a1c2f191be2721956bd505f8a7bdacb09",
+    "plainLimitation": "This review of 20 studies of children aged 6 to 12 mostly used one check-in and people's own reports. Better sleep was linked with better thinking and feelings. This cannot show what caused what. The battery check was not tested."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "unicef-listening-2025",
+    "originalLimitation": "This is guidance from UNICEF and CDC, not a study. The UNICEF activity is a longer group session for adolescents, many in hard settings. This short home version was not tested, and no change in feelings or closeness is claimed.",
+    "originalSHA256": "0cdc01125c1999fb610cc157c94a00c43e16c2d63c8c02f57986c4dd104db354",
+    "plainLimitation": "This is advice from UNICEF and CDC, not a study. UNICEF's activity is a longer group session for adolescents, young people growing into adults. Many are in hard settings. This short home version was not tested. It makes no claim about changing feelings or closeness."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "cdc-connecting-2024",
+    "originalLimitation": "This is guidance from UNICEF and CDC, not a study. The UNICEF activity is a longer group session for adolescents, many in hard settings. This short home version was not tested, and no change in feelings or closeness is claimed.",
+    "originalSHA256": "0cdc01125c1999fb610cc157c94a00c43e16c2d63c8c02f57986c4dd104db354",
+    "plainLimitation": "This is advice from UNICEF and CDC, not a study. UNICEF's activity is a longer group session for adolescents, young people growing into adults. Many are in hard settings. This short home version was not tested. It makes no claim about changing feelings or closeness."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "unicef-kit-population",
+    "originalLimitation": "Initial review limit ages 10 to 13. UNICEF says the kit is for adolescents 10 to 18 in humanitarian or vulnerable settings, in facilitated groups.",
+    "originalSHA256": "bb5056d1d799ac5e3d407b542b9d8268024b1ef202ce0aabced39df8bb47b111",
+    "plainLimitation": "The first review covers only ages 10 to 13. UNICEF says its kit is for young people aged 10 to 18 in groups led by a helper. They are in places where people need help or face risks."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "unicef-conflict",
+    "originalLimitation": "This is UNICEF group role play guidance for adolescents, not a study. It says there is no one right way to handle conflicts. This short home version was not tested, and it does not promise that a disagreement will end.",
+    "originalSHA256": "ba5e6ae3dd9f4ca98980acd0d81edf10e30321fb980dd7c6570502d6baaefc60",
+    "plainLimitation": "This is UNICEF advice for adolescents, young people growing into adults, to act out problems in a group. It is not a study. It says there is no one right way to handle disagreements. This short home version was not tested. It does not promise to end a disagreement."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "redshaw-2018",
+    "originalLimitation": "This was a computer task, not a home routine. Children always tried without reminders first and with reminders second, so better scores later may come partly from practice. This home version was not tested. In the study, children under about nine did not set more reminders when the task got harder; nine to eleven year olds did.",
+    "originalSHA256": "b1e1e97ae830a1fbf41b75e26c41540cc4c112374a8af024ede6ecb538599175",
+    "plainLimitation": "This was a computer task, not a home routine. Children always tried without reminders first, then with reminders. Better scores later may partly come from practice. This home version was not tested. Children under about nine did not set more reminders for harder tasks. Nine to eleven year olds did."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "ies-study-2007",
+    "originalLimitation": "This is school guidance from studies of students from about fourth grade to college. It was not tested at home or at bedtime, and the guide is dated 2007.",
+    "originalSHA256": "90ceb9303f62eddb2249e1618af19198c443118f96a40f4592623c8b7d8d1346",
+    "plainLimitation": "This is school advice based on studies of students from about fourth grade to college. It was not tested at home or at bedtime. The guide is dated 2007."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "ies-study-2007",
+    "originalLimitation": "The experiments used word lists in school classrooms and gave no feedback. The checking step comes from school guidance, not from that study. This home version was not tested.",
+    "originalSHA256": "2bf6732f5c444114997e7647969d79dadeee5c6743a4195c04937dffa1cee6d6",
+    "plainLimitation": "The school experiments used word lists and did not tell children how they did. The step of checking answers comes from school advice, not that study. This home version was not tested."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "karpicke-2016",
+    "originalLimitation": "The experiments used word lists in school classrooms and gave no feedback. The checking step comes from school guidance, not from that study. This home version was not tested.",
+    "originalSHA256": "2bf6732f5c444114997e7647969d79dadeee5c6743a4195c04937dffa1cee6d6",
+    "plainLimitation": "The school experiments used word lists and did not tell children how they did. The step of checking answers comes from school advice, not that study. This home version was not tested."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-10707330",
+    "originalLimitation": "The abstract gives no exact ages. PubMed indexes adults and adolescents. This does not prove what classmates noticed or that this child practice helps.",
+    "originalSHA256": "7157c8576fe6a5ebb3c0fe18483bca02af65e3904bcced21477cf86827884dff",
+    "plainLimitation": "The short study summary gives no exact ages. PubMed lists the study under adults and adolescents, young people growing into adults. It does not prove what classmates noticed or that this child practice helps."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-17328703",
+    "originalLimitation": "A school intervention is not a test of saying yet or of this home practice. Grades are not exact ages.",
+    "originalSHA256": "436bd5a28b1a6dfba4973e56b8b917bdfa1a690c75ff84d5d9074917b700c843",
+    "plainLimitation": "A school program does not test saying yet or this home practice. School grades do not tell us exact ages."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-19933453",
+    "originalLimitation": "Vocabulary learning is not proof that every mistake grows the brain or that this home guide changes feelings.",
+    "originalSHA256": "13d5904a1d841fe7cc5df8e13848e3772e9de4a28f0ca315c93f5240a1a09db6",
+    "plainLimitation": "Learning word meanings does not prove that every mistake grows the brain or that this home guide changes feelings."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-apa-resilience",
+    "originalLimitation": "This is professional guidance. It does not prove that the home activity improves flexibility.",
+    "originalSHA256": "b72e32b13e0857b52109f6d50bfbc7a4a6c15814f3716429107498cbd75b613d",
+    "plainLimitation": "This is advice from professionals. It does not prove this home activity helps someone change their thinking or plans."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-39836162",
+    "originalLimitation": "The study involved children aged five to six. It tested a storybook, not this activity or a rule that longer waits are always better.",
+    "originalSHA256": "c82d10f45cee04937f2f484436e887e8d6704fe76615c9824503371b5d0af00b",
+    "plainLimitation": "The study involved children aged five to six. It tested a storybook, not this activity. It did not test a rule that waiting longer is always better."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-hhs-bullying",
+    "originalLimitation": "This guidance does not test a truth-check exercise or promise that hurtful words stop hurting. Adults must address real harm.",
+    "originalSHA256": "fa378901c901c1eb9edaf556506459a886fa5101ff2b083df89b42bc4cfe1b08",
+    "plainLimitation": "This advice does not test an exercise for checking what is true. It does not promise that hurtful words stop hurting. Adults must deal with real harm."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-hhs-bullying",
+    "originalLimitation": "Bullying guidance is only an ingredient for ordinary peer-pressure practice. A child is never responsible for making another person respect no.",
+    "originalSHA256": "6d33527c81a74ecff015b7e1db249b3723550c822f6a6e7a50a10d843f9e9fb4",
+    "plainLimitation": "Advice about bullying is only one part of this practice for when other children push someone to do something. It is never the child's job to make another person respect no."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-aap-truth",
+    "originalLimitation": "Parent guidance is not a trial of this confession practice. Telling the truth does not guarantee no consequences.",
+    "originalSHA256": "d866c666cb3420a1fc5c69a468fe0d371b476ff5866888e506a9bb3ba5e9b57b",
+    "plainLimitation": "This is advice for parents, not a test of this practice for admitting what happened. Telling the truth does not promise there will be no consequences."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-apa-resilience",
+    "originalLimitation": "Guidance is not a test of this comeback plan. It does not promise success or require another try.",
+    "originalSHA256": "e5d6727413bf715bd489dda615ed8bbf5a2bafb24f17eddbc88f3aa5ac6c7f7f",
+    "plainLimitation": "This advice does not test the comeback plan. It does not promise success or say you must try again."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-19083358",
+    "originalLimitation": "This study used a classroom activity with early adolescents. A single home example was not tested. It does not cancel hard feelings.",
+    "originalSHA256": "9dfc49929a56de984935c1bf1b8cf41bcd0d6a693e4f7a8dc87ae027000b0d64",
+    "plainLimitation": "This study used a classroom activity with young people at the start of growing into adults. It did not test one example at home. This does not make hard feelings go away."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-apa-resilience",
+    "originalLimitation": "This is guidance, not proof that a next action changes a whole day or removes upset.",
+    "originalSHA256": "50c5dd9de6431e1ba2ecc475a5c6607b0db005d965ba0d133e8ff791dc5eccbb",
+    "plainLimitation": "This is advice. It does not prove that one next step changes a whole day or takes away upset."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "restored-30570446",
+    "originalLimitation": "This small pet-loss study was descriptive, not a trial. It does not establish findings for a person dying or a friend moving away, prove a memory activity helps, or say when to do it.",
+    "originalSHA256": "631d8d684c28e64bc2fab3863dca28f0ce8ccc9835e3fa83675d9a7efbc145f5",
+    "plainLimitation": "This small study described pet loss. It did not test a treatment or activity. It cannot tell us what happens when a person dies or a friend moves away. It does not prove that a memory activity helps or tell us when to try it."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31246045",
+    "originalLimitation": "This quote defines the general skill; it does not show that this home activity works. Only the abstract, a short study summary, was reviewed.",
+    "originalSHA256": "4eecbf487b769ff98b56892c19e9a179667bee709db34e5893d1ead0022a91aa",
+    "plainLimitation": "This quote explains the general skill. It does not show that this home activity works. Only the abstract, a short study summary, was checked."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "24578089",
+    "originalLimitation": "Classroom experiment with 140 grade 7 students, comparing blocked and interleaved practice over nine weeks, with an unannounced test two weeks later. The supplied abstract does not test this home script or specifically establish improved arithmetic operation selection.",
+    "originalSHA256": "c95ab3d9af802ae6c1a023c67c3335831e87b77d653659fe249703376d03cb75",
+    "plainLimitation": "A classroom experiment with 140 grade 7 students compared practising problems grouped by type with practising a mix of types over nine weeks. There was a surprise test two weeks later. The short study summary does not test these home steps or show specifically that children got better at choosing a maths operation, such as adding."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31144028",
+    "originalLimitation": "This was an at-home online training study of sixty-two children aged six and seven with an active literacy control group. The abstract does not describe or test the physical prediction-and-check activity proposed here.",
+    "originalSHA256": "572d69547da1459a37c55274300883153e8bc1597d07a3b86a5681c5a6e9a6a5",
+    "plainLimitation": "This online study at home involved sixty-two children aged six and seven. One group practised picturing shapes turning. A comparison group practised working with written words. The short study summary does not describe or test this activity with real shapes, making a guess and then checking it."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "name-it-exactly",
+    "originalLimitation": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+    "originalSHA256": "5a8fca9272fac10c360ceeb1bb712738333439ab93d681c7d3012e70eb58e9a4",
+    "plainLimitation": "Adult studies do not show that this home practice helps children aged 8 to 13. They do not show that naming feelings brings quick relief."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "long-breath-out",
+    "originalLimitation": "A study in daily life found no average benefit right after breathing, and neither study proves that this exact breathing pattern helps at home.",
+    "originalSHA256": "987104c639b7304ecfda47cd543b71d2324b9426d4cedd2a80663ea4ab4542ff",
+    "plainLimitation": "A study in daily life found no average benefit right after breathing. Neither study proves that this exact breathing pattern helps at home."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "coach-voice",
+    "originalLimitation": "This adult speech study did not test kind coach words or this home practice with children.",
+    "originalSHA256": "9db1de4dd8fc77b51cc2ffd9a61597a02cb27eda96c6cce24274abb693c6ef62",
+    "plainLimitation": "This adult speech study did not test kind coach words or this home practice with children."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "snag-plan",
+    "originalLimitation": "This small study at one school tested all three steps together and did not test help with feelings.",
+    "originalSHA256": "51e332f8c9e20797b641e86730f8cf65aa72dd18fec987a34ae67bd7bd222a1e",
+    "plainLimitation": "This small study at one school tested all three steps together. It did not test help with feelings."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "cool-off-break",
+    "originalLimitation": "The review did not test this exact ten-minute break and return with children aged 8 to 13.",
+    "originalSHA256": "14e3674462522a1f8b10e54fad093c885c3c87fb21b14c64bcb30aac56838f6b",
+    "plainLimitation": "The review did not test this exact ten-minute break and return with children aged 8 to 13."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "bring-in-my-person",
+    "originalLimitation": "This speech test found no drop in how stressed children said they felt and did not test asking for help at home.",
+    "originalSHA256": "85eca6606d27f055db921322e86de5d8e8bcd49d440b6a1f83ed60d0099774d7",
+    "plainLimitation": "In this speech test, children did not report feeling less stressed. It did not test asking for help at home."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "one-brave-step",
+    "originalLimitation": "The review cannot show that this practice caused the change or that one small step at home works.",
+    "originalSHA256": "db9fadd9c0c040d1745f0eada4d7632f875e633a1527fc72a22b68e3f7323d6d",
+    "plainLimitation": "The review cannot show that this practice caused the change. It cannot show that one small step at home works."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "compare-with-past-me",
+    "originalLimitation": "The children reported their feelings in one session, so the study does not show how long the change lasts.",
+    "originalSHA256": "fdf41eb9eb17b93fc2aec34390a57dc2d83efc41cd9e55a666824c26605831ba",
+    "plainLimitation": "Children reported their feelings in one session. The study does not show how long the change lasts."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "make-it-right",
+    "originalLimitation": "This was a small, staged mistake with a child they did not know, so it does not show what happens after hurting a real friend.",
+    "originalSHA256": "2bcc6613cffbfd46338acb4f9c1bd891a9671adf46abdc25794e6030aab3f50c",
+    "plainLimitation": "This was a small, staged mistake with a child they did not know. It does not show what happens after hurting a real friend."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "good-enough-is-done",
+    "originalLimitation": "There was no clear difference right after the lessons, and checking work once was not tested on its own.",
+    "originalSHA256": "54b25ba717c7908ce46898a8ec95f39632d12daeb42bd9a3bce04392fb6b770d",
+    "plainLimitation": "There was no clear difference right after the lessons. Checking work once was not tested on its own."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "dont-feed-the-fire",
+    "originalLimitation": "This test used a pretend chat and did not test sending a private kind message or whether it helped the child who got it.",
+    "originalSHA256": "1fc2e36cb375e7e3d051e567ffc17799ee4fe02118c8bb53221b750d5ecd7bf4",
+    "plainLimitation": "This test used a pretend chat. It did not test sending a private kind message or whether it helped the child who got it."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "butterflies-mean-ready",
+    "originalLimitation": "This small adult study left out many people who did not return and does not show that the move helps children.",
+    "originalSHA256": "0485dddc52b152c620c7bba524791e799099630d541262c1f0d109de640e9b07",
+    "plainLimitation": "This small adult study left out many people who did not come back. It does not show that the move helps children."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "worry-parking-spot",
+    "originalLimitation": "This one-week study relied on children's reports and did not test a worry box or show whether the change lasted.",
+    "originalSHA256": "c51e8c7d45102f7d5c12081464549e9b8a14033945ccda3d538ceac40c58f572",
+    "plainLimitation": "This one-week study relied on what children reported. It did not test a worry box or show whether the change lasted."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "check-my-battery",
+    "originalLimitation": "The study changed sleep and did not test whether checking your body's needs helps with feelings.",
+    "originalSHA256": "cf64885bc300290e3f158047722119e9dea9b155f855b99a38dba3f84a76b877",
+    "plainLimitation": "The study changed sleep. It did not test whether checking your body's needs helps with feelings."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-8b233c68232efc8645479298",
+    "originalLimitation": "This is guidance from UNICEF and CDC, not a study. The UNICEF activity is a longer group session for adolescents, many in hard settings. This short home version was not tested, and no change in feelings or closeness is claimed. This new home guide was not tested in these sources.",
+    "originalSHA256": "d13bd0d70f7c4864b73113c227b7b0b2d46e7a2f142b3402b60c5424934203d9",
+    "plainLimitation": "This is advice from UNICEF and CDC, not a study. UNICEF's activity is a longer group session for adolescents, young people growing into adults. Many are in hard settings. This short home guide was not tested in these sources. It makes no claim about changing feelings or closeness."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-24bfdfa426f9b648884265e2",
+    "originalLimitation": "This is UNICEF group role play guidance for adolescents, not a study. It says there is no one right way to handle conflicts. This short home version was not tested, and it does not promise that a disagreement will end. This new home guide was not tested in these sources.",
+    "originalSHA256": "b6895a29ecd8872d8255e1e7e7f65a47701fd893edeb80155dff2f2a315ec3c8",
+    "plainLimitation": "This is UNICEF advice for adolescents, young people growing into adults, to act out problems in a group. It is not a study. It says there is no one right way to handle disagreements. This short home guide was not tested in these sources. It does not promise to end a disagreement."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-d2a6bed040970d83ef214a38",
+    "originalLimitation": "This was a computer task, not a home routine. Children always tried without reminders first and with reminders second, so better scores later may come partly from practice. This home version was not tested. In the study, children under about nine did not set more reminders when the task got harder; nine to eleven year olds did. This new home guide was not tested in these sources.",
+    "originalSHA256": "c984d74bfd94eaa3412092d24fbb26b49adc52781245071b90c6f5010a30f085",
+    "plainLimitation": "This was a computer task, not a home routine. Children always tried without reminders first, then with reminders. Better scores later may partly come from practice. Children under about nine did not set more reminders for harder tasks. Nine to eleven year olds did. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-a62c761d55f32a57db3af28f",
+    "originalLimitation": "This is school guidance from studies of students from about fourth grade to college. It was not tested at home or at bedtime, and the guide is dated 2007. This new home guide was not tested in these sources.",
+    "originalSHA256": "cedf069a451d3cabaaddb6bd9bb5ce2b952983e254f24ce186f54b88a24cded1",
+    "plainLimitation": "This is school advice based on studies of students from about fourth grade to college. It was not tested at home or at bedtime. The guide is dated 2007. This new home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-3b5be953e8b4b5a5c99a2c45",
+    "originalLimitation": "The experiments used word lists in school classrooms and gave no feedback. The checking step comes from school guidance, not from that study. This home version was not tested. This new home guide was not tested in these sources.",
+    "originalSHA256": "60f320edbc788a2c27f0e15e0582ac3284610607f894d784112eba6bdba3ad6b",
+    "plainLimitation": "The school experiments used word lists and did not tell children how they did. The step of checking answers comes from school advice, not that study. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-ade349b96205b03389e2de0f",
+    "originalLimitation": "The abstract gives no exact ages. PubMed indexes adults and adolescents. This does not prove what classmates noticed or that this child practice helps. This new home guide was not tested in these sources.",
+    "originalSHA256": "281171c07e1cc162c75bcb6a31e49099c2d14784e4cfe7993ed53f025ebbe60a",
+    "plainLimitation": "The short study summary gives no exact ages. PubMed lists adults and adolescents, young people growing into adults. It does not prove what classmates noticed or that this child practice helps. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-8e71a433a9a3f33671c07923",
+    "originalLimitation": "A school intervention is not a test of saying yet or of this home practice. Grades are not exact ages. This new home guide was not tested in these sources.",
+    "originalSHA256": "93de62aca68941a6800fec517a9661a01de2e53bf9858ac7623e4bb7ea5cb569",
+    "plainLimitation": "A school program does not test saying yet or this home practice. School grades do not tell us exact ages. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-cf7c7bdd8d5884f001178a92",
+    "originalLimitation": "Vocabulary learning is not proof that every mistake grows the brain or that this home guide changes feelings. This new home guide was not tested in these sources.",
+    "originalSHA256": "0f6b15a4fc8168df72caf1183c6883464baebc2c033ee0ab8e9bbb52912e937b",
+    "plainLimitation": "Learning word meanings does not prove that every mistake grows the brain or that this home guide changes feelings. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-e7d5dcd1f9354fe374d6bff4",
+    "originalLimitation": "This is professional guidance. It does not prove that the home activity improves flexibility. This new home guide was not tested in these sources.",
+    "originalSHA256": "bf510b0988e521ba6ce5d99a6b09462aad62ce173469d5c3949cb32976a6249a",
+    "plainLimitation": "This is advice from professionals. It does not prove this home activity helps someone change their thinking or plans. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-9afae8b5f47349cdc69b3355",
+    "originalLimitation": "The study involved children aged five to six. It tested a storybook, not this activity or a rule that longer waits are always better. This new home guide was not tested in these sources.",
+    "originalSHA256": "a5824469d7a9a6bf2ed771fe9602ddf8dabe988f6a46a8b791d893636d388c82",
+    "plainLimitation": "The study involved children aged five to six. It tested a storybook, not this activity or a rule that waiting longer is always better. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-0018dd8bbcbbad90676b3b32",
+    "originalLimitation": "This guidance does not test a truth-check exercise or promise that hurtful words stop hurting. Adults must address real harm. This new home guide was not tested in these sources.",
+    "originalSHA256": "6f4816ee2c276e353433b2439a22e88b38372f9cf9d8c32e8ac4d66e0d977921",
+    "plainLimitation": "This advice does not test an exercise for checking what is true. It does not promise that hurtful words stop hurting. Adults must deal with real harm. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-740ff21140eb372ee1e93a04",
+    "originalLimitation": "Bullying guidance is only an ingredient for ordinary peer-pressure practice. A child is never responsible for making another person respect no. This new home guide was not tested in these sources.",
+    "originalSHA256": "c746684d6c6a3a299306b0c53a084424f2f7868fa9e225bf5399f02272d0450b",
+    "plainLimitation": "Advice about bullying is only one part of this practice for when other children push someone to do something. It is never the child's job to make another person respect no. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-d92861bd3f3f09808b0b3f50",
+    "originalLimitation": "Parent guidance is not a trial of this confession practice. Telling the truth does not guarantee no consequences. This new home guide was not tested in these sources.",
+    "originalSHA256": "084635def56de86928884ed6f6de761b8029a5d2b051ac12839f11f070e7ab3d",
+    "plainLimitation": "This is advice for parents, not a test of this practice for admitting what happened. Telling the truth does not promise there will be no consequences. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-663a0391f69dd4de54898e04",
+    "originalLimitation": "Guidance is not a test of this comeback plan. It does not promise success or require another try. This new home guide was not tested in these sources.",
+    "originalSHA256": "a19c38f1cb9b5c427132d43ab454cc1ba24bbc1a4a9c2e98656278c82b32bffd",
+    "plainLimitation": "This advice does not test the comeback plan. It does not promise success or say you must try again. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-86a11ce753e81afced5b6458",
+    "originalLimitation": "This study used a classroom activity with early adolescents. A single home example was not tested. It does not cancel hard feelings. This new home guide was not tested in these sources.",
+    "originalSHA256": "d148466f6e99c62c962f62ffc2d49bc681a63453d0af6ef7bc7935a80714ddd0",
+    "plainLimitation": "This study used a classroom activity with young people at the start of growing into adults. It did not test one example at home. This does not make hard feelings go away. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-193ea58c36e7119166b5076a",
+    "originalLimitation": "This is guidance, not proof that a next action changes a whole day or removes upset. This new home guide was not tested in these sources.",
+    "originalSHA256": "bc11950fa6e18c38267a9b5b945d01a76f84009f2625418e5e48dc3cd7655720",
+    "plainLimitation": "This is advice. It does not prove that one next step changes a whole day or takes away upset. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-ea7da766f9ae7d76bb6741b0",
+    "originalLimitation": "This small pet-loss study was descriptive, not a trial. It does not establish findings for a person dying or a friend moving away, prove a memory activity helps, or say when to do it. This new home guide was not tested in these sources.",
+    "originalSHA256": "76e4e83499474cbc4111bdcb40fb6b439a2accce4cc63d3100be9449bb1d011c",
+    "plainLimitation": "This small study described pet loss. It did not test a treatment or activity. It cannot tell us what happens when a person dies or a friend moves away. It does not prove a memory activity helps or tell us when to try it. This home guide was not tested in these sources."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-2459b451569c69b94eb59d2a",
+    "originalLimitation": "This study followed teens. It did not test whether this home activity helps children. This new home guide was not tested by these studies.",
+    "originalSHA256": "3bfb551331b1e02b2f07eabb5ce1d9ee68a8f2bf87f1a5f0945674ff1f25ce80",
+    "plainLimitation": "This study followed teens. It did not test whether this home activity helps children. These studies did not test the new home guide."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-5a2b0e918914a0fd0e6598a7",
+    "originalLimitation": "The study tested classroom maths practice with grade 7 students. The abstract does not establish that this home activity improves arithmetic operation choices or works across the whole product age range. This home practice is a BEST GUESS, not tested. This new home guide was not tested by these studies.",
+    "originalSHA256": "0d7bc9e5871ffb14b038be71967be7a0f79498af0c7be753684336e8e7856b30",
+    "plainLimitation": "The study tested classroom maths practice with grade 7 students. The short study summary does not show that this home activity helps children choose a maths operation, such as adding. It does not show that it works for all the app's ages. This home guide is a BEST GUESS. These studies did not test it."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "lib-afc43fdcec5e27728319245d",
+    "originalLimitation": "The study included sixty-two children and compared online mental rotation training with literacy training in a matched format. The supplied abstract reports near transfer, meaning gains on related tasks. It does not establish that this invented physical-shape practice works or that children across the product's eight-through-thirteen age range were tested. This new home guide was not tested by these studies.",
+    "originalSHA256": "f5f1475ea8bfeaafa1036f1e12817921908605c163fe505b7f7e24a3066815d4",
+    "plainLimitation": "The study included sixty-two children. It compared two kinds of online practice in matching formats: picturing shapes turning, and working with written words. The short study summary reports gains on similar tasks. It does not show that this new practice with real shapes works or that children across the app's eight-through-thirteen age range were tested. These studies did not test this home guide."
+  }
+]

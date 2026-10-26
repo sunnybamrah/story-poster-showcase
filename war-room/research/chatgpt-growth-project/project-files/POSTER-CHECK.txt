@@ -1,0 +1,26 @@
+Sep 11
+# POSTER-CHECK: run this before any poster goes into a final PDF
+# AND RUN THIS OVER THE PANEL STRIPS TOO. On 2026-09-14 the four insults were
+# correctly deleted from a poster and simply reappeared one page later inside a
+# comic panel, drawn on a phone screen, because this check only looked at page 1.
+# Every word in EVERY drawn image gets listed, including words on phone screens,
+# signs, books, whiteboards and anything else in the picture.
+
+The poster is ONE drawn image, so the image tool writes every word on it, not you.
+On the last kit it invented 34 words nobody approved: four insults, three signposts,
+four map slogans and the key word printed backwards. Every serious poster fault we
+have ever found is one of those invented words. So:
+
+1. LIST every word you can see in the drawn poster. Include words on signs, banners,
+   objects, screens, badges and in the background. Miss nothing.
+2. SUBTRACT the card text you actually wrote.
+3. READ ALOUD whatever is left over.
+4. DELETE every left over word and redraw. No exceptions, even if it looks nice.
+   Decorative slogans teach nothing and they push the poster over the 110 word cap.
+5. NEVER let an unkind word appear anywhere in the artwork. No insults, no mean
+   messages, no name calling, even as the thing the story is about. The poster hangs
+   on her wall for weeks where family and friends read it.
+6. CHECK the key word is spelled correctly and is not mirrored or reversed.
+7. CHECK the key word has not been used by an earlier chapter for a different meaning.
+   Look it up in FAMILY-FACTS before you choose it.
+8. COUNT the words. Over 110 means the drawing added some. Go back to step 1.

@@ -1,0 +1,1323 @@
+{
+  "label": "Synthetic test family. Saved pass 28 run that skipped every shortening call.",
+  "source": "test/out/pass9-2026-10-15T03-59-09-393Z/kit-1",
+  "text": {
+    "moveId": "name-it-exactly",
+    "chapterTitle": "Name the Feeling",
+    "tagline": "Name it to tame it",
+    "story": "The door bangs.\nPip drops his bag.\n“Everyone is annoying.”\n\nDee stops beside the table. Pip pushes his bag under it with his foot, but the strap catches. He kicks again. The bag stays put.\n\n“I don't want questions.”\n\n“Something about this afternoon feels hard,” Dee says. “You don't have to tell the whole thing right now.”\n\nPip pulls the strap free. He sits, then stands again. Sitting feels wrong. Standing feels wrong too.\n\nDee stays beside the other chair without reaching for his bag.\n\n“I said everyone,” Pip says.\n\n“I heard you.”\n\nOn the table lies a comic page with an empty speech bubble. A pencil rests across the bubble like a tiny microphone. Pip nudges it with one finger.\n\n“Even my speech bubble wants a turn,” he mutters.\n\nDee looks at the pencil. “It has a very small microphone.”\n\nPip almost smiles. Almost. Then he pushes the page away.\n\n“I'm still mad.”\n\n“Okay,” Dee says. “Want to find the word that fits, or leave that for later?”\n\n“Mad fits.”\n\n“It might.”\n\nPip presses his palms against the table. “What if I don't know?”\n\n“You can try a word without keeping it.”\n\nHe watches the pencil roll into the fold of the paper. The afternoon sits in his head like a crowded comic panel, but he doesn't want to describe any of it.\n\n“Can you show me once?”\n\nDee pulls out the other chair and sits.\n\n“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”\n\nPip rubs the edge of the table.\n\n“That's a lot of words.”\n\n“You only need the one that fits. Or two.”\n\n“Does saying it fix anything?”\n\nDee shakes her head. “In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.”\n\nPip looks down at his hands. He doesn't feel much different from a minute ago.\n\n“Annoyed,” he says, then wrinkles his nose. “No. Bigger than annoyed.”\n\nDee waits.\n\n“Frustrated. Like everything is getting in my way, and I can't get past it.”\n\nHe hooks his foot around the chair leg and finally sits.\n\n“Frustrated fits better than bad.”\n\n“That sounds more precise,” Dee says. “Closer to what you mean.”\n\nPip touches his chest. Dee touches hers too.\n\n“Frustrated,” he says aloud.\n\n“I'm concerned,” Dee says. “I care about how you're doing, and I don't know much about this afternoon.”\n\nPip slides the comic page back toward himself. He leaves its speech bubble empty.\n\n“Mine's a seven,” he says. “Not a grade. Just how big.”\n\nDee nods.\n\n“There's another one,” Pip says. “Nervous. Tryouts are next week. They keep popping into my head.”\n\nHis fingers tighten around the pencil. He puts it down again.\n\n“Still frustrated. A bit nervous too.”\n\n“You found words for both,” Dee says.\n\n“I didn't tell you what happened.”\n\n“I know.”\n\n“And I'm not ready.”\n\nDee stays in her chair. Pip stays in his. The bag strap still sticks out beneath the table, and he moves his foot around it instead of kicking.\n\nAfter a while, Dee asks, “What was the move?”\n\nPip touches his chest again. “Name what I feel. Frustrated and nervous.”\n\nHe glances at the door. Tomorrow's school afternoon still feels too close. But this time, when Dee looks at him, he has two words he can say.",
+    "panelLines": [
+      {
+        "scene": "Warm-coloured comic-strip panel. Show child, the hero, beside a table, one foot near a bag with a caught strap. Show grown-up-one, a grown-up, standing beside the other chair with hands relaxed. Keep both human characters' supplied appearances unchanged. Leave generous bubble space above the hero. Visible lettering: only the four bubble words.",
+        "line": "I don't want questions."
+      },
+      {
+        "scene": "Warm-coloured comic-strip panel. Show child, the hero, looking toward grown-up-one, a grown-up, who is pulling out a chair and listening. On the table, a pencil rests across an empty comic speech bubble like a tiny microphone. Keep the paper otherwise blank. Visible lettering: only the five bubble words.",
+        "line": "Can you show me once?"
+      },
+      {
+        "scene": "Warm-coloured comic-strip panel. Show child, the hero, seated facing forward, touching his chest with one hand and opening his mouth to name a feeling. Beside him, grown-up-one, a grown-up, touches her own chest and listens. Use the locked reference appearances. Visible lettering: only the five bubble words.",
+        "line": "Frustrated fits better than bad."
+      },
+      {
+        "scene": "Warm-coloured comic-strip panel. Show child, the hero, speaking across the table to grown-up-one, a grown-up, who remains seated and attentive. The hero's hand rests beside the pencil; the comic speech bubble on the paper remains empty. Keep the bag beneath the table. Visible lettering: only the six bubble words.",
+        "line": "Still frustrated. A bit nervous too."
+      }
+    ],
+    "jokeIdea": "On the table beside the hero, a pencil rests across an empty comic speech bubble as though the bubble has its own tiny microphone. Keep it inside the scene, with no extra lettering.",
+    "feelFirst": [
+      "A hard afternoon can leave a lot inside.",
+      "You don't have to tell the whole thing at once."
+    ],
+    "tinyTryOptions": [
+      {
+        "text": "Think of a small bother. Touch your chest and say a feeling word that fits better than 'bad' or 'mad'.",
+        "seconds": 30,
+        "offScreen": true
+      },
+      {
+        "text": "Let a grown-up name their own feeling first. Then touch your chest and name yours.",
+        "seconds": 60,
+        "offScreen": true
+      },
+      {
+        "text": "If two feelings fit, touch your chest and say both. Give each a number from 1 to 10; it's not a grade.",
+        "seconds": 60,
+        "offScreen": true
+      }
+    ],
+    "whereElse": {
+      "line": "At the kitchen table, try saying which feeling fits.",
+      "place": "kitchen table"
+    },
+    "noticedFeeling": "Frustrated",
+    "replayCue": "When 'bad' or 'mad' feels too broad, name the feeling.",
+    "pagination": {
+      "source": "bbfecd2d000e42fbece94c1a67ec5780dd272d7d6811fe816ac4a23cba8a9d07",
+      "pages": [
+        "The door bangs.\nPip drops his bag.\n“Everyone is annoying.”\n\nDee stops beside the table. Pip pushes his bag under it with his foot, but the strap catches. He kicks again. The bag stays put.\n\n“I don't want questions.”\n\n“Something about this afternoon feels hard,” Dee says. “You don't have to tell the whole thing right now.”\n\nPip pulls the strap free. He sits, then stands again. Sitting feels wrong. Standing feels wrong too.\n\nDee stays beside the other chair without reaching for his bag.\n\n“I said everyone,” Pip says.\n\n“I heard you.”\n\nOn the table lies a comic page with an empty speech bubble. A pencil rests across the bubble like a tiny microphone. Pip nudges it with one finger.\n\n“Even my speech bubble wants a turn,” he mutters.\n\nDee looks at the pencil. “It has a very small microphone.”\n\nPip almost smiles. Almost. Then he pushes the page away.\n\n“I'm still mad.”\n\n“Okay,” Dee says. “Want to find the word that fits, or leave that for later?”\n\n“Mad fits.”\n\n“It might.”\n\nPip presses his palms against the table. “What if I don't know?”\n\n“You can try a word without keeping it.”\n\nHe watches the pencil roll into the fold of the paper. The afternoon sits in his head like a crowded comic panel, but he doesn't want to describe any of it.\n\n“Can you show me once?”\n\nDee pulls out the other chair and sits.\n\n“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”",
+        "Pip rubs the edge of the table.\n\n“That's a lot of words.”\n\n“You only need the one that fits. Or two.”\n\n“Does saying it fix anything?”\n\nDee shakes her head. “In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.”\n\nPip looks down at his hands. He doesn't feel much different from a minute ago.\n\n“Annoyed,” he says, then wrinkles his nose. “No. Bigger than annoyed.”\n\nDee waits.\n\n“Frustrated. Like everything is getting in my way, and I can't get past it.”\n\nHe hooks his foot around the chair leg and finally sits.\n\n“Frustrated fits better than bad.”\n\n“That sounds more precise,” Dee says. “Closer to what you mean.”\n\nPip touches his chest. Dee touches hers too.\n\n“Frustrated,” he says aloud.\n\n“I'm concerned,” Dee says. “I care about how you're doing, and I don't know much about this afternoon.”\n\nPip slides the comic page back toward himself. He leaves its speech bubble empty.\n\n“Mine's a seven,” he says. “Not a grade. Just how big.”\n\nDee nods.\n\n“There's another one,” Pip says. “Nervous. Tryouts are next week. They keep popping into my head.”\n\nHis fingers tighten around the pencil. He puts it down again.\n\n“Still frustrated. A bit nervous too.”\n\n“You found words for both,” Dee says.\n\n“I didn't tell you what happened.”\n\n“I know.”\n\n“And I'm not ready.”\n\nDee stays in her chair. Pip stays in his. The bag strap still sticks out beneath the table, and he moves his foot around it instead of kicking.\n\nAfter a while, Dee asks, “What was the move?”\n\nPip touches his chest again. “Name what I feel. Frustrated and nervous.”\n\nHe glances at the door. Tomorrow's school afternoon still feels too close. But this time, when Dee looks at him, he has two words he can say."
+      ],
+      "panelPages": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "bubbleSentenceIndices": [
+        7,
+        36,
+        71,
+        91
+      ],
+      "bubbleSentenceRanges": [
+        {
+          "start": 7,
+          "end": 7
+        },
+        {
+          "start": 36,
+          "end": 36
+        },
+        {
+          "start": 71,
+          "end": 71
+        },
+        {
+          "start": 91,
+          "end": 92
+        }
+      ],
+      "wordCounts": [
+        307,
+        304
+      ],
+      "cut": {
+        "at": 1672,
+        "paragraph": true,
+        "pageOnePercent": 50.245499181669395
+      },
+      "receipt": "c194d7104e9357a38e971ded316d3bcce09d50563f388f7fccdaa47e60644994"
+    }
+  },
+  "receipt": {
+    "measured": true,
+    "ready": false,
+    "faults": [
+      "story.footer: rendered footer extends 284.00 points beyond the fixed page",
+      "story.story: rendered text extends 11.70 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 34.49 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 57.28 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 80.07 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 102.87 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 142.45 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 165.25 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 188.04 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.story: rendered text extends 278.00 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story.SPAN: rendered text extends 283.01 points beyond its 540.00 by 720.00 point content area at 9.00 point type",
+      "story.SPAN: rendered text extends 283.01 points beyond its 540.00 by 720.00 point content area at 9.00 point type",
+      "story-2.footer: rendered footer extends 330.80 points beyond the fixed page",
+      "story-2.story: rendered text extends 0.90 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 23.70 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 63.28 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 86.07 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 108.87 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 131.66 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 154.45 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 177.25 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 200.04 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 239.63 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 262.42 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 285.21 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.story: rendered text extends 324.80 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "story-2.SPAN: rendered text extends 329.80 points beyond its 540.00 by 720.00 point content area at 9.00 point type",
+      "story-2.SPAN: rendered text extends 329.80 points beyond its 540.00 by 720.00 point content area at 9.00 point type",
+      "try.footer: rendered footer extends 30.55 points beyond the fixed page",
+      "try.weekly: rendered text extends 24.55 points beyond its 540.00 by 700.01 point content area at 12.00 point type",
+      "try.SPAN: rendered text extends 29.55 points beyond its 540.00 by 720.00 point content area at 9.00 point type",
+      "try.SPAN: rendered text extends 29.55 points beyond its 540.00 by 720.00 point content area at 9.00 point type"
+    ],
+    "pages": [
+      {
+        "page": "story",
+        "overflowPoints": 284.00390625,
+        "footerOverflowPoints": 284.00390625,
+        "fixedOnlyOverflow": true,
+        "elements": [
+          {
+            "generated": "chapterTitle",
+            "field": "chapterTitle",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Chapter 1: Name the Feeling",
+            "bounds": {
+              "x": 210,
+              "y": 792,
+              "w": 272.58984375,
+              "h": 34.74609375
+            },
+            "fontPoints": 21.999975000000003,
+            "linePoints": 23.76,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "The door bangs.",
+            "bounds": {
+              "x": 210,
+              "y": 1077.84375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip drops his bag.",
+            "bounds": {
+              "x": 210,
+              "y": 1100.63671875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Everyone is annoying.”",
+            "bounds": {
+              "x": 210,
+              "y": 1123.4296875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee stops beside the table. Pip pushes his bag under it with his foot, but the strap catches. He kicks again. The bag stays put.",
+            "bounds": {
+              "x": 210,
+              "y": 1146.22265625,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I don't want questions.”",
+            "bounds": {
+              "x": 210,
+              "y": 1185.80859375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Something about this afternoon feels hard,” Dee says. “You don't have to tell the whole thing right now.”",
+            "bounds": {
+              "x": 210,
+              "y": 1208.6015625,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip pulls the strap free. He sits, then stands again. Sitting feels wrong. Standing feels wrong too.",
+            "bounds": {
+              "x": 210,
+              "y": 1248.1875,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee stays beside the other chair without reaching for his bag.",
+            "bounds": {
+              "x": 210,
+              "y": 1287.7734375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I said everyone,” Pip says.",
+            "bounds": {
+              "x": 210,
+              "y": 1310.56640625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I heard you.”",
+            "bounds": {
+              "x": 210,
+              "y": 1333.359375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "On the table lies a comic page with an empty speech bubble. A pencil rests across the bubble like a tiny microphone. Pip nudges it with one finger.",
+            "bounds": {
+              "x": 210,
+              "y": 1356.15234375,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Even my speech bubble wants a turn,” he mutters.",
+            "bounds": {
+              "x": 210,
+              "y": 1395.73828125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee looks at the pencil. “It has a very small microphone.”",
+            "bounds": {
+              "x": 210,
+              "y": 1418.53125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip almost smiles. Almost. Then he pushes the page away.",
+            "bounds": {
+              "x": 210,
+              "y": 1441.32421875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I'm still mad.”",
+            "bounds": {
+              "x": 210,
+              "y": 1464.1171875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Okay,” Dee says. “Want to find the word that fits, or leave that for later?”",
+            "bounds": {
+              "x": 210,
+              "y": 1486.91015625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 11.6953125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Mad fits.”",
+            "bounds": {
+              "x": 210,
+              "y": 1509.703125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 34.48828125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“It might.”",
+            "bounds": {
+              "x": 210,
+              "y": 1532.49609375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 57.28125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip presses his palms against the table. “What if I don't know?”",
+            "bounds": {
+              "x": 210,
+              "y": 1555.2890625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 80.07421875
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“You can try a word without keeping it.”",
+            "bounds": {
+              "x": 210,
+              "y": 1578.08203125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 102.8671875
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "He watches the pencil roll into the fold of the paper. The afternoon sits in his head like a crowded comic panel, but he doesn't want to describe any of it.",
+            "bounds": {
+              "x": 210,
+              "y": 1600.875,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 142.453125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Can you show me once?”",
+            "bounds": {
+              "x": 210,
+              "y": 1640.4609375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 165.24609375
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee pulls out the other chair and sits.",
+            "bounds": {
+              "x": 210,
+              "y": 1663.25390625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 188.0390625
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”",
+            "bounds": {
+              "x": 210,
+              "y": 1686.046875,
+              "w": 453.59765625,
+              "h": 83.96484375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 278.00390625
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "Pip's Confidence Guide",
+            "bounds": {
+              "x": 433.69921875,
+              "y": 1782.7734375,
+              "w": 92.6015625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 283.0078125
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "2/5",
+            "bounds": {
+              "x": 736.65234375,
+              "y": 1782.7734375,
+              "w": 13.34765625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 283.0078125
+          }
+        ]
+      },
+      {
+        "page": "story-2",
+        "overflowPoints": 330.796875,
+        "footerOverflowPoints": 330.796875,
+        "fixedOnlyOverflow": true,
+        "elements": [
+          {
+            "generated": "chapterTitle",
+            "field": "chapterTitle",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Chapter 1: Name the Feeling",
+            "bounds": {
+              "x": 210,
+              "y": 1512,
+              "w": 272.58984375,
+              "h": 34.74609375
+            },
+            "fontPoints": 21.999975000000003,
+            "linePoints": 23.76,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip rubs the edge of the table.",
+            "bounds": {
+              "x": 210,
+              "y": 1797.84375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“That's a lot of words.”",
+            "bounds": {
+              "x": 210,
+              "y": 1820.63671875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“You only need the one that fits. Or two.”",
+            "bounds": {
+              "x": 210,
+              "y": 1843.4296875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Does saying it fix anything?”",
+            "bounds": {
+              "x": 210,
+              "y": 1866.22265625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee shakes her head. “In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.”",
+            "bounds": {
+              "x": 210,
+              "y": 1889.015625,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip looks down at his hands. He doesn't feel much different from a minute ago.",
+            "bounds": {
+              "x": 210,
+              "y": 1928.6015625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Annoyed,” he says, then wrinkles his nose. “No. Bigger than annoyed.”",
+            "bounds": {
+              "x": 210,
+              "y": 1951.39453125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee waits.",
+            "bounds": {
+              "x": 210,
+              "y": 1974.1875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Frustrated. Like everything is getting in my way, and I can't get past it.”",
+            "bounds": {
+              "x": 210,
+              "y": 1996.98046875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "He hooks his foot around the chair leg and finally sits.",
+            "bounds": {
+              "x": 210,
+              "y": 2019.7734375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Frustrated fits better than bad.”",
+            "bounds": {
+              "x": 210,
+              "y": 2042.56640625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“That sounds more precise,” Dee says. “Closer to what you mean.”",
+            "bounds": {
+              "x": 210,
+              "y": 2065.359375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip touches his chest. Dee touches hers too.",
+            "bounds": {
+              "x": 210,
+              "y": 2088.15234375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Frustrated,” he says aloud.",
+            "bounds": {
+              "x": 210,
+              "y": 2110.9453125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I'm concerned,” Dee says. “I care about how you're doing, and I don't know much about this afternoon.”",
+            "bounds": {
+              "x": 210,
+              "y": 2133.73828125,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip slides the comic page back toward himself. He leaves its speech bubble empty.",
+            "bounds": {
+              "x": 210,
+              "y": 2173.32421875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Mine's a seven,” he says. “Not a grade. Just how big.”",
+            "bounds": {
+              "x": 210,
+              "y": 2196.1171875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 0.90234375
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee nods.",
+            "bounds": {
+              "x": 210,
+              "y": 2218.91015625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 23.6953125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“There's another one,” Pip says. “Nervous. Tryouts are next week. They keep popping into my head.”",
+            "bounds": {
+              "x": 210,
+              "y": 2241.703125,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 63.28125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "His fingers tighten around the pencil. He puts it down again.",
+            "bounds": {
+              "x": 210,
+              "y": 2281.2890625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 86.07421875
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“Still frustrated. A bit nervous too.”",
+            "bounds": {
+              "x": 210,
+              "y": 2304.08203125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 108.8671875
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“You found words for both,” Dee says.",
+            "bounds": {
+              "x": 210,
+              "y": 2326.875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 131.66015625
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I didn't tell you what happened.”",
+            "bounds": {
+              "x": 210,
+              "y": 2349.66796875,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 154.453125
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“I know.”",
+            "bounds": {
+              "x": 210,
+              "y": 2372.4609375,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 177.24609375
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "“And I'm not ready.”",
+            "bounds": {
+              "x": 210,
+              "y": 2395.25390625,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 200.0390625
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Dee stays in her chair. Pip stays in his. The bag strap still sticks out beneath the table, and he moves his foot around it instead of kicking.",
+            "bounds": {
+              "x": 210,
+              "y": 2418.046875,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 239.625
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "After a while, Dee asks, “What was the move?”",
+            "bounds": {
+              "x": 210,
+              "y": 2457.6328125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 262.41796875
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "Pip touches his chest again. “Name what I feel. Frustrated and nervous.”",
+            "bounds": {
+              "x": 210,
+              "y": 2480.42578125,
+              "w": 453.59765625,
+              "h": 16.79296875
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 285.2109375
+          },
+          {
+            "generated": "story",
+            "field": "story",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "He glances at the door. Tomorrow's school afternoon still feels too close. But this time, when Dee looks at him, he has two words he can say.",
+            "bounds": {
+              "x": 210,
+              "y": 2503.21875,
+              "w": 453.59765625,
+              "h": 33.5859375
+            },
+            "fontPoints": 12,
+            "linePoints": 16.8,
+            "overflowPoints": 324.796875
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "Pip's Confidence Guide",
+            "bounds": {
+              "x": 433.69921875,
+              "y": 2549.56640625,
+              "w": 92.6015625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 329.80078125
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "3/5",
+            "bounds": {
+              "x": 736.65234375,
+              "y": 2549.56640625,
+              "w": 13.34765625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 329.80078125
+          }
+        ]
+      },
+      {
+        "page": "try",
+        "overflowPoints": 30.55078125,
+        "footerOverflowPoints": 30.55078125,
+        "fixedOnlyOverflow": true,
+        "elements": [
+          {
+            "generated": "feelFirst",
+            "field": "feelFirst",
+            "card": "feel",
+            "cardIndex": 0,
+            "footer": false,
+            "text": "A hard afternoon can leave a lot inside.",
+            "bounds": {
+              "x": 220.74609375,
+              "y": 2324.14453125,
+              "w": 518.5078125,
+              "h": 16.3125
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "feelFirst",
+            "field": "feelFirst",
+            "card": "feel",
+            "cardIndex": 0,
+            "footer": false,
+            "text": "You don't have to tell the whole thing at once.",
+            "bounds": {
+              "x": 220.74609375,
+              "y": 2348.44921875,
+              "w": 518.5078125,
+              "h": 16.3125
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "tinyTryOptions[0].text",
+            "field": "tinyTryOptions[0].text",
+            "card": "tiny",
+            "cardIndex": 2,
+            "footer": false,
+            "text": "Think of a small bother. Touch your chest and say a feeling word that fits better than 'bad' or 'mad'. (30 seconds)",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 2547.71484375,
+              "w": 499.51171875,
+              "h": 32.625
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "tinyTryOptions[1].text",
+            "field": "tinyTryOptions[1].text",
+            "card": "tiny",
+            "cardIndex": 2,
+            "footer": false,
+            "text": "Let a grown-up name their own feeling first. Then touch your chest and name yours. (60 seconds)",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 2589.33984375,
+              "w": 499.51171875,
+              "h": 32.625
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "tinyTryOptions[2].text",
+            "field": "tinyTryOptions[2].text",
+            "card": "tiny",
+            "cardIndex": 2,
+            "footer": false,
+            "text": "If two feelings fit, touch your chest and say both. Give each a number from 1 to 10; it's not a grade. (60 seconds)",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 2630.96484375,
+              "w": 499.51171875,
+              "h": 32.625
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": "whereElse.place",
+            "field": "whereElse.place",
+            "card": "",
+            "cardIndex": 4,
+            "footer": false,
+            "text": "kitchen table",
+            "bounds": {
+              "x": 495.73828125,
+              "y": 2770.03125,
+              "w": 243.515625,
+              "h": 16.3125
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 0
+          },
+          {
+            "generated": null,
+            "field": "weekly",
+            "card": null,
+            "cardIndex": -1,
+            "footer": false,
+            "text": "This week I tried: ______",
+            "bounds": {
+              "x": 210,
+              "y": 2940.24609375,
+              "w": 540,
+              "h": 16.3125
+            },
+            "fontPoints": 12,
+            "linePoints": 16.32,
+            "overflowPoints": 24.55078125
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "Pip's Confidence Guide",
+            "bounds": {
+              "x": 433.69921875,
+              "y": 2969.3203125,
+              "w": 92.6015625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 29.5546875
+          },
+          {
+            "generated": null,
+            "field": "",
+            "card": null,
+            "cardIndex": -1,
+            "footer": true,
+            "text": "4/5",
+            "bounds": {
+              "x": 736.65234375,
+              "y": 2969.3203125,
+              "w": 13.34765625,
+              "h": 12.234375
+            },
+            "fontPoints": 9,
+            "linePoints": 12.24,
+            "overflowPoints": 29.5546875
+          }
+        ]
+      }
+    ]
+  }
+}

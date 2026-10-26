@@ -1,0 +1,30 @@
+{
+  "pass": 36,
+  "chosenBy": "Codex under Sunny's delegation of 2026-10-14",
+  "reviewLabel": "FOR SUNNY'S READ",
+  "ownerApproval": false,
+  "scope": "Phone screen wording, flow, theme and component choices in app/. Fixed move, practice, science and source records are displayed verbatim; new screen wording makes no new science claims.",
+  "componentKit": "React and Material UI; all controls and layout use the component kit. Fonts and colors match the pass 32 print theme. Theme values and shared component defaults live in app/theme.js.",
+  "privacy": "Local preview, made-up families only until config.zeroRetentionApproved. No photo input. Local accounts and kit evidence stay under context/local-app. No deployment or public hosting.",
+  "smallSpill": "A measured spill up to 24 points may reclaim heading top padding and heading/panel gaps before paid shortening. Body type, paragraph gaps, artwork sizes, words, margins and five pages stay intact.",
+  "deferred": [
+    "Real family and photo likeness use pending zero retention",
+    "Three generated people portraits to choose from",
+    "Hosted login and password recovery",
+    "Live research for new move records",
+    "My Moves compilation",
+    "Voice output and push notifications"
+  ],
+  "parentVerdict": {
+    "reviewLabel": "FOR SUNNY'S READ",
+    "ownerApproval": false,
+    "immediateHelp": "Local first response before login or people setup. Prepared practice stays verbatim and is explicitly optional. Unknown concerns get neutral feeling/help examples, never a padded list.",
+    "roles": "Self criticism leads to asking for help or naming the feeling, because Coach voice rehearses anger at someone else. Exclusion targets do not get the witness-chat move. Test nerves lead to test-compatible records. Sibling shoves get a calm pause before repair; record wording is not adapted into new advice.",
+    "safety": "Existing danger stops retained and inflections/repeated physical harm recognized. Parent-only guidance and verified StopBullying.gov links are in parent-safety.json for Sunny to read. No move sources were added or changed.",
+    "science": "FORMAT retains one modest honest science idea whispered once. Detailed methods, age ranges, citations and full limitations stay in the existing parent notes. Both models see the same rule; narrow deterministic lecture forms request a story repair on newly written stories. Existing bought stories remain evidence.",
+    "exampleName": "Own-name positive-action examples keep instruction/action verbatim except removal of the sample vocative after Use your name. Applies to any sample name, across poster, request and interactive presentations. This removes Sam without transmitting a family name to pictures or changing move/practice records.",
+    "wait": "About 10 minutes is an observation from the two consumer-test kits, not a performance promise or timeout. Shown before starting and during work. Picture checks belong to Drawing; only final export reaches Checking; progress never retreats.",
+    "children": "One local login, separate child files/history/feedback/reference paths/chapter numbers; primary legacy family.json and kit folders stay in place. Whole-family daily dollar/three-kit limits remain shared. No child-facing account.",
+    "headings": "Chapter title and identity wrap at the existing sizes inside the same header. No words, margins, panels or pages removed. Fresh visual measurement remains unverified."
+  }
+}

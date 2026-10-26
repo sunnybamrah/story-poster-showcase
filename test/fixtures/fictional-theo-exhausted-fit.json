@@ -1,0 +1,860 @@
+{
+  "fixture": true,
+  "source": "Exact accepted fictional Theo text and spent fitting attempts from failed kit ab9cc5bf, October 15. Paths removed; every accepted text field unchanged.",
+  "sourceCheckpointSHA256": "03baa645e7575c0ce30cd8ba76b72c91cfde4a4e01350df9793ed3b14283c591",
+  "checkpoint": {
+    "version": 1,
+    "kit": 1,
+    "tonight": "Theo had a bad day. He was upset because he did not get another book from the library, because he forgot to return his old book.",
+    "recordAtStart": {
+      "real": false,
+      "pictureStyleId": "bold-ink-comic",
+      "familyContext": "",
+      "parentLabel": "Dad",
+      "hero": {
+        "nickname": "Theo",
+        "name": "Theo",
+        "age": 8,
+        "pronouns": "he/him",
+        "loves": [
+          "drawing comics",
+          "soccer",
+          "space"
+        ],
+        "lookChips": [
+          "human boy",
+          "short dark hair",
+          "warm tan skin",
+          "no glasses"
+        ],
+        "lockedOutfit": [
+          "green hoodie with a yellow lightning patch",
+          "red high top sneakers",
+          "blue sketchbook under one arm"
+        ],
+        "heroPicturePath": ""
+      },
+      "cast": [
+        {
+          "id": "child",
+          "label": "the child",
+          "role": "child",
+          "species": "human",
+          "description": [
+            "human boy",
+            "short dark hair",
+            "warm tan skin",
+            "no glasses"
+          ],
+          "outfit": [
+            "green hoodie with a yellow lightning patch",
+            "red high top sneakers",
+            "blue sketchbook under one arm"
+          ],
+          "pronouns": "he/him",
+          "referenceSource": "photo",
+          "referenceStyleId": "bold-ink-comic",
+          "referenceStyleVersion": "bold-ink-comic-v1:72c613986735faa39f97cea618de6599526ef189c89d4af656d106780ac1b03d"
+        },
+        {
+          "id": "grown-up-one",
+          "label": "the grown-up",
+          "role": "grown-up",
+          "species": "human",
+          "pronouns": "he/him",
+          "description": [
+            "human adult man",
+            "short dark hair"
+          ],
+          "outfit": [
+            "blue sweater",
+            "dark trousers",
+            "brown shoes"
+          ],
+          "referenceSource": "photo",
+          "referenceStyleId": "bold-ink-comic",
+          "referenceStyleVersion": "bold-ink-comic-v1:72c613986735faa39f97cea618de6599526ef189c89d4af656d106780ac1b03d"
+        }
+      ],
+      "storyPeople": [
+        {
+          "castId": "grown-up-one",
+          "storyName": "Dad"
+        }
+      ],
+      "pastKits": [],
+      "usedMoveIds": [],
+      "cachedRequests": [],
+      "revision": 0,
+      "derivedTextCleared": false,
+      "dataPolicyConsent": {
+        "accepted": true,
+        "version": "openai-standard-2026-10-15-v2",
+        "acceptedAt": "2026-10-16T00:34:30.036Z"
+      }
+    },
+    "stages": {
+      "text": {
+        "moveId": "name-it-exactly",
+        "chapterTitle": "Name the Feeling",
+        "tagline": "Name it to tame it",
+        "story": "The old book sits there.\nNo new book.\nTheo turns it face down.\n\nTheo dents an empty comic panel. Dad sits beside him.\n\n\u201cI couldn't get another library book,\u201d Theo says. \u201cBecause I forgot to return this one.\u201d He nudges the book without looking at it.\n\n\u201cIt was a bad day,\u201d Theo says. He draws a tiny thundercloud in the empty panel. Then he adds another bump. Apparently this cloud needs room to expand.\n\n\u201cBad can hold lots of feelings,\u201d Dad says. \u201cWould you like to find a more precise word, one that fits more closely?\u201d Theo rolls the pencil beneath his palm. He doesn't want a word that makes forgetting sound fine.\n\n\u201cThe word doesn't have to excuse anything,\u201d Dad says. \u201cIt just names what you feel.\u201d Theo considers that. \u201cMad,\u201d he says, then frowns. \u201cBut not exactly stomping mad. More like I was ready for something good, and then nothing.\u201d\n\n\u201cAn anticlimax,\u201d Dad says. \u201cA big build-up, then a flat ending.\u201d Theo taps the blank space beneath his cloud. \u201cYes. Except the flat ending is also annoying.\u201d\n\n\u201cCan you give me an example?\u201d Theo asks. Dad rests his hands on the table. \u201cSure. Here's one way to find the word.\u201d\n\n\u201cThink of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\u201d\n\nTheo puts the pencil down. \u201cNot embarrassed, I don't think.\u201d He looks at the book again. \u201cLet down. I really wanted a new one. Disappointed is the word.\u201d\n\n\u201cAnd annoyed?\u201d Dad asks. \u201cMaybe,\u201d Theo says. \u201cAt myself for forgetting.\u201d They each touch a hand to their own chest. Theo tries the words aloud instead of leaving them tangled inside.\n\n\u201cDisappointed and annoyed,\u201d Theo says. \u201cDisappointed is bigger. Seven.\u201d Saying seven feels strange. He nearly changes it to six, then remembers that nobody is marking his answer.\n\nDad touches his chest again. \u201cI feel sad that your afternoon was rough.\u201d Theo rubs a dent in the paper. The book is still the wrong book. His chest still feels tight.\n\n\u201cI said it, but I'm still upset,\u201d Theo says. Dad nods. \u201cNaming feelings sometimes helped adults feel less upset. Those results come from adult studies, so we don't know whether this practice helps children.\u201d\n\nTheo picks up his pencil. \u201cAt least I know which upset it is.\u201d He adds a second, smaller cloud beside the first. The small one looks suspiciously like a lumpy potato.\n\n\u201cThat one needs a name too,\u201d Dad says. \u201cAnnoyed,\u201d Theo tells him. \u201cNot potato.\u201d He gives it one last bump, which does not improve its dignity.\n\nDad looks from one cloud to the other. \u201cWhich word fits best right now?\u201d Theo checks before answering. \u201cStill disappointed. And a bit annoyed.\u201d\n\nHe leaves the rest of the comic panel empty. There isn't a cheerful ending to draw just because he has found the words.\n\nThe old book stays on the table. Theo is still disappointed about the new one he couldn't bring home. When Dad sits back beside him, Theo doesn't have to squeeze all of that into \u201cbad.\u201d",
+        "panelLines": [
+          {
+            "scene": "Warm comic strip colours. The hero, child, sits at a table beside grown-up-one, a grown-up who listens with his hands resting nearby. The hero holds a pencil over an unlettered comic panel containing one small cloud. Use the supplied locked human appearances. No writing appears on paper or objects.",
+            "line": "It was a bad day.",
+            "speakerId": "child"
+          },
+          {
+            "scene": "A closer side view in warm amber and coral. The hero, child, turns toward grown-up-one with his pencil resting beneath one palm. Grown-up-one faces him at the same table, ready to answer. The unlettered comic sheet lies between them. Keep all objects free of words and preserve the supplied human appearances.",
+            "line": "Can you give me an example?",
+            "speakerId": "child"
+          },
+          {
+            "scene": "The hero, child, speaks with one hand touching his own chest. Across the table, grown-up-one listens with one hand touching his own chest too. Show their faces clearly and keep the gesture relaxed. The pencil rests beside the unlettered paper. Use warm comic strip colours and the supplied locked human appearances.",
+            "line": "Disappointed and annoyed.",
+            "speakerId": "child"
+          },
+          {
+            "scene": "An angled view over the table shows the hero, child, pointing his pencil toward two unlettered clouds on his comic sheet. The smaller cloud looks amusingly like a lumpy potato. Grown-up-one sits beside him, looking at the drawing. Keep the joke within the drawing, with warm colours and no object lettering.",
+            "line": "Not potato.",
+            "speakerId": "child"
+          }
+        ],
+        "jokeIdea": "A small feeling cloud on the hero's unlettered comic sheet accidentally looks like a lumpy potato.",
+        "feelFirst": [
+          "Missing out on something you wanted can really sting.",
+          "You can be upset about forgetting, too."
+        ],
+        "tinyTryOptions": [
+          {
+            "text": "Start with a small bother. Say a feeling word that fits better than bad.",
+            "seconds": 30,
+            "offScreen": true
+          },
+          {
+            "text": "Let a grown-up name their feeling first. Then touch your chest and name yours.",
+            "seconds": 60,
+            "offScreen": true
+          },
+          {
+            "text": "If two feelings fit, say both. Give the bigger one a number, not a grade.",
+            "seconds": 60,
+            "offScreen": true
+          }
+        ],
+        "whereElse": {
+          "line": "Where else could you name a feeling?",
+          "place": "At the kitchen table, with a grown-up beside you."
+        },
+        "noticedFeeling": "Disappointed",
+        "replayCue": "When bad feels too broad, say the feeling word that fits.",
+        "pagination": {
+          "source": "5b68ada9a1111caa5cb0670e1560ef1170b88b7d9f668b4cd5161bca2b107880",
+          "pages": [
+            "The old book sits there.\nNo new book.\nTheo turns it face down.\n\nTheo dents an empty comic panel. Dad sits beside him.\n\n\u201cI couldn't get another library book,\u201d Theo says. \u201cBecause I forgot to return this one.\u201d He nudges the book without looking at it.\n\n\u201cIt was a bad day,\u201d Theo says. He draws a tiny thundercloud in the empty panel. Then he adds another bump. Apparently this cloud needs room to expand.\n\n\u201cBad can hold lots of feelings,\u201d Dad says. \u201cWould you like to find a more precise word, one that fits more closely?\u201d Theo rolls the pencil beneath his palm. He doesn't want a word that makes forgetting sound fine.\n\n\u201cThe word doesn't have to excuse anything,\u201d Dad says. \u201cIt just names what you feel.\u201d Theo considers that. \u201cMad,\u201d he says, then frowns. \u201cBut not exactly stomping mad. More like I was ready for something good, and then nothing.\u201d\n\n\u201cAn anticlimax,\u201d Dad says. \u201cA big build-up, then a flat ending.\u201d Theo taps the blank space beneath his cloud. \u201cYes. Except the flat ending is also annoying.\u201d\n\n\u201cCan you give me an example?\u201d Theo asks. Dad rests his hands on the table. \u201cSure. Here's one way to find the word.\u201d\n\n\u201cThink of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\u201d",
+            "Theo puts the pencil down. \u201cNot embarrassed, I don't think.\u201d He looks at the book again. \u201cLet down. I really wanted a new one. Disappointed is the word.\u201d\n\n\u201cAnd annoyed?\u201d Dad asks. \u201cMaybe,\u201d Theo says. \u201cAt myself for forgetting.\u201d They each touch a hand to their own chest. Theo tries the words aloud instead of leaving them tangled inside.\n\n\u201cDisappointed and annoyed,\u201d Theo says. \u201cDisappointed is bigger. Seven.\u201d Saying seven feels strange. He nearly changes it to six, then remembers that nobody is marking his answer.\n\nDad touches his chest again. \u201cI feel sad that your afternoon was rough.\u201d Theo rubs a dent in the paper. The book is still the wrong book. His chest still feels tight.\n\n\u201cI said it, but I'm still upset,\u201d Theo says. Dad nods. \u201cNaming feelings sometimes helped adults feel less upset. Those results come from adult studies, so we don't know whether this practice helps children.\u201d\n\nTheo picks up his pencil. \u201cAt least I know which upset it is.\u201d He adds a second, smaller cloud beside the first. The small one looks suspiciously like a lumpy potato.\n\n\u201cThat one needs a name too,\u201d Dad says. \u201cAnnoyed,\u201d Theo tells him. \u201cNot potato.\u201d He gives it one last bump, which does not improve its dignity.\n\nDad looks from one cloud to the other. \u201cWhich word fits best right now?\u201d Theo checks before answering. \u201cStill disappointed. And a bit annoyed.\u201d\n\nHe leaves the rest of the comic panel empty. There isn't a cheerful ending to draw just because he has found the words.\n\nThe old book stays on the table. Theo is still disappointed about the new one he couldn't bring home. When Dad sits back beside him, Theo doesn't have to squeeze all of that into \u201cbad.\u201d"
+          ],
+          "panelPages": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "bubbleSentenceIndices": [
+            8,
+            27,
+            60,
+            80
+          ],
+          "bubbleSentenceRanges": [
+            {
+              "start": 8,
+              "end": 8
+            },
+            {
+              "start": 27,
+              "end": 27
+            },
+            {
+              "start": 60,
+              "end": 60
+            },
+            {
+              "start": 80,
+              "end": 80
+            }
+          ],
+          "wordCounts": [
+            272,
+            291
+          ],
+          "cut": {
+            "at": 1484,
+            "paragraph": true,
+            "pageOnePercent": 48.31261101243339
+          },
+          "receipt": "4d9ac85e886d5bf103403752aa8791c55f40be51905f43a9d2206d6b7548a5f8"
+        },
+        "guidance": [
+          {
+            "field": "story",
+            "measured": 563,
+            "unit": "words",
+            "range": [
+              0,
+              750
+            ],
+            "target": 600,
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "feelFirst",
+            "measured": 16,
+            "unit": "words",
+            "range": [
+              0,
+              22
+            ],
+            "target": "at most 22",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "try"
+          },
+          {
+            "field": "tinyTryOptions[0].text",
+            "measured": 14,
+            "unit": "words",
+            "range": [
+              0,
+              15
+            ],
+            "target": "at most 15",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "try"
+          },
+          {
+            "field": "tinyTryOptions[1].text",
+            "measured": 14,
+            "unit": "words",
+            "range": [
+              0,
+              15
+            ],
+            "target": "at most 15",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "try"
+          },
+          {
+            "field": "tinyTryOptions[2].text",
+            "measured": 15,
+            "unit": "words",
+            "range": [
+              0,
+              15
+            ],
+            "target": "at most 15",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "try"
+          },
+          {
+            "field": "whereElse.place",
+            "measured": 9,
+            "unit": "words",
+            "range": [
+              0,
+              12
+            ],
+            "target": "at most 12",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "try"
+          },
+          {
+            "field": "try.generated",
+            "measured": 68,
+            "unit": "words",
+            "range": [
+              0,
+              79
+            ],
+            "target": "at most 79",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "noticedFeeling",
+            "measured": 1,
+            "unit": "words",
+            "range": [
+              0,
+              2
+            ],
+            "target": "at most 2",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "for-you"
+          },
+          {
+            "field": "replayCue",
+            "measured": 11,
+            "unit": "words",
+            "range": [
+              0,
+              12
+            ],
+            "target": "at most 12",
+            "outsideRange": false,
+            "reportOnly": true,
+            "page": "for-you"
+          },
+          {
+            "field": "for-you.generated",
+            "measured": 12,
+            "unit": "words",
+            "range": [
+              0,
+              14
+            ],
+            "target": "at most 14",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "chapterTitle",
+            "measured": 3,
+            "unit": "words",
+            "range": [
+              1,
+              6
+            ],
+            "target": "3 to 6",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "tagline",
+            "measured": 5,
+            "unit": "words",
+            "range": [
+              1,
+              10
+            ],
+            "target": "two short spoken beats",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "feelFirst.statements",
+            "measured": 2,
+            "unit": "statements",
+            "range": [
+              1,
+              3
+            ],
+            "target": "2",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "panelLines[0].line",
+            "measured": 5,
+            "unit": "words",
+            "range": [
+              1,
+              10
+            ],
+            "target": "3 to 7",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "panelLines[1].line",
+            "measured": 6,
+            "unit": "words",
+            "range": [
+              1,
+              10
+            ],
+            "target": "3 to 7",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "panelLines[2].line",
+            "measured": 3,
+            "unit": "words",
+            "range": [
+              1,
+              10
+            ],
+            "target": "3 to 7",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "panelLines[3].line",
+            "measured": 2,
+            "unit": "words",
+            "range": [
+              1,
+              10
+            ],
+            "target": "3 to 7",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "tinyTryOptions[0].seconds",
+            "measured": 30,
+            "unit": "seconds",
+            "range": [
+              30,
+              90
+            ],
+            "target": "roughly 30 to 90",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "tinyTryOptions[1].seconds",
+            "measured": 60,
+            "unit": "seconds",
+            "range": [
+              30,
+              90
+            ],
+            "target": "roughly 30 to 90",
+            "outsideRange": false,
+            "reportOnly": true
+          },
+          {
+            "field": "tinyTryOptions[2].seconds",
+            "measured": 60,
+            "unit": "seconds",
+            "range": [
+              30,
+              90
+            ],
+            "target": "roughly 30 to 90",
+            "outsideRange": false,
+            "reportOnly": true
+          }
+        ],
+        "reviewFlags": [
+          {
+            "key": "picker_no_unused_match",
+            "evidence": "No unused keyword match. Offer the context-neutral approved records, including fitting repeats; do not pad the list with an unrelated example.",
+            "fields": [],
+            "reason": "Pass 24: saved for review; this is not a measured page break or hard rule.",
+            "label": "FOR SUNNY'S READ",
+            "reportOnly": true
+          }
+        ],
+        "rhymeSelection": {
+          "source": "approved",
+          "tagline": "Name it to tame it",
+          "selected": {
+            "moveId": "name-it-exactly",
+            "tagline": "Name it to tame it",
+            "lines": [
+              "Name it",
+              "to tame it"
+            ],
+            "source": "content/rhymes-draft.json",
+            "sha256": "bc246d8bcda9704caa19d2739b59c0e107a05b80520d653edcf0f4f27949e7d3",
+            "author": "Sunny",
+            "approval": {
+              "status": "approved",
+              "by": "Sunny",
+              "authority": "DECISIONS 45 and 46, confirmed in pass 28 brief",
+              "text": "Name it to tame it"
+            },
+            "selection": {
+              "by": "Codex (GPT-6.1 SOL)",
+              "authority": "Sunny\u2019s 2026-10-14 delegation, Slice 0 pass 31",
+              "ownerApproval": false
+            },
+            "approved": true,
+            "reviewLabel": "",
+            "status": "APPROVED BY SUNNY",
+            "draftStatus": null
+          },
+          "approved": {
+            "moveId": "name-it-exactly",
+            "tagline": "Name it to tame it",
+            "lines": [
+              "Name it",
+              "to tame it"
+            ],
+            "source": "content/rhymes-draft.json",
+            "sha256": "bc246d8bcda9704caa19d2739b59c0e107a05b80520d653edcf0f4f27949e7d3",
+            "author": "Sunny",
+            "approval": {
+              "status": "approved",
+              "by": "Sunny",
+              "authority": "DECISIONS 45 and 46, confirmed in pass 28 brief",
+              "text": "Name it to tame it"
+            },
+            "selection": {
+              "by": "Codex (GPT-6.1 SOL)",
+              "authority": "Sunny\u2019s 2026-10-14 delegation, Slice 0 pass 31",
+              "ownerApproval": false
+            },
+            "approved": true,
+            "reviewLabel": "",
+            "status": "APPROVED BY SUNNY",
+            "draftStatus": null
+          },
+          "reviewLabel": "",
+          "reason": "Print Sunny\u2019s approved wording verbatim."
+        },
+        "world": "comic strip",
+        "colourSet": "warm",
+        "ready": true,
+        "checks": [
+          {
+            "ready": true,
+            "faults": [],
+            "answers": {
+              "secondMoveTaught": false,
+              "feelingGoesAwayPromise": false,
+              "adviceOutsideRecord": false,
+              "jokeAtPerson": false,
+              "effortOnlyPraise": false,
+              "filledWhenINotice": false,
+              "screenOnlyPlace": false,
+              "chapterShapeWrong": false,
+              "tinyTryWrong": false,
+              "rhymeUsesStoryWords": false,
+              "rhymeDoesNotStateMove": false,
+              "wordAChildMustTranslate": false,
+              "scienceClaimsTeachingHelped": false,
+              "narrativeEssay": false,
+              "appearanceInventory": false,
+              "complianceCommentary": false,
+              "vocabularyLesson": false,
+              "concernDrift": false,
+              "storyContinuity": false,
+              "fictionInNarration": false,
+              "scienceRecordMissingOrChanged": false,
+              "taglineRhymes": true,
+              "evidence": {
+                "secondMoveTaught": "",
+                "feelingGoesAwayPromise": "",
+                "adviceOutsideRecord": "",
+                "jokeAtPerson": "",
+                "effortOnlyPraise": "",
+                "filledWhenINotice": "",
+                "screenOnlyPlace": "",
+                "chapterShapeWrong": "",
+                "tinyTryWrong": "",
+                "rhymeUsesStoryWords": "",
+                "rhymeDoesNotStateMove": "",
+                "wordAChildMustTranslate": "",
+                "scienceClaimsTeachingHelped": "",
+                "narrativeEssay": "",
+                "appearanceInventory": "",
+                "complianceCommentary": "",
+                "vocabularyLesson": "",
+                "concernDrift": "",
+                "storyContinuity": "",
+                "fictionInNarration": "",
+                "scienceRecordMissingOrChanged": "",
+                "taglineRhymes": "\"Name\", \"tame\""
+              },
+              "affectedFields": {
+                "secondMoveTaught": [],
+                "feelingGoesAwayPromise": [],
+                "adviceOutsideRecord": [],
+                "jokeAtPerson": [],
+                "effortOnlyPraise": [],
+                "filledWhenINotice": [],
+                "screenOnlyPlace": [],
+                "chapterShapeWrong": [],
+                "tinyTryWrong": [],
+                "rhymeUsesStoryWords": [],
+                "rhymeDoesNotStateMove": [],
+                "wordAChildMustTranslate": [],
+                "scienceClaimsTeachingHelped": [],
+                "narrativeEssay": [],
+                "appearanceInventory": [],
+                "complianceCommentary": [],
+                "vocabularyLesson": [],
+                "concernDrift": [],
+                "storyContinuity": [],
+                "fictionInNarration": [],
+                "scienceRecordMissingOrChanged": []
+              },
+              "taglineEndWords": [
+                "Name",
+                "tame"
+              ],
+              "chapterShapeFindings": []
+            },
+            "extraKeys": [],
+            "affectedFields": {},
+            "evidence": {},
+            "reasons": {},
+            "chapterShapeFindings": [],
+            "ignoredFaults": [],
+            "reviewFlags": [],
+            "needsRecheck": false,
+            "qualityCoverage": "current",
+            "verified": true,
+            "omittedNarrativeAssessments": [],
+            "translationWord": null,
+            "rhyme": {
+              "namedWords": [
+                "Name",
+                "tame"
+              ],
+              "checkerRhymes": true,
+              "rhymes": true,
+              "source": "judge"
+            },
+            "artifactAttempt": 1,
+            "checkerAttempt": 1
+          },
+          {
+            "ready": true,
+            "faults": [],
+            "answers": {
+              "secondMoveTaught": false,
+              "feelingGoesAwayPromise": false,
+              "adviceOutsideRecord": false,
+              "jokeAtPerson": false,
+              "effortOnlyPraise": false,
+              "filledWhenINotice": false,
+              "screenOnlyPlace": false,
+              "chapterShapeWrong": false,
+              "tinyTryWrong": false,
+              "rhymeUsesStoryWords": false,
+              "rhymeDoesNotStateMove": false,
+              "wordAChildMustTranslate": false,
+              "scienceClaimsTeachingHelped": false,
+              "narrativeEssay": false,
+              "appearanceInventory": false,
+              "complianceCommentary": false,
+              "vocabularyLesson": false,
+              "concernDrift": false,
+              "storyContinuity": false,
+              "fictionInNarration": false,
+              "scienceRecordMissingOrChanged": false,
+              "taglineRhymes": true,
+              "evidence": {
+                "secondMoveTaught": "",
+                "feelingGoesAwayPromise": "",
+                "adviceOutsideRecord": "",
+                "jokeAtPerson": "",
+                "effortOnlyPraise": "",
+                "filledWhenINotice": "",
+                "screenOnlyPlace": "",
+                "chapterShapeWrong": "",
+                "tinyTryWrong": "",
+                "rhymeUsesStoryWords": "",
+                "rhymeDoesNotStateMove": "",
+                "wordAChildMustTranslate": "",
+                "scienceClaimsTeachingHelped": "",
+                "narrativeEssay": "",
+                "appearanceInventory": "",
+                "complianceCommentary": "",
+                "vocabularyLesson": "",
+                "concernDrift": "",
+                "storyContinuity": "",
+                "fictionInNarration": "",
+                "scienceRecordMissingOrChanged": "",
+                "taglineRhymes": "\"Name\", \"tame\""
+              },
+              "affectedFields": {
+                "secondMoveTaught": [],
+                "feelingGoesAwayPromise": [],
+                "adviceOutsideRecord": [],
+                "jokeAtPerson": [],
+                "effortOnlyPraise": [],
+                "filledWhenINotice": [],
+                "screenOnlyPlace": [],
+                "chapterShapeWrong": [],
+                "tinyTryWrong": [],
+                "rhymeUsesStoryWords": [],
+                "rhymeDoesNotStateMove": [],
+                "wordAChildMustTranslate": [],
+                "scienceClaimsTeachingHelped": [],
+                "narrativeEssay": [],
+                "appearanceInventory": [],
+                "complianceCommentary": [],
+                "vocabularyLesson": [],
+                "concernDrift": [],
+                "storyContinuity": [],
+                "fictionInNarration": [],
+                "scienceRecordMissingOrChanged": []
+              },
+              "taglineEndWords": [
+                "Name",
+                "tame"
+              ],
+              "chapterShapeFindings": []
+            },
+            "extraKeys": [],
+            "affectedFields": {},
+            "evidence": {},
+            "reasons": {},
+            "chapterShapeFindings": [],
+            "ignoredFaults": [],
+            "reviewFlags": [],
+            "needsRecheck": false,
+            "qualityCoverage": "current",
+            "verified": true,
+            "omittedNarrativeAssessments": [],
+            "translationWord": null,
+            "rhyme": {
+              "namedWords": [
+                "Name",
+                "tame"
+              ],
+              "checkerRhymes": true,
+              "rhymes": true,
+              "source": "judge"
+            },
+            "artifactAttempt": 1,
+            "checkerAttempt": 1
+          },
+          {
+            "ready": true,
+            "faults": [],
+            "answers": {
+              "secondMoveTaught": false,
+              "feelingGoesAwayPromise": false,
+              "adviceOutsideRecord": false,
+              "jokeAtPerson": false,
+              "effortOnlyPraise": false,
+              "filledWhenINotice": false,
+              "screenOnlyPlace": false,
+              "chapterShapeWrong": false,
+              "tinyTryWrong": false,
+              "rhymeUsesStoryWords": false,
+              "rhymeDoesNotStateMove": false,
+              "wordAChildMustTranslate": false,
+              "scienceClaimsTeachingHelped": false,
+              "narrativeEssay": true,
+              "appearanceInventory": false,
+              "complianceCommentary": false,
+              "vocabularyLesson": false,
+              "concernDrift": false,
+              "storyContinuity": false,
+              "fictionInNarration": false,
+              "scienceRecordMissingOrChanged": false,
+              "taglineRhymes": true,
+              "evidence": {
+                "secondMoveTaught": "",
+                "feelingGoesAwayPromise": "",
+                "adviceOutsideRecord": "",
+                "jokeAtPerson": "",
+                "effortOnlyPraise": "",
+                "filledWhenINotice": "",
+                "screenOnlyPlace": "",
+                "chapterShapeWrong": "",
+                "tinyTryWrong": "",
+                "rhymeUsesStoryWords": "",
+                "rhymeDoesNotStateMove": "",
+                "wordAChildMustTranslate": "",
+                "scienceClaimsTeachingHelped": "",
+                "narrativeEssay": "We need stronger tests with children aged 8 to 13.",
+                "appearanceInventory": "",
+                "complianceCommentary": "",
+                "vocabularyLesson": "",
+                "concernDrift": "",
+                "storyContinuity": "",
+                "fictionInNarration": "",
+                "scienceRecordMissingOrChanged": "",
+                "taglineRhymes": "Name, tame"
+              },
+              "affectedFields": {
+                "secondMoveTaught": [],
+                "feelingGoesAwayPromise": [],
+                "adviceOutsideRecord": [],
+                "jokeAtPerson": [],
+                "effortOnlyPraise": [],
+                "filledWhenINotice": [],
+                "screenOnlyPlace": [],
+                "chapterShapeWrong": [],
+                "tinyTryWrong": [],
+                "rhymeUsesStoryWords": [],
+                "rhymeDoesNotStateMove": [],
+                "wordAChildMustTranslate": [],
+                "scienceClaimsTeachingHelped": [],
+                "narrativeEssay": [
+                  "move.kidScienceLine"
+                ],
+                "appearanceInventory": [],
+                "complianceCommentary": [],
+                "vocabularyLesson": [],
+                "concernDrift": [],
+                "storyContinuity": [],
+                "fictionInNarration": [],
+                "scienceRecordMissingOrChanged": []
+              },
+              "taglineEndWords": [
+                "Name",
+                "tame"
+              ],
+              "chapterShapeFindings": []
+            },
+            "extraKeys": [],
+            "affectedFields": {},
+            "evidence": {
+              "narrativeEssay": "We need stronger tests with children aged 8 to 13."
+            },
+            "reasons": {},
+            "chapterShapeFindings": [],
+            "ignoredFaults": [],
+            "reviewFlags": [
+              {
+                "key": "narrativeEssay",
+                "fields": [
+                  "move.kidScienceLine"
+                ],
+                "evidence": "We need stronger tests with children aged 8 to 13.",
+                "reason": "Approved wording remains verbatim. This opinion cannot stop or rewrite a kit.",
+                "label": "FOR SUNNY'S READ",
+                "reportOnly": true
+              }
+            ],
+            "needsRecheck": false,
+            "qualityCoverage": "current",
+            "verified": true,
+            "omittedNarrativeAssessments": [],
+            "translationWord": null,
+            "rhyme": {
+              "namedWords": [
+                "Name",
+                "tame"
+              ],
+              "checkerRhymes": true,
+              "rhymes": true,
+              "source": "judge"
+            },
+            "artifactAttempt": 1,
+            "checkerAttempt": 1
+          }
+        ],
+        "printedFitPages": [
+          "story"
+        ]
+      }
+    },
+    "chapterNumber": 1,
+    "fitLockVersion": 3,
+    "fitLockRecovery": {
+      "version": 1,
+      "recovered": []
+    },
+    "fitAttempts": {
+      "story": 2
+    }
+  }
+}

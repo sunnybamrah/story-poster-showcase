@@ -1,0 +1,2066 @@
+{
+  "note": "Full offline replay, no calls. Saved checker claims remain claims; Pass 24 saves opinions and unresolved checker evidence for review.",
+  "rows": [
+    {
+      "id": "test/fixtures/fictional-story-footer-fit.json#/text",
+      "kind": "story",
+      "sha256": "6a6f93d4e2d1add97b8f808aacb9adb8e34d79d935c18697cf0d11bc55d17486",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/fictional-theo-appearance.json#/answers",
+      "kind": "cast-check",
+      "sha256": "1917b3af92386685f448393f5a61ad6d826f7dc3dc608c4b97beb2356b407271",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Original cast is missing from saved family.json and checkpoint.json.",
+        "Original picture ids are missing from the saved checkpoint cast-continuity stage.",
+        "Original rawText is missing from this saved cast answer."
+      ]
+    },
+    {
+      "id": "test/fixtures/fictional-theo-exhausted-fit.json#/checkpoint/stages/text",
+      "kind": "story",
+      "sha256": "5187086f664acdaccf3fa44bf9832bca74d02672b214c0cef7b54f4606626e3b",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/fictional-theo-exhausted-fit.json#/checkpoint/stages/text/checks/0/answers",
+      "kind": "story-check",
+      "sha256": "82344ed210e451bc95ebb6e47f54bcb3cd6ceee16ab49d96babedfebb0084ad7",
+      "verdict": "PASS",
+      "reasons": [],
+      "reviewFlags": [],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/fictional-theo-exhausted-fit.json#/checkpoint/stages/text/checks/1/answers",
+      "kind": "story-check",
+      "sha256": "82344ed210e451bc95ebb6e47f54bcb3cd6ceee16ab49d96babedfebb0084ad7",
+      "verdict": "PASS",
+      "reasons": [],
+      "reviewFlags": [],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/fictional-theo-exhausted-fit.json#/checkpoint/stages/text/checks/2/answers",
+      "kind": "story-check",
+      "sha256": "4deb5364b5fdb5154a65a91b619b453c6833fb80ac2e6fd088acfbbf01183a81",
+      "verdict": "PASS",
+      "reasons": [],
+      "reviewFlags": [
+        "narrativeEssay"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/paid-writing-geometry.json#/records/0/geometry",
+      "kind": "geometry",
+      "sha256": "164a510e70d3c68a56b0d9bcbe84665fdb9740dec3a579f96f0b237524089581",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_title",
+        "geometry_deviation_plan.body",
+        "geometry_deviation_remember.body",
+        "geometry_deviation_source.heading",
+        "geometry_deviation_source.body",
+        "geometry_deviation_plan.handwriting",
+        "geometry_deviation_plan.backup",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "coordinate_rounding_contact",
+        "checker_unverified",
+        "geometry_deviation_title",
+        "geometry_deviation_plan.body",
+        "geometry_deviation_remember.body",
+        "geometry_deviation_source.heading",
+        "geometry_deviation_source.body",
+        "geometry_deviation_plan.handwriting",
+        "geometry_deviation_plan.backup",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "coordinate_rounding_contact"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/paid-writing-geometry.json#/records/1/geometry",
+      "kind": "geometry",
+      "sha256": "5706ce1d7b346824435521911f58add1aca3bacff161637d0b6b59496d4940a4",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_source.heading",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "coordinate_rounding_contact",
+        "coordinate_rounding_contact",
+        "checker_unverified",
+        "geometry_deviation_source.heading",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "coordinate_rounding_contact",
+        "coordinate_rounding_contact"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/paid-writing-geometry.json#/records/2/geometry",
+      "kind": "geometry",
+      "sha256": "a936c4f52b8dbf8e63cbcc26d9c4cc25a7685b0d80b89d6b1ca2d29647989892",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_title",
+        "geometry_deviation_tagline",
+        "geometry_deviation_plan.heading",
+        "geometry_deviation_plan.handwriting",
+        "geometry_deviation_plan.backup",
+        "geometry_deviation_remember.body",
+        "geometry_deviation_source.heading",
+        "geometry_deviation_source.body",
+        "checker_unverified",
+        "geometry_deviation_title",
+        "geometry_deviation_tagline",
+        "geometry_deviation_plan.heading",
+        "geometry_deviation_plan.handwriting",
+        "geometry_deviation_plan.backup",
+        "geometry_deviation_remember.body",
+        "geometry_deviation_source.heading",
+        "geometry_deviation_source.body"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/pass25-overflow.json#/text",
+      "kind": "story",
+      "sha256": "9035cad5b3c5d5cf2c2d8d4f858b05cabe0aba0a236bbadbd69fe4367185e3e9",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 20,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/pass25-overflow.json#/text/checks/0/answers",
+      "kind": "story-check",
+      "sha256": "18580012776cad1aba5545c9899730e66f3d348b8e15c57b3a9faaf39baf9d68",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "narrative_checks_unverified"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/pass29-overflow.json#/text",
+      "kind": "story",
+      "sha256": "56b08720aa31cee9f2c1bb0e27ffa64afd9cd415d08adeb591d7673fd95605c7",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 20,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 22,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/rory-lock-recovery.json#/text",
+      "kind": "story",
+      "sha256": "81ce977d1f223f1b978f68963cdb620e726487b59788d1550a76741ce862787b",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/rory-lock-recovery.json#/text/checks/0/answers",
+      "kind": "story-check",
+      "sha256": "f2114010bba77b423ec865df83c84a02c6309abe3a99cd9c3d9aa5b654f062dd",
+      "verdict": "PASS",
+      "reasons": [],
+      "reviewFlags": [],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/rory-lock-recovery.json#/rawAnswers/0",
+      "kind": "story",
+      "sha256": "1608af5cae8f9aaa26b084fa54dcb47546b8668ff8251fed10837a7f5d594e5e",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/rory-lock-recovery.json#/rawAnswers/1",
+      "kind": "story",
+      "sha256": "1ef21df933eba9e31d1de848dfd848ce7f790b4b822569b77379f3f4e0175c8f",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run10-poster-1-answer.json",
+      "kind": "word-check",
+      "sha256": "155645c156df7aa5b95690f799e2929cab98c2f2c15077ed9601edaaaf494b2d",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "small_ink_review",
+        "jokeInScene",
+        "checker_unverified",
+        "jokeInScene",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-1-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "148752fd3675da1203908e8e33c08f00ca9d1e09c376315148e6db14d368143a",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "small_ink_review",
+        "checker_unverified",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-answer.json",
+      "kind": "word-check",
+      "sha256": "3bf40c3bc29b53ac331bae2d35601d757632b1822af07b709f91613f0acac265",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows.",
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "missingSubBox",
+        "small_ink_review",
+        "jokeInScene",
+        "checker_unverified",
+        "checker_unverified",
+        "jokeInScene",
+        "missingSubBox",
+        "small_ink_review"
+      ],
+      "ignored": [
+        "filledBlank"
+      ]
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "b500c736c39afa84e2faa37b6a2a276fcb76f6e4916084202dec8cb852da1603",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows.",
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "missingSubBox",
+        "small_ink_review",
+        "checker_unverified",
+        "checker_unverified",
+        "missingSubBox",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-recheck-answer.json",
+      "kind": "word-check",
+      "sha256": "7e51c8c5dca1465ce986805407b77821afb069e9142726f1161198f7c176900d",
+      "verdict": "REVIEW",
+      "reasons": [
+        "extra_words_outside_boxes: [\"The pencil in the fox’s sketchbook has a tiny tool belt.\"]",
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_tagline",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "small_ink_review",
+        "jokeInScene",
+        "checker_unverified",
+        "checker_unverified",
+        "jokeInScene",
+        "geometry_deviation_tagline",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-recheck-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "d46eee67e0c8e4b2d911692b3f63f585b27edbd6376475d5da6af64ebbf1c65e",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_tagline",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "small_ink_review",
+        "checker_unverified",
+        "geometry_deviation_tagline",
+        "innerSubBoxContact",
+        "innerSubBoxContact",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-3-answer.json",
+      "kind": "word-check",
+      "sha256": "34dda42cfcec1d226ac3b58827878e141cc87d5b8449ebfd9e5d0b77edc98e58",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "innerSubBoxContact",
+        "small_ink_review",
+        "jokeInScene",
+        "checker_unverified",
+        "jokeInScene",
+        "innerSubBoxContact",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-3-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "ca52b386711548c0748b2e7374670b0a03227cf7ec987f085ebdf3afc52d370d",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "innerSubBoxContact",
+        "small_ink_review",
+        "checker_unverified",
+        "innerSubBoxContact",
+        "small_ink_review"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run11-story-1.json",
+      "kind": "story",
+      "sha256": "73a7423b5bae286b7483e2e8b9ff0e8123bef7fbe286f3743269bb782be31ef6",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 21,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 89,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run11-story-2.json",
+      "kind": "story",
+      "sha256": "8360984caf4a18ee52883d50b3b197fcffede0d806050c86b24f17f93ae97e20",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 21,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 89,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run12-story-1.json",
+      "kind": "story",
+      "sha256": "f8164be851854b8f1865d030bc7743d78cefbe8c059e318b8116d30f48afaa6a",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 29,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 27,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 33,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 120,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 24,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run12-story-2.json",
+      "kind": "story",
+      "sha256": "a735b60e110d0f2414fdd1647a799b3c7552f1c20cf17be30b032fefba245e54",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 29,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 27,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 33,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 120,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 24,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run13-story-check-1.json#/answer",
+      "kind": "story-check",
+      "sha256": "6d46116e1b26a4b0b7a554d7ae291461ec1dd30e54cb42a15cc9b5ec03f7e9f9",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "wordAChildMustTranslate",
+        "narrative_checks_unverified"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run13-story-check-2.json#/answer",
+      "kind": "story-check",
+      "sha256": "d0bb5256d2db08e638bfdf315d456fcd9280c779a47afa2d296757b1bc1eb98a",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "wordAChildMustTranslate",
+        "narrative_checks_unverified"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run13-story.json",
+      "kind": "story",
+      "sha256": "e7dd6b60211962e931dda206d8238e817b067026f4cb28daf9f6f14e241ecc5d",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 30,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 31,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 30,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 120,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 38,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 39,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run14-kit-log.md",
+      "kind": "evidence-log",
+      "sha256": "0bbbed5d3b28c0db1cb8a3092e3bb34f910f95d5f10b627765a6a6a5a900dc2c",
+      "verdict": "PASS",
+      "reasons": [],
+      "note": "Historical ledger retained. Its old code rejection is not replayed as a current verdict."
+    },
+    {
+      "id": "test/fixtures/run14-story-1.json",
+      "kind": "story",
+      "sha256": "31fd7f1ddde25c4714f30b8acdce95a47ea9244efa1f7e1ea4841b897b0f9f45",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 20,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 82,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 13,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run14-story-check-1.json#/answer",
+      "kind": "story-check",
+      "sha256": "c12e9e905fc958ee8b4cc6dac5afc8c9899c4793df215bd8ea2eae64f5a41c5c",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "narrative_checks_unverified",
+        "chapterShapeWrong"
+      ],
+      "ignored": [
+        "filledWhenINotice"
+      ]
+    },
+    {
+      "id": "test/fixtures/run14-story-check-2.json#/answer",
+      "kind": "story-check",
+      "sha256": "1a4535c04fa4a1b7af48abea190bf1e0ea24924f37417bfaf2487c36220ef8a7",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "narrative_checks_unverified",
+        "chapterShapeWrong"
+      ],
+      "ignored": [
+        "filledWhenINotice"
+      ]
+    },
+    {
+      "id": "test/fixtures/run14-tagline-end-words-1.json",
+      "kind": "retired-code-receipt",
+      "sha256": "2553e6fd809ebe8ea375c07b334982dffb5018ac5fcb255f9857fd2d9f2593c0",
+      "verdict": "PASS",
+      "reasons": [],
+      "note": "Retained as evidence only. Code no longer derives a rhyming pair or overrides the judge sound opinion."
+    },
+    {
+      "id": "test/fixtures/run5-story.json",
+      "kind": "story",
+      "sha256": "07b99cc4c33dd10d283af07f60584431497fdf83a4fef06ea7f37c288b977a2f",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 30,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 22,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 95,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 11,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run6-rewrite.json",
+      "kind": "story",
+      "sha256": "028a0d4aa1b66a2a08639a25ad378b5c3b13c8896d30db5d465a53b512d76ad8",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 32,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 29,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 24,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 116,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 11,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run6-story-check.json#/answer",
+      "kind": "story-check",
+      "sha256": "58313169ba8d918b8177711d817937da7d6b00a49fdb3d6cafb1ebe6d7b69bc8",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Legacy checker answer omits the current evidence and quality fields.",
+        "Legacy answer lacks current evidence and quality fields."
+      ],
+      "reviewFlags": [
+        "checker_unverified"
+      ],
+      "ignored": [
+        "taglineDoesNotRhyme"
+      ]
+    },
+    {
+      "id": "test/fixtures/run6-story.json",
+      "kind": "story",
+      "sha256": "25ff9db773b22790735d646703be4174081fbf9dc99a4b40a8a40a590af82a71",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 30,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 29,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 24,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 114,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 9,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run7-poster-2-check.json#/answer",
+      "kind": "word-check",
+      "sha256": "7a49440a924f704e54300e01f2a7170ff7d90407e813a6dc7b71e20cf419bdff",
+      "verdict": "REVIEW",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ],
+      "reviewFlags": [
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified"
+      ],
+      "ignored": [
+        "heroOutsideRegion",
+        "printTextTooSmall",
+        "jokeGeometry"
+      ]
+    },
+    {
+      "id": "test/fixtures/run7-poster-2-check.json#/answer/geometry",
+      "kind": "geometry",
+      "sha256": "303fe64b2d313d7329985e97e4fe099eda79c73654ae68b85ccaaa58a35b5fdd",
+      "verdict": "REVIEW",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ],
+      "reviewFlags": [
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified"
+      ],
+      "ignored": [
+        "heroOutsideRegion",
+        "printTextTooSmall",
+        "jokeGeometry"
+      ]
+    },
+    {
+      "id": "test/fixtures/run7-story-1.json",
+      "kind": "story",
+      "sha256": "6ee23246e623d2d29df07a433f46eea69abc0daaa2b1e86910004dd0ac4bde63",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 21,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 92,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 20,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 8,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run7-story-2.json",
+      "kind": "story",
+      "sha256": "33a7767470fd9743617ecb95b562b3d6341776107d5757cd7ab6e4df909c143e",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 25,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 21,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 92,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 19,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 20,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 9,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run8-story-1.json",
+      "kind": "story",
+      "sha256": "afceb3d2767ccd73f71fc54960cf7522bb56f137deea021499f9d0760c4ceaa1",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 26,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 87,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 15,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 10,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run8-story-2.json",
+      "kind": "story",
+      "sha256": "3ea570ebda90944b3ef027e8e736871498454a94cca69dcfbe61dafd2044e103",
+      "verdict": "PASS",
+      "reasons": [],
+      "guidance": [
+        {
+          "field": "feelFirst",
+          "measured": 26,
+          "unit": "words",
+          "range": [
+            0,
+            22
+          ],
+          "target": "at most 22",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[0].text",
+          "measured": 23,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[1].text",
+          "measured": 18,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "tinyTryOptions[2].text",
+          "measured": 17,
+          "unit": "words",
+          "range": [
+            0,
+            15
+          ],
+          "target": "at most 15",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "try"
+        },
+        {
+          "field": "try.generated",
+          "measured": 87,
+          "unit": "words",
+          "range": [
+            0,
+            79
+          ],
+          "target": "at most 79",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "replayCue",
+          "measured": 15,
+          "unit": "words",
+          "range": [
+            0,
+            12
+          ],
+          "target": "at most 12",
+          "outsideRange": true,
+          "reportOnly": true,
+          "page": "for-you"
+        },
+        {
+          "field": "for-you.generated",
+          "measured": 16,
+          "unit": "words",
+          "range": [
+            0,
+            14
+          ],
+          "target": "at most 14",
+          "outsideRange": true,
+          "reportOnly": true
+        },
+        {
+          "field": "tagline",
+          "measured": 10,
+          "unit": "words",
+          "range": [
+            4,
+            7
+          ],
+          "target": "4 to 7 words in total",
+          "outsideRange": true,
+          "reportOnly": true
+        }
+      ],
+      "note": "Current local scrub and validation; semantic quality and browser fit still require their own checks."
+    },
+    {
+      "id": "test/fixtures/run8-story-check.json#/answer",
+      "kind": "story-check",
+      "sha256": "210e32c82db744cb98119856b8864c57fe90a24cc061772bb01db2bb79115692",
+      "verdict": "REVIEW",
+      "reasons": [
+        "This saved answer has no assessments for: narrativeEssay, appearanceInventory, complianceCommentary, vocabularyLesson, concernDrift, storyContinuity, fictionInNarration, scienceRecordMissingOrChanged."
+      ],
+      "reviewFlags": [
+        "rhymeUsesStoryWords",
+        "narrative_checks_unverified"
+      ],
+      "ignored": []
+    },
+    {
+      "id": "test/fixtures/run9-poster-1-answer.json",
+      "kind": "word-check",
+      "sha256": "0de81657a213ac30e54d7491db1cda01409e44f81b1fe4947b18e24caf58c6da",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words.",
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_title",
+        "geometry_deviation_footer",
+        "small_ink_review",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "geometry_deviation_title",
+        "geometry_deviation_footer",
+        "small_ink_review"
+      ],
+      "ignored": [
+        "outfitMismatch",
+        "heroOutsideRegion",
+        "jokeGeometry"
+      ]
+    },
+    {
+      "id": "test/fixtures/run9-poster-1-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "0f3b4185df613ebd47286788ae16449fbba997134f11bd9e6c12a5084acb2edf",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words.",
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "geometry_deviation_title",
+        "geometry_deviation_footer",
+        "small_ink_review",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "checker_unverified",
+        "geometry_deviation_title",
+        "geometry_deviation_footer",
+        "small_ink_review"
+      ],
+      "ignored": [
+        "heroOutsideRegion",
+        "jokeGeometry"
+      ]
+    },
+    {
+      "id": "test/fixtures/run9-poster-3-answer.json",
+      "kind": "word-check",
+      "sha256": "b5c827d43dd0ed415b365bcd976bf530a1eb4ce25c03a303d0c365aae357d2c0",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "checker_unverified"
+      ],
+      "ignored": [
+        "outfitMismatch",
+        "jokeGeometry"
+      ]
+    },
+    {
+      "id": "test/fixtures/run9-poster-3-answer.json#/geometry",
+      "kind": "geometry",
+      "sha256": "c4427fede32cec4ad90eff7bf5f799fb9388769011938a11142e3c4643b73947",
+      "verdict": "REVIEW",
+      "reasons": [
+        "Measure two writing rows as clear writable areas above their baselines, not underline ink: one notice row and one action row are required. A legacy plan.handwriting rectangle does not prove either blank."
+      ],
+      "reviewFlags": [
+        "checker_unverified"
+      ],
+      "ignored": [
+        "jokeGeometry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "writtenByCodex": true,
+  "source": "Conservative local matching from the supplied actions and their fit limits. Shared route context handles negation and fictional speakers. A keyword alone does not prove a fit. No match is an ordinary result, not permission to invent a feeling or action.",
+  "rules": [
+    {
+      "goal": "remembering-plan",
+      "pattern": "(?:forgot(?:ten)?|forget(?:s|ting)?|left.{0,18}(?:at home|behind)|slips? (?:his|her|their|my) mind|needs? to remember|wants? to remember|remember to|remind(?:er|ers|ing)?).{0,95}(?:library|books?|lunch\\s?box|permission slip|backpack|school bag|pack(?:ing)?|bring|return)|(?:library|books?|lunch\\s?box|permission slip|backpack|school bag|pack(?:ing)?).{0,70}(?:forgot(?:ten)?|forget(?:s|ting)?|left.{0,18}(?:at home|behind)|remember|remind(?:er|ers|ing)?)|left.{0,35}(?:book|lunch\\s?box|permission slip|backpack|school bag).{0,25}(?:at home|behind|on (?:the )?(?:kitchen )?(?:counter|table))|(?:did not|didn.t|does not|doesn.t) remember.{0,60}(?:library|book|lunch\\s?box|permission slip|backpack|school bag|pack|bring|return)",
+      "moves": [
+        "snag-plan"
+      ],
+      "reason": "A wish, your own snag and an if-then plan may fit remembering or preparing a school item. The prepared practice uses homework as an example. Its school study did not test forgotten books or reminder tasks."
+    },
+    {
+      "pattern": "call(?:s|ed|ing)? (?:himself|herself|themself|themselves|me) (?:stupid|dumb|an? idiot)|(?:i am|i'm|i feel) (?:so )?(?:stupid|dumb)|beats? (?:himself|herself|themselves) up|says? (?:that )?(?:he|she|they|i) (?:is|am|are|feel|feels|was) (?:so )?(?:stupid|dumb)",
+      "moves": [
+        "bring-in-my-person",
+        "name-it-exactly"
+      ],
+      "reason": "You described harsh words about the child’s own ability. Asking for help with one step or naming the feeling fits without asking them to replay anger at someone else.",
+      "excludeMoves": [
+        "coach-voice"
+      ]
+    },
+    {
+      "pattern": "left out|excluded|not invited|didn.t (?:invite|include)|without (?:him|her|them|me)",
+      "moves": [
+        "name-it-exactly",
+        "bring-in-my-person"
+      ],
+      "reason": "You described being left out. Naming the hurt or asking a trusted person for help fits the child who was hurt.",
+      "excludeMoves": [
+        "dont-feed-the-fire",
+        "make-it-right"
+      ],
+      "requires": "left out|excluded|not invited|didn.t (?:invite|include)|upset|hurt|sad|lonely"
+    },
+    {
+      "pattern": "(?:maths?|spelling|science|school) (?:test|exam)|(?:test|exam) (?:nerves|tomorrow)|(?:worried|worrying|nervous|afraid|scared|anxious).{0,45}(?:test|exam)",
+      "moves": [
+        "long-breath-out",
+        "bring-in-my-person"
+      ],
+      "reason": "You described worry about a test. These options offer a breathing practice or help with one step, without changing the task to reading aloud.",
+      "requires": "worried|worrying|nervous|afraid|scared|anxious|nerves|hard|struggl(?:e|es|ed|ing)"
+    },
+    {
+      "pattern": "(?:shoved|pushed|hit|slapped|kicked).{0,30}(?:brother|sister|sibling)|(?:brother|sister|sibling).{0,35}(?:fight|shov|push|hit|slap|kick)",
+      "moves": [
+        "cool-off-break",
+        "name-it-exactly",
+        "bring-in-my-person"
+      ],
+      "reason": "You described a sibling fight. A pause with a return, a feeling word, or trusted help fits before considering a repair.",
+      "excludeMoves": [
+        "make-it-right"
+      ]
+    },
+    {
+      "pattern": "(?:homework|schoolwork|assignment) (?:felt|feels|was|is|got|seems) (?:too |very |really )?(?:frustrating|difficult|hard)|(?:frustrated|struggling).{0,35}(?:homework|schoolwork|assignment)",
+      "moves": [
+        "name-it-exactly",
+        "bring-in-my-person"
+      ],
+      "reason": "You described homework that felt hard. Naming a feeling or asking for help with one step may fit. You decide.",
+      "requires": "frustrat(?:ed|ing)|struggling|difficult|hard"
+    },
+    {
+      "pattern": "slammed the door|won.t (say|talk)|feels bad|upset about something|lost it over|annoying|lost (a |the )?(game|match)|homework (?:felt|feels|was|is|got) (?:too )?hard|homework got hard",
+      "moves": [
+        "name-it-exactly",
+        "long-breath-out",
+        "bring-in-my-person"
+      ],
+      "reason": "Naming the feeling, settling, or asking a trusted person fits a hard moment that is hard to explain.",
+      "requires": "slammed the door|won.t (?:say|talk)|feels bad|upset|lost it|annoying|sad|angry|hard|struggl(?:e|es|ed|ing)"
+    },
+    {
+      "pattern": "homework (fight|meltdown)|screaming match|threw the controller|too angry|so angry|plans change",
+      "moves": [
+        "cool-off-break",
+        "name-it-exactly",
+        "bring-in-my-person"
+      ],
+      "reason": "A calm pause, a feeling word, or trusted help fits an angry moment.",
+      "requires": "homework (?:fight|meltdown)|screaming match|threw the controller|too angry|so angry|angry|upset|lost it|meltdown"
+    },
+    {
+      "pattern": "distract(?:ed|ing|ion)?|never starts|can.t start|snag|freezes when|homework night",
+      "moves": [
+        "snag-plan",
+        "bring-in-my-person",
+        "coach-voice"
+      ],
+      "reason": "A plan for the snag, help with one step, or a useful coach line fits trouble getting started.",
+      "requires": "distract(?:ed|ing|ion)?|never starts|can.t start|snag|freezes when|hard|struggl(?:e|es|ed|ing)"
+    },
+    {
+      "pattern": "fuming|replaying|thinking about (it|what)|one mistake|fight with|friend said",
+      "moves": [
+        "coach-voice",
+        "name-it-exactly",
+        "bring-in-my-person"
+      ],
+      "reason": "A kind coach line, a precise feeling word, or trusted help fits a moment that keeps replaying.",
+      "requires": "fuming|angry|upset|hurt|sad|keeps? replaying|can.t stop thinking|fight with|hard|struggl(?:e|es|ed|ing)"
+    },
+    {
+      "pattern": "tryouts?|try out|nervous|scared to|afraid to|before (a |the )?(test|game|performance|recital)|mess up|wants? to quit",
+      "moves": [
+        "one-brave-step",
+        "long-breath-out",
+        "bring-in-my-person"
+      ],
+      "reason": "One safe small step, slow breathing, or trusted help fits everyday nerves about starting.",
+      "requires": "nervous|nerves|scared|afraid|worried|worrying|anxious|mess up|wants? to quit"
+    },
+    {
+      "pattern": "performance|recital|stomach in knots|test tomorrow",
+      "moves": [
+        "butterflies-mean-ready"
+      ],
+      "reason": "The ready line fits nerves before a planned performance, with the older-student evidence limit.",
+      "requires": "nervous|nerves|scared|afraid|worried|worrying|anxious|stomach in knots"
+    },
+    {
+      "pattern": "better (grade|than)|faster|jealous|trophy|compares? (with|to)|comparing",
+      "moves": [
+        "compare-with-past-me",
+        "coach-voice",
+        "bring-in-my-person"
+      ],
+      "reason": "Noticing personal progress, a kind coach line, or help fits comparison with other people.",
+      "requires": "jealous|upset|sad|feels bad|angry|struggl(?:e|es|ed|ing)|not good enough|worse|compares? (?:himself|herself|themselves)|comparing (?:himself|herself|themselves)"
+    },
+    {
+      "pattern": "said something mean|broke .+thing|left a friend out|feels guilty|upset someone",
+      "moves": [
+        "make-it-right",
+        "name-it-exactly",
+        "coach-voice"
+      ],
+      "reason": "A real repair, naming the feeling, or a kind coach line fits a small wrong the child did."
+    },
+    {
+      "pattern": "eras(e|ing)|redoing|not perfect|perfect or nothing|won.t hand in|fixing tiny",
+      "moves": [
+        "good-enough-is-done",
+        "compare-with-past-me",
+        "bring-in-my-person"
+      ],
+      "reason": "A fair finish line, noticing progress, or asking for help fits work that never feels finished.",
+      "requires": "keeps? eras(?:e|ing)|redoing|not perfect|perfect or nothing|won.t hand in|fixing tiny|never (?:feels|seems) (?:done|finished|good enough)"
+    },
+    {
+      "pattern": "(?:saw|witnessed|watching|laughing at|ganging up on|piling on|passing (?:round|around)).{0,60}(?:classmate|another child|a girl|a boy|someone else|mean picture)|(?:group chat|mean picture|classmate online).{0,50}(?:someone else|another child|classmate)",
+      "moves": [
+        "dont-feed-the-fire",
+        "bring-in-my-person",
+        "name-it-exactly"
+      ],
+      "reason": "A quiet kind response, telling a trusted person, or naming the feeling fits witnessing a mean chat.",
+      "requires": "mean|ganging up|piling on|laughing at|bully(?:ing)?|unkind|mock(?:ed|ing)?"
+    },
+    {
+      "pattern": "worry|worr(y|ied|ies).+(bedtime|tomorrow)|what.if|brain won.t switch off",
+      "moves": [
+        "worry-parking-spot",
+        "long-breath-out",
+        "bring-in-my-person"
+      ],
+      "reason": "Saving a looping worry for later, breathing, or trusted help can fit repeated everyday worry.",
+      "requires": "worry|worried|worries|worrying|brain won.t switch off|scared|afraid|anxious|keeps? (?:asking|thinking).{0,20}what.if|can.t stop thinking"
+    },
+    {
+      "pattern": "every evening|late night|sleepover|mess by dinner|tired|short night",
+      "moves": [
+        "check-my-battery",
+        "cool-off-break",
+        "name-it-exactly"
+      ],
+      "reason": "Checking rest and water, a calm pause, or naming the feeling fits a tired evening.",
+      "requires": "tired|short night|exhausted|worn out|mess by dinner"
+    }
+  ],
+  "exclusions": [
+    {
+      "pattern": "quit|whether to|deciding",
+      "moves": [
+        "butterflies-mean-ready"
+      ]
+    },
+    {
+      "pattern": "rush(es|ing)?|careless",
+      "moves": [
+        "good-enough-is-done"
+      ]
+    },
+    {
+      "pattern": "hot moment|meltdown|screaming|so angry|too angry",
+      "moves": [
+        "snag-plan",
+        "name-it-exactly"
+      ]
+    },
+    {
+      "pattern": "left out|excluded|not invited|(?:chat|posts?|messages?).{0,25}(?:about|targeting) (?:him|her|them|my child)",
+      "moves": [
+        "dont-feed-the-fire",
+        "make-it-right"
+      ]
+    }
+  ]
+}

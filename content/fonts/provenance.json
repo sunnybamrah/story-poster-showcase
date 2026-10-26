@@ -1,0 +1,106 @@
+[
+  {
+    "file": "Baloo2-Variable.ttf",
+    "sha256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2",
+    "family": "Baloo 2",
+    "version": "Version 1.700",
+    "source": "https://github.com/google/fonts/tree/main/ofl/baloo2",
+    "licence": "Baloo2-OFL.txt",
+    "acquired": "Reused existing Google Fonts download in ~/Library/Fonts. Direct network download failed DNS in sandbox.",
+    "metadata": {
+      "0": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+      "1": "Baloo 2",
+      "5": "Version 1.700",
+      "13": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "14": "http://scripts.sil.org/OFL"
+    }
+  },
+  {
+    "file": "Nunito-Variable.ttf",
+    "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "family": "Nunito ExtraLight",
+    "version": "Version 3.602",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nunito",
+    "licence": "Nunito-OFL.txt",
+    "acquired": "Reused existing Google Fonts download in ~/Library/Fonts. Direct network download failed DNS in sandbox.",
+    "metadata": {
+      "0": "Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)",
+      "1": "Nunito ExtraLight",
+      "5": "Version 3.602",
+      "13": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+      "14": "https://scripts.sil.org/OFL"
+    }
+  },
+  {
+    "file": "Baloo2-400.ttf",
+    "sha256": "a4ba0c4195cc2f9e5318eb4c77979f6ff9fe120de820eaaea63a3f956fa0ba9c",
+    "family": "Baloo 2",
+    "version": "Version 1.700",
+    "source": "https://github.com/google/fonts/tree/main/ofl/baloo2",
+    "licence": "Baloo2-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Baloo2-Variable.ttf",
+    "sourceSHA256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2",
+    "weight": 400
+  },
+  {
+    "file": "Baloo2-700.ttf",
+    "sha256": "91592136d607f1e0a632f7f5dd7bd271ae01b3222c5291abc4a0ef5f3bf131c5",
+    "family": "Baloo 2",
+    "version": "Version 1.700",
+    "source": "https://github.com/google/fonts/tree/main/ofl/baloo2",
+    "licence": "Baloo2-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Baloo2-Variable.ttf",
+    "sourceSHA256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2",
+    "weight": 700
+  },
+  {
+    "file": "Baloo2-800.ttf",
+    "sha256": "3e96af399f620daeb13494ee9a41c9402de5f928caa60d7c36c1737952d5a59b",
+    "family": "Baloo 2",
+    "version": "Version 1.700",
+    "source": "https://github.com/google/fonts/tree/main/ofl/baloo2",
+    "licence": "Baloo2-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Baloo2-Variable.ttf",
+    "sourceSHA256": "d47a6852548059b1db49a1319d06d499d546c3fa2237cf9eee9c43c8abb025c2",
+    "weight": 800
+  },
+  {
+    "file": "Nunito-400.ttf",
+    "sha256": "812c8188cc06715ef9dff043f40ae1b4d0ebd888b58559c594dbe886d8c80b9f",
+    "family": "Nunito",
+    "version": "Version 3.602",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nunito",
+    "licence": "Nunito-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Nunito-Variable.ttf",
+    "sourceSHA256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "weight": 400
+  },
+  {
+    "file": "Nunito-700.ttf",
+    "sha256": "a79c140c4281372de9138f4bd7febf6e45f086f1a1847d126f02696870aacafc",
+    "family": "Nunito",
+    "version": "Version 3.602",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nunito",
+    "licence": "Nunito-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Nunito-Variable.ttf",
+    "sourceSHA256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "weight": 700
+  },
+  {
+    "file": "Nunito-800.ttf",
+    "sha256": "373030c696d6033a08d24a174fa0c77092a2b7d448a6f0129d34ef188e9dfcf4",
+    "family": "Nunito",
+    "version": "Version 3.602",
+    "source": "https://github.com/google/fonts/tree/main/ofl/nunito",
+    "licence": "Nunito-OFL.txt",
+    "acquired": "Static instance of the unchanged bundled variable source using FontTools 4.63.0 varLib.instancer with update-name-table.",
+    "sourceVariable": "Nunito-Variable.ttf",
+    "sourceSHA256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+    "weight": 800
+  }
+]

@@ -1,0 +1,1481 @@
+{
+  "schemaVersion": 1,
+  "policyVersion": "original-source-metadata-registry-v1",
+  "createdOn": "2026-10-16",
+  "scope": "Metadata-only reference bank; no abstracts or full copyrighted bodies. Public edition keeps the original 14 citation rows and claims; redundant top-level move history fields were removed with the existing request-sanitizer field rule.",
+  "counts": {
+    "moves": 14,
+    "sourceOccurrences": 28,
+    "uniqueSources": 28,
+    "pubmedRecords": 27,
+    "doiOnlyRecords": 1,
+    "indexedNoticeRecords": 2
+  },
+  "hashAlgorithm": "sha256",
+  "originalMovesFileHash": "7e9461f8b0f91d3bd78902becf4e21e62f0d93cb4e146e3528424f93a6856873",
+  "originalMovesChanged": false,
+  "records": [
+    {
+      "id": "29878880",
+      "title": "The Nonlinear Development of Emotion Differentiation: Granular Emotional Experience Is Low in Adolescence.",
+      "year": 2018,
+      "doi": "10.1177/0956797618773357",
+      "pubmed": "29878880",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29878880/",
+      "authors": [
+        "Erik C Nook",
+        "Stephanie F Sasse",
+        "Hilary K Lambert",
+        "Katie A McLaughlin",
+        "Leah H Somerville"
+      ],
+      "authorsText": "Nook, Sasse, Lambert, McLaughlin and Somerville",
+      "journal": "Psychological science",
+      "occurrences": [
+        {
+          "moveId": "name-it-exactly",
+          "moveNumber": 1,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/0/sources/0",
+          "originalRowHash": "d91804e1d59d5f9e87e8b277eaae94a6b375af3343a6f43b150324f232afcab3",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:15.267Z",
+        "contentHash": "67e17c083fc5c58872ffb916ce793a449bfb45a2ad98d17964a141ff3c26b4ca",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "aa4cc3e862aaf5a788fd5d5e0b4b7f2fc4931190660cb083faa757d5d62a3dab",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:15.267Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "31246045",
+      "title": "The perils of murky emotions: Emotion differentiation moderates the prospective relationship between naturalistic stress exposure and adolescent depression.",
+      "year": 2020,
+      "doi": "10.1037/emo0000630",
+      "pubmed": "31246045",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31246045/",
+      "authors": [
+        "Lisa R Starr",
+        "Rachel Hershenberg",
+        "Zoey A Shaw",
+        "Y Irina Li",
+        "Angela C Santee"
+      ],
+      "authorsText": "Lisa R. Starr, Rachel Hershenberg, Zoey A. Shaw, Y. Irina Li and Angela C. Santee",
+      "journal": "Emotion (Washington, D.C.)",
+      "occurrences": [
+        {
+          "moveId": "name-it-exactly",
+          "moveNumber": 1,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/0/sources/1",
+          "originalRowHash": "a2c8aca7d0ca08a0129f6dce1b7590c64e965b97b870b95022470b265926253a",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:15.478Z",
+        "contentHash": "2ac5e7b7156db91451e863bc461c64b33382e5847a9de60031db1fb433aa43ee",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "1625f4f6a472b03d0c367181a855a574cad27f6398296f12375a16e53d3ae63a",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:15.478Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "17576282",
+      "title": "Putting feelings into words: affect labeling disrupts amygdala activity in response to affective stimuli.",
+      "year": 2007,
+      "doi": "10.1111/j.1467-9280.2007.01916.x",
+      "pubmed": "17576282",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+      "authors": [
+        "Matthew D Lieberman",
+        "Naomi I Eisenberger",
+        "Molly J Crockett",
+        "Sabrina M Tom",
+        "Jennifer H Pfeifer",
+        "Baldwin M Way"
+      ],
+      "authorsText": "Matthew D. Lieberman, Naomi I. Eisenberger, Molly J. Crockett, Sabrina M. Tom, Jennifer H. Pfeifer and Baldwin M. Way",
+      "journal": "Psychological science",
+      "occurrences": [
+        {
+          "moveId": "name-it-exactly",
+          "moveNumber": 1,
+          "sourceIndex": 2,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/0/sources/2",
+          "originalRowHash": "7f72808964b248d2b99aefc0398610a83a859025503a82a909a3b923dab72dba",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:15.785Z",
+        "contentHash": "8962c1353c8f86b5c60f2b224c46cf853c8470b5d5eac031b2df8264c59cde78",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "43207a310eaecd3afc910ad860e2d373c5693cac17aab41f9c360653944a33b7",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:15.785Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "doi:10.1177/1754073917742706",
+      "title": "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation",
+      "year": 2018,
+      "doi": "10.1177/1754073917742706",
+      "pubmed": null,
+      "url": "https://doi.org/10.1177/1754073917742706",
+      "authors": null,
+      "authorsText": "Jared B. Torre and Matthew D. Lieberman",
+      "journal": null,
+      "occurrences": [
+        {
+          "moveId": "name-it-exactly",
+          "moveNumber": 1,
+          "sourceIndex": 3,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/0/sources/3",
+          "originalRowHash": "e3bddb2bcf3773bd8e5136f987d67f54b802dbebd0b4065c1c9cf24ade5db1b2",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "unfetched-pending",
+        "method": null,
+        "fetchedAt": null,
+        "contentHash": null,
+        "metadataHash": null,
+        "contentScope": "No machine-fetched primary record or pinned body receipt in this registry. Publisher text manually consulted for research; not an imported source receipt."
+      },
+      "indexedNotices": {
+        "checkedAt": null,
+        "method": "not checked by source reader",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "source-retrieval-and-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "27666392",
+      "title": "A better state-of-mind: deep breathing reduces state anxiety and enhances test performance through regulating test cognitions in children.",
+      "year": 2017,
+      "doi": "10.1080/02699931.2016.1233095",
+      "pubmed": "27666392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27666392/",
+      "authors": [
+        "Kiat Hui Khng"
+      ],
+      "authorsText": "Kiat Hui Khng",
+      "journal": "Cognition & emotion",
+      "occurrences": [
+        {
+          "moveId": "long-breath-out",
+          "moveNumber": 2,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/1/sources/0",
+          "originalRowHash": "aaab0de68ee75f0a9dc3d34bd153c186dbed2afbad22ef6bc02377cab3a9e70a",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:18.364Z",
+        "contentHash": "33820781c08b47cef4d5b960ae08569d2f9c2f277cf8f2b0c119a033843f986f",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "bb557cd73ab894966236ec93dd1404a524e2f420da388be12db8c2e71baedd99",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:18.364Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "35704507",
+      "title": "The Effectiveness of A Slow-Paced Diaphragmatic Breathing Exercise in Children's Daily Life: A Micro-Randomized Trial.",
+      "year": 2023,
+      "doi": "10.1080/15374416.2022.2084743",
+      "pubmed": "35704507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35704507/",
+      "authors": [
+        "Andrea C Kramer",
+        "Andreas B Neubauer",
+        "Florian Schmiedek"
+      ],
+      "authorsText": "Andrea C. Kramer, Andreas B. Neubauer and Florian Schmiedek",
+      "journal": "Journal of clinical child and adolescent psychology : the official journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53",
+      "occurrences": [
+        {
+          "moveId": "long-breath-out",
+          "moveNumber": 2,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/1/sources/1",
+          "originalRowHash": "6a91ec4f8e22fbc56da1b2c4fa1760c395dc03fc40d45518ed91ac2ab963fab1",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:18.606Z",
+        "contentHash": "ab4706cfa51887cb87c4b0fa4be499170603a9cf435ad3dfa03f8b6e05be899e",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "9283580e532510ad344d78e8294e644ab891d1fbc8d7e7337d68a4a815152d3f",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:18.606Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "21728415",
+      "title": "The effect of self-distancing on adaptive versus maladaptive self-reflection in children.",
+      "year": 2011,
+      "doi": "10.1037/a0021787",
+      "pubmed": "21728415",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21728415/",
+      "authors": [
+        "Ethan Kross",
+        "Angela Duckworth",
+        "Ozlem Ayduk",
+        "Eli Tsukayama",
+        "Walter Mischel"
+      ],
+      "authorsText": "Kross, Duckworth, Ayduk, Tsukayama and Mischel",
+      "journal": "Emotion (Washington, D.C.)",
+      "occurrences": [
+        {
+          "moveId": "coach-voice",
+          "moveNumber": 3,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/2/sources/0",
+          "originalRowHash": "d629a908fce1b36add94b4ddf38cf40db33d3661eec2c10ff978e8b13cd42560",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:18.911Z",
+        "contentHash": "73959a28e9c661646cb3c2e97420ec40d8c02629ca4be3afa5aebcce9ffaf8b1",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "f0ffd6e3f0366bf46bd4f6543070b56c597eb059f2634ccd4b02db599d249ae0",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:18.911Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "27982409",
+      "title": "The \"Batman Effect\": Improving Perseverance in Young Children.",
+      "year": 2017,
+      "doi": "10.1111/cdev.12695",
+      "pubmed": "27982409",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27982409/",
+      "authors": [
+        "Rachel E White",
+        "Emily O Prager",
+        "Catherine Schaefer",
+        "Ethan Kross",
+        "Angela L Duckworth",
+        "Stephanie M Carlson"
+      ],
+      "authorsText": "Rachel E. White, Emily O. Prager, Catherine Schaefer, Ethan Kross, Angela L. Duckworth and Stephanie M. Carlson",
+      "journal": "Child development",
+      "occurrences": [
+        {
+          "moveId": "coach-voice",
+          "moveNumber": 3,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/2/sources/1",
+          "originalRowHash": "411c72e24ca33634141a3710d77d50600447cb85964907e79c7d1153c815f896",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:21.421Z",
+        "contentHash": "83225c0487c6c363609c90ba1c28e52416b6f0dca735ab4d83cd943c7d054027",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "e806450e8c4b45303f5b7b817d3a6b9d48005b0a3b6b565ad18017dfb13f0449",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:21.421Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "24467424",
+      "title": "Self-talk as a regulatory mechanism: how you do it matters.",
+      "year": 2014,
+      "doi": "10.1037/a0035173",
+      "pubmed": "24467424",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+      "authors": [
+        "Ethan Kross",
+        "Emma Bruehlman-Senecal",
+        "Jiyoung Park",
+        "Aleah Burson",
+        "Adrienne Dougherty",
+        "Holly Shablack",
+        "Ryan Bremner",
+        "Jason Moser",
+        "Ozlem Ayduk"
+      ],
+      "authorsText": "Ethan Kross, Emma Bruehlman-Senecal, Jiyoung Park, Aleah Burson, Adrienne Dougherty, Holly Shablack, Ryan Bremner, Jason Moser and Ozlem Ayduk",
+      "journal": "Journal of personality and social psychology",
+      "occurrences": [
+        {
+          "moveId": "coach-voice",
+          "moveNumber": 3,
+          "sourceIndex": 2,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/2/sources/2",
+          "originalRowHash": "727b4d80f236d62c160c8f8bc25aff0517c762684a1592fe2bc7506e45cbce4c",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:21.660Z",
+        "contentHash": "ae81f69a2feb42581b2bfedf01a6b4f00c6d7a58ddf374c178a68c393dc8e4fd",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "95dc838d678788742166ca79c349ae74edfac2afb883e8cbaa06958c6a6a0bce",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:21.660Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "25068007",
+      "title": "From Fantasy to Action: Mental Contrasting with Implementation Intentions (MCII) Improves Academic Performance in Children.",
+      "year": 2013,
+      "doi": "10.1177/1948550613476307",
+      "pubmed": "25068007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25068007/",
+      "authors": [
+        "Angela Lee Duckworth",
+        "Teri Kirby",
+        "Anton Gollwitzer",
+        "Gabriele Oettingen"
+      ],
+      "authorsText": "Duckworth, Kirby, Gollwitzer and Oettingen",
+      "journal": "Social psychological and personality science",
+      "occurrences": [
+        {
+          "moveId": "snag-plan",
+          "moveNumber": 4,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/3/sources/0",
+          "originalRowHash": "06c3d62dc9421083df864784b3aa82c9e1e1c7f715fe5f4bcbca84dcf9872989",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:22.019Z",
+        "contentHash": "68643b8ead1a61ffd69e6d4b323897ad784adaa8ec7bc1dd07511a088925e0a7",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "5ba131761328ec5e49e1c2142563b22a858051aab02be690db5c96039f92c9e5",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:22.019Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "38518585",
+      "title": "A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage?",
+      "year": 2024,
+      "doi": "10.1016/j.cpr.2024.102414",
+      "pubmed": "38518585",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38518585/",
+      "authors": [
+        "Sophie L Kjærvik",
+        "Brad J Bushman"
+      ],
+      "authorsText": "Kjærvik and Bushman",
+      "journal": "Clinical psychology review",
+      "occurrences": [
+        {
+          "moveId": "cool-off-break",
+          "moveNumber": 5,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/4/sources/0",
+          "originalRowHash": "7c8e3c3460d5ce55c87c85b0d92099a664bbac2900307f4f142d5a2ce6224751",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:24.520Z",
+        "contentHash": "d1c4160453bd4eb08475db7ec7d8becf7388afafa348dcc4eea19ecfca497ed6",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "ac8fbf384e1422c72b8861f8e944b75ea36532125c9d0a81096bc07f923ee4c3",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:24.520Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "19356688",
+      "title": "The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children.",
+      "year": 2009,
+      "doi": "10.1016/j.neuroscience.2009.01.057",
+      "pubmed": "19356688",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19356688/",
+      "authors": [
+        "C H Hillman",
+        "M B Pontifex",
+        "L B Raine",
+        "D M Castelli",
+        "E E Hall",
+        "A F Kramer"
+      ],
+      "authorsText": "Hillman and others",
+      "journal": "Neuroscience",
+      "occurrences": [
+        {
+          "moveId": "cool-off-break",
+          "moveNumber": 5,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/4/sources/1",
+          "originalRowHash": "c3ff1853e312de7e875a4ebae0c60b9d96870c83e675b76ae2b8adda6c4f32a9",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:24.805Z",
+        "contentHash": "f38357218c5da064fbede2859ca172c6a16282e33cbc244feab91ac45870ef2d",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "10ed52ca3244fc06efa0f8338a12fece239c5537e11e8de2346cd52c7b1dc8d8",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:24.805Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "24942038",
+      "title": "Parent support is less effective in buffering cortisol stress reactivity for adolescents compared to children.",
+      "year": 2015,
+      "doi": "10.1111/desc.12195",
+      "pubmed": "24942038",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24942038/",
+      "authors": [
+        "Camelia E Hostinar",
+        "Anna E Johnson",
+        "Megan R Gunnar"
+      ],
+      "authorsText": "Hostinar, Johnson and Gunnar",
+      "journal": "Developmental science",
+      "occurrences": [
+        {
+          "moveId": "bring-in-my-person",
+          "moveNumber": 6,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/5/sources/0",
+          "originalRowHash": "4d7759c2ee356ce03ac800c35781f30477a3b4074527a3fa0a4e36a371fb8721",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:25.164Z",
+        "contentHash": "f72a74662258752c229e181a40fa0c5fb9e2ba9aaf13683bc50f501a56c05190",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "e6b5708862c4cc543c8bd7d3d113a6dd4a904203084b7a5fe273f782101e3076",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:25.164Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "30707442",
+      "title": "Telling adults about one's plight as a victim of bullying: Student- and context-related factors predicting disclosure.",
+      "year": 2020,
+      "doi": "10.1111/sjop.12521",
+      "pubmed": "30707442",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30707442/",
+      "authors": [
+        "Katri Blomqvist",
+        "Silja Saarento-Zaprudin",
+        "Christina Salmivalli"
+      ],
+      "authorsText": "Blomqvist, Saarento-Zaprudin and Salmivalli",
+      "journal": "Scandinavian journal of psychology",
+      "occurrences": [
+        {
+          "moveId": "bring-in-my-person",
+          "moveNumber": 6,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/5/sources/1",
+          "originalRowHash": "4ff7797445c05b398b54c23e8fe22643322aa8faad67d792ba7070dd310a55a5",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:27.645Z",
+        "contentHash": "a86c82703eabe99015041fa073e569cb060b725c482c2a9ca19a4c0e2fd2e8f4",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "8af8e26e9182120516d48661e0c7ef141a334f790943cfe8384ee5a1c3a766be",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:27.645Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "31628568",
+      "title": "A Meta-analysis to Guide the Enhancement of CBT for Childhood Anxiety: Exposure Over Anxiety Management.",
+      "year": 2020,
+      "doi": "10.1007/s10567-019-00303-2",
+      "pubmed": "31628568",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31628568/",
+      "authors": [
+        "Stephen P H Whiteside",
+        "Leslie A Sim",
+        "Allison S Morrow",
+        "Wigdan H Farah",
+        "Daniel R Hilliker",
+        "M Hassan Murad",
+        "Zhen Wang"
+      ],
+      "authorsText": "Whiteside and others",
+      "journal": "Clinical child and family psychology review",
+      "occurrences": [
+        {
+          "moveId": "one-brave-step",
+          "moveNumber": 7,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/6/sources/0",
+          "originalRowHash": "6ca4118497dbc25a266b3468bb06695f7252c30db68db074b5d1db4e97aa042c",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:27.960Z",
+        "contentHash": "d061b6259d11c2b521adbb5c456f7fc58d63217124ef5badc0a68c48e0bf2b64",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "14d362cdb56d823357c1de1b58925e24fe990d3b7f42484acedef592feafa1d7",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:27.960Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "31944812",
+      "title": "Better than my past self: Temporal comparison raises children's pride without triggering superiority goals.",
+      "year": 2020,
+      "doi": "10.1037/xge0000733",
+      "pubmed": "31944812",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31944812/",
+      "authors": [
+        "Çisem Gürel",
+        "Eddie Brummelman",
+        "Constantine Sedikides",
+        "Geertjan Overbeek"
+      ],
+      "authorsText": "Gürel, Brummelman, Sedikides and Overbeek",
+      "journal": "Journal of experimental psychology. General",
+      "occurrences": [
+        {
+          "moveId": "compare-with-past-me",
+          "moveNumber": 8,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/7/sources/0",
+          "originalRowHash": "6a7ec8ee5cfd749777e016fa34e6d5b36cdd7b35193ff54137602a8ead6f8a99",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:28.256Z",
+        "contentHash": "1e07cd7631875c69e4541f953e8cec54c9ea22348942c561e6e1d9e66115244f",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "80c63de5dbf0953e91517167124bfb8092a1b5e4bdfca025b63b434ef8076b72",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:28.256Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "31343231",
+      "title": "Reparative prosocial behaviors alleviate children's guilt.",
+      "year": 2019,
+      "doi": "10.1037/dev0000788",
+      "pubmed": "31343231",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31343231/",
+      "authors": [
+        "Meghan Rose Donohue",
+        "Erin C Tully"
+      ],
+      "authorsText": "Meghan Rose Donohue and Erin C. Tully",
+      "journal": "Developmental psychology",
+      "occurrences": [
+        {
+          "moveId": "make-it-right",
+          "moveNumber": 9,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/8/sources/0",
+          "originalRowHash": "0102164e1b705c20c0023ee47df6610f0cdd56861df3e9aa701440557c23f717",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:30.764Z",
+        "contentHash": "aff6ce9004a9fbf4fef1ab6349989f8a5254907a2134d5b28077fb8173b0d332",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "3d7cfbcee67a0025c140d9fe0ea5561a2e7fa0f3e7c9d8e5a13b9d9c61740eb0",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:30.764Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "30071381",
+      "title": "Apologies repair children's trust: The mediating role of emotions.",
+      "year": 2018,
+      "doi": "10.1016/j.jecp.2018.05.008",
+      "pubmed": "30071381",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30071381/",
+      "authors": [
+        "Fengling Ma",
+        "Breanne E Wylie",
+        "Xianming Luo",
+        "Zhenfen He",
+        "Fen Xu",
+        "Angela D Evans"
+      ],
+      "authorsText": "Ma, Wylie, Luo, He, Xu and Evans",
+      "journal": "Journal of experimental child psychology",
+      "occurrences": [
+        {
+          "moveId": "make-it-right",
+          "moveNumber": 9,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/8/sources/1",
+          "originalRowHash": "344912051d9daa96fea160698c81add42c2dd0f7f6a81fe2a356fed7851c0a72",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:30.996Z",
+        "contentHash": "996771213c58b01b80010fb3ac33b943b6c284b404f33c02edc05838f1d9c8dc",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "d1a37d1acaf103e9fd890e78218f3483ebfc3fe8865c164b1918c21e6d8f1c5d",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:30.996Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "36092281",
+      "title": "A Pragmatic Randomized Controlled Trial Targeting Perfectionism in Young Adolescents.",
+      "year": 2023,
+      "doi": "10.1007/s12310-022-09540-3",
+      "pubmed": "36092281",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36092281/",
+      "authors": [
+        "Ivana Osenk",
+        "Catherine Johnson",
+        "Tracey D Wade"
+      ],
+      "authorsText": "Osenk, Johnson and Wade",
+      "journal": "School mental health",
+      "occurrences": [
+        {
+          "moveId": "good-enough-is-done",
+          "moveNumber": 10,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/9/sources/0",
+          "originalRowHash": "64339d243ef6f31f9c273e764e891e627a0d4349a8e7ced9eb11eb8810c36bc7",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:31.372Z",
+        "contentHash": "82cd8cc83fe882e3e5211c508e0c13d3b6bf6470058fa7af739d8a45556804f5",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "554868f21205774168852b361f9fa5c6b2e9dd09e0f1fc0b0d1d542618584675",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:31.372Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "41805454",
+      "title": "Overcoming perfectionism during childhood and adolescence: a systematic review and meta-analysis of interventions.",
+      "year": 2026,
+      "doi": "10.1080/16506073.2026.2631149",
+      "pubmed": "41805454",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41805454/",
+      "authors": [
+        "Andrea Fuster",
+        "María Vicent",
+        "Julio Sánchez-Meca",
+        "Carolina Gonzálvez"
+      ],
+      "authorsText": "Fuster, Vicent, Sánchez-Meca and Gonzálvez",
+      "journal": "Cognitive behaviour therapy",
+      "occurrences": [
+        {
+          "moveId": "good-enough-is-done",
+          "moveNumber": 10,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/9/sources/1",
+          "originalRowHash": "76e506e15dad8f3d3731f580070dce477025992d54926618902e766bcac44728",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:33.910Z",
+        "contentHash": "8ed1eed89eb00318a554a157928054831d9054aca9e7bc0fc94555e368265c90",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "dd982a2754da114fc7d2e13a3e2e000dc7a4d5603cd602ab1d6a7304d20b72a0",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:33.910Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "29899715",
+      "title": "Cyberbullying Among Adolescent Bystanders: Role of Affective Versus Cognitive Empathy in Increasing Prosocial Cyberbystander Behavior.",
+      "year": 2018,
+      "doi": "10.3389/fpsyg.2018.00799",
+      "pubmed": "29899715",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29899715/",
+      "authors": [
+        "Julia Barlińska",
+        "Anna Szuster",
+        "Mikołaj Winiewski"
+      ],
+      "authorsText": "Barlińska, Szuster and Winiewski",
+      "journal": "Frontiers in psychology",
+      "occurrences": [
+        {
+          "moveId": "dont-feed-the-fire",
+          "moveNumber": 11,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/10/sources/0",
+          "originalRowHash": "835dd63f356f3506dca3b9a784d83081e94498c0826a6f6ee2b6292e0d60d760",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:34.244Z",
+        "contentHash": "2923c78540ac0578a27c0a610b603d988d599c54d9c8deb60a15a81b58e599d3",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "773a2b58b83fa374f456f9addc4d5c3dca69f773471ed8c49b10794fa64ba6f6",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:34.244Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "40175833",
+      "title": "Defending Behavior in Bullying and Defenders' Psychosocial Outcomes among Children and Adolescents: A Series of Three-Level Meta-Analyses.",
+      "year": 2025,
+      "doi": "10.1007/s10964-025-02176-x",
+      "pubmed": "40175833",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40175833/",
+      "authors": [
+        "Xin Tian",
+        "E Scott Huebner",
+        "Lili Tian"
+      ],
+      "authorsText": "Xin Tian, E. Scott Huebner and Lili Tian",
+      "journal": "Journal of youth and adolescence",
+      "occurrences": [
+        {
+          "moveId": "dont-feed-the-fire",
+          "moveNumber": 11,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/10/sources/1",
+          "originalRowHash": "852c206e1882e1f2efcc681c758973aaf36f060de9081401dc4be5538b7d5340",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:34.495Z",
+        "contentHash": "262b4d007c5978a2756c94dc6e3eb9eededc809aa81475279f5b714c0632a67d",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "8101d6fecb3a90ef9de6ddd4f1a44b78f0e6190e44103618242b7e625bce4cc9",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:34.495Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "30642965",
+      "title": "Reducing socioeconomic disparities in the STEM pipeline through student emotion regulation.",
+      "year": 2019,
+      "doi": "10.1073/pnas.1808589116",
+      "pubmed": "30642965",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30642965/",
+      "authors": [
+        "Christopher S Rozek",
+        "Gerardo Ramirez",
+        "Rachel D Fine",
+        "Sian L Beilock"
+      ],
+      "authorsText": "Rozek, Ramirez, Fine and Beilock",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "occurrences": [
+        {
+          "moveId": "butterflies-mean-ready",
+          "moveNumber": 12,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/11/sources/0",
+          "originalRowHash": "a249a712f859b97a333fa8339300f4157fa93a4515b8c5d02f69293e7977c33f",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:37.052Z",
+        "contentHash": "67ba4f30add4aaabe147be71e387006b4e68d11af2766bf290fb55c97bc9c4c1",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "2326f76738aa76e4c241dadc26bf8003d174e688cc9e9a1fbd928a1fd1c05932",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:37.052Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "20161454",
+      "title": "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE.",
+      "year": 2010,
+      "doi": "10.1016/j.jesp.2009.08.015",
+      "pubmed": "20161454",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20161454/",
+      "authors": [
+        "Jeremy P Jamieson",
+        "Wendy Berry Mendes",
+        "Erin Blackstock",
+        "Toni Schmader"
+      ],
+      "authorsText": "Jamieson, Mendes, Blackstock and Schmader",
+      "journal": "Journal of experimental social psychology",
+      "occurrences": [
+        {
+          "moveId": "butterflies-mean-ready",
+          "moveNumber": 12,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/11/sources/1",
+          "originalRowHash": "191ea9497ae6cfce83f62c8c2c1eee02dc60fd91bbca947ee9f3caddb38ebc74",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:37.386Z",
+        "contentHash": "029eb66d4e1ab778f6ba0eb586a36c0768ba9f277e02b8e31274dae245f417bb",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "60e53e1d2b396954565ecb2151b77007c8a39ee593cecd3f9f5fec853fdd5ee1",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:37.386Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "19520470",
+      "title": "Postponing worrisome thoughts in children: the effects of a postponement intervention on perseverative thoughts, emotions and somatic complaints.",
+      "year": 2009,
+      "doi": "10.1016/j.socscimed.2009.04.031",
+      "pubmed": "19520470",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19520470/",
+      "authors": [
+        "Francine C Jellesma",
+        "Bart Verkuil",
+        "Jos F Brosschot"
+      ],
+      "authorsText": "Jellesma, Verkuil and Brosschot",
+      "journal": "Social science & medicine (1982)",
+      "occurrences": [
+        {
+          "moveId": "worry-parking-spot",
+          "moveNumber": 13,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/12/sources/0",
+          "originalRowHash": "c3f489b4cf02ca885a792054587d211ebbe04d33665b080f1db4a5a715cc1e27",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:37.636Z",
+        "contentHash": "579858ddf6b0285031634660ade5e814e46bfa30de6ecbcc5f85585a886ae550",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "408eac3c7df7f2d4904bc05be7b112ebcb7d2563df0c883bf678ad5e36089558",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:37.636Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "21233387",
+      "title": "Writing about testing worries boosts exam performance in the classroom.",
+      "year": 2011,
+      "doi": "10.1126/science.1199427",
+      "pubmed": "21233387",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21233387/",
+      "authors": [
+        "Gerardo Ramirez",
+        "Sian L Beilock"
+      ],
+      "authorsText": "Ramirez and Beilock",
+      "journal": "Science (New York, N.Y.)",
+      "occurrences": [
+        {
+          "moveId": "worry-parking-spot",
+          "moveNumber": 13,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/12/sources/1",
+          "originalRowHash": "3666299d51ea4fc043cbc57cd99dd112b7dfbe316cfc833e860ea00c72f1e5ce",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:44:48.030Z",
+        "contentHash": "94aa9965dfe192cdba97f71c0afb3c24385cc5319010890a83b666d0b405455f",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "2b424af19d52213022ca88fba7927bb0a8ce8c84e3077f9671da295e0b63f47e",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "unverified"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:44:48.030Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [
+          "ErratumIn"
+        ],
+        "relations": [
+          {
+            "type": "ErratumIn",
+            "target": {
+              "pubmed": null,
+              "doi": null,
+              "citation": "Science.2014Apr11;344(6180):151",
+              "url": "https://www.sciencemagazinedigital.org/sciencemagazine/11_april_2014?pg=35"
+            },
+            "noticeReadScope": "Complete relevant primary notice read in publisher digital issue; corrected main/supplement tables not recalculated",
+            "description": "Statistical calculation correction. Notice states significance and interpretation unchanged; main and supplementary statistics updated.",
+            "disposition": {
+              "state": "pending-separate-review",
+              "approvedClaims": [],
+              "reason": "Notice identified and substance read; no claim-scoped acceptance or eligibility override is encoded here."
+            }
+          }
+        ]
+      },
+      "review": {
+        "state": "notice-and-claim-review-needed",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "23720415",
+      "title": "Manipulating sleep duration alters emotional functioning and cognitive performance in children.",
+      "year": 2013,
+      "doi": "10.1093/jpepsy/jst033",
+      "pubmed": "23720415",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23720415/",
+      "authors": [
+        "Jennifer L Vriend",
+        "Fiona D Davidson",
+        "Penny V Corkum",
+        "Benjamin Rusak",
+        "Christine T Chambers",
+        "Elizabeth N McLaughlin"
+      ],
+      "authorsText": "Vriend, Davidson, Corkum, Rusak, Chambers and McLaughlin",
+      "journal": "Journal of pediatric psychology",
+      "occurrences": [
+        {
+          "moveId": "check-my-battery",
+          "moveNumber": 14,
+          "sourceIndex": 0,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/13/sources/0",
+          "originalRowHash": "f371c36c6034d290d5630c6c3b6aa3b1a7bc3ae050ffd74c1cdbedac64c953b4",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:43:40.424Z",
+        "contentHash": "a46b9f9faa42b025cbdc1f190ec649351eeda2cdad453af9e54a5b22bba4b905",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "5c88e03217b906a05fa5fda6b1885488447b00d634e73dc10b3eedc29c8eac01",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "verified-record"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:43:40.424Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [],
+        "relations": []
+      },
+      "review": {
+        "state": "metadata-checked-claim-review-pending",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    },
+    {
+      "id": "41283315",
+      "title": "Sleep as a Developmental Process: A Systematic Review of Cognitive, Emotional, and Behavioral Outcomes in Children Aged 6-12 Years.",
+      "year": 2025,
+      "doi": "10.3390/clockssleep7040066",
+      "pubmed": "41283315",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41283315/",
+      "authors": [
+        "Adriana Félix",
+        "Adelinda Candeias"
+      ],
+      "authorsText": "Félix and Candeias",
+      "journal": "Clocks & sleep",
+      "occurrences": [
+        {
+          "moveId": "check-my-battery",
+          "moveNumber": 14,
+          "sourceIndex": 1,
+          "rawFile": "content/moves.json",
+          "baselineCommit": "3a1f8cc",
+          "jsonPointer": "/13/sources/1",
+          "originalRowHash": "7782c68373e5197b867c3569069d61e120635a2c2d185fe22d61361c0fa23eec",
+          "originalRowHashScope": "SHA256 of JSON.stringify(parsed original source row) in original key order"
+        }
+      ],
+      "retrieval": {
+        "state": "metadata-and-abstract-fetched",
+        "method": "NCBI PubMed EFetch XML",
+        "fetchedAt": "2026-10-16T14:44:48.290Z",
+        "contentHash": "cf893e4d63ffbe9b85000a4efb2687d313fd0c87adc9bf28c58cc4bf5a2da799",
+        "contentHashScope": "SHA256 of fetched abstract text. Abstract is not included in this registry.",
+        "metadataHash": "ce342a9c1749b80211adaee2fba4523a3c96c07d57c77f89de74309c27b52265",
+        "contentScope": "PubMed abstract, not a full-paper review",
+        "receiptValidationStatus": "unverified"
+      },
+      "indexedNotices": {
+        "checkedAt": "2026-10-16T14:44:48.290Z",
+        "method": "NCBI EFetch indexed relation types",
+        "types": [
+          "ErratumIn"
+        ],
+        "relations": [
+          {
+            "type": "ErratumIn",
+            "target": {
+              "pubmed": "41892392",
+              "doi": "10.3390/clockssleep8010010",
+              "citation": "Clocks Sleep.2026;8(1):10",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13024814/"
+            },
+            "noticeReadScope": "Full primary correction read",
+            "description": "Adds omitted funding and acknowledgments. Authors/editor state scientific conclusions are unaffected.",
+            "disposition": {
+              "state": "pending-separate-review",
+              "approvedClaims": [],
+              "reason": "Funding-only scope documented; independent claim/notice disposition remains separate."
+            }
+          }
+        ]
+      },
+      "review": {
+        "state": "notice-and-claim-review-needed",
+        "sourceFetchIsClaimApproval": false,
+        "approvedClaims": [],
+        "existingSeedUse": "Registry does not alter original14 eligibility or historical artifacts",
+        "scope": "Identity, source scope and available indexed notice metadata only; not an approval of all instructional or efficacy claims"
+      }
+    }
+  ]
+}

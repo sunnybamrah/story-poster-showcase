@@ -1,0 +1,25 @@
+{
+  "worlds": [
+    "comic strip",
+    "treasure map",
+    "science lab notebook",
+    "superhero trading card",
+    "video game level",
+    "weather report",
+    "space mission",
+    "recipe card"
+  ],
+  "colourSets": [
+    "warm",
+    "cool",
+    "night",
+    "forest"
+  ],
+  "source": "STYLE v3: eight worlds and four colour sets.",
+  "palettes": {
+    "warm": "coral, sunshine yellow, mint, cream background",
+    "cool": "sky blue, teal, lavender, cream background",
+    "night": "deep navy background, glowing yellow, pink, white cards",
+    "forest": "leaf green, sand, sunset orange, cream background"
+  }
+}

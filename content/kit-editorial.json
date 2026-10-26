@@ -1,0 +1,83 @@
+{
+  "pass": 38,
+  "chosenBy": "Codex, applying Sunny’s Project source files and his October 17 changes",
+  "reviewLabel": "FOR SUNNY'S READ",
+  "ownerApproval": false,
+  "visualPolish": {
+    "basis": "The original Project parts stay. The drawing model chooses the arrangement, illustrations, borders and colors for each poster. No fixed poster grid. Saved completed drawings keep their original design.",
+    "parentCard": "Four spoken lines from FORMAT; parent directions stay in companion notes.",
+    "evidenceLabels": "Plain display labels only. Original classifications and complete limitations remain in records and companion notes.",
+    "ownerApproval": false,
+    "reviewLabel": "FOR SUNNY'S READ"
+  },
+  "story": {
+    "targetWords": 600,
+    "rangeWords": [
+      550,
+      750
+    ],
+    "basis": "Age-aware writing guidance, not a word-count stop. Ages 8 to 10 aim for about 350 words, with 450 as advice. Older readers aim for about 600, with 750 as advice. Each new chapter needs a real page-fit check. Keep readable type and the actual concern; never pad a saved chapter.",
+    "paragraphs": "Three short hook lines, then short paragraphs of everyday action and dialogue. Vary their length naturally. Real retellings use only supplied or confirmed events and quotes.",
+    "youngerReaders": {
+      "ages": [
+        8,
+        10
+      ],
+      "targetWords": 350,
+      "advisoryCeilingWords": 450
+    }
+  },
+  "printSources": {
+    "name-it-exactly": [
+      "10.1177/1754073917742706",
+      "10.1037/emo0000630"
+    ],
+    "long-breath-out": [
+      "10.1080/02699931.2016.1233095",
+      "10.1080/15374416.2022.2084743"
+    ],
+    "coach-voice": [
+      "10.1037/a0035173",
+      "10.1037/a0021787"
+    ],
+    "snag-plan": [
+      "10.1177/1948550613476307"
+    ],
+    "cool-off-break": [
+      "10.1016/j.cpr.2024.102414"
+    ],
+    "bring-in-my-person": [
+      "10.1111/desc.12195"
+    ],
+    "one-brave-step": [
+      "10.1007/s10567-019-00303-2"
+    ],
+    "compare-with-past-me": [
+      "10.1037/xge0000733"
+    ],
+    "make-it-right": [
+      "10.1037/dev0000788"
+    ],
+    "good-enough-is-done": [
+      "10.1007/s12310-022-09540-3",
+      "10.1080/16506073.2026.2631149"
+    ],
+    "dont-feed-the-fire": [
+      "10.3389/fpsyg.2018.00799",
+      "10.1007/s10964-025-02176-x"
+    ],
+    "butterflies-mean-ready": [
+      "10.1016/j.jesp.2009.08.015",
+      "10.1073/pnas.1808589116"
+    ],
+    "worry-parking-spot": [
+      "10.1016/j.socscimed.2009.04.031"
+    ],
+    "check-my-battery": [
+      "10.1093/jpepsy/jst033",
+      "10.3390/clockssleep7040066"
+    ]
+  },
+  "sourceSelectionBasis": "At most two existing records nearest the printed finding and its boundary. Retain conflicting child breathing results. No source, finding, limitation or practice passage is rewritten; all records remain in the parent notes and kit evidence.",
+  "grownUp": "The default fictional grown-up is a human man using he/him, short dark hair, blue sweater, dark trousers and brown shoes. Explicit cast records take precedence. This is an invented cast choice, never a claim about the real parent."
+}

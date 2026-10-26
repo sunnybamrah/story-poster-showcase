@@ -1,0 +1,35 @@
+Sep 11
+# STYLE: how the posters look (v3, graphic novel)
+
+## Fixed (never changes)
+- Drawing style everywhere: middle grade graphic novel like Smile or The Baby Sitters Club. Clean ink lines, flat warm colours, normal proportions, real expressions, no oversized eyes, no toy shine.
+- Fonts: Baloo 2 for titles, Nunito for body. Big, rounded, friendly.
+- Footer on every poster: "the learner's Confidence Guide".
+- Layout: one big hero picture at the top third, the text blocks below in rounded cards, lots of white space. Never crowded. One idea, one page.
+- Exactly one isolated key word in its own colour and box.
+- US Letter portrait, print ready, high contrast text on light cards.
+- the learner and the selected sibling always drawn from CHARACTER-SHEET.txt and CHARACTER-REFERENCE.png.
+- Poster layout always matches POSTER-REFERENCE.png: title band, tagline pill, one hero picture, four cards, footer.
+
+## Rotating "world" (pick the next one, never repeat the last two)
+1. Comic strip: bold outlines, halftone dots, speech bubbles.
+2. Treasure map: parchment, dotted path, X marks the step.
+3. Science lab notebook: graph paper, sticky notes, doodled beakers.
+4. Superhero trading card: card frame, power stats, shiny badge.
+5. Video game level: pixel blocks, hearts, level up banner.
+6. Weather report: sky map, sun and cloud icons, forecast strip.
+7. Space mission: stars, rocket, mission checklist.
+8. Recipe card: kitchen card, ingredients list, step numbers.
+
+## Rotating colour set (pick the next one, never repeat the last two)
+- Warm: coral, sunshine yellow, mint, cream background.
+- Cool: sky blue, teal, lavender, cream background.
+- Night: deep navy background, glowing yellow, pink, white cards.
+- Forest: leaf green, sand, sunset orange, cream background.
+
+## Picture rules
+- One hero scene showing her DOING THE MOVE. Never the hard moment itself.
+- One joke tied to the skill, hidden in the picture (example: the "brain" drawn as a tiny loud megaphone shouting, while everyone around is busy with their own thing).
+- No scary images. No real logos or brands.
+
+- NO WORDS ON THE POSTER except the approved card text. No signposts, no banners, no slogans, no messages on screens, no words on objects. Run POSTER-CHECK.txt before the final PDF.

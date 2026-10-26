@@ -1,0 +1,52 @@
+{
+  "moveId": "name-it-exactly",
+  "chapterTitle": "the fox Names the Feeling",
+  "tagline": "Name how you feel, your feelings are real.",
+  "story": "MADE UP\nThe door clicks shut.\nPip has plenty to say, but no word fits.\nEven the toy microphone is waiting.\n\nIn this comic strip, Pip is a made up orange fox of ten, drawn in thick black lines and warm orange light. They wear round glasses, a green hoodie with a yellow lightning patch, and red high top sneakers. Their blue sketchbook stays tucked under one arm.\n\nPip stands beside the drawing desk. Their jaw feels tight, and their free paw squeezes the edge of their sleeve.\n\"I don't have the words.\"\nDee sits nearby without reaching for the sketchbook.\n\"It sounds hard to have so much going on inside,\" Dee says. \"You don't have to explain the whole day for your feelings to matter.\"\n\nOn the desk sits a toy microphone. Its foam cover is enormous, which means very big. The tiny handle barely sticks out beneath it. All that microphone for one little feeling word. Pip looks at it, but leaves it alone. No equipment is needed.\n\nPip wonders whether one word will start a hundred questions. They do not want to explain what happened before this moment. They turn sideways toward Dee.\n\"Can I name just the feeling?\"\n\"Yes,\" says Dee. \"The move is Name the feeling. The reminder word is NAME. You choose the word, not me.\"\n\nDee whispers one small science note. \"In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.\"\nPip listens. That is not a promise about what will happen in this room.\n\"Want to try the move now, or later?\" Dee asks.\n\"Now is okay,\" Pip says.\n\nDee speaks gently.\n\"Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\"\n\nPip chooses this moment, not a story from earlier. \"Bad,\" they say. Then they stop.\nHere, sharper means more exact about which feeling it is. Pip does not feel embarrassed like the example. They want the words to come, and the words will not come easily. Frustrated means upset because something is not working how you want.\nThat one fits. Annoyed fits too. Pip can feel both without having to pick a winner.\n\nDee says, \"Touch your chest together. Say the feeling's name.\"\nThey each touch their own chest. Pip shifts their free paw up beside their mouth and faces forward.\n\"I feel frustrated and annoyed.\"\nTheir voice comes out small. The room does not change colour. Their jaw still feels tight.\n\"Seven,\" Pip adds. \"That's my number right now.\"\n\"I feel worried,\" Dee says, choosing their own feeling word.\n\nDee does not ask for the whole story. They ask, \"What did you notice?\"\n\"I said two words instead of just bad. But I'm still annoyed.\"\n\"You named the feelings,\" Dee says. \"That is what we practised.\"\n\"So naming is saying which feeling I have,\" Pip says, \"not making myself happy.\"\n\"Yes,\" Dee says. \"And you get to choose what fits.\"\n\nPip looks down at the yellow patch on their hoodie. It is still crooked where the cloth folds. Nothing in the room turns perfect just because they use a more exact word.\nThey sit on the low stool beside the desk, keeping the sketchbook under their arm.\n\"I named two feelings.\"\n\nPip is not ready to open the book or explain the day. The tight feeling in their jaw is still there. They can hear the two words they chose, though. Frustrated. Annoyed. Those words belong to this moment, not to everything about them.\nDee stays nearby. The comic strip ends with the book still closed and two feelings named.",
+  "panelLines": [
+    {
+      "scene": "Page 1, upper panel: a wide comic strip view in warm orange and cream shows the fox beside a drawing desk, orange fur, round glasses, green hoodie with a yellow lightning patch, red high top sneakers, and a closed blue sketchbook under one arm; the free paw grips a sleeve, and a toy microphone with an oversized foam cover rests on the desk; no lettering on objects.",
+      "line": "I don't have the words."
+    },
+    {
+      "scene": "Page 1, lower panel: a closer side view shows the fox turning toward a grown-up seated nearby, with the closed blue sketchbook still tucked under one arm; warm terracotta background and thick comic outlines.",
+      "line": "Can I name just the feeling?"
+    },
+    {
+      "scene": "Page 2, upper panel: the fox stands facing forward, one open paw raised beside an open mouth, with the closed blue sketchbook under the other arm; a plain warm cream background makes the speaking pose clear.",
+      "line": "I feel frustrated and annoyed."
+    },
+    {
+      "scene": "Page 2, lower panel: a low view shows the fox sitting on a small stool beside the desk, brow still slightly furrowed and closed blue sketchbook under one arm; nonprinting lettering check for this layout: bubbles contain 5, 6, 5, and 4 words, totalling 20, or 41 visible words including the title and two tagline printings.",
+      "line": "I named two feelings."
+    }
+  ],
+  "jokeIdea": "On the drawing desk beside the fox, a toy microphone's huge foam cover nearly hides its tiny handle as the fox names a feeling, with no lettering on the object.",
+  "feelFirst": [
+    "It makes sense that words can be hard to find when you're upset.",
+    "Your feelings matter, even if you don't want to explain what happened."
+  ],
+  "tinyTryOptions": [
+    {
+      "text": "Together, touch your chests and each say one feeling word that fits right now. Two words are okay.",
+      "seconds": 30,
+      "offScreen": true
+    },
+    {
+      "text": "Explain what NAME means in your own words, then touch your chest and say the name of a feeling you notice.",
+      "seconds": 45,
+      "offScreen": true
+    },
+    {
+      "text": "Later, with the kit out of sight, see if you can remember and show this move. Say a feeling word that fits you.",
+      "seconds": 30,
+      "offScreen": true
+    }
+  ],
+  "whereElse": {
+    "line": "Could you name a feeling while you sit at the kitchen table?",
+    "place": "kitchen table"
+  },
+  "noticedFeeling": "annoyed",
+  "replayCue": "A tight jaw can be your first cue to NAME."
+}

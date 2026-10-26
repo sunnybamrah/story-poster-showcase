@@ -1,0 +1,256 @@
+[
+  {
+    "moveId": "name-it-exactly",
+    "lines": [
+      "Name it",
+      "to tame it"
+    ],
+    "author": "Sunny",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "approved",
+      "by": "Sunny",
+      "authority": "DECISIONS 45 and 46, confirmed in pass 28 brief",
+      "text": "Name it to tame it"
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "long-breath-out",
+    "lines": [
+      "Breathe out slow,",
+      "let it flow."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "coach-voice",
+    "lines": [
+      "Talk kind inside,",
+      "be your own guide."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "snag-plan",
+    "lines": [
+      "Think it through:",
+      "what could I do?"
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "cool-off-break",
+    "lines": [
+      "Pause a bit.",
+      "Come back to it."
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "bring-in-my-person",
+    "lines": [
+      "Ask for a hand,",
+      "together we stand."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "one-brave-step",
+    "lines": [
+      "Start small today.",
+      "Find your own way."
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "compare-with-past-me",
+    "lines": [
+      "Then and now:",
+      "what changed, and how?"
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "make-it-right",
+    "lines": [
+      "Show you care.",
+      "Say sorry and repair."
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "good-enough-is-done",
+    "lines": [
+      "One check, then done,",
+      "no second run."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "dont-feed-the-fire",
+    "lines": [
+      "In private, say,",
+      "\"Are you okay?\""
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "butterflies-mean-ready",
+    "lines": [
+      "Nerves can mean ready,",
+      "take it steady."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "worry-parking-spot",
+    "lines": [
+      "Worry, take a seat,",
+      "later we’ll meet."
+    ],
+    "author": "Codex (GPT-6.1 SOL), selecting supplied ChatGPT candidates",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex (GPT-6.1 SOL)",
+      "authority": "Sunny’s 2026-10-14 delegation, Slice 0 pass 31",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "check-my-battery",
+    "lines": [
+      "Sleep, stretch, or thirst?",
+      "Body check first."
+    ],
+    "author": "Codex, under Sunny's delegation",
+    "editorialRule": "Two short spoken beats, 4 to 7 words TOTAL, plain words, a true rhyme, a clear reminder of the move, and no promised feeling outcome. Sunny's editorial choice, not a memory-study threshold.",
+    "approval": {
+      "status": "pending",
+      "by": null
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's 2026-10-15 full creative delegation and 4 to 7 word correction",
+      "ownerApproval": false
+    }
+  }
+]

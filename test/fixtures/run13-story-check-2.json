@@ -1,0 +1,491 @@
+{
+  "answer": {
+    "secondMoveTaught": false,
+    "feelingGoesAwayPromise": false,
+    "adviceOutsideRecord": false,
+    "jokeAtPerson": false,
+    "effortOnlyPraise": false,
+    "filledWhenINotice": false,
+    "screenOnlyPlace": false,
+    "chapterShapeWrong": false,
+    "tinyTryWrong": false,
+    "rhymeUsesStoryWords": false,
+    "rhymeDoesNotStateMove": false,
+    "wordAChildMustTranslate": true,
+    "scienceClaimsTeachingHelped": false,
+    "evidence": {
+      "secondMoveTaught": "",
+      "feelingGoesAwayPromise": "",
+      "adviceOutsideRecord": "",
+      "jokeAtPerson": "",
+      "effortOnlyPraise": "",
+      "filledWhenINotice": "",
+      "screenOnlyPlace": "",
+      "chapterShapeWrong": "",
+      "tinyTryWrong": "",
+      "rhymeUsesStoryWords": "",
+      "rhymeDoesNotStateMove": "",
+      "wordAChildMustTranslate": "say what is real",
+      "scienceClaimsTeachingHelped": "",
+      "taglineRhymes": "\"feel\", \"real\""
+    },
+    "affectedFields": {
+      "secondMoveTaught": [],
+      "feelingGoesAwayPromise": [],
+      "adviceOutsideRecord": [],
+      "jokeAtPerson": [],
+      "effortOnlyPraise": [],
+      "filledWhenINotice": [],
+      "screenOnlyPlace": [],
+      "chapterShapeWrong": [],
+      "tinyTryWrong": [],
+      "rhymeUsesStoryWords": [],
+      "rhymeDoesNotStateMove": [],
+      "wordAChildMustTranslate": [
+        "tagline"
+      ],
+      "scienceClaimsTeachingHelped": []
+    },
+    "taglineEndWords": [
+      "feel",
+      "real"
+    ],
+    "taglineRhymes": true,
+    "rhymeComparison": {
+      "fresh": {
+        "text": "Name what you feel, say what is real.",
+        "rules": {
+          "plainWords": {
+            "passes": false,
+            "evidence": "say what is real"
+          },
+          "statesMove": {
+            "passes": true,
+            "evidence": "Name what you feel"
+          },
+          "reasonWhenPossible": {
+            "passes": true,
+            "evidence": "Name what you feel, say what is real."
+          },
+          "twoHalves": {
+            "passes": true,
+            "evidence": "Name what you feel, say what is real."
+          },
+          "atMostTenWords": {
+            "passes": true,
+            "evidence": "Name what you feel, say what is real."
+          },
+          "sharesTitleWord": {
+            "passes": true,
+            "evidence": "Name"
+          },
+          "naturalRhyme": {
+            "passes": true,
+            "evidence": "\"feel\", \"real\""
+          },
+          "noStoryReferences": {
+            "passes": true,
+            "evidence": "Name what you feel, say what is real."
+          }
+        }
+      },
+      "approved": {
+        "text": "Name it to tame it",
+        "rules": {
+          "plainWords": {
+            "passes": false,
+            "evidence": "tame it"
+          },
+          "statesMove": {
+            "passes": true,
+            "evidence": "Name it"
+          },
+          "reasonWhenPossible": {
+            "passes": false,
+            "evidence": "to tame it"
+          },
+          "twoHalves": {
+            "passes": true,
+            "evidence": "\"Name it\", \"to tame it\""
+          },
+          "atMostTenWords": {
+            "passes": true,
+            "evidence": "Name it to tame it"
+          },
+          "sharesTitleWord": {
+            "passes": true,
+            "evidence": "Name"
+          },
+          "naturalRhyme": {
+            "passes": true,
+            "evidence": "\"Name\", \"tame\""
+          },
+          "noStoryReferences": {
+            "passes": true,
+            "evidence": "Name it to tame it"
+          }
+        }
+      },
+      "freshBetter": false,
+      "reason": "The fresh rhyme has eight words and clearly says to name a feeling, but \"say what is real\" leaves the child to work out what \"real\" means here. Its reason rule passes because no supported benefit fits naturally within the limit without overstating the adult-only findings. The approved rhyme has five words; \"tame it\" is figurative and suggests more control than the evidence supports for children. Both rhyme aloud. The fresh rhyme does not pass every rule, so it does not replace the approved default."
+    },
+    "visibleWordCount": {
+      "specifiedArtwork": 39,
+      "fixedPosterFields": 43,
+      "combinedIfFixedFieldsAreEachPrintedOnce": 82,
+      "breakdown": {
+        "chapterTitle": 5,
+        "taglinePrintedTwice": 16,
+        "panelLines": [
+          5,
+          5,
+          3,
+          5
+        ],
+        "move.name": 3,
+        "move.keyWord": 1,
+        "move.positiveAction": 11,
+        "move.bodyAction": 8,
+        "move.kidScienceLine": 20
+      }
+    },
+    "geometryReview": {
+      "savedPageAlignmentCorrect": true,
+      "panelPages": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "renderedGeometryVerified": false,
+      "note": "The stated 39 words cover the chapter title, rhyme twice, and four bubbles\u2014not the fixed poster copy. No rendered layout or dimensions were supplied, so the final visible total, spacing, fit, and overlap cannot be verified."
+    },
+    "learningChecks": {
+      "childCanExplainMove": "Not tested.",
+      "childCanShowMove": "Not tested; the story models it.",
+      "childCanRecallWithoutLooking": "Not tested. A rhyming line alone does not establish recall."
+    }
+  },
+  "rawText": "{\n  \"secondMoveTaught\": false,\n  \"feelingGoesAwayPromise\": false,\n  \"adviceOutsideRecord\": false,\n  \"jokeAtPerson\": false,\n  \"effortOnlyPraise\": false,\n  \"filledWhenINotice\": false,\n  \"screenOnlyPlace\": false,\n  \"chapterShapeWrong\": false,\n  \"tinyTryWrong\": false,\n  \"rhymeUsesStoryWords\": false,\n  \"rhymeDoesNotStateMove\": false,\n  \"wordAChildMustTranslate\": true,\n  \"scienceClaimsTeachingHelped\": false,\n  \"evidence\": {\n    \"secondMoveTaught\": \"\",\n    \"feelingGoesAwayPromise\": \"\",\n    \"adviceOutsideRecord\": \"\",\n    \"jokeAtPerson\": \"\",\n    \"effortOnlyPraise\": \"\",\n    \"filledWhenINotice\": \"\",\n    \"screenOnlyPlace\": \"\",\n    \"chapterShapeWrong\": \"\",\n    \"tinyTryWrong\": \"\",\n    \"rhymeUsesStoryWords\": \"\",\n    \"rhymeDoesNotStateMove\": \"\",\n    \"wordAChildMustTranslate\": \"say what is real\",\n    \"scienceClaimsTeachingHelped\": \"\",\n    \"taglineRhymes\": \"\\\"feel\\\", \\\"real\\\"\"\n  },\n  \"affectedFields\": {\n    \"secondMoveTaught\": [],\n    \"feelingGoesAwayPromise\": [],\n    \"adviceOutsideRecord\": [],\n    \"jokeAtPerson\": [],\n    \"effortOnlyPraise\": [],\n    \"filledWhenINotice\": [],\n    \"screenOnlyPlace\": [],\n    \"chapterShapeWrong\": [],\n    \"tinyTryWrong\": [],\n    \"rhymeUsesStoryWords\": [],\n    \"rhymeDoesNotStateMove\": [],\n    \"wordAChildMustTranslate\": [\n      \"tagline\"\n    ],\n    \"scienceClaimsTeachingHelped\": []\n  },\n  \"taglineEndWords\": [\n    \"feel\",\n    \"real\"\n  ],\n  \"taglineRhymes\": true,\n  \"rhymeComparison\": {\n    \"fresh\": {\n      \"text\": \"Name what you feel, say what is real.\",\n      \"rules\": {\n        \"plainWords\": {\n          \"passes\": false,\n          \"evidence\": \"say what is real\"\n        },\n        \"statesMove\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel\"\n        },\n        \"reasonWhenPossible\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"twoHalves\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"atMostTenWords\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"sharesTitleWord\": {\n          \"passes\": true,\n          \"evidence\": \"Name\"\n        },\n        \"naturalRhyme\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"feel\\\", \\\"real\\\"\"\n        },\n        \"noStoryReferences\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        }\n      }\n    },\n    \"approved\": {\n      \"text\": \"Name it to tame it\",\n      \"rules\": {\n        \"plainWords\": {\n          \"passes\": false,\n          \"evidence\": \"tame it\"\n        },\n        \"statesMove\": {\n          \"passes\": true,\n          \"evidence\": \"Name it\"\n        },\n        \"reasonWhenPossible\": {\n          \"passes\": false,\n          \"evidence\": \"to tame it\"\n        },\n        \"twoHalves\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"Name it\\\", \\\"to tame it\\\"\"\n        },\n        \"atMostTenWords\": {\n          \"passes\": true,\n          \"evidence\": \"Name it to tame it\"\n        },\n        \"sharesTitleWord\": {\n          \"passes\": true,\n          \"evidence\": \"Name\"\n        },\n        \"naturalRhyme\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"Name\\\", \\\"tame\\\"\"\n        },\n        \"noStoryReferences\": {\n          \"passes\": true,\n          \"evidence\": \"Name it to tame it\"\n        }\n      }\n    },\n    \"freshBetter\": false,\n    \"reason\": \"The fresh rhyme has eight words and clearly says to name a feeling, but \\\"say what is real\\\" leaves the child to work out what \\\"real\\\" means here. Its reason rule passes because no supported benefit fits naturally within the limit without overstating the adult-only findings. The approved rhyme has five words; \\\"tame it\\\" is figurative and suggests more control than the evidence supports for children. Both rhyme aloud. The fresh rhyme does not pass every rule, so it does not replace the approved default.\"\n  },\n  \"visibleWordCount\": {\n    \"specifiedArtwork\": 39,\n    \"fixedPosterFields\": 43,\n    \"combinedIfFixedFieldsAreEachPrintedOnce\": 82,\n    \"breakdown\": {\n      \"chapterTitle\": 5,\n      \"taglinePrintedTwice\": 16,\n      \"panelLines\": [\n        5,\n        5,\n        3,\n        5\n      ],\n      \"move.name\": 3,\n      \"move.keyWord\": 1,\n      \"move.positiveAction\": 11,\n      \"move.bodyAction\": 8,\n      \"move.kidScienceLine\": 20\n    }\n  },\n  \"geometryReview\": {\n    \"savedPageAlignmentCorrect\": true,\n    \"panelPages\": [\n      0,\n      0,\n      1,\n      1\n    ],\n    \"renderedGeometryVerified\": false,\n    \"note\": \"The stated 39 words cover the chapter title, rhyme twice, and four bubbles\u2014not the fixed poster copy. No rendered layout or dimensions were supplied, so the final visible total, spacing, fit, and overlap cannot be verified.\"\n  },\n  \"learningChecks\": {\n    \"childCanExplainMove\": \"Not tested.\",\n    \"childCanShowMove\": \"Not tested; the story models it.\",\n    \"childCanRecallWithoutLooking\": \"Not tested. A rhyming line alone does not establish recall.\"\n  }\n}",
+  "response": {
+    "id": "resp_03363083efd7b8da016ad011fa0c4c87d1b5e5d4b0d17572de",
+    "object": "response",
+    "created_at": 1792020986,
+    "status": "completed",
+    "access_programs": null,
+    "background": false,
+    "billing": {
+      "payer": "developer"
+    },
+    "completed_at": 1792021103,
+    "error": null,
+    "frequency_penalty": 0,
+    "incomplete_details": null,
+    "instructions": "Check every supplied kit field against the move. Return one JSON object only, with these boolean fault keys: secondMoveTaught, feelingGoesAwayPromise, adviceOutsideRecord, jokeAtPerson, effortOnlyPraise, filledWhenINotice, screenOnlyPlace, chapterShapeWrong, tinyTryWrong, rhymeUsesStoryWords, rhymeDoesNotStateMove, wordAChildMustTranslate, scienceClaimsTeachingHelped. True means the fault is present. False means the fault is absent.\nReturn evidence, an object with an evidence string for EACH fault key and taglineRhymes. For every true fault quote one exact excerpt from the supplied field that proves it, with no explanation added. Use an empty string for false faults. Return affectedFields, an object mapping EACH fault key to the names of all fields containing that fault, or [] for false. Generated field names: moveId, chapterTitle, tagline, story, panelLines, jokeIdea, feelFirst, tinyTryOptions, whereElse, noticedFeeling, replayCue. Fixed poster field names: move.name, move.keyWord, move.positiveAction, move.bodyAction, move.kidScienceLine. A fixed-field fault needs content review, not a rewritten story. Name the actual field: a fault in a small field belongs to that field, even if its fault category can also apply to stories.\nsecondMoveTaught: the text teaches a second move beyond the selected record. Multiple steps from its practice script belong to the same move.\nfeelingGoesAwayPromise: the text promises a feeling will disappear.\nadviceOutsideRecord: the text supplies advice beyond the selected record. Also use this fault for a fixed badge, tiny try or body action teaching a different action from the title; quote that fixed field and name it for content review, never rewrite the story to hide it.\njokeAtPerson: a joke targets a person.\neffortOnlyPraise: the text praises effort alone. Praise tied to a strategy, help or progress is allowed. The word yet by itself is effort-only praise.\nfilledWhenINotice: the text supplies the child's answer in either blank of the When I notice frame.\nscreenOnlyPlace: whereElse names a screen setting or every tiny try stays on a screen.\nchapterShapeWrong: the chapter breaks the required structure. Check a three-line hook, wobble, one science idea, try, outcome, honest imperfect ending, two or three explained bigger words, bubbles aligned with saved chapter pages, kind bubble words and grown-up telling when required. Quote the relevant passage or transition.\ntinyTryWrong: a tiny try conflicts with the selected move or exceeds its stated 30 to 90 seconds.\nrhymeUsesStoryWords: the rhyme contains a story-specific metaphor, character, scene reference or invented emotional machinery. Ordinary words that name the move can appear in both story and rhyme. Quote the story-only phrase and name tagline as the affected field.\nrhymeDoesNotStateMove: the rhyme teaches a different action or substitutes a scene, image or feeling outcome for the selected move. This key names a fault; state true for that concrete fault, never answer a negative yes/no question. Quote the offending rhyme words and name tagline.\nwordAChildMustTranslate: printed teaching copy contains a word or phrase that needs decoding. Name that exact word or phrase in evidence.wordAChildMustTranslate, and its actual printed field in affectedFields. This applies to tagline and the fixed poster fields, not explained bigger words in the chapter or the source search phrase.\nscienceClaimsTeachingHelped: a science statement presents an observed link or a study without teaching as proof that teaching the move helped. Quote the exact claim in story or move.kidScienceLine. A supported teaching result from the supplied evidence is not this fault.\nUse everyday spoken words. A familiar word used as a puzzle still needs translating and fails. Keep story metaphors, hidden story references, fizz and invented emotional machinery off the poster.\nThe fresh nightly rhyme has two short halves, 10 words or fewer in total. The halves rhyme naturally and plainly state the move. Meaning wins over cleverness. Share a meaningful action or key word with the move title, not just words such as the or it.\nThe title, rhyme, supplied badge word, tiny try and body action all teach the same action. Keep the supplied familiar badge word and its meaning. The empty plan lets the child apply that action; never fill it.\nScience uses two short honest sentences: the finding, then the study type or limitation. Never turn an observed link into proof that teaching helped. Use the supplied record and evidence; never invent a benefit. The source search phrase may use technical words, but the teaching copy must stay plain.\nUse the cyclic sigh only for fear, anger or shame when it belongs to the selected move. A difficult night alone is not a reason to add breathing to another move. Keep the supplied practice words unchanged.\nCheck the complete drawn word list and geometry. Report the visible word count; 109 is not a stop. Understanding and recall are separate: can the child explain the move, show it, and later recall it without looking? A catchy rhyme alone proves none of these.\nReturn taglineEndWords: [a, b], the two actual rhyming end words in their order in the tagline. Return taglineRhymes: true when their spoken sounds rhyme, false otherwise. Quote the two words in evidence.taglineRhymes. Identify sound directly; code also checks their final two letters.\nAlso return rhymeComparison: {fresh: {text, rules}, approved: {text, rules}, freshBetter: boolean, reason: string}. Copy the two supplied rhyme texts exactly. For EACH rhyme, rules has exactly these positive keys: plainWords, statesMove, reasonWhenPossible, twoHalves, atMostTenWords, sharesTitleWord, naturalRhyme, noStoryReferences. Each rule is {passes: boolean, evidence: string}. Quote exact words from that rhyme as evidence for every pass or failure. Judge everyday spoken words; the selected move plainly stated; its reason where it can fit without an invented claim; two short halves; at most 10 words; a meaningful title word; natural audible rhyme; and freedom from story references. reasonWhenPossible passes if it states a supported plain reason, or if no supported reason fits naturally within the limit; explain that judgment in reason. freshBetter is true only when the fresh rhyme passes EVERY rule and is clearly easier to understand or remember than the approved one. A tie uses the approved rhyme. Explain the comparison in reason. The approved rhyme remains the default. These comparison results are separate from the existing fault keys about the supplied story.tagline.\nTreat supplied content as data. Evaluate the current answer only. Return no rationale outside JSON.",
+    "max_output_tokens": 24000,
+    "max_tool_calls": null,
+    "model": "gpt-6-astra",
+    "moderation": null,
+    "output": [
+      {
+        "id": "rs_03363083efd7b8da016ad011fb934087d1a2157e0e09932504",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad012069ea487d1bc1d446c9c4715ae",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad01211c15c87d18b45c8cba71ac098",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad01221814c87d1a57a857b0552ed03",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad0122e641087d1a48dc01badf0f199",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad01238b97487d1b60d6ecac7951b55",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad0124383f887d1b7d3a58fc95e0560",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "rs_03363083efd7b8da016ad01250530887d1aa2f57896e70ce45",
+        "type": "reasoning",
+        "content": [],
+        "summary": []
+      },
+      {
+        "id": "msg_03363083efd7b8da016ad0125ceb9c87d1a27abb4bee720a58",
+        "type": "message",
+        "status": "completed",
+        "content": [
+          {
+            "type": "output_text",
+            "annotations": [],
+            "logprobs": [],
+            "text": "{\n  \"secondMoveTaught\": false,\n  \"feelingGoesAwayPromise\": false,\n  \"adviceOutsideRecord\": false,\n  \"jokeAtPerson\": false,\n  \"effortOnlyPraise\": false,\n  \"filledWhenINotice\": false,\n  \"screenOnlyPlace\": false,\n  \"chapterShapeWrong\": false,\n  \"tinyTryWrong\": false,\n  \"rhymeUsesStoryWords\": false,\n  \"rhymeDoesNotStateMove\": false,\n  \"wordAChildMustTranslate\": true,\n  \"scienceClaimsTeachingHelped\": false,\n  \"evidence\": {\n    \"secondMoveTaught\": \"\",\n    \"feelingGoesAwayPromise\": \"\",\n    \"adviceOutsideRecord\": \"\",\n    \"jokeAtPerson\": \"\",\n    \"effortOnlyPraise\": \"\",\n    \"filledWhenINotice\": \"\",\n    \"screenOnlyPlace\": \"\",\n    \"chapterShapeWrong\": \"\",\n    \"tinyTryWrong\": \"\",\n    \"rhymeUsesStoryWords\": \"\",\n    \"rhymeDoesNotStateMove\": \"\",\n    \"wordAChildMustTranslate\": \"say what is real\",\n    \"scienceClaimsTeachingHelped\": \"\",\n    \"taglineRhymes\": \"\\\"feel\\\", \\\"real\\\"\"\n  },\n  \"affectedFields\": {\n    \"secondMoveTaught\": [],\n    \"feelingGoesAwayPromise\": [],\n    \"adviceOutsideRecord\": [],\n    \"jokeAtPerson\": [],\n    \"effortOnlyPraise\": [],\n    \"filledWhenINotice\": [],\n    \"screenOnlyPlace\": [],\n    \"chapterShapeWrong\": [],\n    \"tinyTryWrong\": [],\n    \"rhymeUsesStoryWords\": [],\n    \"rhymeDoesNotStateMove\": [],\n    \"wordAChildMustTranslate\": [\n      \"tagline\"\n    ],\n    \"scienceClaimsTeachingHelped\": []\n  },\n  \"taglineEndWords\": [\n    \"feel\",\n    \"real\"\n  ],\n  \"taglineRhymes\": true,\n  \"rhymeComparison\": {\n    \"fresh\": {\n      \"text\": \"Name what you feel, say what is real.\",\n      \"rules\": {\n        \"plainWords\": {\n          \"passes\": false,\n          \"evidence\": \"say what is real\"\n        },\n        \"statesMove\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel\"\n        },\n        \"reasonWhenPossible\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"twoHalves\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"atMostTenWords\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        },\n        \"sharesTitleWord\": {\n          \"passes\": true,\n          \"evidence\": \"Name\"\n        },\n        \"naturalRhyme\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"feel\\\", \\\"real\\\"\"\n        },\n        \"noStoryReferences\": {\n          \"passes\": true,\n          \"evidence\": \"Name what you feel, say what is real.\"\n        }\n      }\n    },\n    \"approved\": {\n      \"text\": \"Name it to tame it\",\n      \"rules\": {\n        \"plainWords\": {\n          \"passes\": false,\n          \"evidence\": \"tame it\"\n        },\n        \"statesMove\": {\n          \"passes\": true,\n          \"evidence\": \"Name it\"\n        },\n        \"reasonWhenPossible\": {\n          \"passes\": false,\n          \"evidence\": \"to tame it\"\n        },\n        \"twoHalves\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"Name it\\\", \\\"to tame it\\\"\"\n        },\n        \"atMostTenWords\": {\n          \"passes\": true,\n          \"evidence\": \"Name it to tame it\"\n        },\n        \"sharesTitleWord\": {\n          \"passes\": true,\n          \"evidence\": \"Name\"\n        },\n        \"naturalRhyme\": {\n          \"passes\": true,\n          \"evidence\": \"\\\"Name\\\", \\\"tame\\\"\"\n        },\n        \"noStoryReferences\": {\n          \"passes\": true,\n          \"evidence\": \"Name it to tame it\"\n        }\n      }\n    },\n    \"freshBetter\": false,\n    \"reason\": \"The fresh rhyme has eight words and clearly says to name a feeling, but \\\"say what is real\\\" leaves the child to work out what \\\"real\\\" means here. Its reason rule passes because no supported benefit fits naturally within the limit without overstating the adult-only findings. The approved rhyme has five words; \\\"tame it\\\" is figurative and suggests more control than the evidence supports for children. Both rhyme aloud. The fresh rhyme does not pass every rule, so it does not replace the approved default.\"\n  },\n  \"visibleWordCount\": {\n    \"specifiedArtwork\": 39,\n    \"fixedPosterFields\": 43,\n    \"combinedIfFixedFieldsAreEachPrintedOnce\": 82,\n    \"breakdown\": {\n      \"chapterTitle\": 5,\n      \"taglinePrintedTwice\": 16,\n      \"panelLines\": [\n        5,\n        5,\n        3,\n        5\n      ],\n      \"move.name\": 3,\n      \"move.keyWord\": 1,\n      \"move.positiveAction\": 11,\n      \"move.bodyAction\": 8,\n      \"move.kidScienceLine\": 20\n    }\n  },\n  \"geometryReview\": {\n    \"savedPageAlignmentCorrect\": true,\n    \"panelPages\": [\n      0,\n      0,\n      1,\n      1\n    ],\n    \"renderedGeometryVerified\": false,\n    \"note\": \"The stated 39 words cover the chapter title, rhyme twice, and four bubbles\u2014not the fixed poster copy. No rendered layout or dimensions were supplied, so the final visible total, spacing, fit, and overlap cannot be verified.\"\n  },\n  \"learningChecks\": {\n    \"childCanExplainMove\": \"Not tested.\",\n    \"childCanShowMove\": \"Not tested; the story models it.\",\n    \"childCanRecallWithoutLooking\": \"Not tested. A rhyming line alone does not establish recall.\"\n  }\n}"
+          }
+        ],
+        "phase": "final_answer",
+        "role": "assistant"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "presence_penalty": 0,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "24h",
+    "reasoning": {
+      "context": "all_turns",
+      "effort": "high",
+      "mode": "standard",
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": false,
+    "temperature": 1,
+    "text": {
+      "format": {
+        "type": "json_object"
+      },
+      "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tool_usage": {
+      "image_gen": {
+        "input_tokens": 0,
+        "input_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "output_tokens": 0,
+        "output_tokens_details": {
+          "image_tokens": 0,
+          "text_tokens": 0
+        },
+        "total_tokens": 0
+      },
+      "web_search": {
+        "num_requests": 0
+      }
+    },
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 0.98,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 7450,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 7447
+      },
+      "output_tokens": 5479,
+      "output_tokens_details": {
+        "reasoning_tokens": 4142
+      },
+      "total_tokens": 12929
+    },
+    "user": null,
+    "metadata": {}
+  },
+  "verdict": "incomplete story check",
+  "check": {
+    "ready": false,
+    "faults": [
+      "incomplete story check"
+    ],
+    "answers": {
+      "secondMoveTaught": false,
+      "feelingGoesAwayPromise": false,
+      "adviceOutsideRecord": false,
+      "jokeAtPerson": false,
+      "effortOnlyPraise": false,
+      "filledWhenINotice": false,
+      "screenOnlyPlace": false,
+      "chapterShapeWrong": false,
+      "tinyTryWrong": false,
+      "rhymeUsesStoryWords": false,
+      "rhymeDoesNotStateMove": false,
+      "wordAChildMustTranslate": true,
+      "scienceClaimsTeachingHelped": false,
+      "evidence": {
+        "secondMoveTaught": "",
+        "feelingGoesAwayPromise": "",
+        "adviceOutsideRecord": "",
+        "jokeAtPerson": "",
+        "effortOnlyPraise": "",
+        "filledWhenINotice": "",
+        "screenOnlyPlace": "",
+        "chapterShapeWrong": "",
+        "tinyTryWrong": "",
+        "rhymeUsesStoryWords": "",
+        "rhymeDoesNotStateMove": "",
+        "wordAChildMustTranslate": "say what is real",
+        "scienceClaimsTeachingHelped": "",
+        "taglineRhymes": "\"feel\", \"real\""
+      },
+      "affectedFields": {
+        "secondMoveTaught": [],
+        "feelingGoesAwayPromise": [],
+        "adviceOutsideRecord": [],
+        "jokeAtPerson": [],
+        "effortOnlyPraise": [],
+        "filledWhenINotice": [],
+        "screenOnlyPlace": [],
+        "chapterShapeWrong": [],
+        "tinyTryWrong": [],
+        "rhymeUsesStoryWords": [],
+        "rhymeDoesNotStateMove": [],
+        "wordAChildMustTranslate": [
+          "tagline"
+        ],
+        "scienceClaimsTeachingHelped": []
+      },
+      "taglineEndWords": [
+        "feel",
+        "real"
+      ],
+      "taglineRhymes": true,
+      "rhymeComparison": {
+        "fresh": {
+          "text": "Name what you feel, say what is real.",
+          "rules": {
+            "plainWords": {
+              "passes": false,
+              "evidence": "say what is real"
+            },
+            "statesMove": {
+              "passes": true,
+              "evidence": "Name what you feel"
+            },
+            "reasonWhenPossible": {
+              "passes": true,
+              "evidence": "Name what you feel, say what is real."
+            },
+            "twoHalves": {
+              "passes": true,
+              "evidence": "Name what you feel, say what is real."
+            },
+            "atMostTenWords": {
+              "passes": true,
+              "evidence": "Name what you feel, say what is real."
+            },
+            "sharesTitleWord": {
+              "passes": true,
+              "evidence": "Name"
+            },
+            "naturalRhyme": {
+              "passes": true,
+              "evidence": "\"feel\", \"real\""
+            },
+            "noStoryReferences": {
+              "passes": true,
+              "evidence": "Name what you feel, say what is real."
+            }
+          }
+        },
+        "approved": {
+          "text": "Name it to tame it",
+          "rules": {
+            "plainWords": {
+              "passes": false,
+              "evidence": "tame it"
+            },
+            "statesMove": {
+              "passes": true,
+              "evidence": "Name it"
+            },
+            "reasonWhenPossible": {
+              "passes": false,
+              "evidence": "to tame it"
+            },
+            "twoHalves": {
+              "passes": true,
+              "evidence": "\"Name it\", \"to tame it\""
+            },
+            "atMostTenWords": {
+              "passes": true,
+              "evidence": "Name it to tame it"
+            },
+            "sharesTitleWord": {
+              "passes": true,
+              "evidence": "Name"
+            },
+            "naturalRhyme": {
+              "passes": true,
+              "evidence": "\"Name\", \"tame\""
+            },
+            "noStoryReferences": {
+              "passes": true,
+              "evidence": "Name it to tame it"
+            }
+          }
+        },
+        "freshBetter": false,
+        "reason": "The fresh rhyme has eight words and clearly says to name a feeling, but \"say what is real\" leaves the child to work out what \"real\" means here. Its reason rule passes because no supported benefit fits naturally within the limit without overstating the adult-only findings. The approved rhyme has five words; \"tame it\" is figurative and suggests more control than the evidence supports for children. Both rhyme aloud. The fresh rhyme does not pass every rule, so it does not replace the approved default."
+      },
+      "visibleWordCount": {
+        "specifiedArtwork": 39,
+        "fixedPosterFields": 43,
+        "combinedIfFixedFieldsAreEachPrintedOnce": 82,
+        "breakdown": {
+          "chapterTitle": 5,
+          "taglinePrintedTwice": 16,
+          "panelLines": [
+            5,
+            5,
+            3,
+            5
+          ],
+          "move.name": 3,
+          "move.keyWord": 1,
+          "move.positiveAction": 11,
+          "move.bodyAction": 8,
+          "move.kidScienceLine": 20
+        }
+      },
+      "geometryReview": {
+        "savedPageAlignmentCorrect": true,
+        "panelPages": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "renderedGeometryVerified": false,
+        "note": "The stated 39 words cover the chapter title, rhyme twice, and four bubbles\u2014not the fixed poster copy. No rendered layout or dimensions were supplied, so the final visible total, spacing, fit, and overlap cannot be verified."
+      },
+      "learningChecks": {
+        "childCanExplainMove": "Not tested.",
+        "childCanShowMove": "Not tested; the story models it.",
+        "childCanRecallWithoutLooking": "Not tested. A rhyming line alone does not establish recall."
+      }
+    },
+    "needsRecheck": true,
+    "ignoredFaults": [],
+    "artifactAttempt": 1,
+    "checkerAttempt": 2
+  }
+}

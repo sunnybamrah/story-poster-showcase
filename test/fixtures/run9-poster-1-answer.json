@@ -1,0 +1,223 @@
+{
+  "boxes": [
+    {
+      "id": "title",
+      "text": "Name the feeling"
+    },
+    {
+      "id": "tagline",
+      "text": "Name the feeling true; say the word, too."
+    },
+    {
+      "id": "tiny",
+      "text": "ONE TINY TRY FOR TODAY\nTonight, name one feeling: hurt, angry, disappointed, or something else."
+    },
+    {
+      "id": "science",
+      "text": "WHAT SCIENCE SAYS\nIn research, teens found feelings harder to tell apart than adults. This study did not test teaching the move."
+    },
+    {
+      "id": "keyword",
+      "text": "NAME"
+    },
+    {
+      "id": "move",
+      "text": "WHAT I CAN DO\nWhen I notice ________, I ________.\nBackup: Breathe out slowly"
+    },
+    {
+      "id": "remember",
+      "text": "HOW TO REMEMBER IT\nName the feeling true; say the word, too.\nTouch your chest. Say the feeling\u2019s name."
+    },
+    {
+      "id": "source",
+      "text": "WHERE IT CAME FROM\nNook, Somerville and team, Harvard, 2018. Search: emotion differentiation teens Nook Somerville"
+    },
+    {
+      "id": "footer",
+      "text": ""
+    }
+  ],
+  "extraText": [],
+  "keyWordMirrored": false,
+  "keyWordUnreadable": false,
+  "filledBlank": false,
+  "textCrossesBoundary": false,
+  "outfitMismatch": true,
+  "actionMismatch": false,
+  "peopleCountMismatch": false,
+  "evidence": {
+    "keyWordMirrored": "",
+    "keyWordUnreadable": "",
+    "filledBlank": "",
+    "textCrossesBoundary": "",
+    "outfitMismatch": "Required outfit includes red high top sneakers and a blue sketchbook under one arm. The fox wears no visible red sneakers; the sketchbook is on the table, not under one arm.",
+    "actionMismatch": "",
+    "peopleCountMismatch": "",
+    "sceneTooEmpty": ""
+  },
+  "sceneTooEmpty": false,
+  "geometry": {
+    "templateVersion": "letter-five-cards-v1",
+    "actionBackgroundArea": "none",
+    "coordinateSpace": {
+      "unit": "source-pixels",
+      "width": 1024,
+      "height": 1536
+    },
+    "textLines": [
+      {
+        "boxId": "tinyTry.body",
+        "x": 46,
+        "y": 810,
+        "w": 242,
+        "h": 116
+      },
+      {
+        "boxId": "science.body",
+        "x": 381,
+        "y": 811,
+        "w": 253,
+        "h": 116
+      },
+      {
+        "boxId": "plan.body",
+        "x": 714,
+        "y": 807,
+        "w": 267,
+        "h": 58
+      },
+      {
+        "boxId": "plan.body",
+        "x": 714,
+        "y": 857,
+        "w": 104,
+        "h": 16
+      },
+      {
+        "boxId": "plan.backup",
+        "x": 731,
+        "y": 919,
+        "w": 237,
+        "h": 17
+      },
+      {
+        "boxId": "remember.body",
+        "x": 46,
+        "y": 1104,
+        "w": 240,
+        "h": 49
+      },
+      {
+        "boxId": "remember.body",
+        "x": 46,
+        "y": 1182,
+        "w": 214,
+        "h": 49
+      },
+      {
+        "boxId": "source.body",
+        "x": 381,
+        "y": 1108,
+        "w": 266,
+        "h": 115
+      }
+    ],
+    "observed": [
+      {
+        "id": "title",
+        "x": 143,
+        "y": 29,
+        "w": 737,
+        "h": 97
+      },
+      {
+        "id": "tagline",
+        "x": 152,
+        "y": 138,
+        "w": 720,
+        "h": 54
+      },
+      {
+        "id": "hero",
+        "x": 21,
+        "y": 212,
+        "w": 982,
+        "h": 479
+      },
+      {
+        "id": "tinyTry",
+        "x": 21,
+        "y": 712,
+        "w": 316,
+        "h": 276
+      },
+      {
+        "id": "science",
+        "x": 359,
+        "y": 712,
+        "w": 312,
+        "h": 276
+      },
+      {
+        "id": "plan",
+        "x": 692,
+        "y": 712,
+        "w": 311,
+        "h": 276
+      },
+      {
+        "id": "remember",
+        "x": 21,
+        "y": 1007,
+        "w": 316,
+        "h": 279
+      },
+      {
+        "id": "source",
+        "x": 359,
+        "y": 1007,
+        "w": 316,
+        "h": 279
+      },
+      {
+        "id": "keyword",
+        "x": 703,
+        "y": 1044,
+        "w": 296,
+        "h": 250
+      },
+      {
+        "id": "footer",
+        "x": 21,
+        "y": 1305,
+        "w": 982,
+        "h": 197
+      },
+      {
+        "id": "joke",
+        "x": 741,
+        "y": 235,
+        "w": 230,
+        "h": 216
+      }
+    ],
+    "textIconCollision": false,
+    "fillOutsideCard": false,
+    "heroOutsideRegion": true,
+    "jokeOutsideRegion": true,
+    "actionBodyPartHidden": false,
+    "clutteredActionBackground": false,
+    "glossOrDistortedProportions": false,
+    "printTextTooSmall": false,
+    "evidence": {
+      "textIconCollision": "",
+      "fillOutsideCard": "",
+      "heroOutsideRegion": "",
+      "jokeOutsideRegion": "",
+      "actionBodyPartHidden": "",
+      "clutteredActionBackground": "",
+      "glossOrDistortedProportions": "",
+      "printTextTooSmall": ""
+    }
+  }
+}

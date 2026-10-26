@@ -1,0 +1,20 @@
+{
+  "reviewLabel": "FOR SUNNY'S READ",
+  "ownerApproval": false,
+  "writtenByCodex": true,
+  "checkedOn": "2026-10-15",
+  "scope": "Parent-only support when school threats, bullying or repeated harm stops a kit. Not a move, practice script or research claim.",
+  "schoolHarm": {
+    "title": "Help with what happens next",
+    "lines": [
+      "If your child is safe with you now, listen without blame. Let them know that being bullied is not their fault.",
+      "Contact the teacher, school counselor or principal. Ask what will keep your child safe when they return, and follow up with the school.",
+      "Threats of serious injury or serious physical harm need prompt police or medical help, even if your child is home now. If there is danger right now, call 911."
+    ],
+    "resources": [
+      { "title": "StopBullying.gov: Support the Children Involved", "url": "https://www.stopbullying.gov/prevention/support-the-children-involved" },
+      { "title": "StopBullying.gov: Get Help Now", "url": "https://www.stopbullying.gov/resources/get-help-now" },
+      { "title": "StopBullying.gov: Respond to Bullying", "url": "https://www.stopbullying.gov/prevention/on-the-spot" }
+    ]
+  }
+}

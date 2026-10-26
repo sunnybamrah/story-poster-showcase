@@ -1,0 +1,104 @@
+{
+  "measured": false,
+  "method": "Bundled font advances and recorded run 15 line heights. Conservative page-local worst cases, combining the largest saved fields with the longest fixed records. Negative margins require measured writer shortening. Browser and both themes UNVERIFIED.",
+  "moves": 14,
+  "savedAnswers": 1,
+  "pages": [
+    {
+      "page": "poster",
+      "fixedMargin": 1.6,
+      "margin": 1.6,
+      "needsShortening": false
+    },
+    {
+      "page": "story",
+      "fixedMargin": 386.84,
+      "margin": 69.72,
+      "longestSaved": "test/fixtures/pass25-overflow.json",
+      "needsShortening": false
+    },
+    {
+      "page": "story-2",
+      "fixedMargin": 386.84,
+      "margin": 146.32,
+      "longestSaved": "test/fixtures/pass25-overflow.json",
+      "needsShortening": false
+    },
+    {
+      "page": "try",
+      "fixedMargin": 164.92,
+      "margin": 45.68,
+      "needsShortening": false
+    },
+    {
+      "page": "for-you",
+      "fixedMargin": 16.85,
+      "margin": 16.85,
+      "needsShortening": false
+    }
+  ],
+  "fixedSources": {
+    "practice": "name-it-exactly",
+    "try": "name-it-exactly",
+    "sources": "name-it-exactly"
+  },
+  "generatedSources": {
+    "title": {
+      "source": "test/fixtures/pass25-overflow.json",
+      "used": 23.76
+    },
+    "feel": {
+      "source": "test/fixtures/pass25-overflow.json",
+      "used": 33.64
+    },
+    "tries": [
+      {
+        "source": "test/fixtures/pass25-overflow.json",
+        "used": 16.32
+      },
+      {
+        "source": "test/fixtures/pass25-overflow.json",
+        "used": 32.64
+      },
+      {
+        "source": "test/fixtures/pass25-overflow.json",
+        "used": 32.64
+      }
+    ],
+    "place": {
+      "source": "test/fixtures/pass25-overflow.json",
+      "used": 16.32
+    },
+    "feeling": {
+      "source": "test/fixtures/pass25-overflow.json",
+      "used": 16.32
+    },
+    "cue": {
+      "source": "test/fixtures/pass25-overflow.json",
+      "used": 24
+    }
+  },
+  "run15": {
+    "ready": true,
+    "measured": true,
+    "unit": "Letter points",
+    "faults": [],
+    "fonts": "loaded",
+    "method": "Browser DOM and text ranges after fonts load. Fixed approved CSS type sizes; no automatic shrinking.",
+    "diagnostics": [
+      {
+        "attempt": 1,
+        "measured": true
+      }
+    ],
+    "completion": "measurement element, not a virtual-time budget",
+    "recordedModel": true,
+    "fixture": true,
+    "reason": "Recorded run 15 line heights, split between two columns. Fresh browser fit is UNVERIFIED.",
+    "replayMargin": 2.61328125,
+    "fitting": {
+      "textHidden": false,
+      "typeShrunk": false
+    }
+  }
+}

@@ -1,0 +1,2324 @@
+[
+  {
+    "number": 1,
+    "id": "name-it-exactly",
+    "name": "Name the feeling",
+    "childPhrase": "I find the exact word for what I feel. Not just bad. Annoyed? Embarrassed? Let down? Sometimes it's two at once.",
+    "practiceScript": "Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.",
+    "kidScienceLine": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+    "parentReceipt": "Torre and Lieberman, UCLA, Emotion Review, 2018, DOI 10.1177/1754073917742706; fit ADULT ONLY for this move. Lieberman, Eisenberger, Crockett, Tom, Pfeifer and Way, UCLA, Psychological Science, 2007, DOI 10.1111/j.1467-9280.2007.01916.x, PMID 17576282; adult brain scans; fit MECHANISM. Nook and colleagues, Harvard, 2018, DOI 10.1177/0956797618773357, PMID 29878880; ages 5 to 25; fit ADJACENT. Starr and colleagues, University of Rochester, 2020, DOI 10.1037/emo0000630, PMID 31246045; 233 teens aged 14 to 17; fit ADJACENT. Naming feelings and telling feelings apart have related but different evidence; none of these papers directly tests this home practice in children aged 8 to 13.",
+    "source": {
+      "text": "Torre and Lieberman at UCLA reviewed studies of putting feelings into words in 2018. In adult studies, naming feelings sometimes reduced upset. A 2007 adult brain-scan study found changes in brain activity while people labeled emotional pictures. These findings do not prove that this home practice helps children aged 8 to 13. Nook and Starr studied telling feelings apart, a related skill, without testing lessons in naming. Search: affect labeling review.",
+      "fitLabels": [
+        "ADULT ONLY",
+        "MECHANISM",
+        "ADJACENT"
+      ],
+      "limitation": "Adult naming studies do not prove the same benefit in children aged 8 to 13. The child and teen studies measured a related skill without teaching it.",
+      "links": [
+        "https://doi.org/10.1177/1754073917742706",
+        "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+        "https://pubmed.ncbi.nlm.nih.gov/29878880/",
+        "https://pubmed.ncbi.nlm.nih.gov/31246045/"
+      ]
+    },
+    "whenNotToUse": "in the loudest part of a meltdown (name it after); never tell the child what they feel, offer a guess; never as a label for the child (\"you're an angry kid\"); a scary event that really happened goes to Card B, not a poster.",
+    "whenItFits": "\"she said she feels bad but won't say why\"; \"slammed the door after school\"; \"he's upset about something and won't talk\"; \"lost it over something tiny\".",
+    "positiveAction": "Tonight, each name one feeling: hurt, angry, disappointed, or something else.",
+    "keyWord": "NAME",
+    "whereItCameFrom": "Torre and Lieberman at UCLA reviewed studies of putting feelings into words in 2018. In adult studies, naming feelings sometimes reduced upset. A 2007 adult brain-scan study found changes in brain activity while people labeled emotional pictures. These findings do not prove that this home practice helps children aged 8 to 13. Nook and Starr studied telling feelings apart, a related skill, without testing lessons in naming.",
+    "searchPhrase": "affect labeling review.",
+    "sources": [
+      {
+        "title": "The Nonlinear Development of Emotion Differentiation: Granular Emotional Experience Is Low in Adolescence",
+        "year": 2018,
+        "people": "Nook, Sasse, Lambert, McLaughlin and Somerville",
+        "place": "Harvard",
+        "doi": "10.1177/0956797618773357",
+        "pubmed": "29878880",
+        "fitLabel": "ADJACENT",
+        "limitation": "A lab task with 143 people aged 5 to 25 compared how clearly they separated feelings. It did not teach naming or test whether naming helped.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Nook 2018, emotion differentiation by age",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/29878880/"
+      },
+      {
+        "title": "The perils of murky emotions: Emotion differentiation moderates the prospective relationship between naturalistic stress exposure and adolescent depression",
+        "year": 2020,
+        "people": "Lisa R. Starr, Rachel Hershenberg, Zoey A. Shaw, Y. Irina Li and Angela C. Santee",
+        "place": "University of Rochester, New York",
+        "doi": "10.1037/emo0000630",
+        "pubmed": "31246045",
+        "fitLabel": "ADJACENT",
+        "limitation": "233 teenagers aged 14 to 17 were followed over time. The link between clearer feelings and less depression under stress does not prove that teaching naming helps.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Starr 2020, emotion differentiation and stress in teens",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/31246045/"
+      },
+      {
+        "title": "Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli",
+        "year": 2007,
+        "people": "Matthew D. Lieberman, Naomi I. Eisenberger, Molly J. Crockett, Sabrina M. Tom, Jennifer H. Pfeifer and Baldwin M. Way",
+        "place": "UCLA, Los Angeles",
+        "doi": "10.1111/j.1467-9280.2007.01916.x",
+        "pubmed": "17576282",
+        "fitLabel": "MECHANISM",
+        "limitation": "Adults labeled emotional images during brain scans. Lower amygdala activity does not prove less upset or better everyday choices in children.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Lieberman 2007, putting feelings into words and brain activity",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://teams.semel.ucla.edu/sites/default/files/publications/May%202007%20-%20Putting%20Feelings%20Into%20Words.pdf"
+      },
+      {
+        "title": "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation",
+        "year": 2018,
+        "people": "Jared B. Torre and Matthew D. Lieberman",
+        "place": "UCLA, Los Angeles",
+        "doi": "10.1177/1754073917742706",
+        "fitLabel": "ADULT ONLY",
+        "limitation": "The relevant benefit evidence comes from adult studies. Results vary across feelings, body responses, brain activity and behavior; immediate relief and benefits for children aged 8 to 13 are not established.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Torre and Lieberman 2018, affect labeling review",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://journals.sagepub.com/doi/full/10.1177/1754073917742706"
+      }
+    ],
+    "talkQuestion": "Was it one feeling or two at once? Which one was bigger?",
+    "talkQuestionNote": "(Tied to Nook 2018: teens found it hardest to pull apart feelings that come together.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child stands facing forward, one open hand raised beside an open mouth.",
+    "approvedBackup": "long-breath-out",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Touch your chest together. Say the feeling's name.",
+    "whereItCameFromShort": "Torre and Lieberman, UCLA, 2018.",
+    "kidScienceLineSourceIds": [
+      "10.1177/1754073917742706",
+      "17576282",
+      "29878880",
+      "31246045"
+    ],
+    "detail": {
+      "science": {
+        "tested": "The review brought together studies of putting feelings into words, including adult tests of changes in feelings, body responses, brain activity and actions.",
+        "participants": null,
+        "ages": null,
+        "result": "Naming feelings sometimes helped adults feel less upset, though the results varied across studies.",
+        "limitation": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+        "studyUrl": "https://doi.org/10.1177/1754073917742706",
+        "evidenceLabel": "ADULT ONLY"
+      },
+      "source": {
+        "people": "Jared B. Torre and Matthew D. Lieberman",
+        "place": "UCLA, Los Angeles",
+        "year": 2018,
+        "studyTitle": "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation",
+        "studyUrl": "https://doi.org/10.1177/1754073917742706"
+      },
+      "keyword": {
+        "meaning": "To name a feeling is to say which feeling fits.",
+        "example": "I feel left out, and a bit sad."
+      },
+      "tagline": {
+        "rhyme": "Name it to tame it",
+        "explanation": "The rhyme reminds us to find the feeling’s name, without needing the feeling to go away."
+      }
+    },
+    "science": {
+      "tested": "The review brought together studies of putting feelings into words, including adult tests of changes in feelings, body responses, brain activity and actions.",
+      "participants": null,
+      "ages": null,
+      "result": "Naming feelings sometimes helped adults feel less upset, though the results varied across studies.",
+      "limitation": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+      "studyUrl": "https://doi.org/10.1177/1754073917742706",
+      "evidenceLabel": "ADULT ONLY",
+      "claim": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Name one feeling that fits this moment.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Think of a small bother. Pick a sharper feeling word than 'bad' or 'mad'.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Choose two feeling words if both fit. Say them together.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Give the feeling a number from 1 to 10. The number is not a grade.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Scientists noticed that teens who name feelings exactly handle hard days a bit better. Nobody has tested teaching it yet.",
+      "reason": "Observed association in older teens, not a test of teaching the move."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 2,
+    "id": "long-breath-out",
+    "name": "Breathe out slowly",
+    "childPhrase": "I breathe in easily through my nose, then let it out slowly. Three to five times.",
+    "practiceScript": "Sit back. Breathe in through your nose: one, two, three, four. Now let it out slowly, like fogging a window: one, two, three, four, five, six. Again. In for four. Out for six. One more time. Three is enough. If your head feels funny, stop and breathe normally.",
+    "kidScienceLine": "In children taking a math test, deep breathing helped them feel less worried. This mixed evidence means we cannot promise it helps in daily life.",
+    "parentReceipt": "Khng, Cognition and Emotion, 2017, DOI 10.1080/02699931.2016.1233095, PMID 27666392; 122 Primary 5 students; fit DIRECT. Kramer, Neubauer and Schmiedek, Journal of Clinical Child and Adolescent Psychology, 2023, DOI 10.1080/15374416.2022.2084743, PMID 35704507; 171 children aged 9 to 13, randomized each day; fit DIRECT. Su and others, Medical Problems of Performing Artists, 2010, PMID 20795337; 59 young musicians in grades 3 to 6, no control group; fit DIRECT but weak.",
+    "source": {
+      "text": "\"In Singapore, a scientist at Nanyang Technological University asked 122 kids, about 10 and 11 years old, to take slow deep breaths before a timed math test. They felt less worried and scored better. In Germany, 171 kids aged 9 to 13 tried a breathing video on some of 15 days. It helped most on extra worried days.\" Search: \"deep breathing math test children Singapore\".",
+      "fitLabels": [
+        "DIRECT"
+      ],
+      "limitation": "in the German study the breathing did nothing on average; it helped only on worried days.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/27666392/",
+        "https://pubmed.ncbi.nlm.nih.gov/35704507/",
+        "https://pubmed.ncbi.nlm.nih.gov/20795337/"
+      ]
+    },
+    "whenNotToUse": "never as a way to avoid a fear forever; no breath holding; stop if dizzy; a fear that stops school, sleep or friends goes to Card B; any real breathing trouble is Card A.",
+    "whenItFits": "\"panicking before the test\"; \"shaking before the recital\"; \"too wound up to start homework\"; \"can't settle after the game\".",
+    "positiveAction": "Before the first test question, try three slow breaths out.",
+    "keyWord": "SLOW",
+    "whereItCameFrom": "In Singapore, a scientist at Nanyang Technological University asked 122 kids, about 10 and 11 years old, to take slow deep breaths before a timed math test. They felt less worried and scored better. In Germany, 171 kids aged 9 to 13 tried a breathing video on some of 15 days. It helped most on extra worried days.",
+    "searchPhrase": "deep breathing math test children Singapore",
+    "sources": [
+      {
+        "title": "A better state-of-mind: deep breathing reduces state anxiety and enhances test performance through regulating test cognitions in children",
+        "year": 2017,
+        "people": "Kiat Hui Khng",
+        "place": "Nanyang Technological University, Singapore",
+        "doi": "10.1080/02699931.2016.1233095",
+        "pubmed": "27666392",
+        "fitLabel": "DIRECT",
+        "limitation": "122 Primary 5 students took a timed math test. Deep breathing helped test anxiety and scores; this does not establish the exact two-in, one-out breath or benefits in daily life.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Khng 2017, deep breathing before a math test",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/27666392/"
+      },
+      {
+        "title": "The Effectiveness of A Slow-Paced Diaphragmatic Breathing Exercise in Children's Daily Life: A Micro-Randomized Trial",
+        "year": 2023,
+        "people": "Andrea C. Kramer, Andreas B. Neubauer and Florian Schmiedek",
+        "place": "DIPF and Goethe University Frankfurt, Germany",
+        "doi": "10.1080/15374416.2022.2084743",
+        "pubmed": "35704507",
+        "fitLabel": "DIRECT",
+        "limitation": "171 children aged 9 to 13 tried video-guided slow breathing across 15 days. There was no average immediate benefit; on more worried days, relaxation improved only against no exercise, not against the other video.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Kramer 2023, breathing in daily life, ages 9 to 13",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/35704507/"
+      }
+    ],
+    "talkQuestion": "Did the breathing help more on a really worried day, or on a normal day?",
+    "talkQuestionNote": "(Tied to Kramer 2023: it helped on days children worried more than usual, not on average.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child sits upright on a bench, one hand resting on the lap and lips parted in an exhale.",
+    "approvedBackup": "bring-in-my-person",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Two quick breaths in through the nose, one long breath out.",
+    "whereItCameFromShort": "Khng, Singapore, 2017; Kramer and team, Germany, 2023.",
+    "kidScienceLineSourceIds": [
+      "27666392",
+      "35704507"
+    ],
+    "detail": {
+      "science": {
+        "tested": "A researcher compared children who practised deep belly breaths before timed math tests with children who rested.",
+        "participants": "122 fifth graders from four schools in Singapore were included in the results.",
+        "ages": null,
+        "result": "The children who practised deep breathing felt less worried and improved their math scores more than the children who rested.",
+        "limitation": "A study in daily life found no average benefit right after breathing, and neither study proves that this exact breathing pattern helps at home.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/27666392/",
+        "evidenceLabel": "DIRECT"
+      },
+      "source": {
+        "people": "Kiat Hui Khng",
+        "place": "Nanyang Technological University, Singapore",
+        "year": 2017,
+        "studyTitle": "A better state-of-mind: deep breathing reduces state anxiety and enhances test performance through regulating test cognitions in children",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/27666392/"
+      },
+      "keyword": {
+        "meaning": "Slow means letting your breath out gently without rushing.",
+        "example": "I can let my breath out slowly, like fogging a window."
+      },
+      "tagline": {
+        "rhyme": "Breathe out slow, let it flow.",
+        "explanation": "The rhyme reminds us to let the breath out slowly."
+      }
+    },
+    "science": {
+      "tested": "A researcher compared children who practised deep belly breaths before timed math tests with children who rested.",
+      "participants": "122 fifth graders from four schools in Singapore were included in the results.",
+      "ages": null,
+      "result": "The children who practised deep breathing felt less worried and improved their math scores more than the children who rested.",
+      "limitation": "A study in daily life found no average benefit right after breathing, and neither study proves that this exact breathing pattern helps at home.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/27666392/",
+      "evidenceLabel": "DIRECT",
+      "claim": "In children taking a math test, deep breathing helped them feel less worried. This mixed evidence means we cannot promise it helps in daily life.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Try three slow breaths out. Stop if your head feels funny.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Sit back. Try one breath in for four and out for six. Stop if your head feels funny.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Show how a slow breath out looks, like fogging a window.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Choose a quiet place to try the three breaths in the practice.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Slow breathing before a test helped 10 and 11 year olds feel calmer. It works best on your most worried days.",
+      "reason": "The worried-day subgroup does not justify a general best-on-worried-days claim."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 3,
+    "id": "coach-voice",
+    "name": "Talk kindly to yourself",
+    "childPhrase": "I step back and watch it like a movie. Then I talk to myself by name, like a good coach: '[name], what's the next play?'",
+    "practiceScript": "Think of a time you got mad at someone. Not the worst one, a medium one. Now picture it from across the room, like you're watching a movie of yourself. Ask: 'Why did [name] feel that way?' Notice what the other person might have been thinking. Now give one coach line, using your own name: '[name], you were annoyed. What's one thing you can do next?'",
+    "kidScienceLine": "In adults, using their own name during self-talk helped them feel less upset under stress. This adult research does not prove a kind coach line helps children.",
+    "parentReceipt": "Kross and colleagues, University of Michigan, Journal of Personality and Social Psychology, 2014, DOI 10.1037/a0035173, PMID 24467424; adult self-talk studies; fit ADULT ONLY. Kross, Duckworth, Ayduk, Tsukayama and Mischel, Emotion, 2011, DOI 10.1037/a0021787, PMID 21728415; fifth graders recalled anger from an outside view; fit ADJACENT for this kind self-talk move. White and colleagues, Child Development, 2017, PMID 27982409; ages 4 and 6, task perseverance; fit ADJACENT. None tests the whole kind coach line with children aged 8 to 13.",
+    "source": {
+      "text": "In 2014, Kross and colleagues studied how adults talked to themselves before stressful social tasks. Using their own name and words such as you instead of I helped them feel less upset. This was not a test of kind wording alone or of the whole move with children. The 2011 fifth-grade study tested stepping back to think about anger; the 2017 White study tested younger children staying with a task. Search: self-talk Kross 2014.",
+      "fitLabels": [
+        "ADULT ONLY",
+        "ADJACENT"
+      ],
+      "limitation": "Own-name self-talk, visual stepping back and kind wording are different parts of this move. The adult result does not prove the whole child practice helps.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+        "https://pubmed.ncbi.nlm.nih.gov/21728415/",
+        "https://pubmed.ncbi.nlm.nih.gov/27982409/"
+      ]
+    },
+    "whenNotToUse": "the coach is never harsh (\"you idiot\" is not a coach); never to bury a feeling, name it first; a scary event that really happened goes to Card B.",
+    "whenItFits": "\"still fuming about what her friend said\"; \"keeps replaying the fight\"; \"beats himself up over one mistake\"; \"can't stop thinking about it\".",
+    "positiveAction": "Use your name: 'Sam, that was hard. Try the first question.'",
+    "keyWord": "TALK",
+    "whereItCameFrom": "In 2014, Kross and colleagues studied how adults talked to themselves before stressful social tasks. Using their own name and words such as you instead of I helped them feel less upset. This was not a test of kind wording alone or of the whole move with children. The 2011 fifth-grade study tested stepping back to think about anger; the 2017 White study tested younger children staying with a task.",
+    "searchPhrase": "self-talk Kross 2014",
+    "sources": [
+      {
+        "title": "The effect of self-distancing on adaptive versus maladaptive self-reflection in children",
+        "year": 2011,
+        "people": "Kross, Duckworth, Ayduk, Tsukayama and Mischel",
+        "place": "a US public school",
+        "doi": "10.1037/a0021787",
+        "pubmed": "21728415",
+        "fitLabel": "ADJACENT",
+        "limitation": "Fifth graders recalled an angry event from an outside view during one session. This tests stepping back, not a kind coach line or speaking their own name.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Kross 2011, self-distancing in fifth graders",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/21728415/"
+      },
+      {
+        "title": "The \"Batman Effect\": Improving Perseverance in Young Children",
+        "year": 2017,
+        "people": "Rachel E. White, Emily O. Prager, Catherine Schaefer, Ethan Kross, Angela L. Duckworth and Stephanie M. Carlson",
+        "place": "Hamilton College, University of Pennsylvania, University of Minnesota and University of Michigan",
+        "pubmed": "27982409",
+        "fitLabel": "ADJACENT",
+        "limitation": "Children aged 4 and 6 worked on a boring task with a tempting video game nearby. Pretending to be a hero and using an outside view are not tests of kind coach wording or feeling less upset.",
+        "checkedOn": "2026-10-14",
+        "doi": "10.1111/cdev.12695",
+        "titleOriginal": "White 2017, the Batman effect, ages 4 and 6",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/27982409/"
+      },
+      {
+        "title": "Self-talk as a regulatory mechanism: how you do it matters",
+        "year": 2014,
+        "people": "Ethan Kross, Emma Bruehlman-Senecal, Jiyoung Park, Aleah Burson, Adrienne Dougherty, Holly Shablack, Ryan Bremner, Jason Moser and Ozlem Ayduk",
+        "place": "University of Michigan, Michigan State University and University of California, Berkeley",
+        "doi": "10.1037/a0035173",
+        "pubmed": "24467424",
+        "fitLabel": "ADULT ONLY",
+        "limitation": "Adults used their own names and non-first-person pronouns while thinking about stress. They showed less distress during social tasks; this does not test kind wording alone or this home practice with children.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Kross 2014, self-talk and social stress",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/24467424/"
+      }
+    ],
+    "talkQuestion": "When you watched it from across the room, did you notice anything about the other person you missed before?",
+    "talkQuestionNote": "(Tied to Kross 2011: children who stepped back blamed the other person less, and that is what calmed them.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child stands beside a small mirror, looking at the reflection and pointing one hand forward.",
+    "approvedBackup": "name-it-exactly",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Touch your chest. Say your name and one kind next step.",
+    "whereItCameFromShort": "Kross and team, University of Michigan, 2014.",
+    "kidScienceLineSourceIds": [
+      "24467424"
+    ],
+    "detail": {
+      "science": {
+        "tested": "In Study 3, college students thought about their feelings using their name and words like you, or words like I, before giving a speech.",
+        "participants": "89 college students took part in the speech study.",
+        "ages": null,
+        "result": "Students who used their own name felt less upset and gave better speeches than students who used I.",
+        "limitation": "This adult speech study did not test kind coach words or this home practice with children.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+        "evidenceLabel": "ADULT ONLY"
+      },
+      "source": {
+        "people": "Ethan Kross, Emma Bruehlman-Senecal, Jiyoung Park, Aleah Burson, Adrienne Dougherty, Holly Shablack, Ryan Bremner, Jason Moser and Ozlem Ayduk",
+        "place": "University of Michigan, Michigan State University and University of California, Berkeley",
+        "year": 2014,
+        "studyTitle": "Self-talk as a regulatory mechanism: how you do it matters",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24467424/"
+      },
+      "keyword": {
+        "meaning": "Talk means using kind words with yourself, as you would with a friend.",
+        "example": "I can tell myself, 'That was hard; what is one thing I can do next?'"
+      },
+      "tagline": {
+        "rhyme": "Talk kind inside, be your own guide.",
+        "explanation": "The rhyme reminds us to speak to ourselves as a kind guide would."
+      }
+    },
+    "science": {
+      "tested": "In Study 3, college students thought about their feelings using their name and words like you, or words like I, before giving a speech.",
+      "participants": "89 college students took part in the speech study.",
+      "ages": null,
+      "result": "Students who used their own name felt less upset and gave better speeches than students who used I.",
+      "limitation": "This adult speech study did not test kind coach words or this home practice with children.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+      "evidenceLabel": "ADULT ONLY",
+      "claim": "In adults, using their own name during self-talk helped them feel less upset under stress. This adult research does not prove a kind coach line helps children.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Say your name and one kind next step.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Picture a medium angry moment from across the room.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Say one kind next step using your own name.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Think of what the other person might have been thinking.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Fifth graders who watched an angry moment from the outside felt less upset and blamed the other kid less.",
+      "reason": "Remembered anger in one session, not everyday coping or the self-naming ingredient."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 4,
+    "id": "snag-plan",
+    "name": "Plan what you'll do",
+    "childPhrase": "I picture what I want, spot the snag inside me that could stop it, and make a plan: 'If the snag shows up, then I will ___.'",
+    "practiceScript": "Pick one wish for this week. Say it in a few words: 'Finish math before dinner.' Now picture the best part of getting it done. Really see it. Now find the snag. Not other people. The thing inside you that gets in the way: 'I pick up my phone.' Now make the plan: 'If I want to pick up my phone, then I put it in the kitchen and do one problem.' Say the if-then out loud once.",
+    "kidScienceLine": "In fifth graders, picturing a wish and planning for snags helped improve grades. This school test does not show that the plan helps with feelings.",
+    "parentReceipt": "Duckworth, Kirby, Gollwitzer and Oettingen, Social Psychological and Personality Science, 2013, DOI 10.1177/1948550613476307, PMID 25068007; 77 fifth graders, randomized; fit DIRECT. Wieber and others, 2011, ages 5 to 8, if-then plans (from the 4 to 10 list); fit ADJACENT.",
+    "source": {
+      "text": "\"In 2013, Angela Duckworth and Gabriele Oettingen taught 77 fifth graders at a city middle school in the US a trick: picture your wish, spot the snag, then make an if-then plan. Their report card grades, attendance and behavior got better than kids who were taught to just think positive. In Germany in 2011, kids aged 5 to 8 with an if-then plan ignored a fun video better too.\" Search: \"mental contrasting if-then plans fifth graders\".",
+      "fitLabels": [
+        "DIRECT",
+        "ADJACENT"
+      ],
+      "limitation": "one school, small sample, effects were modest.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/25068007/"
+      ]
+    },
+    "whenNotToUse": "in the hot moment, calm first; a fear that stops daily life goes to Card B; never a plan to cope with someone who hurts the child (that is a grown-up job); the snag is inside the child, never \"my brother\".",
+    "whenItFits": "\"loses it every time plans change\"; \"gets distracted every homework night\"; \"freezes when the teacher calls on her\"; \"knows what to do but never starts\".",
+    "positiveAction": "Say, 'If I reach for my phone, I'll put it away and do one problem.'",
+    "keyWord": "PLAN",
+    "whereItCameFrom": "In 2013, Angela Duckworth and Gabriele Oettingen taught 77 fifth graders at a city middle school in the US a trick: picture your wish, spot the snag, then make an if-then plan. Their report card grades, attendance and behavior got better than kids who were taught to just think positive. In Germany in 2011, kids aged 5 to 8 with an if-then plan ignored a fun video better too.",
+    "searchPhrase": "mental contrasting if-then plans fifth graders",
+    "sources": [
+      {
+        "title": "From Fantasy to Action: Mental Contrasting With Implementation Intentions (MCII) Improves Academic Performance in Children",
+        "year": 2013,
+        "people": "Duckworth, Kirby, Gollwitzer and Oettingen",
+        "place": "a city middle school in the US",
+        "doi": "10.1177/1948550613476307",
+        "pubmed": "25068007",
+        "fitLabel": "DIRECT",
+        "limitation": "77 fifth graders at one US school learned a combined wish, obstacle and if-then plan. Better grades do not prove that an if-then plan alone helps with feelings.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Duckworth 2013, if-then plans in fifth graders",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://journals.sagepub.com/doi/10.1177/1948550613476307"
+      }
+    ],
+    "talkQuestion": "What is the snag inside you, not in other people, that gets in the way?",
+    "talkQuestionNote": "(Tied to Duckworth 2013: the trick pairs the wish with the inner obstacle; positive thinking alone did worse.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child places a pencil beside a blank card on a table.",
+    "approvedBackup": "bring-in-my-person",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Hold up one finger for 'if' and another for 'then.'",
+    "whereItCameFromShort": "Duckworth, Oettingen and team, a US school, 2013.",
+    "kidScienceLineSourceIds": [
+      "25068007"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Children learned to picture a school wish, name a snag and make an if-then plan, or learned to think about good things happening.",
+        "participants": "77 fifth graders at one city middle school in the United States took part.",
+        "ages": null,
+        "result": "Children who learned the wish, snag and plan steps improved their grades, attendance and classroom behavior more than the other group.",
+        "limitation": "This small study at one school tested all three steps together and did not test help with feelings.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/25068007/",
+        "evidenceLabel": "DIRECT"
+      },
+      "source": {
+        "people": "Duckworth, Kirby, Gollwitzer and Oettingen",
+        "place": "a city middle school in the US",
+        "year": 2013,
+        "studyTitle": "From Fantasy to Action: Mental Contrasting With Implementation Intentions (MCII) Improves Academic Performance in Children",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/25068007/"
+      },
+      "keyword": {
+        "meaning": "A plan says what you will do when something gets in the way.",
+        "example": "If I reach for my phone, I will put it down and do one problem."
+      },
+      "tagline": {
+        "rhyme": "Think it through: what could I do?",
+        "explanation": "The rhyme reminds us to think of what we could do when a snag appears."
+      }
+    },
+    "science": {
+      "tested": "Children learned to picture a school wish, name a snag and make an if-then plan, or learned to think about good things happening.",
+      "participants": "77 fifth graders at one city middle school in the United States took part.",
+      "ages": null,
+      "result": "Children who learned the wish, snag and plan steps improved their grades, attendance and classroom behavior more than the other group.",
+      "limitation": "This small study at one school tested all three steps together and did not test help with feelings.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/25068007/",
+      "evidenceLabel": "DIRECT",
+      "claim": "In fifth graders, picturing a wish and planning for snags helped improve grades. This school test does not show that the plan helps with feelings.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Name one snag. Say what you will do if it comes up.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Choose one wish for this week and picture the best part.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Name one thing you do that gets in the way of that wish.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Say an if-then plan for that snag out loud once.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Fifth graders who made if-then plans got better grades than kids who only thought positive.",
+      "reason": "The study tested a combined strategy and school outcomes, not if-then planning alone or coping."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 5,
+    "id": "cool-off-break",
+    "name": "Pause, then come back",
+    "childPhrase": "When I'm too hot to think, I say 'I need ten minutes,' do something calm, and come back to finish it.",
+    "practiceScript": "On a calm day, choose your cool-off spot and your signal: 'I need ten minutes.' Pick one calm thing: a slow walk, a stretch, quiet music, drawing. Not anything that pumps you up. Set a timer for ten minutes. When it goes off, come back and say one sentence: 'I'm back. Can we try again?' Practice the signal once now, out loud.",
+    "kidScienceLine": "In studies of different ages, calming activities helped reduce anger. This review did not test a child's timed break, so that move is still untested.",
+    "parentReceipt": "Kjærvik and Bushman, Clinical Psychology Review, 2024, DOI 10.1016/j.cpr.2024.102414, PMID 38518585; 154 studies, 10,189 people of many ages; fit ADJACENT. Hillman and others, Neuroscience, 2009, DOI 10.1016/j.neuroscience.2009.01.057, PMID 19356688; 20 children about 9.5 years old did better on a focus test after a 20 minute walk; fit DIRECT for focus, small.",
+    "source": {
+      "text": "\"In 2024, Sophie Kjærvik and Brad Bushman at Ohio State University looked at 154 studies with more than 10,000 people. Calm activities, like slow breathing and slow walking, cooled anger down. Hitting a bag or going for a run did not.\" Search: \"calming activities anger review 2024 Bushman\".",
+      "fitLabels": [
+        "ADJACENT",
+        "DIRECT"
+      ],
+      "limitation": "the review does not say how many people were children.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/38518585/",
+        "https://pubmed.ncbi.nlm.nih.gov/19356688/"
+      ]
+    },
+    "whenNotToUse": "never as a punishment; never to dodge every hard task; never \"punch a pillow\" or \"scream it out\"; never fast hard exercise to burn off anger; a child who is not safe alone stays near a grown-up.",
+    "whenItFits": "\"screaming match with her brother\"; \"threw the controller\"; \"homework fight going nowhere\"; \"so angry he can't talk\".",
+    "positiveAction": "Practise saying, 'I need ten minutes. I'll come back when the timer rings.'",
+    "keyWord": "PAUSE",
+    "whereItCameFrom": "In 2024, Sophie Kjærvik and Brad Bushman at Ohio State University looked at 154 studies with more than 10,000 people. Calm activities, like slow breathing and slow walking, cooled anger down. Hitting a bag or going for a run did not.",
+    "searchPhrase": "calming activities anger review 2024 Bushman",
+    "sources": [
+      {
+        "title": "A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage?",
+        "year": 2024,
+        "people": "Kjærvik and Bushman",
+        "place": "Ohio State University",
+        "doi": "10.1016/j.cpr.2024.102414",
+        "pubmed": "38518585",
+        "fitLabel": "ADJACENT",
+        "limitation": "The review combined 154 studies of activities that raise or lower arousal, across different ages. It did not isolate this timed break and return for children aged 8 to 13.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Kjærvik and Bushman 2024, anger review",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/38518585/"
+      },
+      {
+        "title": "The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children",
+        "year": 2009,
+        "people": "Hillman and others",
+        "place": null,
+        "placeNotStatedInMarkdown": true,
+        "doi": "10.1016/j.neuroscience.2009.01.057",
+        "pubmed": "19356688",
+        "fitLabel": "DIRECT",
+        "limitation": "the review does not say how many people were children.",
+        "titleOriginal": "Hillman 2009, walking and focus",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/19356688/"
+      }
+    ],
+    "talkQuestion": "Which calm thing worked best for you? Did anything that pumped you up help?",
+    "talkQuestionNote": "(Tied to Kjærvik and Bushman 2024: calming activities cooled anger; pumped-up ones did not.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child returns along a short path toward a bench, raising one hand.",
+    "approvedBackup": "name-it-exactly",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Step aside. Stretch gently. Step back and say, 'I'm back.'",
+    "whereItCameFromShort": "Kjærvik and Bushman, Ohio State University, 2024.",
+    "kidScienceLineSourceIds": [
+      "38518585"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Researchers combined studies of activities that calm the body or get it more worked up to see what happened to anger.",
+        "participants": "10,189 people of different ages took part across 154 studies.",
+        "ages": null,
+        "result": "Calming activities reduced anger overall, while activities that got people more worked up did not help overall.",
+        "limitation": "The review did not test this exact ten-minute break and return with children aged 8 to 13.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/38518585/",
+        "evidenceLabel": "ADJACENT"
+      },
+      "source": {
+        "people": "Kjærvik and Bushman",
+        "place": "Ohio State University",
+        "year": 2024,
+        "studyTitle": "A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage?",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/38518585/"
+      },
+      "keyword": {
+        "meaning": "Pause means taking a short break and then coming back to try again.",
+        "example": "I need a short break, then I will come back so we can try again."
+      },
+      "tagline": {
+        "rhyme": "Pause a bit. Come back to it.",
+        "explanation": "The rhyme reminds us to take a break and then return."
+      }
+    },
+    "science": {
+      "tested": "Researchers combined studies of activities that calm the body or get it more worked up to see what happened to anger.",
+      "participants": "10,189 people of different ages took part across 154 studies.",
+      "ages": null,
+      "result": "Calming activities reduced anger overall, while activities that got people more worked up did not help overall.",
+      "limitation": "The review did not test this exact ten-minute break and return with children aged 8 to 13.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/38518585/",
+      "evidenceLabel": "ADJACENT",
+      "claim": "In studies of different ages, calming activities helped reduce anger. This review did not test a child's timed break, so that move is still untested.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Ask for a break. Agree when to come back.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Choose your cool-off spot and one calm thing to do there.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Practise asking for ten minutes with your agreed signal.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Agree how you will return when the timer rings. Say your return sentence.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "A big look at 154 studies found calm activities cool anger. Hitting things does not.",
+      "reason": "The review does not establish the effect of this exact break in children."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 6,
+    "id": "bring-in-my-person",
+    "name": "Ask for help",
+    "childPhrase": "When it's too big for me alone, I go to one of my people, a parent or another grown-up I trust, and ask for help with one step.",
+    "practiceScript": "Name your two people in your head. You don't have to say them out loud. Now practice the opener: 'Can I talk to you about something? I don't need you to fix it. I need help with one step.' Say it once in a normal voice. That's the hard part done. Telling is not tattling. Telling is how grown-ups know to help.",
+    "kidScienceLine": "In 9 and 10 year olds, parent help before a speech helped lower a body sign of stress. This lab test does not prove children felt less worried.",
+    "parentReceipt": "Hostinar, Johnson and Gunnar, Developmental Science, 2015 (online 2014), DOI 10.1111/desc.12195, PMID 24942038; 40 children aged 9 and 10, 41 teens aged 15 and 16, lab stress test; fit DIRECT. Blomqvist, Saarento-Zaprudin and Salmivalli, Scandinavian Journal of Psychology, 2020 (online 2019), DOI 10.1111/sjop.12521, PMID 30707442; 1,266 students in grades 4 to 6 and 8 to 9, survey; fit ADJACENT.",
+    "source": {
+      "text": "\"At the University of Minnesota, scientists Camelia Hostinar and Megan Gunnar had 40 kids aged 9 and 10 get ready for a scary speech, helped by their own parent or by a stranger. With a parent's help, their body's stress signal stayed calm. In Finland, a study of 1,266 students found that about half of bullied kids told someone, and kids told more when they believed their teachers would stop it.\" Search: \"parent support stress children Hostinar\".",
+      "fitLabels": [
+        "DIRECT",
+        "ADJACENT"
+      ],
+      "limitation": "the parent effect did not appear at 15 and 16, so by 12 or 13 widen the circle to other trusted grown-ups.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/24942038/",
+        "https://pubmed.ncbi.nlm.nih.gov/30707442/"
+      ]
+    },
+    "whenNotToUse": "if the grown-up is the scary part of the story, that is Card A; the person helps with one step, never takes over; never \"ask again, harder\" if the first person did nothing (the parent does the rest).",
+    "whenItFits": "\"someone at school keeps bugging her\"; \"too worried to sleep\"; \"stuck and won't ask for help\"; \"the group chat is about him\".",
+    "positiveAction": "Tell a grown-up you trust, 'Can you help me with one step?'",
+    "keyWord": "ASK",
+    "whereItCameFrom": "At the University of Minnesota, scientists Camelia Hostinar and Megan Gunnar had 40 kids aged 9 and 10 get ready for a scary speech, helped by their own parent or by a stranger. With a parent's help, their body's stress signal stayed calm. In Finland, a study of 1,266 students found that about half of bullied kids told someone, and kids told more when they believed their teachers would stop it.",
+    "searchPhrase": "parent support stress children Hostinar",
+    "sources": [
+      {
+        "title": "Parent support is less effective in buffering cortisol stress reactivity for adolescents compared to children",
+        "year": 2015,
+        "people": "Hostinar, Johnson and Gunnar",
+        "place": "University of Minnesota",
+        "doi": "10.1111/desc.12195",
+        "pubmed": "24942038",
+        "fitLabel": "DIRECT",
+        "limitation": "Parent help before a lab speech reduced cortisol, a stress hormone, in 9 and 10 year olds but not in 15 and 16 year olds. This does not show that asking any adult for help reduces felt worry.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Hostinar 2015, parent support and stress",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/24942038/"
+      },
+      {
+        "title": "Telling adults about one's plight as a victim of bullying: Student- and context-related factors predicting disclosure",
+        "year": 2020,
+        "people": "Blomqvist, Saarento-Zaprudin and Salmivalli",
+        "place": "Finland",
+        "doi": "10.1111/sjop.12521",
+        "pubmed": "30707442",
+        "fitLabel": "ADJACENT",
+        "limitation": "the parent effect did not appear at 15 and 16, so by 12 or 13 widen the circle to other trusted grown-ups.",
+        "titleOriginal": "Blomqvist 2020, telling adults about bullying",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/30707442/"
+      }
+    ],
+    "talkQuestion": "Who are your two people, and what makes them easy to talk to?",
+    "talkQuestionNote": "(Tied to Blomqvist 2019: children told an adult more often when they believed the adults would act.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child stands beside grown-up-one, raising one open hand toward the grown-up.",
+    "approvedBackup": "name-it-exactly",
+    "expectedPeopleCount": 2,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Turn toward your grown-up. Say, 'Can you help me?'",
+    "whereItCameFromShort": "Hostinar, Johnson and Gunnar, University of Minnesota, 2015.",
+    "kidScienceLineSourceIds": [
+      "24942038"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Children and teens got help from a parent or a stranger to prepare a speech, then scientists checked their body's stress response.",
+        "participants": "40 children and 41 teens took part, each with a parent.",
+        "ages": "The children were 9 to 10 and the teens were 15 to 16.",
+        "result": "Parent help stopped a body stress signal from rising in the children, but not in the teens.",
+        "limitation": "This speech test found no drop in how stressed children said they felt and did not test asking for help at home.",
+        "evidenceLabel": "DIRECT",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24942038/"
+      },
+      "source": {
+        "people": "Hostinar, Johnson and Gunnar",
+        "place": "University of Minnesota",
+        "year": 2015,
+        "studyTitle": "Parent support is less effective in buffering cortisol stress reactivity for adolescents compared to children",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24942038/"
+      },
+      "keyword": {
+        "meaning": "Ask means telling someone you trust that you need help.",
+        "example": "Can I talk to you about something and get help with one step?"
+      },
+      "tagline": {
+        "rhyme": "Ask for a hand, together we stand.",
+        "explanation": "The rhyme reminds us to ask a trusted grown-up for help."
+      }
+    },
+    "science": {
+      "tested": "Children and teens got help from a parent or a stranger to prepare a speech, then scientists checked their body's stress response.",
+      "participants": "40 children and 41 teens took part, each with a parent.",
+      "ages": "The children were 9 to 10 and the teens were 15 to 16.",
+      "result": "Parent help stopped a body stress signal from rising in the children, but not in the teens.",
+      "limitation": "This speech test found no drop in how stressed children said they felt and did not test asking for help at home.",
+      "evidenceLabel": "DIRECT",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/24942038/",
+      "claim": "In 9 and 10 year olds, parent help before a speech helped lower a body sign of stress. This lab test does not prove children felt less worried.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Ask a grown-up you trust for help with one step.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Think of two trusted people. You may keep their names private.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Say the opener asking for help with one step in a normal voice.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Choose the one step you would like a trusted person to help with.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Kids aged 9 and 10 who got help from their parent before a scary speech had a calmer body.",
+      "reason": "Specify the measured body response rather than general calm."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 7,
+    "id": "one-brave-step",
+    "name": "Try one small step",
+    "childPhrase": "I pick one small brave step toward the thing that worries me and do it, even while I still feel nervous.",
+    "practiceScript": "Think of one thing you're nervous to do. Now shrink it. Not 'try out for the team'. Smaller: 'ask the coach what time tryouts are.' Smaller is fine. Before you do it, guess: what do you think will happen? Then do the step. After, check: what actually happened? You don't have to feel brave first. Brave is something you do.",
+    "kidScienceLine": "In children's therapy, practising facing fears was linked with less worry. This clinic research does not prove one step at home will help.",
+    "parentReceipt": "Whiteside and others, Clinical Child and Family Psychology Review, 2020, DOI 10.1007/s10567-019-00303-2, PMID 31628568; 75 studies of clinic care for children with diagnosed worries; fit ADJACENT. **Clinic care label:** this was tested in clinic care for children with big worries. For everyday nerves, AAP guidance suggests gradual practice with feared objects or activities (fears page, updated 2024-09-24).",
+    "source": {
+      "text": "\"In 2020, scientists at the Mayo Clinic in Minnesota looked at 75 studies of kids who worried a lot. Kids got better more when they practiced small brave steps toward the scary thing.\" Search: \"facing fears children Mayo Clinic 2020 Whiteside\".",
+      "fitLabels": [
+        "ADJACENT"
+      ],
+      "limitation": "no study tested one step at home for everyday nerves.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/31628568/",
+        "https://www.healthychildren.org/English/family-life/family-dynamics/Pages/help-your-child-manage-fears-and-anxieties.aspx"
+      ]
+    },
+    "whenNotToUse": "never a ladder of steps, only one; never for a fear that stops school, sleep, eating or friends (Card B); never for washing, checking or counting until it feels right (Card B); never toward a scary event that really happened; anything with real danger, like heights, water or heavy lifting, only after a grown-up says it is safe; stop if the child panics.",
+    "whenItFits": "\"too scared to try out\"; \"won't order at the counter\"; \"afraid to raise her hand\"; \"wants to quit before she even tries\".",
+    "positiveAction": "Nervous about joining a team? Start by asking when practice is.",
+    "keyWord": "SMALL",
+    "whereItCameFrom": "In 2020, scientists at the Mayo Clinic in Minnesota looked at 75 studies of kids who worried a lot. Kids got better more when they practiced small brave steps toward the scary thing.",
+    "searchPhrase": "facing fears children Mayo Clinic 2020 Whiteside",
+    "sources": [
+      {
+        "title": "A Meta-analysis to Guide the Enhancement of CBT for Childhood Anxiety: Exposure Over Anxiety Management",
+        "year": 2020,
+        "people": "Whiteside and others",
+        "place": "Mayo Clinic in Minnesota",
+        "doi": "10.1007/s10567-019-00303-2",
+        "pubmed": "31628568",
+        "fitLabel": "ADJACENT",
+        "limitation": "Across 75 studies of treatment for child anxiety disorders, more facing-fears practice was linked with better symptom results. This does not isolate cause or test a single step at home for everyday nerves.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Whiteside 2020, facing fears in clinic care",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/31628568/"
+      }
+    ],
+    "talkQuestion": "What did you expect would happen, and what actually happened?",
+    "talkQuestionNote": "(Tied to Whiteside 2020: more practice actually facing the fear went with bigger gains; the step only teaches something if you notice what happened.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child steps toward grown-up-one beside a soccer ball.",
+    "approvedBackup": "bring-in-my-person",
+    "expectedPeopleCount": 2,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Hold up one finger. Take one small step forward.",
+    "whereItCameFromShort": "Whiteside and team, Mayo Clinic, Minnesota, 2020.",
+    "kidScienceLineSourceIds": [
+      "31628568"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Researchers compared 75 studies to see whether more practice facing fears with trained helpers went with less worry.",
+        "participants": "5,412 children and teens took part in studies of care for fears and worries.",
+        "ages": null,
+        "result": "More practice facing fears with trained helpers was linked with bigger drops in worry.",
+        "limitation": "The review cannot show that this practice caused the change or that one small step at home works.",
+        "evidenceLabel": "ADJACENT",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31628568/"
+      },
+      "source": {
+        "people": "Whiteside and others",
+        "place": "Mayo Clinic in Minnesota",
+        "year": 2020,
+        "studyTitle": "A Meta-analysis to Guide the Enhancement of CBT for Childhood Anxiety: Exposure Over Anxiety Management",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31628568/"
+      },
+      "keyword": {
+        "meaning": "Small means choosing just one little part of something safe you want to try.",
+        "example": "My small step is asking the coach when tryouts are."
+      },
+      "tagline": {
+        "rhyme": "Start small today. Find your own way.",
+        "explanation": "The rhyme reminds us to choose one small, safe step."
+      }
+    },
+    "science": {
+      "tested": "Researchers compared 75 studies to see whether more practice facing fears with trained helpers went with less worry.",
+      "participants": "5,412 children and teens took part in studies of care for fears and worries.",
+      "ages": null,
+      "result": "More practice facing fears with trained helpers was linked with bigger drops in worry.",
+      "limitation": "The review cannot show that this practice caused the change or that one small step at home works.",
+      "evidenceLabel": "ADJACENT",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31628568/",
+      "claim": "In studies of care for children's fears, practising facing fears was linked with less worry. This research does not prove one step at home will help.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Choose one small, safe step with a grown-up you trust.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Choose one thing that makes you nervous. Make the first step smaller.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Before a small safe step, guess what you think will happen.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "After a small step you chose, compare your guess with what happened.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "In clinic studies, kids who practiced small brave steps got better more. This poster is for everyday nerves, not big fears.",
+      "reason": "Clinic component association does not prove one home step for everyday nerves."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 8,
+    "id": "compare-with-past-me",
+    "name": "Compare then and now",
+    "childPhrase": "I compare me with past me, not with other kids. 'A month ago I couldn't do this. Now I can do half.'",
+    "practiceScript": "Pick one thing you're working on. Piano, free throws, long division, anything. Think back a month, or a year. What could you do then? Say it. Now what can you do today? Say it. Now one more: what helped you get from then to now? A new way of practicing? Someone who showed you? That's your progress. Nobody else's score is in this picture.",
+    "kidScienceLine": "In children aged 8 to 16, comparing with their past selves helped them feel proud. This one-time test does not show how long that feeling lasts.",
+    "parentReceipt": "Gürel, Brummelman, Sedikides and Overbeek, Journal of Experimental Psychology: General, 2020, DOI 10.1037/xge0000733, PMID 31944812; 583 children, average age 11.65, randomized; results the same at 8 to 10, 11 to 13 and 14 to 16; fit DIRECT.",
+    "source": {
+      "text": "\"In 2020, scientists at the University of Amsterdam, led by Çisem Gürel and Eddie Brummelman, asked 583 kids aged 8 to 16 to compare themselves with other kids or with their own past selves. Both made kids proud. But only 'better than my past self' did it without making them want to beat everyone else.\" Search: \"better than my past self children pride Brummelman\".",
+      "fitLabels": [
+        "DIRECT"
+      ],
+      "limitation": "one session, and pride was self-reported.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/31944812/"
+      ]
+    },
+    "whenNotToUse": "if the child is truly stuck and needs help, pair it with Bring in my person; never \"you're better than them\"; the parent never compares the child with a sibling or a younger child.",
+    "whenItFits": "\"upset her friend got a better grade\"; \"says everyone is better than him\"; \"wants to quit because a teammate is faster\"; \"jealous of her sister's trophy\".",
+    "positiveAction": "Name one change: 'Then I read one page. Now I read three. Practice helped.'",
+    "keyWord": "THEN",
+    "whereItCameFrom": "In 2020, scientists at the University of Amsterdam, led by Çisem Gürel and Eddie Brummelman, asked 583 kids aged 8 to 16 to compare themselves with other kids or with their own past selves. Both made kids proud. But only 'better than my past self' did it without making them want to beat everyone else.",
+    "searchPhrase": "better than my past self children pride Brummelman",
+    "sources": [
+      {
+        "title": "Better than my past self: Temporal comparison raises children's pride without triggering superiority goals",
+        "year": 2020,
+        "people": "Gürel, Brummelman, Sedikides and Overbeek",
+        "place": "University of Amsterdam",
+        "doi": "10.1037/xge0000733",
+        "pubmed": "31944812",
+        "fitLabel": "DIRECT",
+        "limitation": "583 children aged 8 to 16 compared themselves in one session. Pride and goals were self-reported immediately; the study does not establish lasting effects.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Gürel 2020, comparing with your past self",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://dare.uva.nl/personal/pure/en/publications/better-than-my-past-self-temporal-comparison-raises-childrens-pride-without-triggering-superiority-goals(025ef0c9-044f-4a89-a791-13a312a4802a).html"
+      }
+    ],
+    "talkQuestion": "What can you do now that you couldn't do then, and what helped you get there?",
+    "talkQuestionNote": "(Tied to Gürel 2020: past-self comparison gave children a sense of progress and insight, which comparing with others did not.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child places a simple sketch and a detailed sketch side by side on a table.",
+    "approvedBackup": "coach-voice",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Point left for what you could do then, right for now.",
+    "whereItCameFromShort": "Gürel, Brummelman and team, University of Amsterdam, 2020.",
+    "kidScienceLineSourceIds": [
+      "31944812"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Children compared themselves with other children, with their own past selves, or with no one, then answered questions about their feelings and goals.",
+        "participants": "583 children took part.",
+        "ages": "The children were 8 to 16.",
+        "result": "Looking at their own progress raised pride without increasing the wish to be better than other children.",
+        "limitation": "The children reported their feelings in one session, so the study does not show how long the change lasts.",
+        "evidenceLabel": "DIRECT",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31944812/"
+      },
+      "source": {
+        "people": "Gürel, Brummelman, Sedikides and Overbeek",
+        "place": "University of Amsterdam",
+        "year": 2020,
+        "studyTitle": "Better than my past self: Temporal comparison raises children's pride without triggering superiority goals",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31944812/"
+      },
+      "keyword": {
+        "meaning": "Then means an earlier time, before the things you can do now.",
+        "example": "Then I could play one line; now I can play the whole song."
+      },
+      "tagline": {
+        "rhyme": "Then and now: what changed, and how?",
+        "explanation": "The rhyme reminds us to compare with our own earlier work and notice what helped."
+      }
+    },
+    "science": {
+      "tested": "Children compared themselves with other children, with their own past selves, or with no one, then answered questions about their feelings and goals.",
+      "participants": "583 children took part.",
+      "ages": "The children were 8 to 16.",
+      "result": "Looking at their own progress raised pride without increasing the wish to be better than other children.",
+      "limitation": "The children reported their feelings in one session, so the study does not show how long the change lasts.",
+      "evidenceLabel": "DIRECT",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31944812/",
+      "claim": "In children aged 8 to 16, comparing with their past selves helped them feel proud. This one-time test does not show how long that feeling lasts.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Say what you could do before, what you can do now, and what helped.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Choose something you are working on. Say what you could do a month ago.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Say what you can do at it today. Compare with your own past, not someone else.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Name a practice change or a person who helped your progress.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 9,
+    "id": "make-it-right",
+    "name": "Say sorry and help",
+    "childPhrase": "When I hurt someone, I say exactly what I did, say sorry without a 'but', and do one thing to fix it. Then I let them answer in their own time.",
+    "practiceScript": "Think of a small time you upset someone. Name exactly what you did: not 'I was mean', but 'I laughed when you dropped your tray.' Now the sorry, with no 'but': 'I'm sorry I laughed.' Now one fix you can do, not just say: help, replace, write a note, include them next time. Last part: they might not be ready. That's their choice. Your part is done.",
+    "kidScienceLine": "In children aged 6 to 10, making things right helped them feel less guilty. This pretend mistake does not show what happens after hurting a real friend.",
+    "parentReceipt": "Donohue and Tully, Developmental Psychology, 2019, DOI 10.1037/dev0000788, PMID 31343231; 97 children aged 6 to 10, randomized lab; fit DIRECT for 8 to 10. Ma, Wylie, Luo, He, Xu and Evans, Journal of Experimental Child Psychology, 2018, DOI 10.1016/j.jecp.2018.05.008, PMID 30071381; 180 children aged 9 and 11; shows sorry helps the child who was wronged trust again; fit ADJACENT.",
+    "source": {
+      "text": "\"In 2019, scientists Meghan Rose Donohue and Erin Tully set up a game in the US where kids aged 6 to 10 thought they had upset another kid. Kids who got a chance to fix it, by giving stickers and writing a note, felt their guilt go down. Kids who had no chance to fix it did not. In China, 180 kids aged 9 and 11 trusted a game partner again after the partner said sorry.\" Search: \"repair guilt children Donohue Tully\".",
+      "fitLabels": [
+        "DIRECT",
+        "ADJACENT"
+      ],
+      "limitation": "the wrong was pretend, in a lab, with a stranger, not a real friend.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/31343231/",
+        "https://pubmed.ncbi.nlm.nih.gov/30071381/"
+      ]
+    },
+    "whenNotToUse": "when the child was the one hurt (use Bring in my person); never force a sorry while the child is still hot; no groveling and no public sorry; if the other child wants space, the fix waits; anything that harmed someone badly is a grown-up job.",
+    "whenItFits": "\"said something mean to her friend and feels awful\"; \"broke his brother's thing\"; \"left a friend out and now feels guilty\"; \"can't stop thinking about what she did\".",
+    "positiveAction": "Broke someone's pencil? Say sorry and give them another.",
+    "keyWord": "SORRY",
+    "whereItCameFrom": "In 2019, scientists Meghan Rose Donohue and Erin Tully set up a game in the US where kids aged 6 to 10 thought they had upset another kid. Kids who got a chance to fix it, by giving stickers and writing a note, felt their guilt go down. Kids who had no chance to fix it did not. In China, 180 kids aged 9 and 11 trusted a game partner again after the partner said sorry.",
+    "searchPhrase": "repair guilt children Donohue Tully",
+    "sources": [
+      {
+        "title": "Reparative prosocial behaviors alleviate children's guilt",
+        "year": 2019,
+        "people": "Meghan Rose Donohue and Erin C. Tully",
+        "place": "Georgia State University and Washington University in St. Louis, US",
+        "doi": "10.1037/dev0000788",
+        "pubmed": "31343231",
+        "fitLabel": "DIRECT",
+        "limitation": "97 children aged 6 to 10 believed they had upset an unfamiliar peer in a staged lab task. Giving stickers and writing a note reduced reported guilt; effects after real harm to a friend or lasting effects were not tested.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Donohue and Tully 2019, repair and guilt",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/31343231/"
+      },
+      {
+        "title": "Apologies repair children's trust: The mediating role of emotions",
+        "year": 2018,
+        "people": "Ma, Wylie, Luo, He, Xu and Evans",
+        "place": "China",
+        "doi": "10.1016/j.jecp.2018.05.008",
+        "pubmed": "30071381",
+        "fitLabel": "ADJACENT",
+        "limitation": "the wrong was pretend, in a lab, with a stranger, not a real friend.",
+        "titleOriginal": "Ma 2018, apologies and trust",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://www.sciencedirect.com/science/article/pii/S0022096517306513"
+      }
+    ],
+    "talkQuestion": "What is one thing you can do, not just say, to make it right?",
+    "talkQuestionNote": "(Tied to Donohue and Tully 2019: guilt eased only for children who got to do a real repair.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child places a replacement pencil on a desk beside a snapped pencil.",
+    "approvedBackup": "name-it-exactly",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Hold out a new pencil. Say, 'Sorry I broke yours.'",
+    "whereItCameFromShort": "Donohue and Tully, US, 2019.",
+    "kidScienceLineSourceIds": [
+      "31343231"
+    ],
+    "detail": {
+      "science": {
+        "tested": "After a pretend mishap, some children could give stickers and write a note to the child they thought they had upset.",
+        "participants": "97 children took part.",
+        "ages": "The children were 6 to 10.",
+        "result": "Children who felt guilty reported less guilt after a chance to make things right, while those without that chance did not.",
+        "limitation": "This was a small, staged mistake with a child they did not know, so it does not show what happens after hurting a real friend.",
+        "evidenceLabel": "DIRECT",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31343231/"
+      },
+      "source": {
+        "people": "Meghan Rose Donohue and Erin C. Tully",
+        "place": "Georgia State University and Washington University in St. Louis, US",
+        "year": 2019,
+        "studyTitle": "Reparative prosocial behaviors alleviate children's guilt",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31343231/"
+      },
+      "keyword": {
+        "meaning": "Sorry means saying what you did that hurt someone and that you wish you had not done it.",
+        "example": "I am sorry I laughed when you dropped your tray; I can help you pick things up."
+      },
+      "tagline": {
+        "rhyme": "Show you care. Say sorry and repair.",
+        "explanation": "The rhyme reminds us to say sorry and help put things right."
+      }
+    },
+    "science": {
+      "tested": "After a pretend mishap, some children could give stickers and write a note to the child they thought they had upset.",
+      "participants": "97 children took part.",
+      "ages": "The children were 6 to 10.",
+      "result": "Children who felt guilty reported less guilt after a chance to make things right, while those without that chance did not.",
+      "limitation": "This was a small, staged mistake with a child they did not know, so it does not show what happens after hurting a real friend.",
+      "evidenceLabel": "DIRECT",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/31343231/",
+      "claim": "In children aged 6 to 10, making things right helped them feel less guilty. This pretend mistake does not show what happens after hurting a real friend.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Name what you did, say sorry, and offer one repair.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Name exactly what you did in a small mistake, without calling yourself a name.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Say sorry for that action without adding 'but'.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Choose one repair you can do, such as help, replace or write a note.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Kids who got to fix a mistake felt less guilty than kids who didn't get the chance.",
+      "reason": "Limit the age and artificial setting; do not imply real-friend repair was tested."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 10,
+    "id": "good-enough-is-done",
+    "name": "Check once, then finish",
+    "childPhrase": "I read what the job really asks, check it once, and hand it in. Done beats perfect.",
+    "practiceScript": "Take your assignment. Read the directions out loud. Circle what it actually asks for. That's your finish line. Now do one check: does my work do what I circled? Yes? Hands off. Put it in your bag. If your brain says 'make it better', answer it: 'It's done. Done beats perfect.' Then go do something else.",
+    "kidScienceLine": "In young teens, lessons about wanting to be perfect helped keep worry from rising. This five-lesson test does not prove checking work once helps.",
+    "parentReceipt": "Osenk, Johnson and Wade, School Mental Health, 2023, DOI 10.1007/s12310-022-09540-3, PMID 36092281; 636 students, average age 13.7, classes randomized; fit ADJACENT. Fuster, Vicent, Sánchez-Meca and Gonzálvez, Cognitive Behaviour Therapy, 2026, DOI 10.1080/16506073.2026.2631149, PMID 41805454; review of 20 studies in children and teens; programs lowered perfectionism; fit ADJACENT. The chats also cited Riley 2007 (PMID 17275781): 20 adults; ADULT ONLY.",
+    "source": {
+      "text": "\"In 2023, a team at Flinders University in Australia ran five classroom lessons about perfectionism for 636 students aged about 13 and 14. Right after the lessons, nothing had changed. Three months later, the other classes had grown more worried, and the lesson classes had not.\" Search: \"perfectionism classroom lessons young adolescents trial Australia\".",
+      "fitLabels": [
+        "ADJACENT",
+        "ADULT ONLY"
+      ],
+      "limitation": "no study tested this exact \"check once, hand it in\" step, and the classroom trial showed no change right after.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/36092281/",
+        "https://pubmed.ncbi.nlm.nih.gov/41805454/",
+        "https://pubmed.ncbi.nlm.nih.gov/17275781/"
+      ]
+    },
+    "whenNotToUse": "for a child who rushes and makes careless slips, this is the wrong move; if checking has to go on until it \"feels right\", or the child cannot stop, that is Card B; if worry about work is every night for weeks, call the child's doctor.",
+    "whenItFits": "\"keeps erasing and redoing homework\"; \"won't hand in the project because it's not perfect\"; \"melts down over one wrong answer\"; \"stays up fixing tiny things\".",
+    "positiveAction": "Check your homework once against the directions, then hand it in.",
+    "keyWord": "DONE",
+    "whereItCameFrom": "In 2023, a team at Flinders University in Australia ran five classroom lessons about perfectionism for 636 students aged about 13 and 14. Right after the lessons, nothing had changed. Three months later, the other classes had grown more worried, and the lesson classes had not.",
+    "searchPhrase": "perfectionism classroom lessons young adolescents trial Australia",
+    "sources": [
+      {
+        "title": "A Pragmatic Randomized Controlled Trial Targeting Perfectionism in Young Adolescents",
+        "year": 2023,
+        "people": "Osenk, Johnson and Wade",
+        "place": "Flinders University in Australia",
+        "doi": "10.1007/s12310-022-09540-3",
+        "pubmed": "36092281",
+        "fitLabel": "ADJACENT",
+        "limitation": "636 young teens received five classroom lessons or usual classes. There was no immediate group difference; three months later worry rose in the comparison group but not the lesson group. Checking work once was not tested alone.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Osenk 2023, classroom perfectionism trial",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/36092281/"
+      },
+      {
+        "title": "Overcoming perfectionism during childhood and adolescence: a systematic review and meta-analysis of interventions",
+        "year": 2026,
+        "people": "Fuster, Vicent, Sánchez-Meca and Gonzálvez",
+        "place": null,
+        "placeNotStatedInMarkdown": true,
+        "doi": "10.1080/16506073.2026.2631149",
+        "pubmed": "41805454",
+        "fitLabel": "ADJACENT",
+        "limitation": "no study tested this exact \"check once, hand it in\" step, and the classroom trial showed no change right after.",
+        "titleOriginal": "Fuster 2026, perfectionism programs review",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/41805454/"
+      }
+    ],
+    "talkQuestion": "What did the teacher actually ask for, and did your work do that?",
+    "talkQuestionNote": "(Tied to the perfectionism programs: they work on setting a fair standard, not on trying harder.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child places a closed folder inside an open backpack.",
+    "approvedBackup": "compare-with-past-me",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Close your folder. Put it in your bag.",
+    "whereItCameFromShort": "Osenk, Johnson and Wade, Flinders University, 2023.",
+    "kidScienceLineSourceIds": [
+      "36092281"
+    ],
+    "detail": {
+      "science": {
+        "tested": "School classes took five lessons about wanting to be perfect or kept their usual lessons, then answered questions after the lessons and three months later.",
+        "participants": "636 students in Years 8 and 9 at four Australian schools took part.",
+        "ages": null,
+        "result": "Three months later, worry had risen in the usual classes but had not risen in the classes that took the lessons.",
+        "limitation": "There was no clear difference right after the lessons, and checking work once was not tested on its own.",
+        "evidenceLabel": "ADJACENT",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/36092281/"
+      },
+      "source": {
+        "people": "Osenk, Johnson and Wade",
+        "place": "Flinders University in Australia",
+        "year": 2023,
+        "studyTitle": "A Pragmatic Randomized Controlled Trial Targeting Perfectionism in Young Adolescents",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/36092281/"
+      },
+      "keyword": {
+        "meaning": "Done means your work meets the directions and you have checked it once.",
+        "example": "My work does what the directions ask, and I have checked it once."
+      },
+      "tagline": {
+        "rhyme": "One check, then done, no second run.",
+        "explanation": "The rhyme reminds us to check once and finish."
+      }
+    },
+    "science": {
+      "tested": "School classes took five lessons about wanting to be perfect or kept their usual lessons, then answered questions after the lessons and three months later.",
+      "participants": "636 students in Years 8 and 9 at four Australian schools took part.",
+      "ages": null,
+      "result": "Three months later, worry had risen in the usual classes but had not risen in the classes that took the lessons.",
+      "limitation": "There was no clear difference right after the lessons, and checking work once was not tested on its own.",
+      "evidenceLabel": "ADJACENT",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/36092281/",
+      "claim": "In young teens, lessons about wanting to be perfect helped keep worry from rising. This five-lesson test does not prove checking work once helps.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Check once against the directions. If it meets them, put it away.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Read the directions for one assignment and circle what they ask for.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Check once whether your work does what you circled.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "If the work meets the directions, put it in your bag and choose something else to do.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 11,
+    "id": "dont-feed-the-fire",
+    "name": "Send a kind message",
+    "childPhrase": "When a chat turns mean about someone, I add nothing, mute it, show my person, and send the kid being picked on one kind message.",
+    "practiceScript": "Picture a chat where people start piling on someone. Step one: add nothing. No laughing emoji, no 'lol'. Step two: mute the chat. Muting is invisible. Step three: show your person, a parent or a grown-up you trust. Step four: send the kid being picked on one private message: 'That wasn't okay. You good?' That's the whole move. Practice typing the kind message once.",
+    "kidScienceLine": "We do not yet have a test of this move with children. Studies of reporting bullying do not show whether a private kind message helps.",
+    "parentReceipt": "Barlińska, Szuster and Winiewski, Frontiers in Psychology, 2018, DOI 10.3389/fpsyg.2018.00799, PMID 29899715; two studies, 271 students aged 11 to 17 (average 13) and 265 aged 10 to 16, in a pretend messaging app; fit ADJACENT for the \"think how they feel, then report\" step. Tian, Huebner and Tian, Journal of Youth and Adolescence, 2025, DOI 10.1007/s10964-025-02176-x, PMID 40175833; 62 studies, about 102,574 children and teens; children who defend others had better friendships but were also picked on a little more themselves; fit ADJACENT. That cost is why this move uses the quiet, private version.",
+    "source": {
+      "text": "\"In Poland, scientists Julia Barlińska, Anna Szuster and Mikołaj Winiewski at the University of Warsaw showed about 530 kids, aged 10 to 17, a pretend chat where someone was being picked on. Kids who first stopped to think about how the picked-on kid felt were more likely to report it.\" Search: \"cyberbullying bystanders empathy reporting Poland\".",
+      "fitLabels": [
+        "ADJACENT"
+      ],
+      "limitation": "The pretend-chat studies tested reporting or forwarding messages, and the review studied defenders' outcomes. Neither tests whether sending a private kind message helps its recipient.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/29899715/",
+        "https://pubmed.ncbi.nlm.nih.gov/40175833/"
+      ]
+    },
+    "whenNotToUse": "if the mean stuff is about this child, it is a grown-up job, not this move; never confront the group; never forward or repost anything; mute, don't leave, because leaving is seen and muting is not; threats, nude pictures or talk of hurting someone are Card A.",
+    "whenItFits": "\"the group chat is ganging up on a girl\"; \"kids are passing round a mean picture\"; \"everyone's laughing at a classmate online\"; \"she saw a rumor going round\".",
+    "positiveAction": "Write a private message to the child being picked on: 'Are you okay?'",
+    "keyWord": "KIND",
+    "whereItCameFrom": "In Poland, scientists Julia Barlińska, Anna Szuster and Mikołaj Winiewski at the University of Warsaw showed about 530 kids, aged 10 to 17, a pretend chat where someone was being picked on. Kids who first stopped to think about how the picked-on kid felt were more likely to report it.",
+    "searchPhrase": "cyberbullying bystanders empathy reporting Poland",
+    "sources": [
+      {
+        "title": "Cyberbullying Among Adolescent Bystanders: Role of Affective Versus Cognitive Empathy in Increasing Prosocial Cyberbystander Behavior",
+        "year": 2018,
+        "people": "Barlińska, Szuster and Winiewski",
+        "place": "University of Warsaw",
+        "doi": "10.3389/fpsyg.2018.00799",
+        "pubmed": "29899715",
+        "fitLabel": "ADJACENT",
+        "limitation": "Students aged 10 to 17 considered a target's feelings and chose whether to report or forward a mean message in a pretend chat. The study did not test sending a private kind message or benefits for its recipient.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Barlińska 2018, cyberbystanders and empathy (full text opened)",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/29899715/"
+      },
+      {
+        "title": "Defending Behavior in Bullying and Defenders’ Psychosocial Outcomes among Children and Adolescents: A Series of Three-Level Meta-Analyses",
+        "year": 2025,
+        "people": "Xin Tian, E. Scott Huebner and Lili Tian",
+        "place": "South China Normal University, Guangzhou, China",
+        "doi": "10.1007/s10964-025-02176-x",
+        "pubmed": "40175833",
+        "fitLabel": "ADJACENT",
+        "limitation": "The review concerns links between defending others and the defenders' own outcomes. It does not test whether one private kind message helps a bullied child.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Tian 2025, defending and its costs",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/40175833/"
+      }
+    ],
+    "talkQuestion": "How do you think the kid in the chat felt reading that?",
+    "talkQuestionNote": "(Tied to Barlińska 2018: only stopping to think about how the targeted kid felt made bystanders more likely to report.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child points at a blank handheld device beside grown-up-one.",
+    "approvedBackup": "bring-in-my-person",
+    "expectedPeopleCount": 2,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Pretend to type, 'Are you okay?' Send it only to them.",
+    "whereItCameFromShort": "Barlińska, Szuster and Winiewski, University of Warsaw, 2018.",
+    "kidScienceLineSourceIds": [
+      "29899715",
+      "40175833"
+    ],
+    "detail": {
+      "science": {
+        "tested": "In Study 2, researchers tested whether thinking about a picked-on child's feelings in a video changed students' choices in a pretend chat.",
+        "participants": "265 students from nine schools in Poland took part.",
+        "ages": "10 to 16 years.",
+        "result": "Students who thought about the picked-on child's feelings were more likely to report the mean message.",
+        "limitation": "This test used a pretend chat and did not test sending a private kind message or whether it helped the child who got it.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/29899715/",
+        "evidenceLabel": "ADJACENT"
+      },
+      "source": {
+        "people": "Barlińska, Szuster and Winiewski",
+        "place": "University of Warsaw",
+        "year": 2018,
+        "studyTitle": "Cyberbullying Among Adolescent Bystanders: Role of Affective Versus Cognitive Empathy in Increasing Prosocial Cyberbystander Behavior",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/29899715/"
+      },
+      "keyword": {
+        "meaning": "Kind means showing someone care through your words or actions.",
+        "example": "That was not okay; are you okay?"
+      },
+      "tagline": {
+        "rhyme": "In private, say, \"Are you okay?\"",
+        "explanation": "The rhyme reminds us to stay out of the attack and offer kindness in private."
+      }
+    },
+    "science": {
+      "tested": "In Study 2, researchers tested whether thinking about a picked-on child's feelings in a video changed students' choices in a pretend chat.",
+      "participants": "265 students from nine schools in Poland took part.",
+      "ages": "10 to 16 years.",
+      "result": "Students who thought about the picked-on child's feelings were more likely to report the mean message.",
+      "limitation": "This test used a pretend chat and did not test sending a private kind message or whether it helped the child who got it.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/29899715/",
+      "evidenceLabel": "ADJACENT",
+      "claim": "We do not yet have a test of this move with children. Studies of reporting bullying do not show whether a private kind message helps.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Add nothing mean. Show a trusted grown-up, then send one private kind message.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Picture a mean chat. Show how to add nothing and mute it.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Choose a trusted grown-up you could show the mean chat to.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Write a kind private message on paper for the child being picked on.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Kids who stopped to think how the picked-on kid felt were more likely to report a mean chat.",
+      "reason": "Pretend messaging and older students, not proof of real-world reporting by younger children."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 12,
+    "id": "butterflies-mean-ready",
+    "name": "Say, 'I'm getting ready'",
+    "childPhrase": "When my heart pounds before something big, I tell myself: 'This is my body getting ready.' Then I do the first line.",
+    "practiceScript": "Put a hand on your chest. Feel your heart. Before something big, it goes faster. That's not your body breaking. That's your body getting ready: more blood, more air, more energy. Say it: 'This is my body getting ready.' Now say your very first line, or play your first note, or picture your first move. Just the first one.",
+    "kidScienceLine": "In adults taking a math test, seeing nerves as helpful helped them score higher. This adult test does not prove the move helps children.",
+    "parentReceipt": "Rozek, Ramirez, Fine and Beilock, PNAS, 2019, DOI 10.1073/pnas.1808589116, PMID 30642965; 1,175 ninth graders, about 14 and 15; worry writing and reappraisal arms; fit ADJACENT (older than 13; the arms did not differ much). Jamieson, Mendes, Blackstock and Schmader, Journal of Experimental Social Psychology, 2010, DOI 10.1016/j.jesp.2009.08.015, PMID 20161454; ADULT ONLY. Brooks, Journal of Experimental Psychology: General, 2014, DOI 10.1037/a0035325, PMID 24364682; ADULT ONLY. **Citation check:** the chats cited Su 2010 (PMID 20795337) and Braden 2015 (PMID 25784885) for this move. Both resolve, but neither tested this skill: Su tested breathing practice and Braden tested a full performance program. They are not used here.",
+    "source": {
+      "text": "\"Scientists Christopher Rozek and Sian Beilock at the University of Chicago worked with 1,175 ninth graders in science class. Before tests, some wrote about their worries or learned to see their racing heart as a sign of getting ready. For some groups of students, half as many failed the class. Earlier, at Harvard, grown-ups who were told nerves can help did better on a big exam.\" Search: \"reappraising arousal GRE Jamieson 2010\".",
+      "fitLabels": [
+        "ADJACENT",
+        "ADULT ONLY"
+      ],
+      "limitation": "no randomized test of this exact move in children under 14 was found.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/30642965/",
+        "https://pubmed.ncbi.nlm.nih.gov/20161454/",
+        "https://pubmed.ncbi.nlm.nih.gov/24364682/",
+        "https://pubmed.ncbi.nlm.nih.gov/20795337/",
+        "https://pubmed.ncbi.nlm.nih.gov/25784885/"
+      ]
+    },
+    "whenNotToUse": "if the child is deciding whether to do something at all, that is a different night (use Snag plan or Bring in my person); never to push past real danger or pain; never to talk a child out of a fear that stops daily life (Card B); never \"just get excited\" as a brush-off.",
+    "whenItFits": "\"nervous wreck before the performance\"; \"stomach in knots before the game\"; \"big test tomorrow and she's freaking out\"; \"wants to quit the recital the night before\".",
+    "positiveAction": "Before reading aloud, say, 'My body's getting ready,' then read the first word.",
+    "keyWord": "READY",
+    "whereItCameFrom": "Scientists Christopher Rozek and Sian Beilock at the University of Chicago worked with 1,175 ninth graders in science class. Before tests, some wrote about their worries or learned to see their racing heart as a sign of getting ready. For some groups of students, half as many failed the class. Earlier, at Harvard, grown-ups who were told nerves can help did better on a big exam.",
+    "searchPhrase": "reappraising arousal GRE Jamieson 2010",
+    "sources": [
+      {
+        "title": "Reducing socioeconomic disparities in the STEM pipeline through student emotion regulation",
+        "year": 2019,
+        "people": "Rozek, Ramirez, Fine and Beilock",
+        "place": "University of Chicago",
+        "doi": "10.1073/pnas.1808589116",
+        "pubmed": "30642965",
+        "fitLabel": "ADJACENT",
+        "limitation": "no randomized test of this exact move in children under 14 was found.",
+        "titleOriginal": "Rozek 2019, ninth grade test worry trial",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/30642965/"
+      },
+      {
+        "title": "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE",
+        "year": 2010,
+        "people": "Jamieson, Mendes, Blackstock and Schmader",
+        "place": "Harvard",
+        "doi": "10.1016/j.jesp.2009.08.015",
+        "pubmed": "20161454",
+        "fitLabel": "ADULT ONLY",
+        "limitation": "Adults preparing for a graduate entrance exam were told that arousal could help performance. Math scores improved; this does not establish benefits for children aged 8 to 13 or for every kind of task.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Jamieson 2010, reappraising arousal",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/20161454/"
+      }
+    ],
+    "talkQuestion": "What did your body do right before, and how did it help you once you started?",
+    "talkQuestionNote": "(Tied to Rozek 2019 and Jamieson 2010: the part that worked was reading the racing heart as help, not as danger.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child rests one hand on the chest and steps toward a soccer ball.",
+    "approvedBackup": "long-breath-out",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Touch your chest. Say, 'My body's getting ready.' Start your first line.",
+    "whereItCameFromShort": "Jamieson, Mendes and team, Harvard, 2010.",
+    "kidScienceLineSourceIds": [
+      "20161454"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Researchers told some students that nerves could help them do well, then compared their scores on practice and real entrance exams.",
+        "participants": "60 students preparing for an exam for study after college were recruited, and 28 completed the study.",
+        "ages": null,
+        "result": "Students told that nerves could help scored higher on the math sections, but not the word sections.",
+        "limitation": "This small adult study left out many people who did not return and does not show that the move helps children.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/20161454/",
+        "evidenceLabel": "ADULT ONLY"
+      },
+      "source": {
+        "people": "Jamieson, Mendes, Blackstock and Schmader",
+        "place": "Harvard",
+        "year": 2010,
+        "studyTitle": "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/20161454/"
+      },
+      "keyword": {
+        "meaning": "Ready means getting set to try, even if you still feel nervous.",
+        "example": "My heart is beating fast, and I can try my first line."
+      },
+      "tagline": {
+        "rhyme": "Nerves can mean ready, take it steady.",
+        "explanation": "The rhyme reminds us that nerves can be part of getting ready, without proving every situation is safe."
+      }
+    },
+    "science": {
+      "tested": "Researchers told some students that nerves could help them do well, then compared their scores on practice and real entrance exams.",
+      "participants": "60 students preparing for an exam for study after college were recruited, and 28 completed the study.",
+      "ages": null,
+      "result": "Students told that nerves could help scored higher on the math sections, but not the word sections.",
+      "limitation": "This small adult study left out many people who did not return and does not show that the move helps children.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/20161454/",
+      "evidenceLabel": "ADULT ONLY",
+      "claim": "In adults taking a math test, seeing nerves as helpful helped them score higher. This adult test does not prove the move helps children.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Say, 'My body's getting ready.' Try the first part.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Put a hand on your chest and notice your heartbeat.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Say, 'This is my body getting ready.'",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Choose and try your first word, note or move for something big.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 13,
+    "id": "worry-parking-spot",
+    "name": "Save worries for later",
+    "childPhrase": "When a worry keeps looping, I write it down, park it in my worry box, and open the box later at worry time with my person.",
+    "practiceScript": "Get a small box and a scrap of paper. Write the worry in a few words. Fold it. Put it in the box. Say: 'Parked. I'll look at you at 6:30.' Then do the next normal thing. At worry time, 15 minutes, early evening, open the box with your person. Some worries will look smaller. Pick one, and make a plan for it, or throw it out.",
+    "kidScienceLine": "In children aged 9 to 13, saving worries for later was linked with fewer worries. This one-week test does not show whether a worry box helps.",
+    "parentReceipt": "Jellesma, Verkuil and Brosschot, Social Science and Medicine, 2009, DOI 10.1016/j.socscimed.2009.04.031, PMID 19520470; 227 children aged 9 to 13 from 7 Leiden schools; fit DIRECT for saving worries, ADJACENT for the box. Ramirez and Beilock, Science, 2011, DOI 10.1126/science.1199427, PMID 21233387; writing worries before a test raised scores; fit ADJACENT (ninth grade detail from news reports, full paper not opened).",
+    "source": {
+      "text": "\"In 2009, scientists at Leiden University in the Netherlands asked 227 kids aged 9 to 13 to write down their worries for a week. 138 of them saved their worries for a special 30 minute time in the early evening. Those kids worried less often. At the University of Chicago, scientists found that ninth graders who wrote their worries down before a test did better on it.\" Search: \"postponing worries children Leiden Jellesma\".",
+      "fitLabels": [
+        "DIRECT",
+        "ADJACENT"
+      ],
+      "limitation": "the Leiden study does not say the groups were picked at random, and no study tested a worry box itself. Adult worry time trials were mixed (see the 4 to 10 list).",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/19520470/",
+        "https://pubmed.ncbi.nlm.nih.gov/21233387/"
+      ]
+    },
+    "whenNotToUse": "never for a worry about real danger or someone hurting the child (Card A); never for asking the same question again and again until it feels right (Card B); worry time is short and early, never at bedtime; skip worry time if the box is empty.",
+    "whenItFits": "\"can't stop worrying at bedtime\"; \"keeps asking the same what-if\"; \"worried about tomorrow all day\"; \"brain won't switch off\".",
+    "positiveAction": "Write one worry, like 'tomorrow's test,' for your agreed worry time.",
+    "keyWord": "LATER",
+    "whereItCameFrom": "In 2009, scientists at Leiden University in the Netherlands asked 227 kids aged 9 to 13 to write down their worries for a week. 138 of them saved their worries for a special 30 minute time in the early evening. Those kids worried less often. At the University of Chicago, scientists found that ninth graders who wrote their worries down before a test did better on it.",
+    "searchPhrase": "postponing worries children Leiden Jellesma",
+    "sources": [
+      {
+        "title": "Postponing worrisome thoughts in children: the effects of a postponement intervention on perseverative thoughts, emotions and somatic complaints",
+        "year": 2009,
+        "people": "Jellesma, Verkuil and Brosschot",
+        "place": "Leiden University in the Netherlands",
+        "doi": "10.1016/j.socscimed.2009.04.031",
+        "pubmed": "19520470",
+        "fitLabel": "DIRECT",
+        "limitation": "227 children aged 9 to 13 recorded worries for one week; 138 received postponement instructions. The abstract does not establish random assignment; no worry box or lasting benefit was tested.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Jellesma 2009, postponing worries, ages 9 to 13",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/19520470/"
+      },
+      {
+        "title": "Writing about testing worries boosts exam performance in the classroom",
+        "year": 2011,
+        "people": "Ramirez and Beilock",
+        "place": "University of Chicago",
+        "doi": "10.1126/science.1199427",
+        "pubmed": "21233387",
+        "fitLabel": "ADJACENT",
+        "limitation": "the Leiden study does not say the groups were picked at random, and no study tested a worry box itself. Adult worry time trials were mixed (see the 4 to 10 list).",
+        "titleOriginal": "Ramirez and Beilock 2011, writing about test worries",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/21233387/"
+      }
+    ],
+    "talkQuestion": "When you opened the box later, did the worry look the same size?",
+    "talkQuestionNote": "(Tied to Jellesma 2009: saving worries for a set time cut how often children worried.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child places a folded blank scrap of paper inside a small box.",
+    "approvedBackup": "bring-in-my-person",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Fold your worry note. Put it in the box until your agreed talk time.",
+    "whereItCameFromShort": "Jellesma, Verkuil and Brosschot, Leiden University, 2009.",
+    "kidScienceLineSourceIds": [
+      "19520470"
+    ],
+    "detail": {
+      "science": {
+        "tested": "For one week, children kept worry notes, and some were told to save worries for a set half hour early in the evening.",
+        "participants": "227 children from seven schools in the Netherlands joined the study at the start.",
+        "ages": "9 to 13 years.",
+        "result": "Children asked to save worries for later reported fewer worries during the week.",
+        "limitation": "This one-week study relied on children's reports and did not test a worry box or show whether the change lasted.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/19520470/",
+        "evidenceLabel": "DIRECT"
+      },
+      "source": {
+        "people": "Jellesma, Verkuil and Brosschot",
+        "place": "Leiden University in the Netherlands",
+        "year": 2009,
+        "studyTitle": "Postponing worrisome thoughts in children: the effects of a postponement intervention on perseverative thoughts, emotions and somatic complaints",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/19520470/"
+      },
+      "keyword": {
+        "meaning": "Later means a time you choose to come back and talk about a worry.",
+        "example": "I wrote my worry down, and we will talk about it at our worry time."
+      },
+      "tagline": {
+        "rhyme": "Worry, take a seat, later we’ll meet.",
+        "explanation": "The rhyme reminds us to save a worry and agree when to return to it."
+      }
+    },
+    "science": {
+      "tested": "For one week, children kept worry notes, and some were told to save worries for a set half hour early in the evening.",
+      "participants": "227 children from seven schools in the Netherlands joined the study at the start.",
+      "ages": "9 to 13 years.",
+      "result": "Children asked to save worries for later reported fewer worries during the week.",
+      "limitation": "This one-week study relied on children's reports and did not test a worry box or show whether the change lasted.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/19520470/",
+      "evidenceLabel": "DIRECT",
+      "claim": "In children aged 9 to 13, saving worries for later was linked with fewer worries. This one-week test does not show whether a worry box helps.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Write one worry. Save it for your agreed talk time.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Write one worry in a few words on a scrap of paper.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Fold the note and put it in the box for your agreed talk time.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "At your agreed early evening talk time, pick one worry to plan for with your person.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Kids aged 9 to 13 who saved worries for a set time worried less often. Nobody tested a box itself.",
+      "reason": "Reported worries in a study without clear random assignment, not proof about the box."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  {
+    "number": 14,
+    "id": "check-my-battery",
+    "name": "Check your body's needs",
+    "childPhrase": "Before I trust the biggest version of a feeling, I check my battery: Am I tired? Thirsty? Been stuck inside too long? The feeling is real. Low battery makes it louder.",
+    "practiceScript": "When a feeling hits 10 out of 10, run a battery check. One: how did I sleep last night? Two: when did I last drink water? Three: have I been stuck in one spot for hours? If the battery's low, have a glass of water, take a short break, and decide the big thing tomorrow. The feeling still counts. It just gets a fair hearing in the morning.",
+    "kidScienceLine": "We do not yet have a test of this move with children. Sleep research does not show whether checking your body's needs helps with feelings.",
+    "parentReceipt": "Vriend, Davidson, Corkum, Rusak, Chambers and McLaughlin, Journal of Pediatric Psychology, 2013, DOI 10.1093/jpepsy/jst033, PMID 23720415; 32 children aged 8 to 12, randomized crossover; fit MECHANISM for the move. Félix and Candeias, Clocks and Sleep, 2025, DOI 10.3390/clockssleep7040066, PMID 41283315; review of 20 studies, ages 6 to 12; better sleep went with better emotional health; fit MECHANISM. Edmonds and Burford, Appetite, 2009, DOI 10.1016/j.appet.2009.02.010, PMID 19501780; 58 children aged 7 to 9; water helped attention, mood not measured; fit MECHANISM.",
+    "source": {
+      "text": "\"In 2013, scientists in Canada had 32 kids aged 8 to 12 go to bed one hour earlier for four nights, and one hour later for four nights. After the short nights, the same kids had a harder time handling their feelings and remembering things. In England, kids aged 7 to 9 who drank a glass of water did better on attention puzzles.\" Search: \"one hour less sleep children emotions Vriend\".",
+      "fitLabels": [
+        "MECHANISM"
+      ],
+      "limitation": "no study tested \"check your battery first\"; it only shows tired children handle feelings worse.",
+      "links": [
+        "https://pubmed.ncbi.nlm.nih.gov/23720415/",
+        "https://pubmed.ncbi.nlm.nih.gov/41283315/",
+        "https://pubmed.ncbi.nlm.nih.gov/19501780/"
+      ]
+    },
+    "whenNotToUse": "NEVER ask about hunger, food, eating or weight, on the poster, in the story, or in the practice; never \"you're just tired\" to brush off a real feeling; tired every day for weeks, or sleeping much more or less than usual, means call the child's doctor; a scary event that really happened is Card B.",
+    "whenItFits": "\"falls apart every evening\"; \"meltdown after a late night\"; \"everything is a disaster after the sleepover\"; \"fine in the morning, a mess by dinner\".",
+    "positiveAction": "Check your body: 'Am I tired, thirsty, or stiff from sitting?'",
+    "keyWord": "BODY",
+    "whereItCameFrom": "In 2013, scientists in Canada had 32 kids aged 8 to 12 go to bed one hour earlier for four nights, and one hour later for four nights. After the short nights, the same kids had a harder time handling their feelings and remembering things. In England, kids aged 7 to 9 who drank a glass of water did better on attention puzzles.",
+    "searchPhrase": "one hour less sleep children emotions Vriend",
+    "sources": [
+      {
+        "title": "Manipulating sleep duration alters emotional functioning and cognitive performance in children",
+        "year": 2013,
+        "people": "Vriend, Davidson, Corkum, Rusak, Chambers and McLaughlin",
+        "place": "Canada",
+        "doi": "10.1093/jpepsy/jst033",
+        "pubmed": "23720415",
+        "fitLabel": "MECHANISM",
+        "limitation": "no study tested \"check your battery first\"; it only shows tired children handle feelings worse.",
+        "titleOriginal": "Vriend 2013, sleep length and feelings, ages 8 to 12",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/23720415/"
+      },
+      {
+        "title": "Sleep as a Developmental Process: A Systematic Review of Cognitive, Emotional, and Behavioral Outcomes in Children Aged 6–12 Years",
+        "year": 2025,
+        "people": "Félix and Candeias",
+        "place": null,
+        "placeNotStatedInMarkdown": true,
+        "doi": "10.3390/clockssleep7040066",
+        "pubmed": "41283315",
+        "fitLabel": "MECHANISM",
+        "limitation": "no study tested \"check your battery first\"; it only shows tired children handle feelings worse.",
+        "titleOriginal": "Félix and Candeias 2025, sleep review, ages 6 to 12",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/41283315/"
+      }
+    ],
+    "talkQuestion": "Did the problem look different after a good night's sleep?",
+    "talkQuestionNote": "(Tied to Vriend 2013: the same children handled feelings worse after four short nights.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child lifts a plain glass of water beside a bench.",
+    "approvedBackup": "cool-off-break",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Count on three fingers: 'Sleep? Water? A stretch?'",
+    "whereItCameFromShort": "Vriend and team, Canada, 2013.",
+    "kidScienceLineSourceIds": [
+      "23720415"
+    ],
+    "detail": {
+      "science": {
+        "tested": "Each child spent four nights with bedtime an hour earlier and four with bedtime an hour later, then did feeling and thinking tasks.",
+        "participants": "32 children took part.",
+        "ages": "8 to 12 years.",
+        "result": "Children handled feelings and some thinking tasks less well after shorter sleep than after longer sleep.",
+        "limitation": "The study changed sleep and did not test whether checking your body's needs helps with feelings.",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/23720415/",
+        "evidenceLabel": "MECHANISM"
+      },
+      "source": {
+        "people": "Vriend, Davidson, Corkum, Rusak, Chambers and McLaughlin",
+        "place": "Canada",
+        "year": 2013,
+        "studyTitle": "Manipulating sleep duration alters emotional functioning and cognitive performance in children",
+        "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/23720415/"
+      },
+      "keyword": {
+        "meaning": "Body means the part of you that needs sleep, water and chances to move.",
+        "example": "I have been sitting a long time; I can take a short break."
+      },
+      "tagline": {
+        "rhyme": "Sleep, stretch, or thirst? Body check first.",
+        "explanation": "The rhyme reminds us to check our body’s needs before a big decision. Sleep and other needs count too."
+      }
+    },
+    "science": {
+      "tested": "Each child spent four nights with bedtime an hour earlier and four with bedtime an hour later, then did feeling and thinking tasks.",
+      "participants": "32 children took part.",
+      "ages": "8 to 12 years.",
+      "result": "Children handled feelings and some thinking tasks less well after shorter sleep than after longer sleep.",
+      "limitation": "The study changed sleep and did not test whether checking your body's needs helps with feelings.",
+      "studyUrl": "https://pubmed.ncbi.nlm.nih.gov/23720415/",
+      "evidenceLabel": "MECHANISM",
+      "claim": "We do not yet have a test of this move with children. Sleep research does not show whether checking your body's needs helps with feelings.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Check sleep, water and whether you need a stretch.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Ask yourself how you slept last night.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Think about when you last had water. Have a glass if you need one.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Notice if you have been in one spot for hours. Take a short stretch break.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Scientists found kids handle feelings worse after short nights. Checking your battery first was not tested.",
+      "reason": "Age-limited sleep experiment, not a test of the battery check."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  }
+]

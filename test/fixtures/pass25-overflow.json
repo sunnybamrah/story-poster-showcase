@@ -1,0 +1,981 @@
+{
+  "source": "test/out/pass9-2026-10-15T02-03-22-650Z/kit-1/",
+  "recorded": true,
+  "text": {
+    "moveId": "name-it-exactly",
+    "chapterTitle": "The fox names a feeling",
+    "tagline": "Name it to tame it",
+    "story": "MADE UP\nThe door shuts with a thump.\nPip's comic has a giant scribble.\nThe scribble has no idea what to say.\n\nPip is a made up fox, ten years old, standing inside a comic strip coloured in warm orange and gold. Their round glasses slip down their nose. Their green hoodie has a yellow lightning patch, and their red high top sneakers squeak against the floor. They tuck a blue sketchbook under one arm, as if it might answer questions for them.\n\nDee is nearby, but Pip doesn't want to explain the whole afternoon. Nothing in this adventure says what happened at school. Right now, the problem is smaller and somehow still enormous: Pip feels bad, but bad is such a blurry word. It could fit almost anything, from a soggy sock to a whole storm inside their chest.\n\nThey open the sketchbook. On the page, a pencil scribble sits inside an empty speech bubble. Pip wants to draw a comic about how they feel, but every line looks wrong. The scribble resembles a ball of string wearing a speech bubble for a hat. A very fancy hat. Absolutely no useful answer underneath it.\n\n“I can't find the word,” Pip says. They press the pencil down, then stop before its point tears the paper. Dee stays beside the table. “You don't have to tell the whole story to name a feeling.” Pip looks at the empty bubble. “Bad is too blurry.” That much, at least, sounds right.\n\n“Precise means clear and exact,” Dee says. “Like choosing orange instead of just saying colour.” Pip studies their orange paw. They don't need the fanciest feeling word. They need one that fits. The pencil rests across the page while they wonder whether naming means being completely certain before saying anything.\n\nDee whispers, “In adult studies, naming feelings sometimes helped people feel less upset. Those adult studies don't show whether this home practice helps children your age.”\n\nThen Dee offers a word finding practice, without choosing Pip's answer:\n\n“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”\n\n“That example isn't my answer,” Pip says. Dee nods. Pip thinks about wanting the comic to look right and not getting it right. Frustrated means upset because something you want to do isn't working. That word fits this moment better than embarrassed. Pip touches their chest, and Dee touches theirs too. “I feel frustrated.”\n\nThe words don't straighten the scribble. They don't explain school. They don't turn Pip into a smiling fox in the next square. But Pip has said a feeling that fits, instead of making bad carry everything. “About seven,” they add. Their paw still presses against the hoodie. The yellow lightning patch doesn't flash. It is only a patch.\n\n“Muddled means mixed up and hard to sort,” Pip says, looking at the tangled pencil lines. “My words were muddled. Frustrated is closer.” Dee asks, “What did you notice?” Pip answers, “I named it. I'm still cross.” That is the report: they used the naming strategy, and the feeling is still there.\n\nPip leaves the comic unfinished. The empty bubble can stay empty; finding a feeling word doesn't mean they owe anyone a whole explanation. Dee doesn't fill it for them. Pip looks once more at the scribble in its ridiculous bubble hat. “NAME means saying which feeling fits,” they say. Their chest still feels tight, and the afternoon still has parts they don't want to tell. For this square of the comic, frustrated is their word.",
+    "panelLines": [
+      {
+        "scene": "Inside a warm orange and gold comic strip room, the fox stands just inside a closed door, wearing round glasses, a green hoodie with a yellow lightning patch, and red sneakers. A blue sketchbook rests under one arm. Show a tense posture and an uncluttered background, with no lettering on objects.",
+        "line": "I can't find the word."
+      },
+      {
+        "scene": "At a table, the fox looks down at an open blue sketchbook, with a pencil resting across the page. A tangled scribble occupies an empty speech bubble shaped like an oversized hat. Keep this small object joke within the drawing. Use warm gold light and show no written marks beyond abstract pencil lines.",
+        "line": "Bad is too blurry."
+      },
+      {
+        "scene": "The fox stands beside the table with one paw touching their chest and their mouth open while naming a feeling to a grown-up. A grown-up faces the fox and also touches their own chest. Keep both figures visible, with warm orange surroundings, attentive expressions, and the sketchbook resting open nearby.",
+        "line": "I feel frustrated."
+      },
+      {
+        "scene": "In a closer final view, the fox looks at the unfinished comic in the open sketchbook. Their shoulders remain slightly raised, and the pencil lies unused beside the page. A grown-up listens nearby without writing in the book. Keep the empty comic bubble unlettered and the warm room quiet rather than triumphantly cheerful.",
+        "line": "I named it. I'm still cross."
+      }
+    ],
+    "jokeIdea": "Inside the fox's sketchbook scene, make the tangled scribble look as though its empty speech bubble is an oversized fancy hat. No lettering.",
+    "feelFirst": [
+      "Feeling bad without knowing the right word can be hard.",
+      "You don't have to explain everything to name a feeling."
+    ],
+    "tinyTryOptions": [
+      {
+        "text": "Think of one small bother. Touch your chest and say a feeling word that fits.",
+        "seconds": 45,
+        "offScreen": true
+      },
+      {
+        "text": "Rehearse the supplied naming practice with a grown-up, choosing your own feeling word.",
+        "seconds": 90,
+        "offScreen": true
+      },
+      {
+        "text": "Without looking at the story, show the chest touch and explain what naming a feeling means. Choose your own word.",
+        "seconds": 60,
+        "offScreen": true
+      }
+    ],
+    "whereElse": {
+      "line": "At the kitchen table, try naming a feeling without telling the whole story.",
+      "place": "kitchen table"
+    },
+    "noticedFeeling": "frustrated",
+    "replayCue": "When bad feels too blurry, remember NAME: say which feeling fits.",
+    "pagination": {
+      "source": "780932ab9b2fdca8e5b480a78a732a1960c2d1b68871b78934ef008232ea3491",
+      "pages": [
+        "The door shuts with a thump.\nPip's comic has a giant scribble.\nThe scribble has no idea what to say.\n\nPip is a made up fox, ten years old, standing inside a comic strip coloured in warm orange and gold. Their round glasses slip down their nose. Their green hoodie has a yellow lightning patch, and their red high top sneakers squeak against the floor. They tuck a blue sketchbook under one arm, as if it might answer questions for them.\n\nDee is nearby, but Pip doesn't want to explain the whole afternoon. Nothing in this adventure says what happened at school. Right now, the problem is smaller and somehow still enormous: Pip feels bad, but bad is such a blurry word. It could fit almost anything, from a soggy sock to a whole storm inside their chest.\n\nThey open the sketchbook. On the page, a pencil scribble sits inside an empty speech bubble. Pip wants to draw a comic about how they feel, but every line looks wrong. The scribble resembles a ball of string wearing a speech bubble for a hat. A very fancy hat. Absolutely no useful answer underneath it.\n\n“I can't find the word,” Pip says. They press the pencil down, then stop before its point tears the paper. Dee stays beside the table. “You don't have to tell the whole story to name a feeling.” Pip looks at the empty bubble. “Bad is too blurry.” That much, at least, sounds right.\n\n“Precise means clear and exact,” Dee says. “Like choosing orange instead of just saying colour.” Pip studies their orange paw. They don't need the fanciest feeling word. They need one that fits. The pencil rests across the page while they wonder whether naming means being completely certain before saying anything.\n\nDee whispers, “In adult studies, naming feelings sometimes helped people feel less upset. Those adult studies don't show whether this home practice helps children your age.”",
+        "Then Dee offers a word finding practice, without choosing Pip's answer:\n\n“Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.”\n\n“That example isn't my answer,” Pip says. Dee nods. Pip thinks about wanting the comic to look right and not getting it right. Frustrated means upset because something you want to do isn't working. That word fits this moment better than embarrassed. Pip touches their chest, and Dee touches theirs too. “I feel frustrated.”\n\nThe words don't straighten the scribble. They don't explain school. They don't turn Pip into a smiling fox in the next square. But Pip has said a feeling that fits, instead of making bad carry everything. “About seven,” they add. Their paw still presses against the hoodie. The yellow lightning patch doesn't flash. It is only a patch.\n\n“Muddled means mixed up and hard to sort,” Pip says, looking at the tangled pencil lines. “My words were muddled. Frustrated is closer.” Dee asks, “What did you notice?” Pip answers, “I named it. I'm still cross.” That is the report: they used the naming strategy, and the feeling is still there.\n\nPip leaves the comic unfinished. The empty bubble can stay empty; finding a feeling word doesn't mean they owe anyone a whole explanation. Dee doesn't fill it for them. Pip looks once more at the scribble in its ridiculous bubble hat. “NAME means saying which feeling fits,” they say. Their chest still feels tight, and the afternoon still has parts they don't want to tell. For this square of the comic, frustrated is their word."
+      ],
+      "panelPages": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "bubbleSentenceIndices": [
+        17,
+        22,
+        55,
+        68
+      ],
+      "bubbleSentenceRanges": [
+        {
+          "start": 17,
+          "end": 17
+        },
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 55,
+          "end": 55
+        },
+        {
+          "start": 68,
+          "end": 69
+        }
+      ],
+      "wordCounts": [
+        322,
+        320
+      ],
+      "cut": {
+        "at": 1836,
+        "paragraph": true,
+        "pageOnePercent": 50.15576323987539
+      },
+      "receipt": "6ff8d53ef3945944f581df88ecdf8f9bddcb0b8f6f9b319d70a476872acc2a22"
+    },
+    "guidance": [
+      {
+        "field": "story",
+        "measured": 642,
+        "unit": "words",
+        "range": [
+          500,
+          800
+        ],
+        "target": "640 to 680",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "chapterTitle",
+        "measured": 5,
+        "unit": "words",
+        "range": [
+          1,
+          12
+        ],
+        "target": "3 to 6",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "tagline",
+        "measured": 5,
+        "unit": "words",
+        "range": [
+          3,
+          14
+        ],
+        "target": "4 to 10",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "feelFirst",
+        "measured": 2,
+        "unit": "statements",
+        "range": [
+          1,
+          3
+        ],
+        "target": "2",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "noticedFeeling",
+        "measured": 1,
+        "unit": "words",
+        "range": [
+          1,
+          3
+        ],
+        "target": "1",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "panelLines[0].line",
+        "measured": 5,
+        "unit": "words",
+        "range": [
+          1,
+          10
+        ],
+        "target": "3 to 7",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "panelLines[1].line",
+        "measured": 4,
+        "unit": "words",
+        "range": [
+          1,
+          10
+        ],
+        "target": "3 to 7",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "panelLines[2].line",
+        "measured": 3,
+        "unit": "words",
+        "range": [
+          1,
+          10
+        ],
+        "target": "3 to 7",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "panelLines[3].line",
+        "measured": 6,
+        "unit": "words",
+        "range": [
+          1,
+          10
+        ],
+        "target": "3 to 7",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "tinyTryOptions[0].seconds",
+        "measured": 45,
+        "unit": "seconds",
+        "range": [
+          30,
+          90
+        ],
+        "target": "roughly 30 to 90",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "tinyTryOptions[1].seconds",
+        "measured": 90,
+        "unit": "seconds",
+        "range": [
+          30,
+          90
+        ],
+        "target": "roughly 30 to 90",
+        "outsideRange": false,
+        "reportOnly": true
+      },
+      {
+        "field": "tinyTryOptions[2].seconds",
+        "measured": 60,
+        "unit": "seconds",
+        "range": [
+          30,
+          90
+        ],
+        "target": "roughly 30 to 90",
+        "outsideRange": false,
+        "reportOnly": true
+      }
+    ],
+    "reviewFlags": [],
+    "rhymeSelection": {
+      "source": "approved",
+      "tagline": "Name it to tame it",
+      "approved": {
+        "moveId": "name-it-exactly",
+        "tagline": "Name it to tame it",
+        "lines": [
+          "Name it",
+          "to tame it"
+        ],
+        "source": "content/rhymes-draft.json",
+        "sha256": "7cab1404e3acf53326ddfde15a8d7678cc17ca992675f26f553405bf88d2215a",
+        "status": "DRAFT, Sunny reads before any public use",
+        "draftStatus": "FOR SUNNY'S READ 2026-10-14"
+      },
+      "reason": "Decision 49: print the approved per-move rhyme verbatim. Alternatives are reviewed separately, outside production."
+    },
+    "world": "comic strip",
+    "colourSet": "warm",
+    "ready": true,
+    "checks": [
+      {
+        "ready": true,
+        "faults": [],
+        "answers": {
+          "secondMoveTaught": false,
+          "feelingGoesAwayPromise": false,
+          "adviceOutsideRecord": false,
+          "jokeAtPerson": false,
+          "effortOnlyPraise": false,
+          "filledWhenINotice": false,
+          "screenOnlyPlace": false,
+          "chapterShapeWrong": false,
+          "tinyTryWrong": false,
+          "rhymeUsesStoryWords": false,
+          "rhymeDoesNotStateMove": false,
+          "wordAChildMustTranslate": false,
+          "scienceClaimsTeachingHelped": false,
+          "taglineRhymes": true,
+          "evidence": {
+            "secondMoveTaught": "",
+            "feelingGoesAwayPromise": "",
+            "adviceOutsideRecord": "",
+            "jokeAtPerson": "",
+            "effortOnlyPraise": "",
+            "filledWhenINotice": "",
+            "screenOnlyPlace": "",
+            "chapterShapeWrong": "",
+            "tinyTryWrong": "",
+            "rhymeUsesStoryWords": "",
+            "rhymeDoesNotStateMove": "",
+            "wordAChildMustTranslate": "",
+            "scienceClaimsTeachingHelped": "",
+            "taglineRhymes": "\"Name\", \"tame\""
+          },
+          "affectedFields": {
+            "secondMoveTaught": [],
+            "feelingGoesAwayPromise": [],
+            "adviceOutsideRecord": [],
+            "jokeAtPerson": [],
+            "effortOnlyPraise": [],
+            "filledWhenINotice": [],
+            "screenOnlyPlace": [],
+            "chapterShapeWrong": [],
+            "tinyTryWrong": [],
+            "rhymeUsesStoryWords": [],
+            "rhymeDoesNotStateMove": [],
+            "wordAChildMustTranslate": [],
+            "scienceClaimsTeachingHelped": []
+          },
+          "taglineEndWords": [
+            "Name",
+            "tame"
+          ],
+          "chapterShapeFindings": []
+        },
+        "extraKeys": [],
+        "affectedFields": {},
+        "evidence": {},
+        "reasons": {},
+        "chapterShapeFindings": [],
+        "ignoredFaults": [],
+        "reviewFlags": [],
+        "needsRecheck": false,
+        "qualityCoverage": "current",
+        "translationWord": null,
+        "rhyme": {
+          "namedWords": [
+            "Name",
+            "tame"
+          ],
+          "checkerRhymes": true,
+          "rhymes": true,
+          "source": "judge"
+        },
+        "verified": true,
+        "artifactAttempt": 1,
+        "checkerAttempt": 1
+      }
+    ]
+  },
+  "receipt": {
+    "ready": false,
+    "measured": true,
+    "unit": "Letter points",
+    "faults": [
+      "for-you.P: rendered text extends 11.87 points beyond its 540.00 by 700.01 point content area at 8.80 point type",
+      "for-you.P: text exceeds card by 11.87 points at 8.80 point type"
+    ],
+    "pages": [
+      {
+        "page": "for-you",
+        "bounds": {
+          "x": 210,
+          "y": 2952,
+          "w": 540,
+          "h": 720
+        },
+        "content": {
+          "x": 210,
+          "y": 2952,
+          "w": 540,
+          "h": 700.0078125
+        },
+        "elements": [
+          {
+            "field": "",
+            "text": "CARDS + PARENT STRIP",
+            "bounds": {
+              "x": 210,
+              "y": 2961,
+              "w": 225.66796875,
+              "h": 23.75390625
+            },
+            "textBounds": {
+              "x": 210,
+              "y": 2955,
+              "w": 225.66796875,
+              "h": 35.25
+            },
+            "fontPoints": 21.999975000000003,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "DEE CARD",
+            "bounds": {
+              "x": 210.75,
+              "y": 2993.49609375,
+              "w": 538.5,
+              "h": 26.02734375
+            },
+            "textBounds": {
+              "x": 220.74609375,
+              "y": 2995.74609375,
+              "w": 57.84375,
+              "h": 21
+            },
+            "fontPoints": 12.999975000000001,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "I noticed you looked frustrated. That makes sense.",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 3027.515625,
+              "w": 499.51171875,
+              "h": 16.3125
+            },
+            "textBounds": {
+              "x": 241.734375,
+              "y": 3026.765625,
+              "w": 268.76953125,
+              "h": 16.5
+            },
+            "fontPoints": 12,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Want comfort, one idea, a tiny try, a story, or to leave it?",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 3045.8203125,
+              "w": 499.51171875,
+              "h": 16.3125
+            },
+            "textBounds": {
+              "x": 241.734375,
+              "y": 3045.0703125,
+              "w": 298.8515625,
+              "h": 16.5
+            },
+            "fontPoints": 12,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Accept no or later. The child may skip practice or replay. Offer a clue or show the move if remembering is difficult.",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 3064.125,
+              "w": 499.51171875,
+              "h": 32.625
+            },
+            "textBounds": {
+              "x": 241.734375,
+              "y": 3063.375,
+              "w": 473.73046875,
+              "h": 32.8125
+            },
+            "fontPoints": 12,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Afterwards: You did the move. What did you notice?",
+            "bounds": {
+              "x": 239.7421875,
+              "y": 3098.7421875,
+              "w": 499.51171875,
+              "h": 16.3125
+            },
+            "textBounds": {
+              "x": 241.734375,
+              "y": 3097.9921875,
+              "w": 278.91796875,
+              "h": 16.5
+            },
+            "fontPoints": 12,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "REPLAY CARD, FRONT",
+            "bounds": {
+              "x": 228.75,
+              "y": 3133.2890625,
+              "w": 250.5,
+              "h": 23.8828125
+            },
+            "textBounds": {
+              "x": 236.7421875,
+              "y": 3135.5390625,
+              "w": 105.5390625,
+              "h": 18
+            },
+            "fontPoints": 11.000025,
+            "overflowPoints": 0
+          },
+          {
+            "field": "name",
+            "text": "Name the feeling",
+            "bounds": {
+              "x": 236.7421875,
+              "y": 3165.1640625,
+              "w": 234.515625,
+              "h": 12.94921875
+            },
+            "textBounds": {
+              "x": 236.7421875,
+              "y": 3162.1640625,
+              "w": 91.9453125,
+              "h": 18.75
+            },
+            "fontPoints": 12,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Picture the moment. What was the first signal from your brain or body?",
+            "bounds": {
+              "x": 236.7421875,
+              "y": 3211.9921875,
+              "w": 234.515625,
+              "h": 23.9765625
+            },
+            "textBounds": {
+              "x": 236.7421875,
+              "y": 3211.2421875,
+              "w": 229.921875,
+              "h": 25.48828125
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Without looking, what is your move? Show it. Then turn over and check.",
+            "bounds": {
+              "x": 236.7421875,
+              "y": 3241.96875,
+              "w": 234.515625,
+              "h": 23.9765625
+            },
+            "textBounds": {
+              "x": 236.7421875,
+              "y": 3241.21875,
+              "w": 228.75,
+              "h": 25.48828125
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Picture another moment. Does this move fit, or would another move or help fit better?",
+            "bounds": {
+              "x": 236.7421875,
+              "y": 3271.9453125,
+              "w": 234.515625,
+              "h": 23.9765625
+            },
+            "textBounds": {
+              "x": 236.7421875,
+              "y": 3271.1953125,
+              "w": 208.01953125,
+              "h": 25.48828125
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "REPLAY CARD, BACK",
+            "bounds": {
+              "x": 480.75,
+              "y": 3133.2890625,
+              "w": 250.5,
+              "h": 23.8828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3135.5390625,
+              "w": 98.4140625,
+              "h": 18
+            },
+            "fontPoints": 11.000025,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Cue: When bad feels too blurry, remember NAME: say which feeling fits.",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3165.1640625,
+              "w": 234.515625,
+              "h": 23.9765625
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3164.4140625,
+              "w": 224.953125,
+              "h": 25.48828125
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "My move: ______",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3195.140625,
+              "w": 234.515625,
+              "h": 11.98828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3194.390625,
+              "w": 75.5625,
+              "h": 13.5
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Name it to tame it",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3213.12890625,
+              "w": 234.515625,
+              "h": 11.98828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3212.37890625,
+              "w": 80.203125,
+              "h": 13.5
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Remembered it",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3233.109375,
+              "w": 234.515625,
+              "h": 11.98828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3232.359375,
+              "w": 82.53515625,
+              "h": 13.5
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Practised it",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3249.09375,
+              "w": 234.515625,
+              "h": 11.98828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3248.34375,
+              "w": 63.9140625,
+              "h": 13.5
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Used it for real",
+            "bounds": {
+              "x": 488.7421875,
+              "y": 3265.078125,
+              "w": 234.515625,
+              "h": 11.98828125
+            },
+            "textBounds": {
+              "x": 488.7421875,
+              "y": 3264.328125,
+              "w": 80.19140625,
+              "h": 13.5
+            },
+            "fontPoints": 9.999975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "PARENT STRIP, FOR DEE ONLY",
+            "bounds": {
+              "x": 210.75,
+              "y": 3320.0390625,
+              "w": 538.5,
+              "h": 26.02734375
+            },
+            "textBounds": {
+              "x": 220.74609375,
+              "y": 3322.2890625,
+              "w": 170.84765625,
+              "h": 21
+            },
+            "fontPoints": 12.999975000000001,
+            "overflowPoints": 0
+          },
+          {
+            "field": "whereItCameFrom",
+            "text": "Torre and Lieberman at UCLA reviewed studies of putting feelings into words in 2018. In adult studies, naming feelings sometimes reduced upset. A 2007 adult brain-scan study found changes in brain activity while people labeled emotional pictures. These findings do not prove that this home practice helps children aged 8 to 13. Nook and Starr studied telling feelings apart, a related skill, without testing lessons in naming.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3352.06640625,
+              "w": 255.2578125,
+              "h": 75.140625
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3351.31640625,
+              "w": 251.109375,
+              "h": 76.40625
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "ADJACENT. Nook, Sasse, Lambert, McLaughlin and Somerville. 2018. The Nonlinear Development of Emotion Differentiation: Granular Emotional Experience Is Low in Adolescence. DOI 10.1177/0956797618773357. PubMed 29878880.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3427.20703125,
+              "w": 255.2578125,
+              "h": 42.9375
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3426.45703125,
+              "w": 248.0390625,
+              "h": 44.203125
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "sources.0.limitation",
+            "text": "A lab task with 143 people aged 5 to 25 compared how clearly they separated feelings. It did not teach naming or test whether naming helped.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3470.14453125,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3469.39453125,
+              "w": 249.85546875,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "ADJACENT. Lisa R. Starr, Rachel Hershenberg, Zoey A. Shaw, Y. Irina Li and Angela C. Santee. 2020. The perils of murky emotions: Emotion differentiation moderates the prospective relationship between naturalistic stress exposure and adolescent depression. DOI 10.1037/emo0000630. PubMed 31246045.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3502.34765625,
+              "w": 255.2578125,
+              "h": 64.40625
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3501.59765625,
+              "w": 250.18359375,
+              "h": 65.671875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "sources.1.limitation",
+            "text": "233 teenagers aged 14 to 17 were followed over time. The link between clearer feelings and less depression under stress does not prove that teaching naming helps.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3566.75390625,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3566.00390625,
+              "w": 249.76171875,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "MECHANISM. Matthew D. Lieberman, Naomi I. Eisenberger, Molly J. Crockett, Sabrina M. Tom, Jennifer H. Pfeifer and Baldwin M. Way. 2007. Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli. DOI 10.1111/j.1467-9280.2007.01916.x. PubMed 17576282.",
+            "bounds": {
+              "x": 218.7421875,
+              "y": 3598.95703125,
+              "w": 255.2578125,
+              "h": 64.40625
+            },
+            "textBounds": {
+              "x": 218.7421875,
+              "y": 3598.20703125,
+              "w": 242.25,
+              "h": 65.671875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 11.87109375
+          },
+          {
+            "field": "sources.2.limitation",
+            "text": "Adults labeled emotional images during brain scans. Lower amygdala activity does not prove less upset or better everyday choices in children.",
+            "bounds": {
+              "x": 486,
+              "y": 3352.06640625,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3351.31640625,
+              "w": 246.73828125,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "ADULT ONLY. Jared B. Torre and Matthew D. Lieberman. 2018. Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation. DOI 10.1177/1754073917742706.",
+            "bounds": {
+              "x": 486,
+              "y": 3384.26953125,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3383.51953125,
+              "w": 251.68359375,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "sources.3.limitation",
+            "text": "The relevant benefit evidence comes from adult studies. Results vary across feelings, body responses, brain activity and behavior; immediate relief and benefits for children aged 8 to 13 are not established.",
+            "bounds": {
+              "x": 486,
+              "y": 3416.47265625,
+              "w": 255.2578125,
+              "h": 42.9375
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3415.72265625,
+              "w": 254.3203125,
+              "h": 44.203125
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Direct evidence in kids her age: not found. Related research suggests it may help.",
+            "bounds": {
+              "x": 486,
+              "y": 3459.41015625,
+              "w": 255.2578125,
+              "h": 21.46875
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3458.66015625,
+              "w": 232.51171875,
+              "h": 22.734375
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Let the child choose the situation. Accept that the move may not fit. Real harm needs help. When a suitable chance comes and the child wants to, try the move there.",
+            "bounds": {
+              "x": 486,
+              "y": 3480.87890625,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3480.12890625,
+              "w": 252.609375,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "This guide offers practice, not treatment. If distress or avoidance keeps disrupting school, sleep, friendships or family life, seek help from a qualified child health professional.",
+            "bounds": {
+              "x": 486,
+              "y": 3513.08203125,
+              "w": 255.2578125,
+              "h": 32.203125
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3512.33203125,
+              "w": 251.71875,
+              "h": 33.46875
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "",
+            "text": "Replay once on another quiet night, even if the move has not been needed.",
+            "bounds": {
+              "x": 486,
+              "y": 3545.28515625,
+              "w": 255.2578125,
+              "h": 21.46875
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3544.53515625,
+              "w": 238.3125,
+              "h": 22.734375
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          },
+          {
+            "field": "replay-rule",
+            "text": "Cannot recall it, replay sooner and simplify; recalls words but cannot show it, rehearse; used it for real, space it out; says it is useless, stop or redesign. If the child remembers but does not use the move, ask what got in the way. Change the signal, make the action smaller, or choose another move.",
+            "bounds": {
+              "x": 486,
+              "y": 3575.75390625,
+              "w": 255.2578125,
+              "h": 53.671875
+            },
+            "textBounds": {
+              "x": 486,
+              "y": 3575.00390625,
+              "w": 251.9296875,
+              "h": 54.9375
+            },
+            "fontPoints": 8.799975,
+            "overflowPoints": 0
+          }
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "method": "Browser DOM and text ranges after fonts load. Fixed approved CSS type sizes; no automatic shrinking.",
+    "diagnostics": [
+      {
+        "attempt": 1,
+        "measured": true
+      }
+    ],
+    "completion": "measurement element, not a virtual-time budget"
+  }
+}

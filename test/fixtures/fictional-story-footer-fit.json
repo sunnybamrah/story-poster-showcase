@@ -1,0 +1,171 @@
+{
+  "fixture": true,
+  "provenance": "Exact accepted text from the explicitly fictional mixed-input local app run on 2026-10-15. Text-only layout regression, no portrait or fresh-art success claim. Original private account files are not modified.",
+  "text": {
+    "moveId": "name-it-exactly",
+    "chapterTitle": "Finding the Feeling's Name",
+    "tagline": "Name it to tame it",
+    "story": "The homework is finished.\nThe pencil is down.\nPip still wants to snap it.\n\nHe pushes the book away. It bumps his comic, sliding it halfway across the table. He wanted to read it, but opening it feels like more work.\n\nDad sits beside him. \u201cThe work is done, but you still look bothered.\u201d He leaves the book. Pip presses his palms against the table and stares at the cover.\n\n\u201cI'm mad,\u201d Pip says. Then he shakes his head. \u201cExcept not exactly. Can you help me find the word? I don't want help with the homework. It's already finished.\u201d\n\n\u201cWe can look for the feeling's name,\u201d Dad says. \u201cI'll offer guesses, but you get to say whether they fit.\u201d Pip nudges the comic back into line with the table edge.\n\n\u201cAnnoyed?\u201d Dad asks. \u201cDisappointed?\u201d Pip rolls his pencil. Neither word sounds quite right on its own. He wants a word that includes all the rubbing out, and the time that seemed to disappear.\n\n\u201cI knew what I wanted to do,\u201d Pip says. \u201cBut I kept getting stuck halfway through. Like pushing a door that won't open, except the door is a question about numbers.\u201d\n\n\u201cFrustrated might fit that stuck feeling,\u201d Dad says. Pip stops rolling the pencil. That word has the right sort of edges. \u201cYes. Frustrated,\u201d he says. \u201cBut there's another bit underneath.\u201d\n\n\u201cIt's more than mad,\u201d Pip says. He picks up his speech bubble eraser. For something shaped like talking, it has remarkably little to say. He holds it toward Dad, who waits without supplying its speech.\n\nPip puts it down. \u201cCan you give me the whole practice?\u201d Dad nods and says:\n\n\u201cThink of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\u201d\n\nPip looks at the comic. He thought there would be a long stretch of reading after homework. Instead, that stretch feels squeezed. \u201cDisappointed,\u201d he says. \u201cBecause I wanted more time for this.\u201d\n\n\u201cTwo feelings fit,\u201d Pip says. He touches his chest, and Dad touches his own. \u201cI feel frustrated and disappointed.\u201d Saying both feels more accurate than choosing one and leaving the other loose.\n\n\u201cFrustrated is seven. Disappointed is five,\u201d Pip adds. Dad keeps listening. Pip checks the words against what he feels. He doesn't want to swap either one, even though he still wants to shove the book.\n\n\u201cNaming feelings has sometimes helped adults feel less upset,\u201d Dad says quietly. \u201cThat doesn't tell us whether this practice helps children.\u201d He leaves Pip room to notice his own answer.\n\n\u201cMy shoulders are still all stiff,\u201d Pip says. \u201cBut you know what I mean now.\u201d Dad nods. \u201cYou found two words that fit, instead of making one word cover everything.\u201d\n\nDad shifts his chair back as Pip opens the comic. Pip reads the same sentence twice. His thoughts keep catching on how long the homework took.\n\n\u201cStill frustrated,\u201d Pip says. Dad stays beside him. Pip rests one hand on his chest and adds, \u201cAnd disappointed.\u201d Then he looks back at the page, with both feelings still there.",
+    "panelLines": [
+      {
+        "scene": "Warm comic strip drawing with clear ink lines and amber shadows. Show child seated at a table, palms pressed flat beside a closed book and a comic with no readable marks. grown-up-one sits beside him at his level, listening. Keep the child's tense posture clear without exaggerating his expression.",
+        "line": "Can you help me find the word?",
+        "speakerId": "child"
+      },
+      {
+        "scene": "Closer view from the opposite side of the table. child holds a small speech bubble shaped eraser toward grown-up-one, who watches patiently with his hands resting loosely. A pencil lies still below them. Use warm orange accents, blank paper surfaces and generous clear space around the speaking child's face.",
+        "line": "It's more than mad.",
+        "speakerId": "child"
+      },
+      {
+        "scene": "Show child and grown-up-one facing each other across the corner of the table. Each touches his own chest with one open hand. child speaks while grown-up-one listens attentively. The closed book and comic sit to one side, without visible lettering. Use a quiet, warm gold background and clear comic outlines.",
+        "line": "Two feelings fit.",
+        "speakerId": "child"
+      },
+      {
+        "scene": "Wider closing view in the same warm comic strip setting. child sits with an open comic, one hand resting on his chest, his expression still slightly tense. grown-up-one remains seated beside him, listening rather than celebrating. Show only abstract shapes on the comic pages and the speech bubble eraser resting silently nearby.",
+        "line": "Still frustrated.",
+        "speakerId": "child"
+      }
+    ],
+    "jokeIdea": "A small speech bubble shaped eraser has nothing to say when the hero holds it up. Keep it within the table scene, with no lettering or added face.",
+    "feelFirst": [
+      "Finishing homework doesn't always finish the feeling.",
+      "It can be hard to find words for what's still bothering you."
+    ],
+    "tinyTryOptions": [
+      {
+        "text": "Choose a small bother. Touch your chest and say the feeling word that fits.",
+        "seconds": 30,
+        "offScreen": true
+      },
+      {
+        "text": "Let a grown-up offer feeling words. Say which fits, or choose your own.",
+        "seconds": 60,
+        "offScreen": true
+      },
+      {
+        "text": "If two feelings fit, say both. Give each a number from one to ten.",
+        "seconds": 60,
+        "offScreen": true
+      }
+    ],
+    "whereElse": {
+      "line": "Where else could you name a feeling?",
+      "place": "At the kitchen table with a grown-up."
+    },
+    "noticedFeeling": "Frustrated",
+    "replayCue": "When everything feels bad, look for a feeling word that fits.",
+    "pagination": {
+      "source": "794cf73fd2fff3565022d7e0cba8c4244a93678b6069eef8bed8d5253a26ea88",
+      "pages": [
+        "The homework is finished.\nThe pencil is down.\nPip still wants to snap it.\n\nHe pushes the book away. It bumps his comic, sliding it halfway across the table. He wanted to read it, but opening it feels like more work.\n\nDad sits beside him. \u201cThe work is done, but you still look bothered.\u201d He leaves the book. Pip presses his palms against the table and stares at the cover.\n\n\u201cI'm mad,\u201d Pip says. Then he shakes his head. \u201cExcept not exactly. Can you help me find the word? I don't want help with the homework. It's already finished.\u201d\n\n\u201cWe can look for the feeling's name,\u201d Dad says. \u201cI'll offer guesses, but you get to say whether they fit.\u201d Pip nudges the comic back into line with the table edge.\n\n\u201cAnnoyed?\u201d Dad asks. \u201cDisappointed?\u201d Pip rolls his pencil. Neither word sounds quite right on its own. He wants a word that includes all the rubbing out, and the time that seemed to disappear.\n\n\u201cI knew what I wanted to do,\u201d Pip says. \u201cBut I kept getting stuck halfway through. Like pushing a door that won't open, except the door is a question about numbers.\u201d\n\n\u201cFrustrated might fit that stuck feeling,\u201d Dad says. Pip stops rolling the pencil. That word has the right sort of edges. \u201cYes. Frustrated,\u201d he says. \u201cBut there's another bit underneath.\u201d\n\n\u201cIt's more than mad,\u201d Pip says. He picks up his speech bubble eraser. For something shaped like talking, it has remarkably little to say. He holds it toward Dad, who waits without supplying its speech.\n\nPip puts it down. \u201cCan you give me the whole practice?\u201d Dad nods and says:",
+        "\u201cThink of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\u201d\n\nPip looks at the comic. He thought there would be a long stretch of reading after homework. Instead, that stretch feels squeezed. \u201cDisappointed,\u201d he says. \u201cBecause I wanted more time for this.\u201d\n\n\u201cTwo feelings fit,\u201d Pip says. He touches his chest, and Dad touches his own. \u201cI feel frustrated and disappointed.\u201d Saying both feels more accurate than choosing one and leaving the other loose.\n\n\u201cFrustrated is seven. Disappointed is five,\u201d Pip adds. Dad keeps listening. Pip checks the words against what he feels. He doesn't want to swap either one, even though he still wants to shove the book.\n\n\u201cNaming feelings has sometimes helped adults feel less upset,\u201d Dad says quietly. \u201cThat doesn't tell us whether this practice helps children.\u201d He leaves Pip room to notice his own answer.\n\n\u201cMy shoulders are still all stiff,\u201d Pip says. \u201cBut you know what I mean now.\u201d Dad nods. \u201cYou found two words that fit, instead of making one word cover everything.\u201d\n\nDad shifts his chair back as Pip opens the comic. Pip reads the same sentence twice. His thoughts keep catching on how long the homework took.\n\n\u201cStill frustrated,\u201d Pip says. Dad stays beside him. Pip rests one hand on his chest and adds, \u201cAnd disappointed.\u201d Then he looks back at the page, with both feelings still there."
+      ],
+      "panelPages": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "bubbleSentenceIndices": [
+        13,
+        34,
+        62,
+        81
+      ],
+      "bubbleSentenceRanges": [
+        {
+          "start": 13,
+          "end": 13
+        },
+        {
+          "start": 34,
+          "end": 34
+        },
+        {
+          "start": 62,
+          "end": 62
+        },
+        {
+          "start": 81,
+          "end": 81
+        }
+      ],
+      "wordCounts": [
+        274,
+        286
+      ],
+      "cut": {
+        "at": 1527,
+        "paragraph": true,
+        "pageOnePercent": 48.92857142857143
+      },
+      "receipt": "eb0c7f0a6216825599bbf3c5dd9c35a38770c629f1dcfbbf5cffa30630f564a7"
+    },
+    "rhymeSelection": {
+      "source": "approved",
+      "tagline": "Name it to tame it",
+      "selected": {
+        "moveId": "name-it-exactly",
+        "tagline": "Name it to tame it",
+        "lines": [
+          "Name it",
+          "to tame it"
+        ],
+        "source": "content/rhymes-draft.json",
+        "sha256": "bc246d8bcda9704caa19d2739b59c0e107a05b80520d653edcf0f4f27949e7d3",
+        "author": "Sunny",
+        "approval": {
+          "status": "approved",
+          "by": "Sunny",
+          "authority": "DECISIONS 45 and 46, confirmed in pass 28 brief",
+          "text": "Name it to tame it"
+        },
+        "selection": {
+          "by": "Codex (GPT-6.1 SOL)",
+          "authority": "Sunny\u2019s 2026-10-14 delegation, Slice 0 pass 31",
+          "ownerApproval": false
+        },
+        "approved": true,
+        "reviewLabel": "",
+        "status": "APPROVED BY SUNNY",
+        "draftStatus": null
+      },
+      "approved": {
+        "moveId": "name-it-exactly",
+        "tagline": "Name it to tame it",
+        "lines": [
+          "Name it",
+          "to tame it"
+        ],
+        "source": "content/rhymes-draft.json",
+        "sha256": "bc246d8bcda9704caa19d2739b59c0e107a05b80520d653edcf0f4f27949e7d3",
+        "author": "Sunny",
+        "approval": {
+          "status": "approved",
+          "by": "Sunny",
+          "authority": "DECISIONS 45 and 46, confirmed in pass 28 brief",
+          "text": "Name it to tame it"
+        },
+        "selection": {
+          "by": "Codex (GPT-6.1 SOL)",
+          "authority": "Sunny\u2019s 2026-10-14 delegation, Slice 0 pass 31",
+          "ownerApproval": false
+        },
+        "approved": true,
+        "reviewLabel": "",
+        "status": "APPROVED BY SUNNY",
+        "draftStatus": null
+      },
+      "reviewLabel": "",
+      "reason": "Print Sunny\u2019s approved wording verbatim."
+    },
+    "world": "comic strip",
+    "colourSet": "warm",
+    "printedFitPages": [
+      "story",
+      "story-2"
+    ]
+  }
+}

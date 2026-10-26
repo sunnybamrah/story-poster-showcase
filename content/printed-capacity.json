@@ -1,0 +1,658 @@
+{
+  "measured": true,
+  "measuredAt": "2026-10-15T13:24:04.588Z",
+  "method": "Pass 37 photographed practice layout. Real Chrome, bundled fonts, both themes, all 14 fixed move records. Binary search using three short hook lines followed by roughly 30-word paragraphs. Measured sample capacities are separate from the FORMAT chapter target; actual measured overflow controls shortening. These are synthetic layout probes, not generated kits or picture checks.",
+  "typography": {
+    "bodyPoints": 12.999975000000001,
+    "lineHeight": 1.400004615393491,
+    "paragraphGapPoints": 6.5000025,
+    "panelHeightInches": 2.5,
+    "storyWidthPoints": 540
+  },
+  "story": {
+    "pages": [
+      300,
+      300
+    ],
+    "targetWords": 600,
+    "ceilingWords": 750,
+    "titleWords": 6,
+    "measuredSamplePages": [
+      280,
+      320
+    ]
+  },
+  "try": {
+    "totalWords": 79,
+    "fields": {
+      "feelFirst": 22,
+      "tinyTryOptions[0].text": 15,
+      "tinyTryOptions[1].text": 15,
+      "tinyTryOptions[2].text": 15,
+      "whereElse.place": 12
+    },
+    "measuredSampleFields": {
+      "feelFirst": 36,
+      "tinyTryOptions[0].text": 26,
+      "tinyTryOptions[1].text": 26,
+      "tinyTryOptions[2].text": 26,
+      "whereElse.place": 18
+    }
+  },
+  "for-you": {
+    "totalWords": 14,
+    "fields": {
+      "noticedFeeling": 2,
+      "replayCue": 12
+    },
+    "measuredSampleFields": {
+      "noticedFeeling": 2,
+      "replayCue": 34
+    }
+  },
+  "byMove": {
+    "name-it-exactly": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "long-breath-out": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "coach-voice": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "snag-plan": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "cool-off-break": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "bring-in-my-person": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "one-brave-step": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "compare-with-past-me": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "make-it-right": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "good-enough-is-done": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "dont-feed-the-fire": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "butterflies-mean-ready": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "worry-parking-spot": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    },
+    "check-my-battery": {
+      "story": {
+        "pages": [
+          300,
+          300
+        ],
+        "targetWords": 600,
+        "ceilingWords": 750,
+        "titleWords": 6,
+        "measuredSamplePages": [
+          280,
+          320
+        ]
+      },
+      "try": {
+        "totalWords": 79,
+        "fields": {
+          "feelFirst": 22,
+          "tinyTryOptions[0].text": 15,
+          "tinyTryOptions[1].text": 15,
+          "tinyTryOptions[2].text": 15,
+          "whereElse.place": 12
+        },
+        "measuredSampleFields": {
+          "feelFirst": 36,
+          "tinyTryOptions[0].text": 26,
+          "tinyTryOptions[1].text": 26,
+          "tinyTryOptions[2].text": 26,
+          "whereElse.place": 18
+        }
+      },
+      "for-you": {
+        "totalWords": 14,
+        "fields": {
+          "noticedFeeling": 2,
+          "replayCue": 12
+        },
+        "measuredSampleFields": {
+          "noticedFeeling": 2,
+          "replayCue": 34
+        }
+      }
+    }
+  },
+  "ownerReview": "FOR SUNNY'S READ: FORMAT v5's 550 to 750 spoken words guide new writing. The 600-word target and planned page allowances are estimates, never count-only stops. This measurement samples paragraph shapes; each actual kit must fit."
+}

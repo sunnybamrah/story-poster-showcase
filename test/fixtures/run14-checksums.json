@@ -1,0 +1,18 @@
+{
+  "note": "Checksums of the checked-in archived run14 fixture bytes. This records fixture stability only; the ignored original run folder is not required and is not reconstructed.",
+  "files": {
+    "run14-kit-log.md": "0bbbed5d3b28c0db1cb8a3092e3bb34f910f95d5f10b627765a6a6a5a900dc2c",
+    "run14-story-1.json": "4e6814b3823668f4a65fc3d51d160ea3ed0f3c926d12fe3bfb44345f88916d00",
+    "run14-story-check-1.json": "2a3271af92e4339f712ed1c1a9ac9f14fbc5f4dc6a0c8befef51f1170c87da4f",
+    "run14-story-check-2.json": "f17f0203b7a275ac61afa842778d2ab6bcee6f6318064561a0c70a7f5927ccce",
+    "run14-tagline-end-words-1.json": "0bb7c0ca04115c8c84219e764e685721204ea8a559c69180fd252880a86c79f4"
+  },
+  "publicCopyPrivacyRevision": {
+    "date": "2026-10-25",
+    "change": "Removed opaque encrypted_content fields only. Visible answers and verdicts unchanged. Files above now pin the public revisions; hashes below identify the unchanged private originals.",
+    "originalFiles": {
+      "run14-story-check-1.json": "39c809be61673eac0a0c5929e54540e00bd051a2a132cd8df87f414bc639eb49",
+      "run14-story-check-2.json": "5a37d3a3778e44b21282bcdcebf3d87bcb3b25823c831ebde17bee22c18f512b"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "moveId": "name-it-exactly",
+  "chapterTitle": "Pip and the Sharper Word",
+  "tagline": "Name it right, name it plain, say the word again.",
+  "story": "MADE UP\nThe door goes slam.\nPip's sketchbook thumps on the rug.\nBiscuit's ears shoot straight up.\n\nPip the Fox flops onto the floor of the comic strip panel, orange fur puffed up, round glasses crooked. The green hoodie with the yellow lightning patch is twisted around one shoulder.\n\n\"Everyone is annoying,\" Pip says to the ceiling.\n\n\"Not you, Biscuit,\" Pip adds. \"You're just warm.\"\n\nBiscuit does not mind. He drops a chewed sock beside the sketchbook, which is dog for come on.\n\nPip tries to draw a comic about the day. The pencil scribbles so hard it rips the paper. Nothing in the comic makes sense, because Pip does not know what is inside the feeling. It just feels like bad.\n\nHere is what happened today, in plain facts. The afternoon plan changed, and the game moved to a different field. Nobody did anything wrong. But Pip's chest went tight, and the loud came out.\n\nPip hugs a knee. Biscuit flops down beside the sketchbook.\n\n\"Here is a quiet fact,\" whispers the narrator box at the top of the panel. \"In research, teens found feelings harder to tell apart than adults. This study did not test teaching the move.\"\n\nPip squints at the box. \"So bad is like a blurry word,\" Pip mutters. \"I need a sharper one.\"\n\nA sharper word means a word that fits exactly, right on the spot, not just close.\n\nPip huffs. \"This is going to be silly,\" Pip says. \"Silly is allowed,\" says the narrator box. \"Try it once.\"\n\nPip sits up. The scribbled comic panel flips to a clean page, and a calm voice reads along.\n\n\"Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\"\n\nPip tries it. The first word that comes is bad. Of course it is. Then Pip tries the sharper ones, one by one.\n\n\"Annoyed? Sort of,\" Pip says. \"Embarrassed? Hmm. A little. My face got hot when everybody had to wait for me.\" Embarrassed means your face goes hot and you want to hide.\n\nPip keeps going. \"Let down?\" Pip stops. The pencil goes still. \"Yes. That one. I was looking forward to that field.\" Let down means disappointed, which is when you hoped for something and it did not happen.\n\nPip says both out loud, to Biscuit. \"I feel let down, and a bit annoyed.\" Biscuit thumps his tail.\n\nPip gives the feeling a number. Before the words, it felt like a nine. Now it feels like a seven.\n\nBiscuit sniffs the page. \"Funny,\" Pip says. \"Using the word bad is like drawing with an oven mitten on. You get a blob and a lot of crumbs.\"\n\nSeven is still big. Pip's chest is still a bit tight, and the door is still slammed. The words did not fix the afternoon. But the comic now has two faces, one let down and one annoyed, and Pip knows which to draw first.\n\nPip picks up the pencil again, this time without the mitten. \"Okay,\" Pip says. \"Panel one. Let down.\" The lines come out thin and clear. Panel two gets a small round fox with a hot face.\n\nPip taps the pencil twice. A tool, not a grade. Today the tool found the right page.\n\nThe door stays closed now, but it is not slammed anymore.\n\nLater, Pip knows tomorrow may still have loud in it. Pip tucks the sketchbook under one arm and ties the red high top sneakers. \"Next time I'll look for the word sooner,\" Pip tells Biscuit. \"Maybe not first. But sooner.\"",
+  "panelLines": [
+    {
+      "scene": "Pip the fox lies on a floor in a comic panel, fur puffed, glasses crooked, looking up at the ceiling.",
+      "line": "Everyone is annoying."
+    },
+    {
+      "scene": "Pip sits cross legged over an open sketchbook, squinting at a blank page with the pencil raised.",
+      "line": "I need a sharper one."
+    },
+    {
+      "scene": "Pip holds a still pencil over the sketchbook, eyes wide with a sudden realization.",
+      "line": "I was looking forward to that field."
+    },
+    {
+      "scene": "Pip stands at a closed door with the blue sketchbook under one arm, tying a red sneaker.",
+      "line": "Maybe not first."
+    }
+  ],
+  "jokeIdea": "Pip's pencil paw wears a big oven mitten, and the pencil makes a blobby scribble on the page.",
+  "feelFirst": [
+    "Slamming a door after a long day can mean something big is going on inside.",
+    "It makes sense that the right words are not here yet."
+  ],
+  "tinyTryOptions": [
+    {
+      "text": "Think of one small thing that bugged you this week. Say the first word that comes, then say one sharper word out loud.",
+      "seconds": 45,
+      "offScreen": true
+    },
+    {
+      "text": "Draw one face on paper and write one sharper feeling word beside it. If two fit, write both.",
+      "seconds": 60,
+      "offScreen": true
+    },
+    {
+      "text": "Touch your chest, say the feeling's name quietly, then give it a number from 1 to 10.",
+      "seconds": 30,
+      "offScreen": false
+    }
+  ],
+  "whereElse": {
+    "line": "Where could you find one sharper word for a feeling, maybe while walking or sitting at the table?",
+    "place": "the kitchen table"
+  },
+  "noticedFeeling": "let down",
+  "replayCue": "When your chest goes tight and the first word is bad, find a sharper one."
+}

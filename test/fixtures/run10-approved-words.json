@@ -1,0 +1,40 @@
+{
+  "boxes": [
+    {
+      "id": "title",
+      "text": "Name the feeling"
+    },
+    {
+      "id": "tagline",
+      "text": "Name the feeling, find the word; say it, get heard."
+    },
+    {
+      "id": "tiny",
+      "text": "ONE TINY TRY FOR TODAY\nTonight, name one feeling: hurt, angry, disappointed, or something else."
+    },
+    {
+      "id": "science",
+      "text": "WHAT SCIENCE SAYS\nIn research, teens found feelings harder to tell apart than adults. This study did not test teaching the move."
+    },
+    {
+      "id": "keyword",
+      "text": "NAME"
+    },
+    {
+      "id": "move",
+      "text": "WHAT I CAN DO\nWhen I notice ______, I ______.\nBackup: Breathe out slowly"
+    },
+    {
+      "id": "remember",
+      "text": "HOW TO REMEMBER IT\nName the feeling, find the word; say it, get heard.\nTouch your chest. Say the feeling's name."
+    },
+    {
+      "id": "source",
+      "text": "WHERE IT CAME FROM\nNook, Somerville and team, Harvard, 2018. Search: emotion differentiation teens Nook Somerville"
+    },
+    {
+      "id": "footer",
+      "text": ""
+    }
+  ]
+}

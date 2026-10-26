@@ -1,0 +1,38 @@
+{
+  "name": "story-poster",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "check:moves": "node content/check-moves.mjs",
+    "check:sources": "node content/check-sources.mjs",
+    "test": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node content/check-sources.mjs && STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node --test --test-reporter=tap test/*.test.mjs",
+    "test:two-kits": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node test/run-two-kits.mjs",
+    "test:app-kit": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node test/run-app-kit.mjs --paid",
+    "models": "node content/check-models.mjs",
+    "preview": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node test/preview-layout.mjs",
+    "build": "vite build",
+    "start": "npm run build && STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node server/app-server.mjs",
+    "start:public": "npm run start",
+    "start:sample": "npm run build && STORY_POSTER_PUBLIC_CATALOG_ONLY=1 STORY_POSTER_SAMPLE_ONLY=1 node server/app-server.mjs",
+    "start:worker": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node server/generation-worker.mjs",
+    "start:hosted": "STORY_POSTER_PUBLIC_CATALOG_ONLY=1 node server/app-server.mjs"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.5.0",
+    "heic-to": "^1.6.6",
+    "pg": "^8.23.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sharp": "^0.35.5",
+    "vite": "^8.3.4"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.1"
+  }
+}

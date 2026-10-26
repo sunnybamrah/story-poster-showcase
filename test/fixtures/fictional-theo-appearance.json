@@ -1,0 +1,423 @@
+{
+  "fixture": true,
+  "source": "Saved fictional Theo cast-continuity-check-1, 2026-10-15. Existing paid observation replay only. No new checker claim.",
+  "sourceSHA256": "a89a4393fec2597de39f3cd72376322d54cc83ad97029d8c853e2f0d2dfb5007",
+  "cast": [
+    {
+      "id": "child",
+      "label": "the child",
+      "role": "child",
+      "species": "human",
+      "description": [
+        "human boy",
+        "short dark hair",
+        "warm tan skin",
+        "no glasses"
+      ],
+      "outfit": [
+        "green hoodie with a yellow lightning patch",
+        "red high top sneakers",
+        "blue sketchbook under one arm"
+      ],
+      "pronouns": "he/him",
+      "referenceSource": "photo"
+    },
+    {
+      "id": "grown-up-one",
+      "label": "the grown-up",
+      "role": "grown-up",
+      "species": "human",
+      "pronouns": "he/him",
+      "description": [
+        "human adult man",
+        "short dark hair"
+      ],
+      "outfit": [
+        "blue sweater",
+        "dark trousers",
+        "brown shoes"
+      ],
+      "referenceSource": "photo"
+    }
+  ],
+  "answers": {
+    "pictures": [
+      {
+        "id": "poster",
+        "castObservations": [
+          {
+            "characterId": "child",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "One child seated centrally; youthful rounded face, brown skin, short dark curls and no glasses match the chosen reference and the other panels.",
+            "appearance": [
+              {
+                "expected": "human child",
+                "observed": "Human child with brown skin, short dark curly hair and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Visible face, hair and apparent age agree with the child reference."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "green hoodie with a yellow lightning patch",
+                "observed": "Green hoodie with yellow lightning patch.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Hood, green sleeves and yellow chest patch are visible."
+              },
+              {
+                "expected": "red high top sneakers",
+                "observed": "Feet hidden below the table.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Footwear cannot be assessed."
+              },
+              {
+                "expected": "blue sketchbook under one arm",
+                "observed": "No sketchbook visible under either arm.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Optional prop absence is not a mismatch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "panel-1",
+        "castObservations": [
+          {
+            "characterId": "child",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Left body: child with the reference's youthful face, brown skin, dark curls and no glasses.",
+            "appearance": [
+              {
+                "expected": "human child",
+                "observed": "Brown-skinned human child with short dark curls and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Face, hair and apparent age remain consistent across the drawings and reference."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "green hoodie with a yellow lightning patch",
+                "observed": "Green hoodie bearing a yellow lightning patch.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Both hoodie and chest emblem are clearly visible."
+              },
+              {
+                "expected": "red high top sneakers",
+                "observed": "Feet outside the view.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Table and crop conceal footwear."
+              },
+              {
+                "expected": "blue sketchbook under one arm",
+                "observed": "Blue book on the table beneath the child's hand.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue prop is present; resting it on the table is a pose change."
+              }
+            ]
+          },
+          {
+            "characterId": "grown-up-one",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Right body: brown-skinned adult with short high dark curls, trimmed full beard and no glasses, matching the chosen reference.",
+            "appearance": [
+              {
+                "expected": "human grown-up",
+                "observed": "Human adult with brown skin, dark curls, beard and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Adult facial structure, hair and beard agree with the reference and panels 3\u20134."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "blue sweater",
+                "observed": "Blue crewneck sweater.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue torso and ribbed neckline and cuffs are visible."
+              },
+              {
+                "expected": "dark trousers",
+                "observed": "Trousers hidden.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Lower body obscured by table."
+              },
+              {
+                "expected": "brown shoes",
+                "observed": "Shoes hidden.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Feet outside the view."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "panel-2",
+        "castObservations": [
+          {
+            "characterId": "child",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Left body: same youthful brown-skinned face and short dark curls as the child reference; no glasses.",
+            "appearance": [
+              {
+                "expected": "human child",
+                "observed": "Human child with brown skin, dark curls and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Upturned face retains the reference's facial features and apparent age."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "green hoodie with a yellow lightning patch",
+                "observed": "Green hoodie with yellow lightning chest patch.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Hood, drawstrings and patch are visible."
+              },
+              {
+                "expected": "red high top sneakers",
+                "observed": "Footwear not visible.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Table and crop hide feet."
+              },
+              {
+                "expected": "blue sketchbook under one arm",
+                "observed": "Blue spiral sketchbook resting on the table.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Matching blue prop is present in a different position."
+              }
+            ]
+          },
+          {
+            "characterId": "grown-up-one",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "confirmed",
+            "identityEvidence": "Right body retains the adult reference's brown skin, mature face, dark high curls and beard, but visibly adds black-rimmed glasses absent from the chosen reference and all three sibling panels.",
+            "appearance": [
+              {
+                "expected": "human grown-up",
+                "observed": "Brown-skinned human adult with matching dark curls and beard, now wearing black-rimmed glasses.",
+                "visible": true,
+                "matches": false,
+                "evidence": "Clearly drawn frames surround both eyes and extend to the ear. The chosen adult reference has an unobstructed face with no glasses; this is a confirmed appearance-continuity contradiction, not a different identity."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "blue sweater",
+                "observed": "Blue crewneck sweater.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue knit torso, neckline and cuffs match the adult's locked outfit."
+              },
+              {
+                "expected": "dark trousers",
+                "observed": "Trousers not visible.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Table conceals lower body."
+              },
+              {
+                "expected": "brown shoes",
+                "observed": "Shoes not visible.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Feet outside the crop."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "panel-3",
+        "castObservations": [
+          {
+            "characterId": "child",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Left seated body: youthful brown-skinned face, short dark curls and no glasses remain consistent with the child reference.",
+            "appearance": [
+              {
+                "expected": "human child",
+                "observed": "Human child with brown skin and short dark curls.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Visible face and hair match the chosen reference; expression and head angle differ only."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "green hoodie with a yellow lightning patch",
+                "observed": "Green hoodie with yellow lightning patch.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Chest patch and green hooded garment are clearly visible."
+              },
+              {
+                "expected": "red high top sneakers",
+                "observed": "Feet hidden.",
+                "visible": false,
+                "matches": true,
+                "evidence": "View ends above footwear."
+              },
+              {
+                "expected": "blue sketchbook under one arm",
+                "observed": "Blue spiral sketchbook on the foreground table.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Prop is present, set down during the seated action."
+              }
+            ]
+          },
+          {
+            "characterId": "grown-up-one",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Right seated body: same brown-skinned adult face, high dark curls, beard and absence of glasses as the chosen reference.",
+            "appearance": [
+              {
+                "expected": "human grown-up",
+                "observed": "Human adult with brown skin, dark curls, trimmed beard and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Facial profile, hair and adult age agree with the reference."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "blue sweater",
+                "observed": "Blue crewneck sweater.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue torso and ribbed collar and cuffs match."
+              },
+              {
+                "expected": "dark trousers",
+                "observed": "Dark charcoal trousers.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Both seated legs show dark trousers."
+              },
+              {
+                "expected": "brown shoes",
+                "observed": "Shoes outside the view.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Feet are cropped out."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "panel-4",
+        "castObservations": [
+          {
+            "characterId": "child",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Left seated body has the same youthful face, brown skin, dark curls and no glasses as the child reference and preceding drawings.",
+            "appearance": [
+              {
+                "expected": "human child",
+                "observed": "Brown-skinned human child with short dark curls.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Facial features and apparent age remain consistent despite a concerned expression."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "green hoodie with a yellow lightning patch",
+                "observed": "Green hoodie with yellow lightning patch.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Green hood and yellow chest emblem are visible."
+              },
+              {
+                "expected": "red high top sneakers",
+                "observed": "Feet not shown.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Lower legs and footwear are outside the view."
+              },
+              {
+                "expected": "blue sketchbook under one arm",
+                "observed": "Blue sketchbook on the table, partly behind the plant.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue prop remains present; placement is a pose variation."
+              }
+            ]
+          },
+          {
+            "characterId": "grown-up-one",
+            "observedSpecies": "human",
+            "identityMatches": true,
+            "certainty": "uncertain",
+            "identityEvidence": "Right seated body matches the adult reference's brown skin, mature facial features, high dark curls and beard; no glasses.",
+            "appearance": [
+              {
+                "expected": "human grown-up",
+                "observed": "Human adult with brown skin, dark curls, beard and no glasses.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Visible face and hair agree with the chosen reference and correct sibling panels."
+              }
+            ],
+            "clothing": [
+              {
+                "expected": "blue sweater",
+                "observed": "Blue crewneck sweater.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Blue sweater with ribbed neckline and cuffs matches."
+              },
+              {
+                "expected": "dark trousers",
+                "observed": "Dark charcoal trousers.",
+                "visible": true,
+                "matches": true,
+                "evidence": "Both legs are covered in dark trousers."
+              },
+              {
+                "expected": "brown shoes",
+                "observed": "Shoes not shown.",
+                "visible": false,
+                "matches": true,
+                "evidence": "Feet fall outside the drawing's view."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

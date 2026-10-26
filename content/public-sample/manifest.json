@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "fictional": true,
+  "title": "The Next Game",
+  "record": {
+    "real": false,
+    "pictureStyleId": "adventure-comic",
+    "parentLabel": "Dad",
+    "hero": {
+      "nickname": "Pip",
+      "name": "Pip",
+      "age": 8,
+      "pronouns": "he/him",
+      "loves": [
+        "comics",
+        "space",
+        "puzzles"
+      ],
+      "lookChips": [
+        "human boy",
+        "short dark hair",
+        "warm tan skin",
+        "round black glasses"
+      ],
+      "lockedOutfit": [
+        "purple hoodie with a yellow lightning patch",
+        "red high top sneakers",
+        "blue sketchbook under one arm"
+      ],
+      "heroPicturePath": ""
+    },
+    "cast": [
+      {
+        "id": "child",
+        "label": "the child",
+        "role": "child",
+        "species": "human",
+        "pronouns": "he/him",
+        "description": [
+          "human boy",
+          "short dark hair",
+          "warm tan skin",
+          "round black glasses"
+        ],
+        "outfit": [
+          "purple hoodie with a yellow lightning patch",
+          "red high top sneakers",
+          "blue sketchbook under one arm"
+        ],
+        "referencePath": ""
+      },
+      {
+        "id": "grown-up-one",
+        "label": "the grown-up",
+        "role": "grown-up",
+        "species": "human",
+        "pronouns": "he/him",
+        "description": [
+          "human adult man",
+          "short dark hair"
+        ],
+        "outfit": [
+          "purple sweater",
+          "dark trousers",
+          "brown shoes"
+        ],
+        "referencePath": ""
+      }
+    ],
+    "pastKits": []
+  },
+  "text": {
+    "moveId": "name-it-exactly",
+    "chapterTitle": "The Next Game",
+    "tagline": "Name it to tame it",
+    "story": "The teams were full.\nPip wanted to play.\nHe walked to the bench.\n\nAt recess, his face felt hot. His hands were tight. The soccer game went on without him.\n\nThat evening, Pip and Dad sat on the sofa, calm enough to read together. Dad held a comic open on his lap.\n\n“I wanted to play,” Pip said.\n\nDad left the page where it was. “You wanted to be part of the game.”\n\nPip nodded. Dad listened while he told the whole thing.\n\n“It was just bad,” Pip said.\n\n“Want to find a word that fits?” Dad asked. “Maybe left out? You can tell me if I’m wrong.”\n\n“Left out fits,” Pip said. “I was sitting there while the game went on.”\n\n“I felt left out today, too,” Dad said. “Someone talked over me at work. I’m learning to name my feelings, just like you.”\n\nPip rested a hand on his chest. Dad put his free hand on his own chest.\n\n“Hurt and angry, too,” Pip said.\n\n“Both at once,” Dad said. “Name it to tame it. Those words help me understand what you need.”\n\n“I’m still angry.”\n\n“You can be angry and sit close to me.”\n\nPip leaned against Dad. The comic stayed open between them.\n\nAfter a while, Dad asked, “Want to try saying, ‘Can I join the next game?’”\n\n“Tomorrow before school?”\n\n“We can practise then.”\n\n“What if they still say no?”\n\n“That could happen. You could ask someone else to play. If you keep getting left out, tell a teacher you like, just as you told me tonight.”\n\n“You’ll listen tomorrow, too?”\n\n“Tomorrow, too.”\n\nPip pointed to the comic. “Now the funny bit.”\n\nDad read it in his silliest voice. Pip laughed against his shoulder.\n\nRecess still hurt. But Pip had words for the feeling, a next step to try, and Dad beside him.",
+    "panelLines": [
+      {
+        "scene": "child and grown-up-one sit beside each other on a sofa. grown-up-one holds an open comic flat across his lap, with the pages facing upward. child turns toward grown-up-one to speak. The comic remains open without a page turning.",
+        "line": "I wanted to play.",
+        "speakerId": "child"
+      },
+      {
+        "scene": "child remains seated beside grown-up-one on the sofa and speaks toward him. grown-up-one faces child and listens, holding the same comic open on his lap. Neither person moves the comic.",
+        "line": "Left out fits.",
+        "speakerId": "child"
+      },
+      {
+        "scene": "child and grown-up-one remain seated on the sofa. child rests one hand against his own chest while speaking. grown-up-one rests his free hand against his own chest and supports the open comic on his lap with his other hand.",
+        "line": "Hurt and angry, too.",
+        "speakerId": "child"
+      },
+      {
+        "scene": "child leans against grown-up-one on the sofa. grown-up-one looks toward child while speaking and holds the comic open across his lap, angled so both can see the pages. The comic stays on the same page.",
+        "line": "We can practise then.",
+        "speakerId": "grown-up-one"
+      }
+    ],
+    "feelFirst": [
+      "Being left out hurt. You wanted to play.",
+      "You can still feel angry while we talk."
+    ],
+    "tinyTryOptions": [
+      {
+        "text": "Think of a small bother. Name the feeling that fits. Mad, sad or another word is okay.",
+        "seconds": 30,
+        "offScreen": true
+      },
+      {
+        "text": "Choose two feeling words if both fit. Say them together.",
+        "seconds": 60,
+        "offScreen": true
+      },
+      {
+        "text": "Think of another small moment. Name the feeling that fits. Tell each other why that word fits.",
+        "seconds": 90,
+        "offScreen": true
+      }
+    ],
+    "whereElse": {
+      "line": "Where else could this same move work?",
+      "place": "On the walk home from school with a grown-up."
+    },
+    "noticedFeeling": "left out",
+    "replayCue": "When you say you feel bad but another word might fit.",
+    "pagination": {
+      "source": "d378f8d4d2f148a1f0e4e655bbce8f34687bc695a5cb86936964a127b1bb4df2",
+      "pages": [
+        "The teams were full.\nPip wanted to play.\nHe walked to the bench.\n\nAt recess, his face felt hot. His hands were tight. The soccer game went on without him.\n\nThat evening, Pip and Dad sat on the sofa, calm enough to read together. Dad held a comic open on his lap.\n\n“I wanted to play,” Pip said.\n\nDad left the page where it was. “You wanted to be part of the game.”\n\nPip nodded. Dad listened while he told the whole thing.\n\n“It was just bad,” Pip said.\n\n“Want to find a word that fits?” Dad asked. “Maybe left out? You can tell me if I’m wrong.”\n\n“Left out fits,” Pip said. “I was sitting there while the game went on.”\n\n“I felt left out today, too,” Dad said. “Someone talked over me at work. I’m learning to name my feelings, just like you.”\n\nPip rested a hand on his chest. Dad put his free hand on his own chest.",
+        "“Hurt and angry, too,” Pip said.\n\n“Both at once,” Dad said. “Name it to tame it. Those words help me understand what you need.”\n\n“I’m still angry.”\n\n“You can be angry and sit close to me.”\n\nPip leaned against Dad. The comic stayed open between them.\n\nAfter a while, Dad asked, “Want to try saying, ‘Can I join the next game?’”\n\n“Tomorrow before school?”\n\n“We can practise then.”\n\n“What if they still say no?”\n\n“That could happen. You could ask someone else to play. If you keep getting left out, tell a teacher you like, just as you told me tonight.”\n\n“You’ll listen tomorrow, too?”\n\n“Tomorrow, too.”\n\nPip pointed to the comic. “Now the funny bit.”\n\nDad read it in his silliest voice. Pip laughed against his shoulder.\n\nRecess still hurt. But Pip had words for the feeling, a next step to try, and Dad beside him."
+      ],
+      "panelPages": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "bubbleSentenceIndices": [
+        8,
+        18,
+        25,
+        35
+      ],
+      "bubbleSentenceRanges": [
+        {
+          "start": 8,
+          "end": 8
+        },
+        {
+          "start": 18,
+          "end": 18
+        },
+        {
+          "start": 25,
+          "end": 25
+        },
+        {
+          "start": 35,
+          "end": 35
+        }
+      ],
+      "wordCounts": [
+        161,
+        147
+      ],
+      "cut": {
+        "at": 816,
+        "paragraph": true,
+        "pageOnePercent": 52.27272727272727
+      },
+      "receipt": "a802852adf6e020c734a2c0db2f188e1e3cd77ea587a8f5a82f4227fe39ebca0"
+    },
+    "ready": true
+  },
+  "move": {
+    "number": 1,
+    "id": "name-it-exactly",
+    "name": "Name the feeling",
+    "childPhrase": "I find the exact word for what I feel. Not just bad. Annoyed? Embarrassed? Let down? Sometimes it's two at once.",
+    "practiceScript": "Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.",
+    "kidScienceLine": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+    "parentReceipt": "Torre and Lieberman, UCLA, Emotion Review, 2018, DOI 10.1177/1754073917742706; fit ADULT ONLY for this move. Lieberman, Eisenberger, Crockett, Tom, Pfeifer and Way, UCLA, Psychological Science, 2007, DOI 10.1111/j.1467-9280.2007.01916.x, PMID 17576282; adult brain scans; fit MECHANISM. Nook and colleagues, Harvard, 2018, DOI 10.1177/0956797618773357, PMID 29878880; ages 5 to 25; fit ADJACENT. Starr and colleagues, University of Rochester, 2020, DOI 10.1037/emo0000630, PMID 31246045; 233 teens aged 14 to 17; fit ADJACENT. Naming feelings and telling feelings apart have related but different evidence; none of these papers directly tests this home practice in children aged 8 to 13.",
+    "source": {
+      "text": "Torre and Lieberman at UCLA reviewed studies of putting feelings into words in 2018. In adult studies, naming feelings sometimes reduced upset. A 2007 adult brain-scan study found changes in brain activity while people labeled emotional pictures. These findings do not prove that this home practice helps children aged 8 to 13. Nook and Starr studied telling feelings apart, a related skill, without testing lessons in naming. Search: affect labeling review.",
+      "fitLabels": [
+        "ADULT ONLY",
+        "MECHANISM",
+        "ADJACENT"
+      ],
+      "limitation": "Adult naming studies do not prove the same benefit in children aged 8 to 13. The child and teen studies measured a related skill without teaching it.",
+      "links": [
+        "https://doi.org/10.1177/1754073917742706",
+        "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+        "https://pubmed.ncbi.nlm.nih.gov/29878880/",
+        "https://pubmed.ncbi.nlm.nih.gov/31246045/"
+      ]
+    },
+    "whenNotToUse": "in the loudest part of a meltdown (name it after); never tell the child what they feel, offer a guess; never as a label for the child (\"you're an angry kid\"); a scary event that really happened goes to Card B, not a poster.",
+    "whenItFits": "\"she said she feels bad but won't say why\"; \"slammed the door after school\"; \"he's upset about something and won't talk\"; \"lost it over something tiny\".",
+    "positiveAction": "Tonight, each name one feeling: hurt, angry, disappointed, or something else.",
+    "keyWord": "NAME",
+    "whereItCameFrom": "Torre and Lieberman at UCLA reviewed studies of putting feelings into words in 2018. In adult studies, naming feelings sometimes reduced upset. A 2007 adult brain-scan study found changes in brain activity while people labeled emotional pictures. These findings do not prove that this home practice helps children aged 8 to 13. Nook and Starr studied telling feelings apart, a related skill, without testing lessons in naming.",
+    "searchPhrase": "affect labeling review.",
+    "sources": [
+      {
+        "title": "The Nonlinear Development of Emotion Differentiation: Granular Emotional Experience Is Low in Adolescence",
+        "year": 2018,
+        "people": "Nook, Sasse, Lambert, McLaughlin and Somerville",
+        "place": "Harvard",
+        "doi": "10.1177/0956797618773357",
+        "pubmed": "29878880",
+        "fitLabel": "ADJACENT",
+        "limitation": "A lab task with 143 people aged 5 to 25 compared how clearly they separated feelings. It did not teach naming or test whether naming helped.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Nook 2018, emotion differentiation by age",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/29878880/"
+      },
+      {
+        "title": "The perils of murky emotions: Emotion differentiation moderates the prospective relationship between naturalistic stress exposure and adolescent depression",
+        "year": 2020,
+        "people": "Lisa R. Starr, Rachel Hershenberg, Zoey A. Shaw, Y. Irina Li and Angela C. Santee",
+        "place": "University of Rochester, New York",
+        "doi": "10.1037/emo0000630",
+        "pubmed": "31246045",
+        "fitLabel": "ADJACENT",
+        "limitation": "233 teenagers aged 14 to 17 were followed over time. The link between clearer feelings and less depression under stress does not prove that teaching naming helps.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Starr 2020, emotion differentiation and stress in teens",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://pubmed.ncbi.nlm.nih.gov/31246045/"
+      },
+      {
+        "title": "Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli",
+        "year": 2007,
+        "people": "Matthew D. Lieberman, Naomi I. Eisenberger, Molly J. Crockett, Sabrina M. Tom, Jennifer H. Pfeifer and Baldwin M. Way",
+        "place": "UCLA, Los Angeles",
+        "doi": "10.1111/j.1467-9280.2007.01916.x",
+        "pubmed": "17576282",
+        "fitLabel": "MECHANISM",
+        "limitation": "Adults labeled emotional images during brain scans. Lower amygdala activity does not prove less upset or better everyday choices in children.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Lieberman 2007, putting feelings into words and brain activity",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://teams.semel.ucla.edu/sites/default/files/publications/May%202007%20-%20Putting%20Feelings%20Into%20Words.pdf"
+      },
+      {
+        "title": "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation",
+        "year": 2018,
+        "people": "Jared B. Torre and Matthew D. Lieberman",
+        "place": "UCLA, Los Angeles",
+        "doi": "10.1177/1754073917742706",
+        "fitLabel": "ADULT ONLY",
+        "limitation": "The relevant benefit evidence comes from adult studies. Results vary across feelings, body responses, brain activity and behavior; immediate relief and benefits for children aged 8 to 13 are not established.",
+        "checkedOn": "2026-10-14",
+        "titleOriginal": "Torre and Lieberman 2018, affect labeling review",
+        "titleCheckedOn": "2026-10-14",
+        "titleVerificationUrl": "https://journals.sagepub.com/doi/full/10.1177/1754073917742706"
+      }
+    ],
+    "talkQuestion": "Was it one feeling or two at once? Which one was bigger?",
+    "talkQuestionNote": "(Tied to Nook 2018: teens found it hardest to pull apart feelings that come together.)",
+    "whenToCallDoctor": [
+      "Low mood, sadness or crankiness most of the day, every day, for more than two weeks. Do not wait two weeks if it is severe or getting worse. [A11, 2022-09-12; NIMH children and mental health]",
+      "Big changes in sleep, weight or eating. [A12, 2025-05-20]",
+      "Pulling away from friends and family more than usual. [A12, 2025-05-20; A11, 2022-09-12]",
+      "Fear or sadness that is extreme or does not let up. [A15, 2026-05-15]",
+      "Any talk of self harm or not wanting to live: call or text 988 now, or chat at 988lifeline.org. Never ignore it. If there is danger right now, call 911. [A12, 2025-05-20; A15, 2026-05-15]",
+      "Puberty signs before age 8 in a girl or before 9 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "No puberty signs by 13 in a girl or by 14 in a boy. [A3, 2019-06-04; A4, 2014-12-19]",
+      "What to say on the phone: exactly what you saw and heard, and for how long.",
+      "Note: one AAP page still lists an older crisis number. Use 988. [A11, 2022-09-12]"
+    ],
+    "actionLine": "The human child stands facing forward, one open hand raised beside an open mouth.",
+    "approvedBackup": "long-breath-out",
+    "expectedPeopleCount": 1,
+    "parentScript": [
+      "I noticed you looked <feeling>.",
+      "That makes sense.",
+      "Want to try the move now, or later?",
+      "You did the move. What did you notice?"
+    ],
+    "parentScriptSource": "PLAN-FINAL.md section 11, item 9. Four sentences copied into four lines. The move file has no per-move parent scripts.",
+    "whenToCallDoctorSource": "moves-8-13.md, Parent card 7, copied in full.",
+    "bodyAction": "Touch your chest together. Say the feeling's name.",
+    "whereItCameFromShort": "Torre and Lieberman, UCLA, 2018.",
+    "kidScienceLineSourceIds": [
+      "10.1177/1754073917742706",
+      "17576282",
+      "29878880",
+      "31246045"
+    ],
+    "detail": {
+      "science": {
+        "tested": "The review brought together studies of putting feelings into words, including adult tests of changes in feelings, body responses, brain activity and actions.",
+        "participants": null,
+        "ages": null,
+        "result": "Naming feelings sometimes helped adults feel less upset, though the results varied across studies.",
+        "limitation": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+        "studyUrl": "https://doi.org/10.1177/1754073917742706",
+        "evidenceLabel": "ADULT ONLY"
+      },
+      "source": {
+        "people": "Jared B. Torre and Matthew D. Lieberman",
+        "place": "UCLA, Los Angeles",
+        "year": 2018,
+        "studyTitle": "Putting Feelings Into Words: Affect Labeling as Implicit Emotion Regulation",
+        "studyUrl": "https://doi.org/10.1177/1754073917742706"
+      },
+      "keyword": {
+        "meaning": "To name a feeling is to say which feeling fits.",
+        "example": "I feel left out, and a bit sad."
+      },
+      "tagline": {
+        "rhyme": "Name it to tame it",
+        "explanation": "The rhyme reminds us to find the feeling’s name, without needing the feeling to go away."
+      }
+    },
+    "science": {
+      "tested": "The review brought together studies of putting feelings into words, including adult tests of changes in feelings, body responses, brain activity and actions.",
+      "participants": null,
+      "ages": null,
+      "result": "Naming feelings sometimes helped adults feel less upset, though the results varied across studies.",
+      "limitation": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+      "studyUrl": "https://doi.org/10.1177/1754073917742706",
+      "evidenceLabel": "ADULT ONLY",
+      "claim": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ",
+      "wordingSource": "Existing kidScienceLine and detail.science, reconciled in pass 28; sources and practice words unchanged."
+    },
+    "tryItDraft": {
+      "backupAction": "Name one feeling that fits this moment.",
+      "options": [
+        {
+          "kind": "notice",
+          "text": "Think of a small bother. Pick a sharper feeling word than 'bad' or 'mad'.",
+          "seconds": 30,
+          "offScreen": true
+        },
+        {
+          "kind": "show",
+          "text": "Choose two feeling words if both fit. Say them together.",
+          "seconds": 60,
+          "offScreen": true
+        },
+        {
+          "kind": "choose",
+          "text": "Give the feeling a number from 1 to 10. The number is not a grade.",
+          "seconds": 90,
+          "offScreen": true
+        }
+      ],
+      "author": "Codex",
+      "approval": {
+        "status": "pending",
+        "by": null
+      },
+      "reviewLabel": "FOR SUNNY'S READ"
+    },
+    "kidScienceLineReview": {
+      "status": "DRAFT, Sunny reads before any public use",
+      "authority": "FORMAT-v6.md line 18, pass 10",
+      "original": "Scientists noticed that teens who name feelings exactly handle hard days a bit better. Nobody has tested teaching it yet.",
+      "reason": "Observed association in older teens, not a test of teaching the move."
+    },
+    "actionLineWrittenByCodex": true,
+    "bodyActionWrittenByCodex": true,
+    "shortLineWrittenByCodex": true
+  },
+  "assets": {
+    "poster.png": {
+      "bytes": 6063111,
+      "sha256": "21e6fa36dfd34fcf25ddc1ce220d7c4edb339add7e71d4e9864cdf40f03e8efe"
+    },
+    "poster.pdf": {
+      "bytes": 3327124,
+      "sha256": "61bdd398cd50d4edbf263263af60089f4d8bbfada6d544473d049f7d6528bf54"
+    },
+    "kit_final.pdf": {
+      "bytes": 21348854,
+      "sha256": "328c34a83302bdc05fb90561664b3341dc09858f7707c31489ddb34001d9a1ad"
+    },
+    "panel-1.png": {
+      "bytes": 2802640,
+      "sha256": "50c1bc6a1efb049e26781f85a7ef289621a8a6023dbf8755a0df90d4e5bef777"
+    },
+    "panel-2.png": {
+      "bytes": 2848699,
+      "sha256": "638767e0c6c563b645b33fade4ace1cf57d0a6e89f3c057e07a9093cc3473ecc"
+    },
+    "panel-3.png": {
+      "bytes": 2924951,
+      "sha256": "34c51c5625c682d584005ab9cf9ff7869014cd934406331c33c96ce4059947f8"
+    },
+    "panel-4.png": {
+      "bytes": 2944652,
+      "sha256": "9d265bb13d314188d13b088dcf8f9d4d80b3247f2ade3a58de30224d1f0cc876"
+    },
+    "kit-bw.pdf": {
+      "bytes": 5856324,
+      "sha256": "e3ee987bbb23b1434f8d9b944ffc81a72501057f346a9a2ae26cf725d1b8d10c"
+    },
+    "poster-bw.pdf": {
+      "bytes": 1716752,
+      "sha256": "88a1815c47e53055668859eea8680c437d5a6eb35607782a66efceb2fcfb7307"
+    }
+  }
+}

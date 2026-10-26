@@ -1,0 +1,165 @@
+{
+  "answer": {
+    "secondMoveTaught": false,
+    "feelingGoesAwayPromise": false,
+    "adviceOutsideRecord": false,
+    "jokeAtPerson": false,
+    "effortOnlyPraise": false,
+    "filledWhenINotice": false,
+    "screenOnlyPlace": false,
+    "chapterShapeWrong": false,
+    "tinyTryWrong": false,
+    "rhymeUsesStoryWords": true,
+    "rhymeDoesNotStateMove": false,
+    "wordAChildMustTranslate": false,
+    "scienceClaimsTeachingHelped": false,
+    "evidence": {
+      "secondMoveTaught": "",
+      "feelingGoesAwayPromise": "",
+      "adviceOutsideRecord": "",
+      "jokeAtPerson": "",
+      "effortOnlyPraise": "",
+      "filledWhenINotice": "",
+      "screenOnlyPlace": "",
+      "chapterShapeWrong": "",
+      "tinyTryWrong": "",
+      "rhymeUsesStoryWords": "Story: \"Using the word bad is like drawing with an oven mitten on.\" Tagline rhyme: \"Name it right, name it plain, say the word again.\" The oven-mitten metaphor is story-specific and does not appear in the tagline.",
+      "rhymeDoesNotStateMove": "",
+      "wordAChildMustTranslate": "",
+      "scienceClaimsTeachingHelped": "",
+      "taglineRhymes": "\"plain\" and \"again\" rhyme."
+    },
+    "affectedFields": {
+      "secondMoveTaught": [],
+      "feelingGoesAwayPromise": [],
+      "adviceOutsideRecord": [],
+      "jokeAtPerson": [],
+      "effortOnlyPraise": [],
+      "filledWhenINotice": [],
+      "screenOnlyPlace": [],
+      "chapterShapeWrong": [],
+      "tinyTryWrong": [],
+      "rhymeUsesStoryWords": [
+        "tagline"
+      ],
+      "rhymeDoesNotStateMove": [],
+      "wordAChildMustTranslate": [],
+      "scienceClaimsTeachingHelped": []
+    },
+    "taglineEndWords": [
+      "plain",
+      "again"
+    ],
+    "taglineRhymes": true
+  },
+  "rawText": "```json\n{\n  \"secondMoveTaught\": false,\n  \"feelingGoesAwayPromise\": false,\n  \"adviceOutsideRecord\": false,\n  \"jokeAtPerson\": false,\n  \"effortOnlyPraise\": false,\n  \"filledWhenINotice\": false,\n  \"screenOnlyPlace\": false,\n  \"chapterShapeWrong\": false,\n  \"tinyTryWrong\": false,\n  \"rhymeUsesStoryWords\": true,\n  \"rhymeDoesNotStateMove\": false,\n  \"wordAChildMustTranslate\": false,\n  \"scienceClaimsTeachingHelped\": false,\n  \"evidence\": {\n    \"secondMoveTaught\": \"\",\n    \"feelingGoesAwayPromise\": \"\",\n    \"adviceOutsideRecord\": \"\",\n    \"jokeAtPerson\": \"\",\n    \"effortOnlyPraise\": \"\",\n    \"filledWhenINotice\": \"\",\n    \"screenOnlyPlace\": \"\",\n    \"chapterShapeWrong\": \"\",\n    \"tinyTryWrong\": \"\",\n    \"rhymeUsesStoryWords\": \"Story: \\\"Using the word bad is like drawing with an oven mitten on.\\\" Tagline rhyme: \\\"Name it right, name it plain, say the word again.\\\" The oven-mitten metaphor is story-specific and does not appear in the tagline.\",\n    \"rhymeDoesNotStateMove\": \"\",\n    \"wordAChildMustTranslate\": \"\",\n    \"scienceClaimsTeachingHelped\": \"\",\n    \"taglineRhymes\": \"\\\"plain\\\" and \\\"again\\\" rhyme.\"\n  },\n  \"affectedFields\": {\n    \"secondMoveTaught\": [],\n    \"feelingGoesAwayPromise\": [],\n    \"adviceOutsideRecord\": [],\n    \"jokeAtPerson\": [],\n    \"effortOnlyPraise\": [],\n    \"filledWhenINotice\": [],\n    \"screenOnlyPlace\": [],\n    \"chapterShapeWrong\": [],\n    \"tinyTryWrong\": [],\n    \"rhymeUsesStoryWords\": [\n      \"tagline\"\n    ],\n    \"rhymeDoesNotStateMove\": [],\n    \"wordAChildMustTranslate\": [],\n    \"scienceClaimsTeachingHelped\": []\n  },\n  \"taglineEndWords\": [\n    \"plain\",\n    \"again\"\n  ],\n  \"taglineRhymes\": true\n}\n```",
+  "response": {
+    "model": "claude-haiku-4-5-20251001",
+    "id": "msg_011Cg2rF2efG785Pg8WbxRb8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "```json\n{\n  \"secondMoveTaught\": false,\n  \"feelingGoesAwayPromise\": false,\n  \"adviceOutsideRecord\": false,\n  \"jokeAtPerson\": false,\n  \"effortOnlyPraise\": false,\n  \"filledWhenINotice\": false,\n  \"screenOnlyPlace\": false,\n  \"chapterShapeWrong\": false,\n  \"tinyTryWrong\": false,\n  \"rhymeUsesStoryWords\": true,\n  \"rhymeDoesNotStateMove\": false,\n  \"wordAChildMustTranslate\": false,\n  \"scienceClaimsTeachingHelped\": false,\n  \"evidence\": {\n    \"secondMoveTaught\": \"\",\n    \"feelingGoesAwayPromise\": \"\",\n    \"adviceOutsideRecord\": \"\",\n    \"jokeAtPerson\": \"\",\n    \"effortOnlyPraise\": \"\",\n    \"filledWhenINotice\": \"\",\n    \"screenOnlyPlace\": \"\",\n    \"chapterShapeWrong\": \"\",\n    \"tinyTryWrong\": \"\",\n    \"rhymeUsesStoryWords\": \"Story: \\\"Using the word bad is like drawing with an oven mitten on.\\\" Tagline rhyme: \\\"Name it right, name it plain, say the word again.\\\" The oven-mitten metaphor is story-specific and does not appear in the tagline.\",\n    \"rhymeDoesNotStateMove\": \"\",\n    \"wordAChildMustTranslate\": \"\",\n    \"scienceClaimsTeachingHelped\": \"\",\n    \"taglineRhymes\": \"\\\"plain\\\" and \\\"again\\\" rhyme.\"\n  },\n  \"affectedFields\": {\n    \"secondMoveTaught\": [],\n    \"feelingGoesAwayPromise\": [],\n    \"adviceOutsideRecord\": [],\n    \"jokeAtPerson\": [],\n    \"effortOnlyPraise\": [],\n    \"filledWhenINotice\": [],\n    \"screenOnlyPlace\": [],\n    \"chapterShapeWrong\": [],\n    \"tinyTryWrong\": [],\n    \"rhymeUsesStoryWords\": [\n      \"tagline\"\n    ],\n    \"rhymeDoesNotStateMove\": [],\n    \"wordAChildMustTranslate\": [],\n    \"scienceClaimsTeachingHelped\": []\n  },\n  \"taglineEndWords\": [\n    \"plain\",\n    \"again\"\n  ],\n  \"taglineRhymes\": true\n}\n```"
+      }
+    ],
+    "container": null,
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5926,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 631,
+      "service_tier": "standard",
+      "inference_geo": "not_available"
+    },
+    "diagnostics": null
+  },
+  "verdict": "PASS",
+  "check": {
+    "ready": true,
+    "faults": [],
+    "answers": {
+      "secondMoveTaught": false,
+      "feelingGoesAwayPromise": false,
+      "adviceOutsideRecord": false,
+      "jokeAtPerson": false,
+      "effortOnlyPraise": false,
+      "filledWhenINotice": false,
+      "screenOnlyPlace": false,
+      "chapterShapeWrong": false,
+      "tinyTryWrong": false,
+      "rhymeUsesStoryWords": true,
+      "rhymeDoesNotStateMove": false,
+      "wordAChildMustTranslate": false,
+      "scienceClaimsTeachingHelped": false,
+      "evidence": {
+        "secondMoveTaught": "",
+        "feelingGoesAwayPromise": "",
+        "adviceOutsideRecord": "",
+        "jokeAtPerson": "",
+        "effortOnlyPraise": "",
+        "filledWhenINotice": "",
+        "screenOnlyPlace": "",
+        "chapterShapeWrong": "",
+        "tinyTryWrong": "",
+        "rhymeUsesStoryWords": "Story: \"Using the word bad is like drawing with an oven mitten on.\" Tagline rhyme: \"Name it right, name it plain, say the word again.\" The oven-mitten metaphor is story-specific and does not appear in the tagline.",
+        "rhymeDoesNotStateMove": "",
+        "wordAChildMustTranslate": "",
+        "scienceClaimsTeachingHelped": "",
+        "taglineRhymes": "\"plain\" and \"again\" rhyme."
+      },
+      "affectedFields": {
+        "secondMoveTaught": [],
+        "feelingGoesAwayPromise": [],
+        "adviceOutsideRecord": [],
+        "jokeAtPerson": [],
+        "effortOnlyPraise": [],
+        "filledWhenINotice": [],
+        "screenOnlyPlace": [],
+        "chapterShapeWrong": [],
+        "tinyTryWrong": [],
+        "rhymeUsesStoryWords": [
+          "tagline"
+        ],
+        "rhymeDoesNotStateMove": [],
+        "wordAChildMustTranslate": [],
+        "scienceClaimsTeachingHelped": []
+      },
+      "taglineEndWords": [
+        "plain",
+        "again"
+      ],
+      "taglineRhymes": true
+    },
+    "affectedFields": {},
+    "evidence": {},
+    "ignoredFaults": [
+      {
+        "key": "rhymeUsesStoryWords",
+        "reason": "The quoted evidence is absent from the supplied fields."
+      }
+    ],
+    "needsRecheck": false,
+    "qualityCoverage": "current",
+    "translationWord": null,
+    "rhyme": {
+      "endWords": [
+        "plain",
+        "again"
+      ],
+      "sameEnding": true,
+      "checkerRhymes": true,
+      "rhymes": true
+    },
+    "artifactAttempt": 1,
+    "checkerAttempt": 1
+  }
+}

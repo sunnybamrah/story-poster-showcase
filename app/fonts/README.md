@@ -1,0 +1,1 @@
+Plus Jakarta Sans Latin WOFF2 files copied from the existing installed @fontsource/plus-jakarta-sans package in heparin-demo. SIL Open Font License is included. No new package or remote font request. Other scripts use the system fallback.

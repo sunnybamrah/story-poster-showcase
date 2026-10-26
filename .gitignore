@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+/devpost/learner-profile.md
+test/state/
+test/log/
+test/out/
+node_modules/
+app-dist/
+.DS_Store
+context/

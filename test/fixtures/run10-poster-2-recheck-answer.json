@@ -1,0 +1,478 @@
+{
+  "boxes": [
+    {
+      "id": "title",
+      "text": "Name the feeling"
+    },
+    {
+      "id": "tagline",
+      "text": "Name the feeling, find the word; say it, get heard."
+    },
+    {
+      "id": "tiny",
+      "text": "ONE TINY TRY FOR TODAY\nTonight, name one feeling: hurt, angry, disappointed, or something else."
+    },
+    {
+      "id": "science",
+      "text": "WHAT SCIENCE SAYS\nIn research, teens found feelings harder to tell apart than adults. This study did not test teaching the move."
+    },
+    {
+      "id": "keyword",
+      "text": "NAME"
+    },
+    {
+      "id": "move",
+      "text": "WHAT I CAN DO\nWhen I notice ______,\nI ______.\n\n________\n________\nBackup: Breathe out slowly"
+    },
+    {
+      "id": "remember",
+      "text": "HOW TO REMEMBER IT\nName the feeling, find the word; say it, get heard.\nTouch your chest.\nSay the feeling’s name."
+    },
+    {
+      "id": "source",
+      "text": "WHERE IT CAME FROM\nNook, Somerville and team,\nHarvard, 2018.\nSearch: emotion differentiation teens\nNook Somerville"
+    },
+    {
+      "id": "footer",
+      "text": ""
+    }
+  ],
+  "extraText": [
+    "The pencil in the fox’s sketchbook has a tiny tool belt."
+  ],
+  "keyWordMirrored": false,
+  "keyWordUnreadable": false,
+  "filledBlank": false,
+  "textCrossesBoundary": false,
+  "outfitMismatch": false,
+  "actionMismatch": false,
+  "peopleCountMismatch": false,
+  "evidence": {
+    "keyWordMirrored": "",
+    "keyWordUnreadable": "",
+    "filledBlank": "",
+    "textCrossesBoundary": "",
+    "outfitMismatch": "",
+    "actionMismatch": "",
+    "peopleCountMismatch": "",
+    "sceneTooEmpty": "The hero area shows a furnished room with bookshelves, a desk, a window, and outdoor scenery.",
+    "jokeInScene": "The fox’s pencil has a tiny tool belt in the sketchbook."
+  },
+  "sceneTooEmpty": false,
+  "outfitObservations": [
+    {
+      "item": "hoodie",
+      "kind": "clothing",
+      "visible": true,
+      "differs": false,
+      "expected": "green hoodie with a yellow lightning patch",
+      "observed": "green hoodie with a yellow lightning patch",
+      "evidence": "Green hoodie and yellow lightning patch are visible."
+    },
+    {
+      "item": "sneakers",
+      "kind": "clothing",
+      "visible": false,
+      "differs": false,
+      "expected": "red high top sneakers",
+      "observed": "not visible",
+      "evidence": "Feet are outside the visible framing."
+    },
+    {
+      "item": "sketchbook",
+      "kind": "prop",
+      "visible": true,
+      "differs": false,
+      "expected": "blue sketchbook under one arm",
+      "observed": "blue sketchbook held against the body",
+      "evidence": "Blue sketchbook is visible; props are optional continuity."
+    }
+  ],
+  "jokeInScene": true,
+  "geometry": {
+    "templateVersion": "letter-five-cards-v1",
+    "actionBackgroundArea": "none",
+    "coordinateSpace": {
+      "unit": "source-pixels",
+      "width": 1024,
+      "height": 1536
+    },
+    "textLines": [
+      {
+        "boxId": "tinyTry.body",
+        "text": "Tonight, name one",
+        "x": 51,
+        "y": 831,
+        "w": 192,
+        "h": 29
+      },
+      {
+        "boxId": "tinyTry.body",
+        "text": "feeling: hurt, angry,",
+        "x": 51,
+        "y": 868,
+        "w": 211,
+        "h": 29
+      },
+      {
+        "boxId": "tinyTry.body",
+        "text": "disappointed, or",
+        "x": 51,
+        "y": 906,
+        "w": 187,
+        "h": 29
+      },
+      {
+        "boxId": "tinyTry.body",
+        "text": "something else.",
+        "x": 51,
+        "y": 943,
+        "w": 180,
+        "h": 29
+      },
+      {
+        "boxId": "science.body",
+        "text": "In research, teens found",
+        "x": 381,
+        "y": 831,
+        "w": 246,
+        "h": 29
+      },
+      {
+        "boxId": "science.body",
+        "text": "feelings harder to tell",
+        "x": 381,
+        "y": 868,
+        "w": 229,
+        "h": 29
+      },
+      {
+        "boxId": "science.body",
+        "text": "apart than adults. This",
+        "x": 381,
+        "y": 906,
+        "w": 225,
+        "h": 29
+      },
+      {
+        "boxId": "science.body",
+        "text": "study did not test",
+        "x": 381,
+        "y": 943,
+        "w": 186,
+        "h": 29
+      },
+      {
+        "boxId": "science.body",
+        "text": "teaching the move.",
+        "x": 381,
+        "y": 980,
+        "w": 190,
+        "h": 29
+      },
+      {
+        "boxId": "plan.body",
+        "text": "When I notice ______,",
+        "x": 712,
+        "y": 798,
+        "w": 252,
+        "h": 28
+      },
+      {
+        "boxId": "plan.body",
+        "text": "I ______.",
+        "x": 712,
+        "y": 835,
+        "w": 102,
+        "h": 28
+      },
+      {
+        "boxId": "plan.backup",
+        "text": "Backup: Breathe out slowly",
+        "x": 728,
+        "y": 982,
+        "w": 222,
+        "h": 21
+      },
+      {
+        "boxId": "remember.body",
+        "text": "Name the feeling, find",
+        "x": 51,
+        "y": 1167,
+        "w": 235,
+        "h": 29
+      },
+      {
+        "boxId": "remember.body",
+        "text": "the word; say it, get heard.",
+        "x": 51,
+        "y": 1204,
+        "w": 264,
+        "h": 29
+      },
+      {
+        "boxId": "remember.body",
+        "text": "Touch your chest.",
+        "x": 51,
+        "y": 1255,
+        "w": 189,
+        "h": 29
+      },
+      {
+        "boxId": "remember.body",
+        "text": "Say the feeling’s name.",
+        "x": 51,
+        "y": 1292,
+        "w": 243,
+        "h": 29
+      },
+      {
+        "boxId": "source.body",
+        "text": "Nook, Somerville and team,",
+        "x": 381,
+        "y": 1167,
+        "w": 269,
+        "h": 29
+      },
+      {
+        "boxId": "source.body",
+        "text": "Harvard, 2018.",
+        "x": 381,
+        "y": 1204,
+        "w": 155,
+        "h": 29
+      },
+      {
+        "boxId": "source.body",
+        "text": "Search: emotion",
+        "x": 381,
+        "y": 1242,
+        "w": 169,
+        "h": 29
+      },
+      {
+        "boxId": "source.body",
+        "text": "differentiation teens",
+        "x": 381,
+        "y": 1279,
+        "w": 224,
+        "h": 29
+      },
+      {
+        "boxId": "source.body",
+        "text": "Nook Somerville",
+        "x": 381,
+        "y": 1317,
+        "w": 172,
+        "h": 29
+      }
+    ],
+    "observed": [
+      {
+        "id": "title",
+        "x": 26,
+        "y": 25,
+        "w": 973,
+        "h": 181
+      },
+      {
+        "id": "tagline",
+        "x": 169,
+        "y": 132,
+        "w": 685,
+        "h": 59
+      },
+      {
+        "id": "hero",
+        "x": 26,
+        "y": 225,
+        "w": 973,
+        "h": 468
+      },
+      {
+        "id": "tinyTry",
+        "x": 26,
+        "y": 711,
+        "w": 311,
+        "h": 324
+      },
+      {
+        "id": "science",
+        "x": 356,
+        "y": 711,
+        "w": 312,
+        "h": 324
+      },
+      {
+        "id": "plan",
+        "x": 687,
+        "y": 711,
+        "w": 312,
+        "h": 324
+      },
+      {
+        "id": "remember",
+        "x": 26,
+        "y": 1053,
+        "w": 311,
+        "h": 298
+      },
+      {
+        "id": "source",
+        "x": 356,
+        "y": 1053,
+        "w": 323,
+        "h": 298
+      },
+      {
+        "id": "keyword",
+        "x": 698,
+        "y": 1053,
+        "w": 301,
+        "h": 298
+      },
+      {
+        "id": "footer",
+        "x": 26,
+        "y": 1369,
+        "w": 973,
+        "h": 128
+      },
+      {
+        "id": "tinyTry.heading",
+        "x": 123,
+        "y": 740,
+        "w": 204,
+        "h": 63
+      },
+      {
+        "id": "tinyTry.icon",
+        "x": 47,
+        "y": 727,
+        "w": 59,
+        "h": 58
+      },
+      {
+        "id": "tinyTry.body",
+        "x": 51,
+        "y": 831,
+        "w": 269,
+        "h": 140
+      },
+      {
+        "id": "science.heading",
+        "x": 456,
+        "y": 740,
+        "w": 163,
+        "h": 63
+      },
+      {
+        "id": "science.icon",
+        "x": 378,
+        "y": 727,
+        "w": 59,
+        "h": 58
+      },
+      {
+        "id": "science.body",
+        "x": 381,
+        "y": 831,
+        "w": 251,
+        "h": 174
+      },
+      {
+        "id": "plan.heading",
+        "x": 782,
+        "y": 740,
+        "w": 197,
+        "h": 63
+      },
+      {
+        "id": "plan.icon",
+        "x": 709,
+        "y": 727,
+        "w": 59,
+        "h": 58
+      },
+      {
+        "id": "plan.body",
+        "x": 712,
+        "y": 798,
+        "w": 262,
+        "h": 154
+      },
+      {
+        "id": "remember.heading",
+        "x": 123,
+        "y": 1083,
+        "w": 191,
+        "h": 63
+      },
+      {
+        "id": "remember.icon",
+        "x": 47,
+        "y": 1069,
+        "w": 59,
+        "h": 59
+      },
+      {
+        "id": "remember.body",
+        "x": 51,
+        "y": 1167,
+        "w": 264,
+        "h": 146
+      },
+      {
+        "id": "source.heading",
+        "x": 456,
+        "y": 1083,
+        "w": 179,
+        "h": 63
+      },
+      {
+        "id": "source.icon",
+        "x": 378,
+        "y": 1069,
+        "w": 59,
+        "h": 59
+      },
+      {
+        "id": "source.body",
+        "x": 381,
+        "y": 1167,
+        "w": 270,
+        "h": 178
+      },
+      {
+        "id": "plan.handwriting",
+        "x": 712,
+        "y": 798,
+        "w": 262,
+        "h": 113
+      },
+      {
+        "id": "plan.backup",
+        "x": 728,
+        "y": 972,
+        "w": 247,
+        "h": 41
+      }
+    ],
+    "textIconCollision": false,
+    "fillOutsideCard": false,
+    "heroOutsideRegion": false,
+    "actionBodyPartHidden": false,
+    "clutteredActionBackground": false,
+    "glossOrDistortedProportions": false,
+    "printTextTooSmall": false,
+    "evidence": {
+      "textIconCollision": "",
+      "fillOutsideCard": "",
+      "heroOutsideRegion": "",
+      "actionBodyPartHidden": "",
+      "clutteredActionBackground": "",
+      "glossOrDistortedProportions": "",
+      "printTextTooSmall": ""
+    }
+  }
+}

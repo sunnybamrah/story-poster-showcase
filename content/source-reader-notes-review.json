@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "reviewerModel": "gpt-6.1-sol",
+  "reviewedAt": "2026-10-20T01:57:08.074Z",
+  "file": "content/source-reader-notes.json",
+  "sha256": "41836267d1e6bcdb9c2a3844ac2670e7a4673299ffad0024f7f1d702ac95b5c3",
+  "sourceRows": 51,
+  "guideRows": 34,
+  "totalRows": 85,
+  "scope": "Independent reading of all 85 originalLimitation/plainLimitation pairs against saved source and guide limitation records, including facts, populations, study design, cause limits, uncertainty, home-use boundaries and plain wording for reading with an eight-year-old. No new research or source approval.",
+  "originalRecordCheck": "All 85 original strings and their SHA256 values match saved current records.",
+  "resolvedFindings": [
+    "Both gratitude notes preserve the explicit boundary: This does not make hard feelings go away."
+  ],
+  "unresolvedFactualFindings": [],
+  "glossary": {
+    "file": "app/research-words.js",
+    "sha256": "3c416b86a947356707a2c3d3db5275b3697899d3efbe5e44bd5eae16c2cf3368",
+    "scope": "Eight added term definitions from growing through support reviewed as neutral word meanings. They do not add study results, age limits or specific feedback procedures."
+  },
+  "claimFlags": "Seven unchanged claim readability flags were read. Raw claims were not rewritten or newly approved.",
+  "limits": [
+    "This receipt does not review the pending consumer integration.",
+    "No actual child comprehension, printed-page fit or visual clearance is claimed.",
+    "No owner approval or new scientific review is granted."
+  ]
+}

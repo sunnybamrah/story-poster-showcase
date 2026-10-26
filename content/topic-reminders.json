@@ -1,0 +1,78 @@
+[
+  {
+    "moveId": "compare-with-past-me",
+    "lines": [
+      "Not their race.",
+      "Grow at your pace."
+    ],
+    "author": "Original family poster",
+    "revision": "2026-10-19",
+    "approval": {
+      "status": "approved",
+      "by": "Sunny",
+      "text": "Not their race. Grow at your pace."
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's October 19 exact wording selection",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "good-enough-is-done",
+    "lines": [
+      "Meet the line.",
+      "Then stop on time."
+    ],
+    "author": "Original family poster",
+    "revision": "2026-10-19",
+    "approval": {
+      "status": "approved",
+      "by": "Sunny",
+      "text": "Meet the line. Then stop on time."
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's October 19 exact wording selection",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "make-it-right",
+    "lines": [
+      "Own the sting.",
+      "Repair one thing."
+    ],
+    "author": "Original family poster",
+    "revision": "2026-10-19",
+    "approval": {
+      "status": "approved",
+      "by": "Sunny",
+      "text": "Own the sting. Repair one thing."
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's October 19 exact wording selection",
+      "ownerApproval": false
+    }
+  },
+  {
+    "moveId": "check-my-battery",
+    "lines": [
+      "Before I decide,",
+      "I check inside."
+    ],
+    "author": "Original family poster",
+    "revision": "2026-10-19",
+    "approval": {
+      "status": "approved",
+      "by": "Sunny",
+      "text": "Before I decide, I check inside."
+    },
+    "selection": {
+      "by": "Codex",
+      "authority": "Sunny's October 19 exact wording selection",
+      "ownerApproval": false
+    }
+  }
+]

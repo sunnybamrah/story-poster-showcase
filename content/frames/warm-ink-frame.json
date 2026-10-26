@@ -1,0 +1,18 @@
+{
+  "styleId": "warm-ink",
+  "styleLine": "Warm ink illustration on cream paper, hand-drawn dark outlines, soft watercolor washes, muted teal and golden accents, gentle paper texture, a simple open background.",
+  "generations": 1,
+  "ready": true,
+  "state": "checked",
+  "hash": "184c4565b077d9ddeebbb7950f5637a1bd9f82cc5de9c1336c7731fe9b883056",
+  "check": {
+    "ready": true,
+    "answers": {
+      "lettersPresent": false,
+      "peopleCountRight": true,
+      "outfitMatches": true,
+      "actionMatches": true
+    },
+    "faults": []
+  }
+}

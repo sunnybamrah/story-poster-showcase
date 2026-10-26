@@ -1,0 +1,52 @@
+{
+  "moveId": "name-it-exactly",
+  "chapterTitle": "The Word Behind the Door",
+  "tagline": "Find the exact word, and the fizz feels heard.",
+  "story": "MADE UP\nPip the Fox kicked the door shut.\nThe whole hallway rattled.\nBiscuit the dog hid under the table.\n\n\"Everyone is annoying,\" Pip told the ceiling. \"Everyone. Even you, ceiling.\"\n\nPip flopped onto the bed with round glasses crooked and the blue sketchbook still under one arm. The green hoodie with the yellow lightning patch felt too hot. Inside, Pip's chest fizzed like a shaken soda bottle.\n\nBiscuit nudged the door open with a wet nose and sat on Pip's red high top sneakers.\n\n\"Not now, Biscuit,\" Pip said. \"I just feel bad. Bad, bad, bad.\"\n\nBiscuit sighed, which is what dogs do when a word is too small for the job.\n\nPip opened the sketchbook, because drawing comics is what Pip does when everything gets loud. The first panel showed a fox with an empty thought bubble. The pencil hovered. Bad would not fit in there. It was like squishing a sleeping bag into a lunchbox.\n\nTaped inside the cover was a card in Pip's own handwriting. It said:\n\nThink of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.\n\n\"A tool,\" Pip muttered. \"Fine. Tool time.\"\n\nPip thought of one small thing. The comic page from last night, the one Pip had erased so hard that the paper tore.\n\n\"Bad,\" said Pip. \"Or mad.\" Pip made a face. \"Those are just the first two words that fall out.\"\n\nThen Pip whispered a fact from a library book. \"Scientists found that teens who could name feelings exactly got knocked down less by hard times. Nobody has tested teaching it, so this is only a best guess.\"\n\n\"Annoyed?\" Pip tried. \"Yes, but small. Like a sock, not a coat.\"\n\n\"Frustrated,\" Pip said, tapping the pencil. \"That means something is standing in your way and won't move.\" The tear had stood in the way of the whole comic. \"Closer, but not all of it.\"\n\n\"Let down,\" Pip said slowly. That is a way of saying disappointed, which means you hoped for something good and it did not show up. The comic was going to be the best one so far.\n\nPip sat up. \"I felt annoyed, and a bit let down.\" Pip said it out loud, one paw raised, mouth wide open, like a tiny speech to nobody. Biscuit's ears lifted.\n\n\"Number,\" Pip said. \"Seven.\" Then, after a breath, \"Six and a half.\"\n\nThe fizz did not go flat. Pip's chest still buzzed, and the hallway still waited outside the door. But the buzz had two labels on it now, and two labels were easier to hold than one giant bad.\n\nPip wrote annoyed and let down inside the empty bubble. The tear in the page stayed a tear.\n\n\"A word is a tiny lasso for a feeling,\" Pip told Biscuit. \"Don't worry, it only catches feelings, not dogs.\"\n\nBiscuit licked the pencil. Pip laughed, a small crooked laugh.\n\n\"Still about a six,\" Pip admitted. \"A six with names on it.\"\n\nPip noticed that choosing a sharper word made the fizz easier to look at. That was the whole trick, and it was not a perfect one.\n\nPip tried one more word, overwhelmed, which means too many things arriving at once. It fit the day, but it did not fit the whole of Pip.\n\nPip opened the door a crack. The hallway was exactly as bumpy as before. Pip still felt grumpy, and some of that would stay for a while. But Pip had a word to hold, a pencil to draw with, and a dog who wanted a walk.\n\nBiscuit wagged once, which in dog means let's go.",
+  "panelLines": [
+    {
+      "scene": "A fox stands with arms crossed beside a shut door in a rattling hallway, a dog peeking from under a small table.",
+      "line": "Everyone is annoying."
+    },
+    {
+      "scene": "A fox in round glasses sits on a bed holding a pencil above a sketchbook with an empty thought bubble.",
+      "line": "Bad would not fit in there."
+    },
+    {
+      "scene": "The fox taps the pencil against its chin beside a sketchbook page with a torn corner.",
+      "line": "Closer, but not all of it."
+    },
+    {
+      "scene": "The fox laughs on the bed with one paw raised while a dog licks the pencil and a filled bubble sits in the open sketchbook.",
+      "line": "A six with names on it."
+    }
+  ],
+  "jokeIdea": "A tiny rope lasso hangs looped around a drawn soda bottle on the sketchbook corner while the dog calmly watches, not lassoed.",
+  "feelFirst": [
+    "Slamming a door can mean a lot is packed inside.",
+    "Wanting to be left alone after a long day makes sense."
+  ],
+  "tinyTryOptions": [
+    {
+      "text": "Pick one small thing from today. Say the first word that comes, then say a sharper word out loud.",
+      "seconds": 45,
+      "offScreen": true
+    },
+    {
+      "text": "Write two sharper feeling words on a scrap of paper, circle the one that fits best, and give it a number from 1 to 10.",
+      "seconds": 60,
+      "offScreen": true
+    },
+    {
+      "text": "Say one exact feeling word out loud to a pet or a pillow, then say a number from 1 to 10.",
+      "seconds": 30,
+      "offScreen": false
+    }
+  ],
+  "whereElse": {
+    "line": "Where could you try finding one exact word when a day feels bad?",
+    "place": "on a walk around the block"
+  },
+  "noticedFeeling": "Annoyed",
+  "replayCue": "The first signal is a slammed door or the word bad, so pause and look for a sharper word."
+}

@@ -1,0 +1,73 @@
+{
+  "listening-request": {
+    "lines": [
+      "Oof, that was rough. I get why you hated it."
+    ],
+    "source": "PLAN-FINAL.md section 13 item 2",
+    "writtenByCodex": false
+  },
+  "empty": {
+    "lines": [
+      "Oof, that was rough. I get why you hated it."
+    ],
+    "source": "PLAN-FINAL.md section 13 item 2",
+    "writtenByCodex": false
+  },
+  "body-and-food": {
+    "lines": [
+      "change the home, not the child.",
+      "Keep talk about food and bodies off the child's poster."
+    ],
+    "source": "PLAN-FINAL.md section 13 item 8. First line copied; second line written by Codex.",
+    "writtenByCodex": true,
+    "writtenByCodexLineNumbers": [
+      2
+    ]
+  },
+  "loss": {
+    "lines": [
+      "I am here with you. We can talk about who you miss, or sit quietly.",
+      "You do not have to make anything tonight."
+    ],
+    "source": "PLAN-FINAL.md section 13 item 4 gives no fixed script. Parent words only in this slice.",
+    "writtenByCodex": true
+  },
+  "adult-responsibility": {
+    "lines": [
+      "Thank you for telling me. I will help with what happens next.",
+      "I will speak with the grown-ups who can help. You do not have to handle this alone."
+    ],
+    "source": "PLAN-FINAL.md section 13 items 3 and 19 give no fixed script.",
+    "writtenByCodex": true
+  },
+  "parent-repair": {
+    "lines": [
+      "I yelled. That was my mistake, and I am sorry.",
+      "I will stop here and listen. You can answer when you are ready."
+    ],
+    "source": "PLAN-FINAL.md section 13 item 6 gives no fixed script.",
+    "writtenByCodex": true
+  },
+  "treatment-request": {
+    "lines": [
+      "I can help with an everyday feelings story, but not treatment for a diagnosis."
+    ],
+    "source": "PLAN-FINAL.md section 3, hard stop",
+    "writtenByCodex": false
+  },
+  "danger": {
+    "lines": [
+      "If there is danger right now, call 911."
+    ],
+    "source": "moves-8-13.md Parent card 7, exact sentence",
+    "writtenByCodex": false
+  },
+  "persistent-low-mood": {
+    "lines": [
+      "A low or flat mood lasting several days needs a conversation, not a poster.",
+      "Make room to listen and talk about sleep and support."
+    ],
+    "source": "Original SKILL-MAP safety note for Spotting the Good Stuff. No added number of days or medical cutoff.",
+    "writtenByCodex": true
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "boxes": [
+    {
+      "id": "title",
+      "text": "Name the feeling"
+    },
+    {
+      "id": "tagline",
+      "text": "Name the feeling true; say the word, too."
+    },
+    {
+      "id": "tiny",
+      "text": "ONE TINY TRY FOR TODAY\nTonight, name one feeling: hurt, angry, disappointed, or something else."
+    },
+    {
+      "id": "science",
+      "text": "WHAT SCIENCE SAYS\nIn research, teens found feelings harder to tell apart than adults. This study did not test teaching the move."
+    },
+    {
+      "id": "keyword",
+      "text": "NAME"
+    },
+    {
+      "id": "move",
+      "text": "WHAT I CAN DO\nWhen I notice ______,\nI ______.\n\n______\n______\nBackup: Breathe out slowly"
+    },
+    {
+      "id": "remember",
+      "text": "HOW TO REMEMBER IT\nName the feeling true; say the word, too.\n\nTouch your chest.\nSay the feeling\u2019s name."
+    },
+    {
+      "id": "source",
+      "text": "WHERE IT CAME FROM\nNook, Somerville and team, Harvard, 2018.\n\nSearch: emotion differentiation teens Nook Somerville"
+    },
+    {
+      "id": "footer",
+      "text": ""
+    }
+  ],
+  "extraText": [],
+  "keyWordMirrored": false,
+  "keyWordUnreadable": false,
+  "filledBlank": false,
+  "textCrossesBoundary": false,
+  "outfitMismatch": true,
+  "actionMismatch": false,
+  "peopleCountMismatch": false,
+  "evidence": {
+    "keyWordMirrored": "",
+    "keyWordUnreadable": "",
+    "filledBlank": "",
+    "textCrossesBoundary": "",
+    "outfitMismatch": "Supplied outfit: \u201cgreen hoodie with a yellow lightning patch\u201d, \u201cred high top sneakers\u201d, and \u201cblue sketchbook under one arm.\u201d The character has a hoodie and lightning patch, but wears no visible red high top sneakers and the blue sketchbook is on the table, not under one arm.",
+    "actionMismatch": "",
+    "peopleCountMismatch": "",
+    "sceneTooEmpty": "The hero shows a detailed furnished room with a window, plants, shelves, books, a table, and a sunset view."
+  },
+  "sceneTooEmpty": false,
+  "geometry": {
+    "templateVersion": "letter-five-cards-v1",
+    "actionBackgroundArea": "none",
+    "coordinateSpace": {
+      "unit": "source-pixels",
+      "width": 1024,
+      "height": 1536
+    },
+    "textLines": [
+      {
+        "boxId": "tinyTry.body",
+        "x": 47,
+        "y": 773,
+        "w": 262,
+        "h": 27
+      },
+      {
+        "boxId": "tinyTry.body",
+        "x": 47,
+        "y": 808,
+        "w": 224,
+        "h": 27
+      },
+      {
+        "boxId": "tinyTry.body",
+        "x": 47,
+        "y": 842,
+        "w": 218,
+        "h": 27
+      },
+      {
+        "boxId": "tinyTry.body",
+        "x": 47,
+        "y": 877,
+        "w": 180,
+        "h": 27
+      },
+      {
+        "boxId": "science.body",
+        "x": 382,
+        "y": 773,
+        "w": 247,
+        "h": 27
+      },
+      {
+        "boxId": "science.body",
+        "x": 382,
+        "y": 808,
+        "w": 233,
+        "h": 27
+      },
+      {
+        "boxId": "science.body",
+        "x": 382,
+        "y": 842,
+        "w": 239,
+        "h": 27
+      },
+      {
+        "boxId": "science.body",
+        "x": 382,
+        "y": 877,
+        "w": 170,
+        "h": 27
+      },
+      {
+        "boxId": "science.body",
+        "x": 382,
+        "y": 912,
+        "w": 226,
+        "h": 27
+      },
+      {
+        "boxId": "plan.body",
+        "x": 721,
+        "y": 754,
+        "w": 180,
+        "h": 27
+      },
+      {
+        "boxId": "plan.body",
+        "x": 721,
+        "y": 788,
+        "w": 23,
+        "h": 27
+      },
+      {
+        "boxId": "plan.body",
+        "x": 720,
+        "y": 858,
+        "w": 256,
+        "h": 3
+      },
+      {
+        "boxId": "plan.body",
+        "x": 720,
+        "y": 893,
+        "w": 256,
+        "h": 3
+      },
+      {
+        "boxId": "plan.backup",
+        "x": 731,
+        "y": 932,
+        "w": 220,
+        "h": 24
+      },
+      {
+        "boxId": "remember.body",
+        "x": 47,
+        "y": 1114,
+        "w": 235,
+        "h": 27
+      },
+      {
+        "boxId": "remember.body",
+        "x": 47,
+        "y": 1149,
+        "w": 183,
+        "h": 27
+      },
+      {
+        "boxId": "remember.body",
+        "x": 47,
+        "y": 1202,
+        "w": 190,
+        "h": 27
+      },
+      {
+        "boxId": "remember.body",
+        "x": 47,
+        "y": 1236,
+        "w": 250,
+        "h": 27
+      },
+      {
+        "boxId": "source.body",
+        "x": 382,
+        "y": 1109,
+        "w": 246,
+        "h": 27
+      },
+      {
+        "boxId": "source.body",
+        "x": 382,
+        "y": 1144,
+        "w": 204,
+        "h": 27
+      },
+      {
+        "boxId": "source.body",
+        "x": 382,
+        "y": 1197,
+        "w": 183,
+        "h": 27
+      },
+      {
+        "boxId": "source.body",
+        "x": 382,
+        "y": 1232,
+        "w": 221,
+        "h": 27
+      },
+      {
+        "boxId": "source.body",
+        "x": 382,
+        "y": 1267,
+        "w": 189,
+        "h": 27
+      }
+    ],
+    "observed": [
+      {
+        "id": "title",
+        "x": 20,
+        "y": 21,
+        "w": 984,
+        "h": 183
+      },
+      {
+        "id": "tagline",
+        "x": 184,
+        "y": 122,
+        "w": 656,
+        "h": 61
+      },
+      {
+        "id": "hero",
+        "x": 20,
+        "y": 212,
+        "w": 984,
+        "h": 434
+      },
+      {
+        "id": "keyword",
+        "x": 710,
+        "y": 1017,
+        "w": 288,
+        "h": 288
+      },
+      {
+        "id": "tinyTry",
+        "x": 20,
+        "y": 659,
+        "w": 321,
+        "h": 325
+      },
+      {
+        "id": "science",
+        "x": 357,
+        "y": 659,
+        "w": 318,
+        "h": 325
+      },
+      {
+        "id": "plan",
+        "x": 691,
+        "y": 659,
+        "w": 313,
+        "h": 325
+      },
+      {
+        "id": "remember",
+        "x": 20,
+        "y": 997,
+        "w": 321,
+        "h": 330
+      },
+      {
+        "id": "source",
+        "x": 357,
+        "y": 997,
+        "w": 321,
+        "h": 330
+      },
+      {
+        "id": "footer",
+        "x": 20,
+        "y": 1343,
+        "w": 984,
+        "h": 168
+      },
+      {
+        "id": "joke",
+        "x": 730,
+        "y": 1017,
+        "w": 268,
+        "h": 288
+      },
+      {
+        "id": "tinyTry.heading",
+        "x": 122,
+        "y": 685,
+        "w": 210,
+        "h": 62
+      },
+      {
+        "id": "tinyTry.icon",
+        "x": 47,
+        "y": 685,
+        "w": 39,
+        "h": 39
+      },
+      {
+        "id": "tinyTry.body",
+        "x": 47,
+        "y": 773,
+        "w": 277,
+        "h": 176
+      },
+      {
+        "id": "science.heading",
+        "x": 454,
+        "y": 685,
+        "w": 222,
+        "h": 62
+      },
+      {
+        "id": "science.icon",
+        "x": 382,
+        "y": 685,
+        "w": 39,
+        "h": 39
+      },
+      {
+        "id": "science.body",
+        "x": 382,
+        "y": 773,
+        "w": 255,
+        "h": 176
+      },
+      {
+        "id": "plan.heading",
+        "x": 775,
+        "y": 685,
+        "w": 204,
+        "h": 62
+      },
+      {
+        "id": "plan.icon",
+        "x": 710,
+        "y": 685,
+        "w": 39,
+        "h": 39
+      },
+      {
+        "id": "plan.body",
+        "x": 720,
+        "y": 754,
+        "w": 256,
+        "h": 143
+      },
+      {
+        "id": "remember.heading",
+        "x": 122,
+        "y": 1023,
+        "w": 210,
+        "h": 62
+      },
+      {
+        "id": "remember.icon",
+        "x": 47,
+        "y": 1015,
+        "w": 57,
+        "h": 72
+      },
+      {
+        "id": "remember.body",
+        "x": 47,
+        "y": 1114,
+        "w": 250,
+        "h": 149
+      },
+      {
+        "id": "source.heading",
+        "x": 463,
+        "y": 1023,
+        "w": 215,
+        "h": 62
+      },
+      {
+        "id": "source.icon",
+        "x": 382,
+        "y": 1023,
+        "w": 63,
+        "h": 49
+      },
+      {
+        "id": "source.body",
+        "x": 382,
+        "y": 1109,
+        "w": 246,
+        "h": 185
+      },
+      {
+        "id": "plan.handwriting",
+        "x": 720,
+        "y": 754,
+        "w": 256,
+        "h": 110
+      },
+      {
+        "id": "plan.backup",
+        "x": 731,
+        "y": 932,
+        "w": 253,
+        "h": 30
+      }
+    ],
+    "textIconCollision": false,
+    "fillOutsideCard": false,
+    "heroOutsideRegion": false,
+    "jokeOutsideRegion": false,
+    "actionBodyPartHidden": false,
+    "clutteredActionBackground": false,
+    "glossOrDistortedProportions": false,
+    "printTextTooSmall": false,
+    "evidence": {
+      "textIconCollision": "",
+      "fillOutsideCard": "",
+      "heroOutsideRegion": "",
+      "jokeOutsideRegion": "",
+      "actionBodyPartHidden": "",
+      "clutteredActionBackground": "",
+      "glossOrDistortedProportions": "",
+      "printTextTooSmall": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "key": "taglineEndWords",
+  "checkerEndWords": [
+    "Name",
+    "tame"
+  ],
+  "halves": [
+    "Name it",
+    "to tame it"
+  ],
+  "endWords": [
+    "it",
+    "it"
+  ],
+  "method": "saved-halves",
+  "reason": "Two checker answers had unusable end words. Code used the actual rhyme halves."
+}

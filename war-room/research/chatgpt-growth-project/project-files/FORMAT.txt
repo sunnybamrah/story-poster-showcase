@@ -1,0 +1,59 @@
+Sep 11
+# FORMAT v5 final: the learner's Confidence Guide (2026-09-11, after the three engine review)
+
+Reader: the learner, a child aged 8 to 13. Dad reads aloud. A sibling appears in a story only when they were really there.
+Paper: US Letter, portrait. Style: graphic novel like Smile or The Baby Sitters Club (STYLE.md).
+Who leads: Dad. He picks the topics (he can type "scout" plus what the week looked like and get three topics proposed). A full kit is for a theme that keeps coming back, roughly twice a month. On most nights the whole move is Dad saying "Oof, that was rough. I get why you hated it," and stopping there.
+The rule that shapes everything: a kit exists so the learner USES one move in a real moment. Knowing a skill is not the skill. Success is "I did the move while still feeling it," never "the feeling went away."
+the learner owns the small things: she writes her one move and picks her Tiny Try.
+
+## Page 1: THE POSTER (the wall; the 1 minute version)
+Under 110 words. One idea, one picture, breathing room.
+| Slot | What goes there |
+|---|---|
+| 1 | Topic name, big, 2 to 4 words |
+| 2 | Rhyming tagline, one line, fresh every time: catchy, short, something she can say back tomorrow. A memory hook, not proof. |
+| 3 | Hero picture: the learner DOING THE MOVE, never the hard moment itself, graphic novel style, one joke tied to the skill hidden in it. the selected sibling only if he was there. |
+4 ONE TINY TRY FOR TODAY: one line she could do tonight. (The WHAT YOUR BRAIN SAYS bubbles belong in the STORY pages, never on the poster. This slot changed 2026-09-13 because the drawing model was still obeying the old wording and printed the unkind words onto the wall.)
+| 5 | WHAT SCIENCE SAYS: one honest sentence. Never "scientists have shown" unless the study tested exactly that. |
+| 6 | WHAT I CAN DO: an EMPTY ruled frame "When I notice ______, I ______." that she fills in by hand before the poster goes up. Never pre-answered on the poster or anywhere else. One backup move in small print. (The tiny try lives in slot 4, not here.) |
+| 7 | HOW TO REMEMBER IT: the rhyme plus one body action. Hot feelings (fear, anger, shame) get the cyclic sigh: two quick breaths in through the nose, one long breath out. |
+| 8 | WHERE IT CAME FROM: the real people, place and year, in kid words, plus a phrase she can type into a search box. Dad's rule: she should be able to see where it came from. |
+| Footer | the learner's Confidence Guide |
+
+## Pages 2 to 3: THE CHAPTER (read aloud, 4 to 5 minutes)
+- "Chapter N: <name>", header "the learner & the selected sibling", numbered in order. Tag at the top: REAL or MADE UP.
+- 550 to 750 spoken words. Written to be read aloud to a bright 10 year old: natural dialogue, mixed sentence lengths, rich feeling words, two or three bigger words explained inside the story. Editorial rule: one problem, one skill, one science idea, one action. Not three science ideas hidden in a story.
+- Two drawn panels per page at the top, text under them. At most one short speech bubble per panel.
+- Shape: hook in three lines; the wobble; the science whispered once by Dad, Mom, a friend or her own thinking; the try; what actually happened; an honest ending. The skill is allowed to work imperfectly: "her face was still hot while she picked up the spoon" beats "and then she realised nobody was watching."
+- Built from the REAL moment when there is one; a plausible everyday MADE UP scene when Dad gave only a topic. Keep the real feeling in. Strong verbs, small chunks.
+
+## Page 4: TRY IT (the page that matters)
+- FEEL FIRST (for Dad, two lines at the top): validate before teaching. "That really did feel awful." "You don't have to stop feeling nervous before we figure out what to do."
+- MY ONE MOVE: one blank "When I notice ______, I ______." for the learner to write. Dad helps sharpen it: weak is "when I get nervous I am brave"; strong is "when my stomach jumps as the teacher says my name, I put both feet down and say the first sentence." One optional backup line.
+- TINY TRY (30 to 90 seconds, she picks one): two or three real world or rehearsal options that fit the moment. Examples: play the first four bars for Dad while the butterflies stay; Dad "accidentally" drops two plastic spoons at dinner and she practises pausing and picking up one thing; rehearse the exact first seven words to a teacher; walk two steps toward an imaginary group and say the opener.
+- TALK (Dad asks one, two if it flows): "What did it feel like right before?" "What helped most, and how did you know?"
+- WHERE ELSE: one line: "Where else could this same move work?" and one place to try it.
+- "This week I tried: ________________"
+
+## Page 5: TWO CARDS plus the PARENT STRIP (cut lines)
+- DAD CARD (the moment itself, 30 seconds): "I noticed you looked <feeling>. That makes sense." Then, if it is a real personal moment, one question Dad may ask: "Want this one turned into a story, just a quick idea, or should we leave it?" Then: "Want to try <the move> now, or later?" No lecture, no kit in the moment. Afterwards: "You did the move. What did you notice?"
+- REPLAY CARD (a quiet night, 1 to 2 minutes, no calendar): FRONT: topic name, key word box, then: "Picture the moment. What was the first signal from your brain or body?" "What is your one move?" "Show me for five seconds." "Where else could this move work?" BACK: cue, her move (blank to copy in), the rhyme, and three boxes: Remembered it / Practised it / Used it for real.
+- PARENT STRIP (small, for Dad only): the study or studies with DOI or PubMed number and an evidence fit label: DIRECT (kids her age, same skill), ADJACENT (kids, but different age or skill), MECHANISM (shows a brain or memory process, not behaviour), ADULT ONLY. One limitation in one line. If nothing direct exists: "Direct evidence in kids her age: not found. Related research suggests it may help." Plus the replay rule of thumb: cannot recall it, replay sooner and simplify; recalls words but cannot show it, rehearse; used it for real, space it out; says it is useless, stop or redesign.
+
+## Labels
+REAL (happened), MADE UP (invented), SCIENCE (tested in research), BEST GUESS (sensible idea, not tested on kids like her). Never blend them.
+
+## Word rules
+Short sentences, everyday words, plus the two or three bigger ones she can grow into. No dashes as punctuation. the selected sibling speaks when he was really there.
+
+
+DROPPED ON PURPOSE, DO NOT RE-ADD: the "someone real who did this" slot (a real person or a peer who used the skill). It was proposed in the v4 planning round, then two independent reviews argued to cut it as low value child-facing load. Decision recorded 2026-09-13 so it stops being re-raised as a missing feature.
+
+
+ADDED 2026-09-13, from the Don't Feed the Fire review:
+- PANELS: if the skill ends in telling a grown up, ONE of the four panels must SHOW the telling and show the grown up. Read each panel back as a sentence and lay it beside the words on the same page. If the two differ, the PICTURE is wrong, not the words.
+- WHERE ELSE: at least one of the places named must NOT be a screen, or she learns it is a phone skill.
+- REPLAY CARD: front and back the same size, side by side with a fold line between them, about 3.5 by 2.5 inches, so it can actually be cut and folded into a card. Stacked boxes of different heights on one face cannot be made into anything.
+- DAD CARD: four numbered lines, not one block. Any promise that unlocks telling (for example "you are not losing your phone") goes FIRST, said on an ordinary calm day, not after she has already told.
+- Before the final PDF, run POSTER-CHECK.txt.

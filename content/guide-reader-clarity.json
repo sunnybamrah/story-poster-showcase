@@ -1,0 +1,135 @@
+[
+  {
+    "kind": "guide-claim",
+    "sourceId": "name-it-exactly",
+    "originalText": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+    "originalSHA256": "05dbefa73286067348600531b7526d5e4ba30ab6c9dab7cd08db8d13a8566ca2",
+    "plainText": "In studies with adults, naming feelings sometimes helped people feel less upset."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "29878880",
+    "originalText": "A lab task with 143 people aged 5 to 25 compared how clearly they separated feelings. It did not teach naming or test whether naming helped.",
+    "originalSHA256": "68620591c326f68f6d4c02857671bb0e1ca5ee2d1e582f9f552d0d8f7e5240a2",
+    "plainText": "In a lab task, 143 people aged 5 to 25 showed how clearly they could tell feelings apart. The task did not teach them to name feelings. It did not test whether naming helped."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "31246045",
+    "originalText": "233 teenagers aged 14 to 17 were followed over time. The link between clearer feelings and less depression under stress does not prove that teaching naming helps.",
+    "originalSHA256": "8dfbea084f1590f776fbba61b749289cce40bef0a9a01e0476a2dc96fa94efa5",
+    "plainText": "Researchers followed 233 teenagers aged 14 to 17 over time. Teens who told feelings apart more clearly had less depression when under stress. Depression is a health condition that affects mood. This link does not prove that teaching feeling names helps."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "17576282",
+    "originalText": "Adults labeled emotional images during brain scans. Lower amygdala activity does not prove less upset or better everyday choices in children.",
+    "originalSHA256": "dabb99f3374045c99220f61b1f7a1236254c543ab4d8ae9a3ac5a230ff48ab19",
+    "plainText": "Adults named feelings in pictures while a scanner measured their brains. The amygdala, a brain part involved in feelings, was less active. This does not prove that children feel less upset or make better choices each day."
+  },
+  {
+    "kind": "source-limit",
+    "sourceId": "10.1177/1754073917742706",
+    "originalText": "The relevant benefit evidence comes from adult studies. Results vary across feelings, body responses, brain activity and behavior; immediate relief and benefits for children aged 8 to 13 are not established.",
+    "originalSHA256": "07bb9731deedc586835770d6735e5fca998c6ab74813cc3cd7afd10664bb6d0f",
+    "plainText": "Studies of these benefits tested adults. Results varied for feelings, body responses, brain activity and actions. We do not yet know if naming feelings helps people feel better right away or helps children aged 8 to 13."
+  },
+  {
+    "kind": "guide-limit",
+    "sourceId": "name-it-exactly",
+    "originalText": "Adult findings do not show that this home practice helps children aged 8 to 13 or that naming brings quick relief.",
+    "originalSHA256": "5a8fca9272fac10c360ceeb1bb712738333439ab93d681c7d3012e70eb58e9a4",
+    "plainText": "Studies with adults do not show that this home practice helps children aged 8 to 13. They do not show that naming feelings helps someone feel better right away."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-8b233c68232efc8645479298",
+    "originalText": "A UNICEF activity guide for adolescents teaches listeners to say back what the speaker said to show they understand.",
+    "originalSHA256": "8ae1a7ffb47d01e9a5152575d3ccfb72ff154d1dc346dcf8f58486d97b05c4d9",
+    "plainText": "A UNICEF activity guide for young people growing into adults teaches listeners to say back what they heard. This is a way to show they understand."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-24bfdfa426f9b648884265e2",
+    "originalText": "A UNICEF activity guide for adolescents describes collaboration as listening to each other and suggesting creative ways forward.",
+    "originalSHA256": "3921d8fe4a762ed088f456f80cb7c0b0b0f328c9ab7102bdaf7efa127e97ac33",
+    "plainText": "A UNICEF activity guide for young people growing into adults says working together means listening to each other and suggesting new ways forward."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-a62c761d55f32a57db3af28f",
+    "originalText": "A 2007 US education guide rated asking and answering deep why and how questions as strongly supported in school settings.",
+    "originalSHA256": "14e798f7b960816df4d5c0595592f854f322afa7bcb1c8286194903a1b90bddb",
+    "plainText": "A 2007 US school guide rated asking and answering why and how questions that need careful thought as strongly supported by school studies."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-8e71a433a9a3f33671c07923",
+    "originalText": "A seventh-grade study linked a learning lesson to better classroom motivation.",
+    "originalSHA256": "0e08f654c2b42421189467ba6d34c8ea8733d39944e95ba9149deddb14908f7e",
+    "plainText": "A study of seventh graders linked a lesson about learning with students being more eager to learn in class."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-cf7c7bdd8d5884f001178a92",
+    "originalText": "In a vocabulary study, feedback helped sixth graders learn more than no feedback.",
+    "originalSHA256": "a153fde395de909b236f0d853aef8dbe07fb8993ea2563d256d9575dff4ae02f",
+    "plainText": "In a study of word meanings, sixth graders learned more when told how they did than when they were not told."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-9afae8b5f47349cdc69b3355",
+    "originalText": "In a study, younger children who heard strategy questions found more ways to wait.",
+    "originalSHA256": "39bd38dfc866ddc826b31461b5f1d14d81b16590128d4169882b007ce5fe57a6",
+    "plainText": "In a study, younger children found more ways to wait after hearing questions about ways to wait."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-2459b451569c69b94eb59d2a",
+    "originalText": "Emotion differentiation means telling difficult feelings apart and giving them names.",
+    "originalSHA256": "380638ef04e8c613a38fd85187b8930e3f329b3c3fa9314e218f4e9c5591b04d",
+    "plainText": "Telling difficult feelings apart and giving them names is called emotion differentiation."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-5a2b0e918914a0fd0e6598a7",
+    "originalText": "In a classroom experiment with grade 7 students, test scores were higher for maths learned through mixed problem practice than through practice grouped by problem type.",
+    "originalSHA256": "4469aa55384b814283d0bbf34c3f2a76d74369792fe114f17c1d094ae695b4d6",
+    "plainText": "In a classroom experiment, grade 7 students got higher test scores for maths they learned by mixing different kinds of problems. Scores were lower for maths they learned by doing one kind at a time."
+  },
+  {
+    "kind": "guide-claim",
+    "sourceId": "lib-afc43fdcec5e27728319245d",
+    "originalText": "In a study of six- and seven-year-olds, the group that practiced picturing shapes turning in their minds through online activities at home got better at similar tasks.",
+    "originalSHA256": "b6e7ef8e3553cccc376f3199104d4804b00bcf2432c6c00fd850f910db85dca4",
+    "plainText": "In a study of six- and seven-year-olds, one group practised picturing shapes turning in their minds. They used online activities at home. They got better at similar tasks."
+  },
+  {
+    "kind": "guide-action",
+    "sourceId": "name-it-exactly",
+    "originalText": "Tonight, each name one feeling: hurt, angry, disappointed, or something else.",
+    "originalSHA256": "8c7943775484c589e3d4a1868cb30da0f106c843df260cf7b395e5a38ff63a75",
+    "plainText": "Tonight, you each name one feeling: hurt, angry, disappointed, or something else."
+  },
+  {
+    "kind": "guide-try",
+    "sourceId": "name-it-exactly",
+    "originalText": "Think of a small bother. Pick a sharper feeling word than 'bad' or 'mad'.",
+    "originalSHA256": "25af9df6d9d6416e425c9a0f6f8a027adcf4373e008cb0ea048b1469237452da",
+    "plainText": "Think of a small bother. Name the feeling that fits. Mad, sad or another word is okay."
+  },
+  {
+    "kind": "guide-practice",
+    "sourceId": "name-it-exactly",
+    "originalText": "Think of one small thing that bugged you this week. Say the first word that comes. Probably bad, or mad. Now find a sharper word. Annoyed? Embarrassed? Left out? Let down? Jealous? Nervous? Pick one. If two fit, say both. Say it out loud: 'I felt embarrassed, and a bit annoyed.' Now give it a number from 1 to 10. That's it. The word is a tool, not a grade.",
+    "originalSHA256": "68f0371887586c8c33e2cbec478e29648ab302581d137e20129874a8d29f17b7",
+    "plainText": "Think of one small thing that bugged you this week. Name the feeling that fits. Mad or sad can fit. Or try annoyed, left out, let down, jealous or nervous. If two fit, say both. Say it out loud: 'I felt let down, and a bit mad.' Now give it a number from 1 to 10. The word and number are tools, not grades."
+  },
+  {
+    "kind": "poster-claim",
+    "sourceId": "name-it-exactly",
+    "originalText": "In adult studies, naming feelings helped people feel less upset. We need stronger tests with children aged 8 to 13.",
+    "originalSHA256": "05dbefa73286067348600531b7526d5e4ba30ab6c9dab7cd08db8d13a8566ca2",
+    "plainText": "In studies with adults, naming feelings sometimes helped people feel less upset. We need stronger tests with children aged 8 to 13."
+  }
+]

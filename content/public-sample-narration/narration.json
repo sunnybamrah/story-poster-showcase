@@ -1,0 +1,232 @@
+{
+ "schemaVersion": 1,
+ "fictional": true,
+ "note": "Optional reading of the fictional public example. Made once offline; the app serves this static file and never calls a voice provider.",
+ "transcript": "The Next Game.\n\nThe teams were full.\nPip wanted to play.\nHe walked to the bench.\n\nAt recess, his face felt hot. His hands were tight. The soccer game went on without him.\n\nThat evening, Pip and Dad sat on the sofa, calm enough to read together. Dad held a comic open on his lap.\n\n“I wanted to play,” Pip said.\n\nDad left the page where it was. “You wanted to be part of the game.”\n\nPip nodded. Dad listened while he told the whole thing.\n\n“It was just bad,” Pip said.\n\n“Want to find a word that fits?” Dad asked. “Maybe left out? You can tell me if I’m wrong.”\n\n“Left out fits,” Pip said. “I was sitting there while the game went on.”\n\n“I felt left out today, too,” Dad said. “Someone talked over me at work. I’m learning to name my feelings, just like you.”\n\nPip rested a hand on his chest. Dad put his free hand on his own chest.\n\n“Hurt and angry, too,” Pip said.\n\n“Both at once,” Dad said. “Name it to tame it. Those words help me understand what you need.”\n\n“I’m still angry.”\n\n“You can be angry and sit close to me.”\n\nPip leaned against Dad. The comic stayed open between them.\n\nAfter a while, Dad asked, “Want to try saying, ‘Can I join the next game?’”\n\n“Tomorrow before school?”\n\n“We can practise then.”\n\n“What if they still say no?”\n\n“That could happen. You could ask someone else to play. If you keep getting left out, tell a teacher you like, just as you told me tonight.”\n\n“You’ll listen tomorrow, too?”\n\n“Tomorrow, too.”\n\nPip pointed to the comic. “Now the funny bit.”\n\nDad read it in his silliest voice. Pip laughed against his shoulder.\n\nRecess still hurt. But Pip had words for the feeling, a next step to try, and Dad beside him.",
+ "transcriptSHA256": "2f141b08aa1442b5948ee1081bf9d1dbbc66f3e4ba227c2cea1d05644553095e",
+ "parts": [
+  {
+   "textSha256": "d6f71cf5235e99705398002c34a6b100409585d66fe5da52434cc2f260007c0d"
+  },
+  {
+   "textSha256": "fb9af611676facbd6fcc44f1cd0380a7fefb996d959a1924617c88daaca07cf3"
+  }
+ ],
+ "speakerPlanSHA256": "637363adb055b33f75a934f02a50f97611bb9d376cad41ba6c34f2283ae55de1",
+ "segments": [
+  {
+   "speaker": "Dad",
+   "text": "The Next Game.\n\nThe teams were full.\nPip wanted to play.\nHe walked to the bench.\n\nAt recess, his face felt hot. His hands were tight. The soccer game went on without him.\n\nThat evening, Pip and Dad sat on the sofa, calm enough to read together. Dad held a comic open on his lap.\n\n",
+   "textSha256": "706cfe90fc46998997d3dcae240211e444d104510ed9219921deb46bc601faf0",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 22.56,
+   "wavSha256": "d87327a2a08968adf9722d382ba77741125534b57ac7c3784c4c21b6f305b7d3"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“I wanted to play,”",
+   "textSha256": "f3408f67b216222843263cac05c548e6481af55c20940f7fd919ff35840a4b1e",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 1.72,
+   "wavSha256": "a1673609dba784e82e70037b43599bde67f618c3b8926a6a21644a1b769d2660"
+  },
+  {
+   "speaker": "Dad",
+   "text": " Pip said.\n\nDad left the page where it was. “You wanted to be part of the game.”\n\nPip nodded. Dad listened while he told the whole thing.\n\n",
+   "textSha256": "9846346b8a66fe7f8ceaee8cf037d8f43263a6407f5c4af054afedd3cfbe7316",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 11.36,
+   "wavSha256": "17613330093d0941b1d2e629e78cc0e7bbfb41c92dcfded9f30e38a2eac11d6f"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“It was just bad,”",
+   "textSha256": "378ff92e3c1acda7cfb4a180326bb2d3a053a6dcf30c41835059f5f2f480072a",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.08,
+   "wavSha256": "d3554f6cc05151c525b4deac48575489530dffe68afd31196a6e02f698235c82"
+  },
+  {
+   "speaker": "Dad",
+   "text": " Pip said.\n\n“Want to find a word that fits?” Dad asked. “Maybe left out? You can tell me if I’m wrong.”\n\n",
+   "textSha256": "a9f80fc28e81864ecfbea5c43269c661d58c6ea235f105c770b65bbdb1d07849",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 9.84,
+   "wavSha256": "053c9618048924e5cf3a7bbbb086e0dcd680e1a81ffe5851dbabf3ba8a3fc412"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“Left out fits,”",
+   "textSha256": "fbe309bab996ac2a7fc29a6256ef8e5795d4ee83d2e58b70d3bd491255690c1a",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 1.92,
+   "wavSha256": "477f48eb96ac8c0a1a61d345dec6e14556b05bc37f13e3a2307b44425b45a3cf"
+  },
+  {
+   "speaker": "Dad",
+   "text": " Pip said. ",
+   "textSha256": "237403c6ce54c92259bc40fc502cf3acb44646d5cbe9d83c9e265b36be207bf3",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 1.32,
+   "wavSha256": "22b63101833bcfc0d47f7dc34af4dca78cf2ff8a8bbb16e6658310619f214487"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“I was sitting there while the game went on.”",
+   "textSha256": "173cc7e9af8f823462c66f5c7dd0db1524a7ef1fc29d49cdbe465c313c431b78",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.84,
+   "wavSha256": "ef1d00ce99d1b4338458a805a2c7e08fd427bc7427d4e5cc82f7e191866ffc74"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\n“I felt left out today, too,” Dad said. “Someone talked over me at work. I’m learning to name my feelings, just like you.”\n\nPip rested a hand on his chest. Dad put his free hand on his own chest.\n\n",
+   "textSha256": "cbc332a0587dd029e005a900303772c013a7cc7a9025f2845368c5eb6d0cc891",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 14.4,
+   "wavSha256": "720bfb8b1d6795d90b087aebbac21b64976b00c36c329bbf045013731e4e8c07"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“Hurt and angry, too,”",
+   "textSha256": "8d398ad5b07dc6c14db4f6826f6f4d890419a469ec6e3bb1e674f97d067ff3bb",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.56,
+   "wavSha256": "065d43d6f545e1964069944f81c9fddf8bbdd920a65a39449a7c1443ffc56933"
+  },
+  {
+   "speaker": "Dad",
+   "text": " Pip said.\n\n“Both at once,” Dad said. “Name it to tame it. Those words help me understand what you need.”\n\n",
+   "textSha256": "1509373195488fa303935d38ed2fae7efb8181cc398dd63469f1a000d1af29d8",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 10.08,
+   "wavSha256": "9d3e08f3217e15b66bc3f1bab99c79c566c1f8c4d5583dcffc444a0bfcdfb424"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“I’m still angry.”",
+   "textSha256": "21ba85be44ead2ba52006fd57cebaf225f8349e1b691e7d90f0b5bb899ac01b4",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.2,
+   "wavSha256": "f9e41e8308ef8d8f5762ba9f13e4d6acde2a802ef99b7786a74db35a0438fa16"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\n“You can be angry and sit close to me.”\n\nPip leaned against Dad. The comic stayed open between them.\n\nAfter a while, Dad asked, “Want to try saying, ‘Can I join the next game?’”\n\n",
+   "textSha256": "a9192ec3e97f6dacc90ac635814d3e10f4f3a0b8f887248c0016c53fb40017ea",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 14.8,
+   "wavSha256": "16a6147c72d6bd1e412d894ae88f99bc384c9fbbb3ebbc9245a134903648ca44"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“Tomorrow before school?”",
+   "textSha256": "e126ee477116a9f9aed8e91939c656a61057a8f0fcf45f7394c647df7d4357c8",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.12,
+   "wavSha256": "5c2b6eef406ac9f3208ccf9410976f605248a3b4bc8ca0ece461b6bc5fb14cd9"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\n“We can practise then.”\n\n",
+   "textSha256": "7cb25a519c68c98456831ad5058a0b6d7a88c4f2a8689b1ae13dd5fe408f15e8",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 1.64,
+   "wavSha256": "8431f1015737e65322a46e751f5d1f77e86ede48e3ab05f87c2af14bf61f7b1d"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“What if they still say no?”",
+   "textSha256": "ad399ed0ad8b0e63887b5332529181969d809e184ec53c2b69a22f33cbc956fe",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 2.28,
+   "wavSha256": "9ba7ab614cc1e161a40db5bae05567f1a453c8d1304f23818acd200dc499bfcd"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\n“That could happen. You could ask someone else to play. If you keep getting left out, tell a teacher you like, just as you told me tonight.”\n\n",
+   "textSha256": "4eaeea374608cf86a8175ac352604ca2ea8137c330b8cd5bf162d07476e45860",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 8.6,
+   "wavSha256": "7538416eb2b2a6a98bb593b5f9b0a0a83558efac82b14ca7bf39759fe55cb2d8"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“You’ll listen tomorrow, too?”",
+   "textSha256": "d9b4be16e141e73acf34707acdf583e406df0e61baa6cd62921421b5c46789b6",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 1.96,
+   "wavSha256": "7ce26eb82603ccea29f8968142f8621fa630190a33546b8d4d4b67748ffe703e"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\n“Tomorrow, too.”\n\nPip pointed to the comic. ",
+   "textSha256": "3c2fb1edc1e229edc2e14cfdfc29bf68b3daeac036a814040a82e855440776c2",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 3.2,
+   "wavSha256": "dec81ae513a41c093bfb5830db504dda736ec444f6b494367e4a2fe770565a97"
+  },
+  {
+   "speaker": "Pip",
+   "text": "“Now the funny bit.”",
+   "textSha256": "c26c362abedd63b336b3af2b9d22c528da609eefa3e8cb3fe9198d7846339a74",
+   "voice": "Puck",
+   "style": "Youthful boy voice, light and higher pitched, gentle natural speech.",
+   "seconds": 1.56,
+   "wavSha256": "1362169243b8c8797106d53a33549585b8ac4284cf07ec840151b3cf237e6b8c"
+  },
+  {
+   "speaker": "Dad",
+   "text": "\n\nDad read it in his silliest voice. Pip laughed against his shoulder.\n\nRecess still hurt. But Pip had words for the feeling, a next step to try, and Dad beside him.",
+   "textSha256": "f091b39745311f89d9688db9cccc8da6bd9d452cd8634e1f314c7c5af51ab5b7",
+   "voice": "Charon",
+   "style": "Warm adult father voice, low and calm, natural conversational reading.",
+   "seconds": 14.56,
+   "wavSha256": "34b7a0e8f2b0bdab5a2c007063e7bb4dea23f92771301dc4c219db45c3623eb8"
+  }
+ ],
+ "gapSeconds": 0.15,
+ "gainDb": -3,
+ "audio": {
+  "name": "story-narration.m4a",
+  "mimeType": "audio/mp4",
+  "bytes": 1127784,
+  "sha256": "e58b0e29136efd81a3a007201e8cbed93ece0cfebc8bbf32eb3bbf140fc7a454",
+  "seconds": 136.6,
+  "sourceWavSha256": "1eb3665140f6fc14490a5f60fa15731518f668efcb34194e44dc039ffb9a91c4"
+ },
+ "voice": {
+  "provider": "Google Vertex AI",
+  "project": "decision-council-ai",
+  "model": "gemini-3.8-flash-tts",
+  "speakers": {
+   "Dad": {
+    "voice": "Charon",
+    "style": "Warm adult father voice, low and calm, natural conversational reading."
+   },
+   "Pip": {
+    "voice": "Puck",
+    "style": "Youthful boy voice, light and higher pitched, gentle natural speech."
+   }
+  }
+ }
+}

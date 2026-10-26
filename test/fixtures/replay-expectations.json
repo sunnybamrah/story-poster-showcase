@@ -1,0 +1,1063 @@
+{
+  "note": "Reviewed pass23 parser baseline. The judge owns sound. Approved-field concerns are review flags. Legacy chapter findings retain their quote with unrecorded counts explicitly unverified. Historical measurements are not new visual proof.",
+  "records": [
+    {
+      "id": "test/fixtures/run10-poster-1-answer.json",
+      "sha256": "155645c156df7aa5b95690f799e2929cab98c2f2c15077ed9601edaaaf494b2d",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-1-answer.json#/geometry",
+      "sha256": "148752fd3675da1203908e8e33c08f00ca9d1e09c376315148e6db14d368143a",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-answer.json",
+      "sha256": "3bf40c3bc29b53ac331bae2d35601d757632b1822af07b709f91613f0acac265",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-answer.json#/geometry",
+      "sha256": "b500c736c39afa84e2faa37b6a2a276fcb76f6e4916084202dec8cb852da1603",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-recheck-answer.json",
+      "sha256": "7e51c8c5dca1465ce986805407b77821afb069e9142726f1161198f7c176900d",
+      "kind": "word-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "extra_words_outside_boxes: [\"The pencil in the fox’s sketchbook has a tiny tool belt.\"]"
+      ]
+    },
+    {
+      "id": "test/fixtures/run10-poster-2-recheck-answer.json#/geometry",
+      "sha256": "d46eee67e0c8e4b2d911692b3f63f585b27edbd6376475d5da6af64ebbf1c65e",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-3-answer.json",
+      "sha256": "34dda42cfcec1d226ac3b58827878e141cc87d5b8449ebfd9e5d0b77edc98e58",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run10-poster-3-answer.json#/geometry",
+      "sha256": "ca52b386711548c0748b2e7374670b0a03227cf7ec987f085ebdf3afc52d370d",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run11-story-1.json",
+      "sha256": "73a7423b5bae286b7483e2e8b9ff0e8123bef7fbe286f3743269bb782be31ef6",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run11-story-2.json",
+      "sha256": "8360984caf4a18ee52883d50b3b197fcffede0d806050c86b24f17f93ae97e20",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run12-story-1.json",
+      "sha256": "f8164be851854b8f1865d030bc7743d78cefbe8c059e318b8116d30f48afaa6a",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run12-story-2.json",
+      "sha256": "a735b60e110d0f2414fdd1647a799b3c7552f1c20cf17be30b032fefba245e54",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run13-story-check-1.json#/answer",
+      "sha256": "6d46116e1b26a4b0b7a554d7ae291461ec1dd30e54cb42a15cc9b5ec03f7e9f9",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run13-story-check-2.json#/answer",
+      "sha256": "d0bb5256d2db08e638bfdf315d456fcd9280c779a47afa2d296757b1bc1eb98a",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run13-story.json",
+      "sha256": "e7dd6b60211962e931dda206d8238e817b067026f4cb28daf9f6f14e241ecc5d",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run14-kit-log.md",
+      "sha256": "0bbbed5d3b28c0db1cb8a3092e3bb34f910f95d5f10b627765a6a6a5a900dc2c",
+      "kind": "evidence-log",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run14-story-1.json",
+      "sha256": "31fd7f1ddde25c4714f30b8acdce95a47ea9244efa1f7e1ea4841b897b0f9f45",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run14-story-check-1.json#/answer",
+      "sha256": "c12e9e905fc958ee8b4cc6dac5afc8c9899c4793df215bd8ea2eae64f5a41c5c",
+      "kind": "story-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "chapterShapeWrong"
+      ]
+    },
+    {
+      "id": "test/fixtures/run14-story-check-2.json#/answer",
+      "sha256": "1a4535c04fa4a1b7af48abea190bf1e0ea24924f37417bfaf2487c36220ef8a7",
+      "kind": "story-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "chapterShapeWrong"
+      ]
+    },
+    {
+      "id": "test/fixtures/run14-tagline-end-words-1.json",
+      "sha256": "2553e6fd809ebe8ea375c07b334982dffb5018ac5fcb255f9857fd2d9f2593c0",
+      "kind": "retired-code-receipt",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run5-story.json",
+      "sha256": "07b99cc4c33dd10d283af07f60584431497fdf83a4fef06ea7f37c288b977a2f",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run6-rewrite.json",
+      "sha256": "028a0d4aa1b66a2a08639a25ad378b5c3b13c8896d30db5d465a53b512d76ad8",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run6-story-check.json#/answer",
+      "sha256": "58313169ba8d918b8177711d817937da7d6b00a49fdb3d6cafb1ebe6d7b69bc8",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Legacy checker answer omits the current evidence and quality fields.",
+        "Legacy answer lacks current evidence and quality fields."
+      ]
+    },
+    {
+      "id": "test/fixtures/run6-story.json",
+      "sha256": "25ff9db773b22790735d646703be4174081fbf9dc99a4b40a8a40a590af82a71",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run7-poster-2-check.json#/answer",
+      "sha256": "7a49440a924f704e54300e01f2a7170ff7d90407e813a6dc7b71e20cf419bdff",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/fixtures/run7-poster-2-check.json#/answer/geometry",
+      "sha256": "303fe64b2d313d7329985e97e4fe099eda79c73654ae68b85ccaaa58a35b5fdd",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/fixtures/run7-story-1.json",
+      "sha256": "6ee23246e623d2d29df07a433f46eea69abc0daaa2b1e86910004dd0ac4bde63",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run7-story-2.json",
+      "sha256": "33a7767470fd9743617ecb95b562b3d6341776107d5757cd7ab6e4df909c143e",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run8-story-1.json",
+      "sha256": "afceb3d2767ccd73f71fc54960cf7522bb56f137deea021499f9d0760c4ceaa1",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run8-story-2.json",
+      "sha256": "3ea570ebda90944b3ef027e8e736871498454a94cca69dcfbe61dafd2044e103",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run8-story-check.json#/answer",
+      "sha256": "210e32c82db744cb98119856b8864c57fe90a24cc061772bb01db2bb79115692",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run9-poster-1-answer.json",
+      "sha256": "0de81657a213ac30e54d7491db1cda01409e44f81b1fe4947b18e24caf58c6da",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words."
+      ]
+    },
+    {
+      "id": "test/fixtures/run9-poster-1-answer.json#/geometry",
+      "sha256": "0f3b4185df613ebd47286788ae16449fbba997134f11bd9e6c12a5084acb2edf",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words."
+      ]
+    },
+    {
+      "id": "test/fixtures/run9-poster-3-answer.json",
+      "sha256": "b5c827d43dd0ed415b365bcd976bf530a1eb4ce25c03a303d0c365aae357d2c0",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/fixtures/run9-poster-3-answer.json#/geometry",
+      "sha256": "c4427fede32cec4ad90eff7bf5f799fb9388769011938a11142e3c4643b73947",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass17-run9-poster3-recheck.json#/check/answers",
+      "sha256": "b5c827d43dd0ed415b365bcd976bf530a1eb4ce25c03a303d0c365aae357d2c0",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass17-run9-poster3-recheck.json#/check/answers/geometry",
+      "sha256": "c4427fede32cec4ad90eff7bf5f799fb9388769011938a11142e3c4643b73947",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/0/check/answers",
+      "sha256": "155645c156df7aa5b95690f799e2929cab98c2f2c15077ed9601edaaaf494b2d",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/0/check/answers/geometry",
+      "sha256": "148752fd3675da1203908e8e33c08f00ca9d1e09c376315148e6db14d368143a",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/1/check/answers",
+      "sha256": "3bf40c3bc29b53ac331bae2d35601d757632b1822af07b709f91613f0acac265",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/1/check/answers/geometry",
+      "sha256": "b500c736c39afa84e2faa37b6a2a276fcb76f6e4916084202dec8cb852da1603",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/2/check/answers",
+      "sha256": "7e51c8c5dca1465ce986805407b77821afb069e9142726f1161198f7c176900d",
+      "kind": "word-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "extra_words_outside_boxes: [\"The pencil in the fox’s sketchbook has a tiny tool belt.\"]"
+      ]
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/2/check/answers/geometry",
+      "sha256": "d46eee67e0c8e4b2d911692b3f63f585b27edbd6376475d5da6af64ebbf1c65e",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/3/check/answers",
+      "sha256": "34dda42cfcec1d226ac3b58827878e141cc87d5b8449ebfd9e5d0b77edc98e58",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass18-run10-recheck.json#/rows/3/check/answers/geometry",
+      "sha256": "ca52b386711548c0748b2e7374670b0a03227cf7ec987f085ebdf3afc52d370d",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass21-run13-recheck.json#/rows/0/check/answers",
+      "sha256": "6d46116e1b26a4b0b7a554d7ae291461ec1dd30e54cb42a15cc9b5ec03f7e9f9",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass21-run13-recheck.json#/rows/1/check/answers",
+      "sha256": "d0bb5256d2db08e638bfdf315d456fcd9280c779a47afa2d296757b1bc1eb98a",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-36-16-554Z/kit-1/story-attempt-1.json",
+      "sha256": "25ff9db773b22790735d646703be4174081fbf9dc99a4b40a8a40a590af82a71",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-36-16-554Z/kit-1/story-attempt-2.json",
+      "sha256": "028a0d4aa1b66a2a08639a25ad378b5c3b13c8896d30db5d465a53b512d76ad8",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-36-16-554Z/kit-1/story-check-1.json#/answer",
+      "sha256": "58313169ba8d918b8177711d817937da7d6b00a49fdb3d6cafb1ebe6d7b69bc8",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Legacy checker answer omits the current evidence and quality fields.",
+        "Legacy answer lacks current evidence and quality fields."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-hero-1.json#/answer",
+      "sha256": "af42a00c4a362c0fcd5f916519833028093f08354bfca9b82dbd0a65d0623d45",
+      "kind": "picture-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete picture check: clutteredActionBackground is required. evidence.clutteredActionBackground is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-hero-2.json#/answer",
+      "sha256": "860db3657f6919b9778b7e932c153eb202e67cfc291d4b01cdbe06a898f11195",
+      "kind": "picture-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete picture check: clutteredActionBackground is required. evidence.clutteredActionBackground is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-poster-1.json#/answer",
+      "sha256": "7723b1dbc112c67c323a9bfa906b05017a4cae2fe4c7110bf2e15c8aa399fa52",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "peopleCountMismatch",
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-poster-1.json#/answer/geometry",
+      "sha256": "9bd4d64b3e2ccf146f9f74d4ee2e628fad76b61e471a91987c93be0df1a9d26a",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-poster-2.json#/answer",
+      "sha256": "7a49440a924f704e54300e01f2a7170ff7d90407e813a6dc7b71e20cf419bdff",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/picture-check-poster-2.json#/answer/geometry",
+      "sha256": "303fe64b2d313d7329985e97e4fe099eda79c73654ae68b85ccaaa58a35b5fdd",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "remember extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "keyword extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "footer extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "plan.heading extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "remember.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "source.body extends outside the declared 612 by 792 coordinate space. Re-measure the actual image in source pixels.",
+        "geometry.textLines is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/poster-transcription-1.json",
+      "sha256": "bc0c74092a4b2c7502bedd2594dfdad2f70e6bd8f0ef4e2b035fba7e8172e858",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/poster-transcription-2.json",
+      "sha256": "75c378fe787e9d672432d4995dc13c769e8aefedb97b6432d839b6634b814c50",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/story-attempt-1.json",
+      "sha256": "6ee23246e623d2d29df07a433f46eea69abc0daaa2b1e86910004dd0ac4bde63",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/story-attempt-2.json",
+      "sha256": "33a7767470fd9743617ecb95b562b3d6341776107d5757cd7ab6e4df909c143e",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T20-52-12-127Z/kit-1/story-check-1.json#/answer",
+      "sha256": "5b0799a278b083d80a321663184d6f3cd48e8f1675c2620c62498b8b3ac6d32d",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete story check: rhymeUsesStoryWords is required. rhymeDoesNotStateMove is required. wordAChildMustTranslate is required. scienceClaimsTeachingHelped is required. evidence.rhymeUsesStoryWords is required. evidence.rhymeDoesNotStateMove is required. evidence.wordAChildMustTranslate is required. evidence.scienceClaimsTeachingHelped is required. affectedFields.rhymeUsesStoryWords is required. affectedFields.rhymeDoesNotStateMove is required. affectedFields.wordAChildMustTranslate is required. affectedFields.scienceClaimsTeachingHelped is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-17-46-944Z/kit-1/story-attempt-1.json",
+      "sha256": "1daa89fd0d356795a6c399a57844493678f8fe8483fee32752ae817fd02548c7",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-17-46-944Z/kit-1/story-check-1.json#/answer",
+      "sha256": "28cc0696079aecd118a724ae07a6e274407d74ac0b015b42225461155d366ec3",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete story check: rhymeUsesStoryWords is required. rhymeDoesNotStateMove is required. wordAChildMustTranslate is required. scienceClaimsTeachingHelped is required. evidence.rhymeUsesStoryWords is required. evidence.rhymeDoesNotStateMove is required. evidence.wordAChildMustTranslate is required. evidence.scienceClaimsTeachingHelped is required. affectedFields.rhymeUsesStoryWords is required. affectedFields.rhymeDoesNotStateMove is required. affectedFields.wordAChildMustTranslate is required. affectedFields.scienceClaimsTeachingHelped is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-17-46-944Z/kit-1/story-check-2.json#/answer",
+      "sha256": "28cc0696079aecd118a724ae07a6e274407d74ac0b015b42225461155d366ec3",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete story check: rhymeUsesStoryWords is required. rhymeDoesNotStateMove is required. wordAChildMustTranslate is required. scienceClaimsTeachingHelped is required. evidence.rhymeUsesStoryWords is required. evidence.rhymeDoesNotStateMove is required. evidence.wordAChildMustTranslate is required. evidence.scienceClaimsTeachingHelped is required. affectedFields.rhymeUsesStoryWords is required. affectedFields.rhymeDoesNotStateMove is required. affectedFields.wordAChildMustTranslate is required. affectedFields.scienceClaimsTeachingHelped is required."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-34-41-301Z/kit-1/story-attempt-1.json",
+      "sha256": "afceb3d2767ccd73f71fc54960cf7522bb56f137deea021499f9d0760c4ceaa1",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-34-41-301Z/kit-1/story-attempt-2.json",
+      "sha256": "3ea570ebda90944b3ef027e8e736871498454a94cca69dcfbe61dafd2044e103",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T21-34-41-301Z/kit-1/story-check-1.json#/answer",
+      "sha256": "210e32c82db744cb98119856b8864c57fe90a24cc061772bb01db2bb79115692",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/kit-text-final.json",
+      "sha256": "af4189fa7d2ba7a4d60b652c36f5f02db6219d41a786c4908b1a87896b1f368c",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/kit-text-final.json#/checks/0/answers",
+      "sha256": "9d44eaf02cfd3d69d6b985a4bf4de6e811f395f3e57c4a350bde3b4584b4bdb8",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-hero-1.json#/answer",
+      "sha256": "c65eb2ac0c81265eb687a6cda7b5814fde28efb212a09238cd0e13fe3a4e0d22",
+      "kind": "picture-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-1.json#/answer",
+      "sha256": "0de81657a213ac30e54d7491db1cda01409e44f81b1fe4947b18e24caf58c6da",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-1.json#/answer/geometry",
+      "sha256": "0f3b4185df613ebd47286788ae16449fbba997134f11bd9e6c12a5084acb2edf",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure missing sub box tinyTry.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box tinyTry.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box science.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box remember.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.heading inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.icon inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box source.body inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.handwriting inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Measure missing sub box plan.backup inside its present card. Its words already read back correctly. Recheck this same image once.",
+        "Overlapping legacy line measurements in plan.body; re-measure individual visible lines with their words."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-2.json#/answer",
+      "sha256": "8e93faacf171715958626e5d0e445858ff0e63a9b727fc4846c5dbb989a0257f",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-2.json#/answer/geometry",
+      "sha256": "7827a29e7ad2ba4869aa8eb8d9eddb8bf1edd6539aece50a16a1d1cef509800a",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-3.json#/answer",
+      "sha256": "b5c827d43dd0ed415b365bcd976bf530a1eb4ce25c03a303d0c365aae357d2c0",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/picture-check-poster-3.json#/answer/geometry",
+      "sha256": "c4427fede32cec4ad90eff7bf5f799fb9388769011938a11142e3c4643b73947",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/poster-transcription-1.json",
+      "sha256": "f35608c02336c6ec8e6c3b6e09eb03790e322a7d5a16aa0f688f5c027171faa3",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/poster-transcription-2.json",
+      "sha256": "c8a0b059ed9691c27188ad975a2f8abbb7f8fc8d35875253decd4a8d0ece6a42",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/poster-transcription-3.json",
+      "sha256": "e88afe88b70a36559385a5734f748868286e8f95526bcddb32bbc5e991ec593a",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/story-attempt-1.raw.txt",
+      "sha256": "679f0a7c1a28b46caa3cf37d097e496e26d8d4dc93649afa364188d0bbe55c33",
+      "kind": "raw-answer",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Incomplete or malformed saved answer; no complete JSON object."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/story-attempt-2.json",
+      "sha256": "1295a923a459c5c1d8476f54fe849a3d5caab106794502b679e1ba098a217ddb",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-01-57-630Z/kit-1/story-check-1.json#/answer",
+      "sha256": "9d44eaf02cfd3d69d6b985a4bf4de6e811f395f3e57c4a350bde3b4584b4bdb8",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/kit-text-final.json",
+      "sha256": "4aa9bb71b755f7f73ccaebd042583b48b8fd0ec349eab1d344c1974a50f79293",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/kit-text-final.json#/checks/0/answers",
+      "sha256": "5b80a183e76a86bb3bda43717fe7a39dea3265714421cb4869a0bc7c07726800",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-hero-1.json#/answer",
+      "sha256": "9e638af680687b357836b2137a5b0e2dae12c9003698eb78a2b4c8fc345afd2f",
+      "kind": "picture-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-1.json#/answer",
+      "sha256": "155645c156df7aa5b95690f799e2929cab98c2f2c15077ed9601edaaaf494b2d",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-1.json#/answer/geometry",
+      "sha256": "148752fd3675da1203908e8e33c08f00ca9d1e09c376315148e6db14d368143a",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-2.json#/answer",
+      "sha256": "3bf40c3bc29b53ac331bae2d35601d757632b1822af07b709f91613f0acac265",
+      "kind": "word-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-2.json#/answer/geometry",
+      "sha256": "b500c736c39afa84e2faa37b6a2a276fcb76f6e4916084202dec8cb852da1603",
+      "kind": "geometry",
+      "verdict": "RECHECK",
+      "reasons": [
+        "Measure plan.handwriting: word readback alone does not prove room for two writing rows."
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-3.json#/answer",
+      "sha256": "7e51c8c5dca1465ce986805407b77821afb069e9142726f1161198f7c176900d",
+      "kind": "word-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "extra_words_outside_boxes: [\"The pencil in the fox’s sketchbook has a tiny tool belt.\"]"
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-3.json#/answer/geometry",
+      "sha256": "d46eee67e0c8e4b2d911692b3f63f585b27edbd6376475d5da6af64ebbf1c65e",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-4.json#/answer",
+      "sha256": "34dda42cfcec1d226ac3b58827878e141cc87d5b8449ebfd9e5d0b77edc98e58",
+      "kind": "word-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/picture-check-poster-4.json#/answer/geometry",
+      "sha256": "ca52b386711548c0748b2e7374670b0a03227cf7ec987f085ebdf3afc52d370d",
+      "kind": "geometry",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/poster-transcription-1.json",
+      "sha256": "1ff7e535e94fbc77642c183c384a057a4ac62f5b742d7c2d29e854b08aeb7c4c",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/poster-transcription-2.json",
+      "sha256": "cecc91bd6ba7fb8415f228bc10b1dd54860b430d509d1a8af6ddb8ebf3f04ecc",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/poster-transcription-3.json",
+      "sha256": "bb14b9b4e2426d037fe9991d74d2be0d1fc09b02e4c11d5fa763ce9ade5967b2",
+      "kind": "transcription",
+      "verdict": "FAIL",
+      "reasons": [
+        "extra_words_outside_boxes: [\"The pencil in the fox’s sketchbook has a tiny tool belt.\"]"
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/poster-transcription-4.json",
+      "sha256": "a3d1b31db8bf5b4d41e3ee951c685c565c81cec4f71cb53ad798e9131a2c6404",
+      "kind": "transcription",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/story-attempt-1.json",
+      "sha256": "67ffab8c7362db67a8f88efdc44611f2ee12136fd4e97914307c41239650b273",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-18-42-653Z/kit-1/story-check-1.json#/answer",
+      "sha256": "5b80a183e76a86bb3bda43717fe7a39dea3265714421cb4869a0bc7c07726800",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-41-17-414Z/kit-1/story-attempt-1.json",
+      "sha256": "73a7423b5bae286b7483e2e8b9ff0e8123bef7fbe286f3743269bb782be31ef6",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T22-41-17-414Z/kit-1/story-attempt-2.json",
+      "sha256": "8360984caf4a18ee52883d50b3b197fcffede0d806050c86b24f17f93ae97e20",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-02-20-837Z/kit-1/story-attempt-1.json",
+      "sha256": "f8164be851854b8f1865d030bc7743d78cefbe8c059e318b8116d30f48afaa6a",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-02-20-837Z/kit-1/story-attempt-2.json",
+      "sha256": "a735b60e110d0f2414fdd1647a799b3c7552f1c20cf17be30b032fefba245e54",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-33-14-884Z/kit-1/kit-text-final.json",
+      "sha256": "f08374cddef62944ccf51ff0b0280700df806f3e9f17236946b83017d2f08c3e",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-33-14-884Z/kit-1/story-attempt-1.json",
+      "sha256": "e7dd6b60211962e931dda206d8238e817b067026f4cb28daf9f6f14e241ecc5d",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-33-14-884Z/kit-1/story-check-1.json#/answer",
+      "sha256": "6d46116e1b26a4b0b7a554d7ae291461ec1dd30e54cb42a15cc9b5ec03f7e9f9",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-14T23-33-14-884Z/kit-1/story-check-2.json#/answer",
+      "sha256": "d0bb5256d2db08e638bfdf315d456fcd9280c779a47afa2d296757b1bc1eb98a",
+      "kind": "story-check",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/kit-log.json#/3/endWordRecovery",
+      "sha256": "2553e6fd809ebe8ea375c07b334982dffb5018ac5fcb255f9857fd2d9f2593c0",
+      "kind": "retired-code-receipt",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/kit-log.md",
+      "sha256": "0bbbed5d3b28c0db1cb8a3092e3bb34f910f95d5f10b627765a6a6a5a900dc2c",
+      "kind": "evidence-log",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/kit-text-final.json",
+      "sha256": "b75e9cf0a96b1d88c3341f012b7810af25167d82bfcf2af047418037314046f7",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/story-attempt-1.json",
+      "sha256": "31fd7f1ddde25c4714f30b8acdce95a47ea9244efa1f7e1ea4841b897b0f9f45",
+      "kind": "story",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/story-check-1.json#/answer",
+      "sha256": "c12e9e905fc958ee8b4cc6dac5afc8c9899c4793df215bd8ea2eae64f5a41c5c",
+      "kind": "story-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "chapterShapeWrong"
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/story-check-2.json#/answer",
+      "sha256": "1a4535c04fa4a1b7af48abea190bf1e0ea24924f37417bfaf2487c36220ef8a7",
+      "kind": "story-check",
+      "verdict": "FAIL",
+      "reasons": [
+        "chapterShapeWrong"
+      ]
+    },
+    {
+      "id": "test/out/pass9-2026-10-15T01-08-54-958Z/kit-1/tagline-end-words-1.json",
+      "sha256": "2553e6fd809ebe8ea375c07b334982dffb5018ac5fcb255f9857fd2d9f2593c0",
+      "kind": "retired-code-receipt",
+      "verdict": "PASS",
+      "reasons": []
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-1/result.json",
+      "sha256": "6427c623384a5fa64abe4e38b3a478e090361971b30ac77ec8073dfd44997e04",
+      "kind": "story",
+      "verdict": "RECHECK",
+      "reasons": [
+        "invalid_story_shape: kit",
+        "invalid_chapter_title: chapterTitle",
+        "invalid_tagline: tagline",
+        "invalid_joke_idea: jokeIdea",
+        "invalid_replay_cue: replayCue",
+        "invalid_noticed_feeling: noticedFeeling",
+        "invalid_feel_first: feelFirst",
+        "need_four_short_panel_lines: panelLines",
+        "invalid_tiny_tries: tinyTryOptions",
+        "where_else_must_be_off_screen: whereElse",
+        "where_else_must_be_off_screen: whereElse.line",
+        "where_else_must_be_off_screen: whereElse.place"
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-1/result.json#/checks/0/answers",
+      "sha256": "7fdc199f5dd9b839e0fdeb14fb61cb9ce6f219f14c55768f3dae71889e56c553",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete story check: screenOnlyPlace is required. chapterShapeWrong is required. tinyTryWrong is required. rhymeUsesStoryWords is required. rhymeDoesNotStateMove is required. wordAChildMustTranslate is required. scienceClaimsTeachingHelped is required. taglineRhymes is required. evidence is required. affectedFields is required. taglineEndWords is required. secondMoveTaught must be boolean. feelingGoesAwayPromise must be boolean. adviceOutsideRecord must be boolean. jokeAtPerson must be boolean. effortOnlyPraise must be boolean. filledWhenINotice must be boolean."
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-1/result.json#/picture/checks/0/answers",
+      "sha256": "6e2494b66a1ba6fa2d163f3d074e9c13a99d5e346017e916fea69a9f1224a06c",
+      "kind": "picture-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete picture check: peopleCountMismatch is required. outfitMismatch is required. actionMismatch is required. clutteredActionBackground is required. evidence is required. transcription is required."
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-2/result.json",
+      "sha256": "488f8087ffe035d18d5058fee1994c8814f1c744d7acb952263c4c7032ed1407",
+      "kind": "story",
+      "verdict": "RECHECK",
+      "reasons": [
+        "invalid_story_shape: kit",
+        "invalid_chapter_title: chapterTitle",
+        "invalid_tagline: tagline",
+        "invalid_joke_idea: jokeIdea",
+        "invalid_replay_cue: replayCue",
+        "invalid_noticed_feeling: noticedFeeling",
+        "invalid_feel_first: feelFirst",
+        "need_four_short_panel_lines: panelLines",
+        "invalid_tiny_tries: tinyTryOptions",
+        "where_else_must_be_off_screen: whereElse",
+        "where_else_must_be_off_screen: whereElse.line",
+        "where_else_must_be_off_screen: whereElse.place"
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-2/result.json#/checks/0/answers",
+      "sha256": "7fdc199f5dd9b839e0fdeb14fb61cb9ce6f219f14c55768f3dae71889e56c553",
+      "kind": "story-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete story check: screenOnlyPlace is required. chapterShapeWrong is required. tinyTryWrong is required. rhymeUsesStoryWords is required. rhymeDoesNotStateMove is required. wordAChildMustTranslate is required. scienceClaimsTeachingHelped is required. taglineRhymes is required. evidence is required. affectedFields is required. taglineEndWords is required. secondMoveTaught must be boolean. feelingGoesAwayPromise must be boolean. adviceOutsideRecord must be boolean. jokeAtPerson must be boolean. effortOnlyPraise must be boolean. filledWhenINotice must be boolean."
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-2/result.json#/picture/checks/0/answers",
+      "sha256": "bef1ecdabe8b8a2cdcb361352fbd799c22fec1baeb79c4c6b9e099872e1751ec",
+      "kind": "picture-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete picture check: peopleCountMismatch is required. outfitMismatch is required. actionMismatch is required. clutteredActionBackground is required. evidence is required. transcription is required."
+      ]
+    },
+    {
+      "id": "test/out/run-2026-10-14T18-07-50-580Z/kit-2/result.json#/picture/checks/1/answers",
+      "sha256": "6e2494b66a1ba6fa2d163f3d074e9c13a99d5e346017e916fea69a9f1224a06c",
+      "kind": "picture-check",
+      "verdict": "RECHECK",
+      "reasons": [
+        "incomplete picture check: peopleCountMismatch is required. outfitMismatch is required. actionMismatch is required. clutteredActionBackground is required. evidence is required. transcription is required."
+      ]
+    }
+  ]
+}
